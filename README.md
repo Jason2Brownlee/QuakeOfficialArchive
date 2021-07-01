@@ -31,8 +31,8 @@ Release Date | File | Description
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | ?
 1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | ?
-1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30 client and server.
-December 21, 1999 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
+1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30.
+1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 
