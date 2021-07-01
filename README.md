@@ -25,6 +25,7 @@ Release Date | File | Description
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
 1996 Aug 08 | qwded103.exe | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
+1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QC Source.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QC source v1.06.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
 1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
@@ -60,6 +61,8 @@ Release Date | File | Description
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
+
+
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
 * ???: Indicates a guess at the contents of a file.
