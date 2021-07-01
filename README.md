@@ -1,10 +1,12 @@
 # Quake Official Archive
 
-The goal of this project is to archive **all versions** of **official Quake releases** (by id Software for Quake 1).
+The goal of this project is to archive **all versions** of **all official Quake releases**.
+
+Here, "official" means by id Software (public FTP), staff of id Software (e.g. John Romero after he left), or close enough (i.e. hipnotic and rogue).
 
 ## Quake Release List
 
-Chronological list of Quake official releases including date, local mirror, and description.
+Chronological list of Quake official releases in [bin/](bin/) including date, filename link, and description.
 
 Release Date | File | Description
 --- | --- | ---
@@ -69,7 +71,7 @@ Release Date | File | Description
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
-
+2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files.
 
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
