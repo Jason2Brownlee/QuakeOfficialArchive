@@ -72,6 +72,7 @@ Release Date | File | Description
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files.
+2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
 
@@ -81,7 +82,7 @@ Maybe you can help to make this archive more complete.
 
 * Do you know of an official release not listed above?
 * Do you know a better description for one of the above official releases?
-* do you have a missing file for one of the above official releases?
+* Do you have a missing file for one of the above official releases?
 
 If you can help, please contact me directly: jason.brownlee05@gmail.com
 
