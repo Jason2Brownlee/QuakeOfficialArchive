@@ -26,13 +26,13 @@ Release Date | File | Description
 1996 Aug 08 | qwded103.exe | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QC Source.
+1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QC source v1.06.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
 1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | Quake win32 dedicated server ???
-1996 Oct 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
 1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool binaries.
 1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QC source v1.01.
