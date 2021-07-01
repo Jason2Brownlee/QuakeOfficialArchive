@@ -50,6 +50,9 @@ Release Date | File | Description
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | GLQuake client ???
+1997 Oct 29 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
+1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and QuakeWorld.
+1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | GLQuake client ???
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30.
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
