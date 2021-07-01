@@ -2,7 +2,7 @@
 
 The goal of this project is to archive **all versions** of **all official Quake releases**.
 
-Here, "official" means by id Software (public FTP), staff of id Software (e.g. John Romero after he left), or affiliated mission packs and mods (i.e. hipnotic, rogue, quakeworld, etc.).
+Here, "official" means by id Software (public FTP), staff of id Software (e.g. John Romero after he left), or affiliated mission packs and mods (e.g. hipnotic, rogue, quakeworld, etc.).
 
 ## Quake Release List
 
