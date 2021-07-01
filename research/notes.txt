@@ -41,6 +41,7 @@ FTP Releases
 	TODO...
 /idgames2/more_idstuff/
 	https://www.quaddicted.com/files/idgames2/more_idstuff/
+	TODO...: SOA and DOE
 
 Additional Files
 --------------------------------------------------------------------------------
@@ -63,6 +64,7 @@ http://forum.darkside.com.br/vb/showthread.php?t=8753
 	1996/06/25 - Quake Shareware patch 0.91-0.92 [quake92p.zip]
 	1996/06/22 - Quake Shareware 0.91 [quake091.zip] [qsw091_[1-7].zip]
 	1996/06/21 - Quake PRE-RELEASE ????
+	995/08/10 - Screen shot of QuakeEd [qe_dev.gif]
 
 
 Quake Downloads

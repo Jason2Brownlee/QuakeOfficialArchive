@@ -9,6 +9,7 @@ Chronological list of Quake official releases including date, local mirror, and 
 Release Date | File | Description
 --- | --- | ---
 1995 Aug 04 | [quakepix.zip](bin/quakepix.zip) | Quake development screenshots.
+1995 Aug 10 | [qe_dev.gif](bin/qe_dev.gif) | Screenshot of QuakeEd.
 1995 Sep 28 | [qpix.zip](bin/qpix.zip)<br>[qpix.txt](bin/qpix.txt)| Quake development screenshots.
 1996 Feb 24 | [qtest1.zip](bin/qtest1.zip) | Quake Deathmatch Test v1.0.
 1996 Feb 26 | [linux_qtest1.tgz](bin/linux_qtest1.tgz) | Linux Quake Deathmatch Test v1.0.
