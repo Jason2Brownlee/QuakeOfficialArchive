@@ -40,6 +40,8 @@ FTP Releases
 	https://www.quaddicted.com/files/idgames2/idstuff/unsup/unix/
 /idgames2/more_idstuff/
 	https://www.quaddicted.com/files/idgames2/more_idstuff/
+/idgames2/idstuff/quakeworld/maps/
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/maps/
 
 Additional Files
 --------------------------------------------------------------------------------
@@ -67,4 +69,17 @@ http://forum.darkside.com.br/vb/showthread.php?t=8753
 Quake Downloads
 http://kultcds.com/Games/index.php?page=game&game=22
 
+https://www.quaddicted.com/files/engines/
+TODO: quakeworld
 
+qwsv1213.zip	2011-May-31 19:30:19	202.6K	application/zip
+qwsv221.zip	2003-May-27 11:17:07	223.8K	application/zip
+qwsv230.zip	2009-Jun-03 13:32:14	217.0K	application/zip
+qwsv-2.30-1.i386.rpm	1998-Aug-25 22:00:00	205.1K	application/octet-stream
+qwsv-2.30-glibc-1.alpha.rpm	1998-Aug-25 22:00:00	221.7K	application/octet-stream
+qwsv-2.30-glibc-1.i386.rpm	1998-Aug-25 22:00:00	205.3K	application/octet-stream
+qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	217.1K	application/x-gzip
+qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	200.7K	application/x-gzip
+qwsv-2.30-i386-unknown-bsdi3.0.tar.gz	1998-Aug-25 22:00:00	284.2K	application/x-gzip
+qwsv-2.30-i386-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	200.4K	application/x-gzip
+qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz	1998-Aug-25 22:00:00	196.8K	application/x-gzip
