@@ -41,7 +41,6 @@ FTP Releases
 	TODO...
 /idgames2/more_idstuff/
 	https://www.quaddicted.com/files/idgames2/more_idstuff/
-	TODO...
 
 Additional Files
 --------------------------------------------------------------------------------

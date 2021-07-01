@@ -1,0 +1,19 @@
+Quake screen shots
+Released Sep 28th 1995
+
+Here are some shots of the knight and ogre.
+I said something about looking at the knight
+in the help finger file... and then realized
+that there were no shots of him on the ftp
+site. So here they are.
+
+---
+-American McGee (american@idsoftware.com)
+	id Software
+
+ftp.idsoftware.com[192.246.40.6]	id "Official" anonymous FTP site
+	---------------------NiN-----------------------
+	For the latest info on DOOM, QUAKE and other id
+	news, FINGER help@idsoftware.com
+	---------------------NiN-----------------------
+
