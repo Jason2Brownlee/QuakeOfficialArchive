@@ -1,0 +1,3 @@
+Replace the progs.dat file from q105beta with this one.
+It fixes the dissapearing weapon bug.
+

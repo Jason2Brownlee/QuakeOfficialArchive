@@ -1,0 +1,10 @@
+This is the latest version of all released quake utilities as of
+september 13, 1996.
+Each utility has a seperate directory and VC++ project file.
+Be sure to pkunzip -d to get all the directories.
+Precompiled versions for win32 are also included.
+The .qc source files are not icluded here, you will have to get them
+elsewhere.
+
+--- John Carmack
+

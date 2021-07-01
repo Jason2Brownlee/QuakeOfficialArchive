@@ -1,0 +1,47 @@
+Research notes on what was released and when.
+
+I'm going with ftp time stamp unless there's a good reason not to.
+
+
+Retail
+--------------------------------------------------------------------------------
+
+Quake (Retail CD)
+	On wikipedia
+	https://en.wikipedia.org/wiki/Quake_(video_game)
+Quake Mission Pack No. 1: Scourge of Armagon
+	On wikipedia
+	https://en.wikipedia.org/wiki/Quake_(video_game)
+	March 5, 1997
+Quake Mission Pack No. 2: Dissolution of Eternity
+	On wikipedia
+	https://en.wikipedia.org/wiki/Quake_(video_game)
+	March 19, 1997
+
+
+FTP Releases
+--------------------------------------------------------------------------------
+
+/idgames2/idstuff/quake/
+	https://www.quaddicted.com/files/idgames2/idstuff/quake/
+/idgames2/idstuff/source/
+	https://www.quaddicted.com/files/idgames2/idstuff/source/
+/idgames2/idstuff/macquake/
+	https://www.quaddicted.com/files/idgames2/idstuff/macquake/
+/idgames2/idstuff/quakeworld/
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/
+/idgames2/idstuff/unsup/
+	https://www.quaddicted.com/files/idgames2/idstuff/unsup/
+
+
+Additional Files
+--------------------------------------------------------------------------------
+
+https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
+	glquake1.zip
+	wq0992.zip
+
+Quake Downloads
+http://kultcds.com/Games/index.php?page=game&game=22
+
+
