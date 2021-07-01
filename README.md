@@ -33,7 +33,7 @@ Release Date | File | Description
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | Quake win32 dedicated server ???
 1996 Oct 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
-1996 Oct 14 | [qutils.zip](qutils.zip)<br>[qutils.txt](qutils.txt) | Quake tool source code.
+1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake tool source code.
 1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
