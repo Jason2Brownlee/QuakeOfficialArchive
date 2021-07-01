@@ -14,11 +14,12 @@ Release Date | File | Description
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | Quake progs v1.06 source.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip)<br>[q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
-1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | ?
+1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | Quake win32 dedicated server ???
 1996 Oct 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
 1996 Oct 14 | [qutils.zip](qutils.zip)<br>[qutils.txt](qutils.txt) | Quake tool source code.
 1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
+1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
 1997 Feb 05 | wq099.zip | WinQuake client v0.99.
@@ -32,15 +33,17 @@ Release Date | File | Description
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
-1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | ?
-1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | ?
+1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | GLQuake client ???
+1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | GLQuake client ???
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30.
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 
 
-* No Link indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
+
+* No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
+* ???: Indicates a guess at the contents of a file.
 
 ## About This Project
 
