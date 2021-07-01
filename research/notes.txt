@@ -63,6 +63,7 @@ http://forum.darkside.com.br/vb/showthread.php?t=8753
 	1996/07/12 - Quake 1.01
 	1996/06/25 - Quake Shareware patch 0.91-0.92 [quake92p.zip]
 	1996/06/22 - Quake Shareware 0.91 [quake091.zip] [qsw091_[1-7].zip]
+	1996/06/21 - Quake PRE-RELEASE ????
 
 
 Quake Downloads
