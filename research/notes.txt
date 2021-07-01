@@ -10,9 +10,9 @@ Retail
 
 Quake (Retail CD)
 	https://en.wikipedia.org/wiki/Quake_(video_game)
-		1996 Jun 22
+		1996 Jun 22 (shareware I think...)
 	http://forum.darkside.com.br/vb/showthread.php?t=8753
-		1996/07/12 - Quake 1.01
+		1996/07/12 - Quake 1.01 (retail CD I think...)
 Quake Mission Pack No. 1: Scourge of Armagon
 	On wikipedia
 	https://en.wikipedia.org/wiki/Quake_(video_game)
@@ -32,16 +32,17 @@ FTP Releases
 	https://www.quaddicted.com/files/idgames2/idstuff/source/
 /idgames2/idstuff/macquake/
 	https://www.quaddicted.com/files/idgames2/idstuff/macquake/
-/idgames2/idstuff/quakeworld/
-	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/
 /idgames2/idstuff/unsup/
 	https://www.quaddicted.com/files/idgames2/idstuff/unsup/
 /idgames2/idstuff/unsup/unix/
 	https://www.quaddicted.com/files/idgames2/idstuff/unsup/unix/
 /idgames2/more_idstuff/
 	https://www.quaddicted.com/files/idgames2/more_idstuff/
+/idgames2/idstuff/quakeworld/
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/
 /idgames2/idstuff/quakeworld/maps/
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/maps/
+
 
 Additional Files
 --------------------------------------------------------------------------------
@@ -81,11 +82,19 @@ Quake release timeline, early stuff
 	1997/03/21 - WinQuake 1.00 [wq100.zip]
 
 John Romero sketches, maps
+	https://rome.ro/news/2015/12/13/quake-sketches?rq=quake%20sketch
 	https://rome.ro/news/2016/2/14/quake-map-sources-released
 	https://romero.smugmug.com/Video-Games/Quake/
+	https://twitter.com/romero/status/776075151771373568?lang=en
+	https://twitter.com/romero/status/21140416503
+	https://web.archive.org/web/20100817015300/http://yfrog.com/ndtc3tj
 
 Lots of good downloads
 	http://kultcds.com/Games/index.php?page=game&game=22
+
+
+TODO
+--------------------------------------------------------------------------------
 
 qw linux clients and servers?
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/unix/
@@ -95,5 +104,10 @@ qw linux clients and servers?
 
 qw skins?
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/skins/
+
+.plan files?
+	perhaps not yet...
+	???
+
 
 
