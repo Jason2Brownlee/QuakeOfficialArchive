@@ -72,10 +72,10 @@ Release Date | File | Description
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
-2010 Feb 20 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg)<br>[E1m1_notes_intro.jpg](bin/E1m1_notes_intro.jpg)<br>[E1m1_notes_intro2.jpg](bin/E1m1_notes_intro2.jpg)<br>[E1m1_notes_lights_keys.jpg](bin/E1m1_notes_lights_keys.jpg)<br> | Sketches of e1m1 map (Romero).
+2010 Feb 20 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg)<br>[E1m1_notes_intro.jpg](bin/E1m1_notes_intro.jpg)<br>[E1m1_notes_intro2.jpg](bin/E1m1_notes_intro2.jpg)<br>[E1m1_notes_lights_keys.jpg](bin/E1m1_notes_lights_keys.jpg) | Sketches of e1m1 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
-
+2018 Apr 25 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
 
