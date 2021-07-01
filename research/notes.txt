@@ -52,38 +52,48 @@ https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
 	wq0992.zip
 		1997 Feb 13 from oldest file in the archive
 
-http://forum.darkside.com.br/vb/showthread.php?t=8753
-	1997/02/10 - WinQuake 0.991 [wq0991.zip]
-	1997/02/05 - WinQuake 0.99 [wq099.zip]
-	1996/12/13 - QuakeWorld Server [qwsv1213.zip
-	1996/09/30 - Quake 1.06.qc source files [progs106.zip]
-	1996/07/19 - Quake patch 1.00-1.01 [q100-101.zip]
-	1996/07/12 - Quake Shareware 1.01 [quake101.zip] [qsw101_[1-7].zip]
-	1996/07/10 - Quake Shareware 1.00 [quake100.zip] [qsw100_[1-7].zip]
-	1996/07/12 - Quake 1.01
-	1996/06/25 - Quake Shareware patch 0.91-0.92 [quake92p.zip]
-	1996/06/22 - Quake Shareware 0.91 [quake091.zip] [qsw091_[1-7].zip]
-	1996/06/21 - Quake PRE-RELEASE ????
-	995/08/10 - Screen shot of QuakeEd [qe_dev.gif]
+Quake release timeline, early stuff
+	http://forum.darkside.com.br/vb/showthread.php?t=8753
 
-John Romero
+	1995/08/03 - The very first screen shots of Quake [quakepix.zip]
+	1995/08/10 - Screen shot of QuakeEd [qe_dev.gif]
+	1995/09/28 - Quake screen shots [qpix.zip] [qpix. txt]
+	1996/02/24 - The Official Quake Deathmatch TEST [qtest1.zip]
+	1996/02/26 - The Official Quake Deathmatch TEST for Linux [linux_qtest1.tar.gz]
+	1996/03/01 - The Official Quake Deathmatch TEST for Linux 1a [linux_qtest1a.tar.gz]
+	1996/06/21 - Quake PRE-RELEASE
+	1996/06/22 - Quake Shareware 0.91 [quake091.zip] [qsw091_[1-7].zip]
+	1996/06/25 - Quake Shareware patch 0.91-0.92 [quake92p.zip]
+	07/10/1996 - Quake Shareware 1.00 [quake100.zip] [qsw100_[1-7].zip]
+	07/12/1996 - Quake 1.01
+	1996/07/12 - Quake Shareware 1.01 [quake101.zip] [qsw101_[1-7].zip]
+	1996/07/19 - Quake patch 1.00-1.01 [q100-101.zip]
+	1996/08/08 - Quake Win32 dedicated server 1.03 [qwded103.exe]
+	1996/09/30 - Quake 1.06.qc source files [progs106.zip]
+	10/01/1996 - Quake patch 1.01-1.06 [q101-106.zip]
+	10/01/1996 - Quake Shareware 1.06 [quake106.zip] [qsw106_[1-7].zip]
+	10/07/1996 - Quake Win32 dedicated server 1.06 sleep(1) [qwded106.exe]
+	12/13/1996 - QuakeWorld Server [qwsv1213.zip]
+	1996/12/17 - QuakeWorld Client 1.25 [qwcl1217.zip]
+	1997/02/05 - WinQuake 0.99 [wq099.zip]
+	1997/02/10 - WinQuake 0.991 [wq0991.zip]
+	1997/02/12 - WinQuake 0.992 [wq0992 .zip]
+	1997/03/21 - WinQuake 1.00 [wq100.zip]
+
+John Romero sketches, maps
 	https://rome.ro/news/2016/2/14/quake-map-sources-released
 	https://romero.smugmug.com/Video-Games/Quake/
 
-Quake Downloads
-http://kultcds.com/Games/index.php?page=game&game=22
+Lots of good downloads
+	http://kultcds.com/Games/index.php?page=game&game=22
 
-https://www.quaddicted.com/files/engines/
-TODO: quakeworld
+qw linux clients and servers?
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/unix/
 
-qwsv1213.zip	2011-May-31 19:30:19	202.6K	application/zip
-qwsv221.zip	2003-May-27 11:17:07	223.8K	application/zip
-qwsv230.zip	2009-Jun-03 13:32:14	217.0K	application/zip
-qwsv-2.30-1.i386.rpm	1998-Aug-25 22:00:00	205.1K	application/octet-stream
-qwsv-2.30-glibc-1.alpha.rpm	1998-Aug-25 22:00:00	221.7K	application/octet-stream
-qwsv-2.30-glibc-1.i386.rpm	1998-Aug-25 22:00:00	205.3K	application/octet-stream
-qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	217.1K	application/x-gzip
-qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	200.7K	application/x-gzip
-qwsv-2.30-i386-unknown-bsdi3.0.tar.gz	1998-Aug-25 22:00:00	284.2K	application/x-gzip
-qwsv-2.30-i386-unknown-linux2.0.tar.gz	1998-Aug-25 22:00:00	200.4K	application/x-gzip
-qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz	1998-Aug-25 22:00:00	196.8K	application/x-gzip
+3wavectf?
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/mods/ctf4/
+
+qw skins?
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/skins/
+
+
