@@ -21,6 +21,8 @@ Release Date | File | Description
 1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
+1997 Feb 05 | wq099.zip | WinQuake client v0.99.
+1997 Feb 10 | wq0991.zip | WinQuake client v0.991.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
 1997 Mar 5 | n/a | Scourge of Armagon (Retail CD).
@@ -36,6 +38,9 @@ Release Date | File | Description
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
+
+
+* No Link indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
 
 ## About This Project
 

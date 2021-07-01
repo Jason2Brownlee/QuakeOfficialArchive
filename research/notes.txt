@@ -46,6 +46,8 @@ https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
 		1997 Feb 13 from oldest file in the archive
 
 http://forum.darkside.com.br/vb/showthread.php?t=8753
+	1997/02/10 - WinQuake 0.991 [wq0991.zip]
+	1997/02/05 - WinQuake 0.99 [wq099.zip]
 
 Quake Downloads
 http://kultcds.com/Games/index.php?page=game&game=22
