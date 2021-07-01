@@ -1,0 +1,2 @@
+The QC files for Dessolution of Eternity, the Quake Missionpack 2
+by Rogue... one of the files for the more_idstuff/rogue dir.

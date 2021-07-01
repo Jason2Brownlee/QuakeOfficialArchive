@@ -40,7 +40,7 @@ FTP Releases
 	https://www.quaddicted.com/files/idgames2/idstuff/unsup/unix/
 /idgames2/more_idstuff/
 	https://www.quaddicted.com/files/idgames2/more_idstuff/
-	TODO...: SOA and DOE
+	TODO...: SOA
 
 Additional Files
 --------------------------------------------------------------------------------
