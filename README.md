@@ -8,30 +8,30 @@ Chronological list of Quake official releases including date, local mirror, and 
 
 Release Date | File | Description
 --- | --- | ---
-1996 June 22 | n/a | Quake (Retail CD).
-1996 October 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
-1996 August 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
-1996 September 30 | [progs106.zip](bin/progs106.zip) | Quake progs v1.06 source.
-1996 October 01 | [quake106.zip](bin/quake106.zip)<br>[q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
-1996 October 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
-1996 October 07 | [WINDED.EXE](bin/WINDED.EXE) | ?
-1996 October 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
-1996 October 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
-1996 October 14 | [qutils.zip](qutils.zip)<br>[qutils.txt](qutils.txt) | Quake tool source code.
-1996 October 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
-1996 December 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
-1997 February 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake client v0.992.
-1997 March 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
-1997 March 5 | n/a | Quake Mission Pack No. 1: Scourge of Armagon (Retail CD).
-1997 March 19 | n/a | Quake Mission Pack No. 2: Dissolution of Eternity (Retail CD).
-1997 August 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
-1997 August 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
-1997 August 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
-1997 August 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
-1997 October 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
-1997 October 29 | [glq1022.exe](bin/glq1022.exe) | ?
-1997 November 14 | [glq1114.exe](bin/glq1114.exe) | ?
-1998 August 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30 client and server.
+1996 Jun 22 | n/a | Quake (Retail CD).
+1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
+1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
+1996 Sep 30 | [progs106.zip](bin/progs106.zip) | Quake progs v1.06 source.
+1996 Oct 01 | [quake106.zip](bin/quake106.zip)<br>[q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
+1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
+1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | ?
+1996 Oct 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
+1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
+1996 Oct 14 | [qutils.zip](qutils.zip)<br>[qutils.txt](qutils.txt) | Quake tool source code.
+1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
+1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
+1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake client v0.992.
+1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
+1997 Mar 5 | n/a | Scourge of Armagon (Retail CD).
+1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
+1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
+1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
+1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
+1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
+1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
+1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | ?
+1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | ?
+1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30 client and server.
 December 21, 1999 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
