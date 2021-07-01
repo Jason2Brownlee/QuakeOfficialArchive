@@ -23,11 +23,11 @@ Release Date | File | Description
 1996 Jul 12 | [quake101.zip](bin/quake101.zip) | Quake Shareware v1.01.
 1996 Jul 12 | [qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
-1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
-1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Aug 08 | qwded103.exe | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QC source v1.06.
+1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
+1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | Quake win32 dedicated server ???
