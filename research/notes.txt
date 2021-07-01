@@ -43,6 +43,9 @@ https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
 	glquake1.zip
 		1997 Jan 22 from plan file.
 	wq0992.zip
+		1997 Feb 13 from oldest file in the archive
+
+http://forum.darkside.com.br/vb/showthread.php?t=8753
 
 Quake Downloads
 http://kultcds.com/Games/index.php?page=game&game=22
