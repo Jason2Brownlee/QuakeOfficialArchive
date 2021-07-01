@@ -27,14 +27,14 @@ Release Date | File | Description
 1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Aug 08 | qwded103.exe | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
-1996 Sep 30 | [progs106.zip](bin/progs106.zip) | Quake progs v1.06 source.
+1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QC source v1.06.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Quake win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE) | Quake win32 dedicated server ???
 1996 Oct 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta progs.dat.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
 1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake tool source code.
-1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and progs v1.01 source.
+1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QC source v1.01.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
