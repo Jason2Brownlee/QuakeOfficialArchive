@@ -9,8 +9,10 @@ Retail
 --------------------------------------------------------------------------------
 
 Quake (Retail CD)
-	On wikipedia
 	https://en.wikipedia.org/wiki/Quake_(video_game)
+		1996 Jun 22
+	http://forum.darkside.com.br/vb/showthread.php?t=8753
+		1996/07/12 - Quake 1.01
 Quake Mission Pack No. 1: Scourge of Armagon
 	On wikipedia
 	https://en.wikipedia.org/wiki/Quake_(video_game)
@@ -34,7 +36,12 @@ FTP Releases
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/
 /idgames2/idstuff/unsup/
 	https://www.quaddicted.com/files/idgames2/idstuff/unsup/
-
+/idgames2/idstuff/unsup/unix/
+	https://www.quaddicted.com/files/idgames2/idstuff/unsup/unix/
+	TODO...
+/idgames2/more_idstuff/
+	https://www.quaddicted.com/files/idgames2/more_idstuff/
+	TODO...
 
 Additional Files
 --------------------------------------------------------------------------------
@@ -48,6 +55,13 @@ https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
 http://forum.darkside.com.br/vb/showthread.php?t=8753
 	1997/02/10 - WinQuake 0.991 [wq0991.zip]
 	1997/02/05 - WinQuake 0.99 [wq099.zip]
+	1996/12/13 - QuakeWorld Server [qwsv1213.zip
+	1996/09/30 - Quake 1.06.qc source files [progs106.zip]
+	1996/07/19 - Quake patch 1.00-1.01 [q100-101.zip]
+	1996/07/12 - Quake Shareware 1.01 [quake101.zip] [qsw101_[1-7].zip]
+	1996/07/10 - Quake Shareware 1.00 [quake100.zip] [qsw100_[1-7].zip]
+	1996/06/25 - Quake Shareware patch 0.91-0.92 [quake92p.zip]
+
 
 Quake Downloads
 http://kultcds.com/Games/index.php?page=game&game=22

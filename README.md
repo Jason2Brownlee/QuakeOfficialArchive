@@ -8,8 +8,15 @@ Chronological list of Quake official releases including date, local mirror, and 
 
 Release Date | File | Description
 --- | --- | ---
-1996 Jun 22 | n/a | Quake (Retail CD).
-1996 Oct 01 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
+1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
+1996 Jul 10 | quake100.zip | Quake Shareware v1.0.
+1996 Jul 10 | [QSW100_1.ZIP](bin/QSW100_1.ZIP)<br>[QSW100_2.ZIP](bin/QSW100_2.ZIP)<br>[QSW100_3.ZIP](bin/QSW100_3.ZIP)<br>[QSW100_4.ZIP](bin/QSW100_4.ZIP)<br>[QSW100_5.ZIP](bin/QSW100_5.ZIP)<br>[QSW100_6.ZIP](bin/QSW100_6.ZIP)<br>[QSW100_7.ZIP](bin/QSW100_7.ZIP)<br> | Quake Shareware v1.0.
+1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
+1996 Jul 12 | [quake101.zip](bin/quake101.zip) | Quake Shareware v1.01.
+1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
+1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
+1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06 (multi-part).
+1996 Aug 08 | qwded103.exe | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | Quake progs v1.06 source.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
