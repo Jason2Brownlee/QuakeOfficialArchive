@@ -73,22 +73,15 @@ Release Date | File | Description
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files.
 
-
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
-
-## About This Project
-
-Quake is a computer game released by id Software in 1996.
-
-A number of subsequent patches, mission packs and source code releases were made between 1996 and 2000.
-
-Many people released modified versions of the game code, called Quake modifications or simply "mods".
-
-It may not be clear which version of the game code was used for a given mod. As such, having an archive of all official releases along with the date of release can help to nail down the version of code used by a mod.
 
 ## How You Can Help
 
-If you know of a release missing from the above list or an incorrect release date, please let me know.
+Maybe you can help to make this archive more complete.
 
-Please contact me directly: jason.brownlee05@gmail.com
+* Do you know of an official release not listed above?
+* Do you know a better description for one of the above official releases?
+* do you have a missing file for one of the above official releases?
+
+If you can help, please contact me directly: jason.brownlee05@gmail.com
 
