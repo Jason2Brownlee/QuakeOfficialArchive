@@ -74,7 +74,7 @@ Release Date | File | Description
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
 2010 Feb 2010 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg) Sketch of start e1m1 (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
-
+2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of start dm3 (Romero).
 
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
