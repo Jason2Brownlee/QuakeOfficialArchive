@@ -2,6 +2,8 @@ Research notes on what was released and when.
 
 I'm going with ftp time stamp unless there's a good reason not to.
 
+Only includes .txt files that are not in the release.
+
 
 Retail
 --------------------------------------------------------------------------------
@@ -39,6 +41,7 @@ Additional Files
 
 https://www.quaddicted.com/files/idgames2/idstuff/unsup/index.txt
 	glquake1.zip
+		1997 Jan 22 from plan file.
 	wq0992.zip
 
 Quake Downloads
