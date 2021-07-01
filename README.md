@@ -42,30 +42,30 @@ Release Date | File | Description
 1997 Feb 05 | wq099.zip | WinQuake client v0.99.
 1997 Feb 10 | wq0991.zip | WinQuake client v0.991.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
+1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
 1997 Mar 5 | n/a | Scourge of Armagon (Retail CD).
 1997 Mar 14 | [all.zip](bin/all.zip) | QC Source and dev tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
+1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QC Source for Dissolution of Eternity.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
-1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | GLQuake client ???
+1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
 1997 Oct 29 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and QuakeWorld.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
-1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | GLQuake client ???
+1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | Glquake v0.97.
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld v2.30.
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
 
 
-
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
-* ???: Indicates a guess at the contents of a file.
 
 ## About This Project
 
