@@ -66,6 +66,7 @@ Release Date | File | Description
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip) | Rendition Verite VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | Glquake v0.97.
+1998 May 16 | [qwsv22.zip](bin/qwsv22.zip)<br>[qw22.exe](bin/qw22.exe) | Quakeworld Server and client v2.20.
 1998 May 21 | [qwsv221.zip](bin/qwsv221.zip)<br>[qw221.zip](bin/qw221.zip) | Quakeworld Server and client 2.21.
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld Client and Server v2.30.
 1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Quake 1 port of The Edge map.
