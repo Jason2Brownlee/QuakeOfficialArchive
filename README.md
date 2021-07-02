@@ -69,9 +69,9 @@ Release Date | File | Description
 1998 May 21 | [qwsv221.zip](bin/qwsv221.zip) | Quakeworld Server 2.21.
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe) | Quakeworld Client and Server v2.30.
 1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Quake 1 port of The Edge map.
-1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Quake engine source code under GPL.
+1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Winquake, GLQuake QuakeWorld and GLQuakeworld source code (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code.
-2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | Quake tools source code under GPL.
+2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QCC source, QC source v1.01 mapping ando other tool source code (GPL).
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
 2010 Feb 20 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg)<br>[E1m1_notes_intro.jpg](bin/E1m1_notes_intro.jpg)<br>[E1m1_notes_intro2.jpg](bin/E1m1_notes_intro2.jpg)<br>[E1m1_notes_lights_keys.jpg](bin/E1m1_notes_lights_keys.jpg) | Sketches of e1m1 map (Romero).
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
