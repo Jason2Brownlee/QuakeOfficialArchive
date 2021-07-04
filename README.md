@@ -57,13 +57,15 @@ Release Date | File | Description
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QC Source for Dissolution of Eternity.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
+? | [qw1022.exe](bin/qw1022.exe) | Quakeworld client v2.10?
+? | [qw0613.exe](bin/qw0613.exe) | Quakeworld client ?
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip) | Quakeworld client v2.00
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
 1997 Oct 29 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
-1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and QuakeWorld.
+1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and Quakeworld.
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip) | Rendition Verite VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.exe](bin/glq1114.exe) | Glquake v0.97.
@@ -71,7 +73,7 @@ Release Date | File | Description
 1998 May 21 | [qwsv221.zip](bin/qwsv221.zip)<br>[qw221.zip](bin/qw221.zip) | Quakeworld Server and client v2.21.
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe)<br>[qwcl-2.30-1.i386.rpm](bin/qwcl-2.30-1.i386.rpm)<br>[qwcl-2.30-glibc-1.i386.rpm](bin/qwcl-2.30-glibc-1.i386.rpm)<br>[qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz](bin/qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz)<br>[qwcl-2.30-i386-unknown-linux2.0.tar.gz](bin/qwcl-2.30-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-1.i386.rpm](bin/qwsv-2.30-1.i386.rpm)<br>[qwsv-2.30-glibc-1.alpha.rpm](bin/qwsv-2.30-glibc-1.alpha.rpm)<br>[qwsv-2.30-glibc-1.i386.rpm](bin/qwsv-2.30-glibc-1.i386.rpm)<br>[qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz](bin/qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz](bin/qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-i386-unknown-bsdi3.0.tar.gz](bin/qwsv-2.30-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv-2.30-i386-unknown-linux2.0.tar.gz](bin/qwsv-2.30-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v2.30.
 1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Quake 1 port of The Edge map.
-1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Win/Glquake and QuakeWorld source (GPL).
+1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Win/Glquake and Quakeworld source (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code (GPL).
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QC Source v1.01 and tools (GPL).
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
@@ -79,6 +81,8 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
+
+
 
 * No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
 
