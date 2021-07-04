@@ -44,6 +44,8 @@ FTP Releases
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/maps/
 /idgames2/idstuff/quakeworld/unix/
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/unix/
+/idgames2/idstuff/quakeworld/mods/ctf4/
+	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/mods/ctf4/
 
 Additional Files
 --------------------------------------------------------------------------------
@@ -101,11 +103,6 @@ old qw clients and servers
 TODO
 --------------------------------------------------------------------------------
 
-
-
-
-3wavectf?
-	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/mods/ctf4/
 
 qw skins?
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/skins/

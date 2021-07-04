@@ -38,6 +38,7 @@ Release Date | File | Description
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz) | Quake map editor.
 1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool binaries.
 1996 Oct 14 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QC source v1.01.
+1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
 1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip) | Rendition Verite VQuake v1.06 beta 10.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
@@ -49,12 +50,14 @@ Release Date | File | Description
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip) | Rendition Verite VQuake v1.07 beta 5.
 1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
-1997 Mar 5 | n/a | Scourge of Armagon (Retail CD).
+1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
 1997 Mar 14 | [all.zip](bin/all.zip) | QC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
-1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | 32 player maps base32b and death32c.
+1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
+1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QC Source for Dissolution of Eternity.
+1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | 32 player maps base32b and death32c.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 ? | [qw1022.exe](bin/qw1022.exe) | Quakeworld client v2.10?
@@ -81,6 +84,7 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
