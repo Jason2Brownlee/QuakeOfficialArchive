@@ -41,7 +41,7 @@ Release Date | File | Description
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
 1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip) | Rendition Verite VQuake v1.06 beta 10.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
-1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF.
+1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF (Tim Willits).
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
 1997 Feb 05 | wq099.zip | WinQuake client v0.99.
