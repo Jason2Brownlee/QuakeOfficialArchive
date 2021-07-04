@@ -58,8 +58,8 @@ Release Date | File | Description
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 ? | [qw1022.exe](bin/qw1022.exe) | Quakeworld client v2.10?
-? | [qw0613.exe](bin/qw0613.exe) | Quakeworld client ?
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip) | Quakeworld client v2.00
+? | [qw0613.exe](bin/qw0613.exe) | Quakeworld client v?
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.

@@ -94,13 +94,15 @@ John Romero sketches, maps
 Lots of good downloads
 	http://kultcds.com/Games/index.php?page=game&game=22
 
+old qw clients and servers
+	https://www.quaddicted.com/files/engines/
+
 
 TODO
 --------------------------------------------------------------------------------
 
 
-qw client and server
-	https://www.quaddicted.com/files/engines/
+
 
 3wavectf?
 	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/mods/ctf4/
