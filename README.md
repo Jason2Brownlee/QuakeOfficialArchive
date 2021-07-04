@@ -82,9 +82,8 @@ Release Date | File | Description
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
 
-
-
-* No Link: indicates that there is evidence for the file but I have not located a copy to add to the archive yet.
+* **No Link**: indicates that we could not locate a copy of the file yet.
+* **No Date**: indicates that we could not determine the date of release yet.
 
 ## How You Can Help
 
