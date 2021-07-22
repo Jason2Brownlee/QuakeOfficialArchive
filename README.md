@@ -63,6 +63,7 @@ Release Date | File | Description
 ? | [qw1022.exe](bin/qw1022.exe) | Quakeworld client v2.10?
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip) | Quakeworld client v2.00
 ? | [qw0613.exe](bin/qw0613.exe) | Quakeworld client v?
+1997 Aug 25 | [dm7.zip](bin/dm7.zip) | DM7 aka "Archophobia" by American McGee.
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16  | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
@@ -84,6 +85,8 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
+
+
 
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
