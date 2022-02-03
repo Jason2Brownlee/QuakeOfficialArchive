@@ -26,7 +26,7 @@ Release Date | File | Description
 1996 Jul 12 | [qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QC source v1.01.
-1996 Aug 08 | qwded103.exe | Win32 dedicated server.
+1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
