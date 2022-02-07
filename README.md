@@ -61,6 +61,7 @@ Release Date | File | Description
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v1.54b.
 1997 Apr 09 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
+1997 Apr 14 | [qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip) | Quakeworld Client v1.50.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
