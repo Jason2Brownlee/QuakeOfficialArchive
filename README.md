@@ -55,6 +55,7 @@ Release Date | File | Description
 1997 Mar 14 | [all.zip](bin/all.zip) | QC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
+1997 Apr 09 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QC Source for Dissolution of Eternity.
@@ -87,9 +88,6 @@ Release Date | File | Description
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
 
-
-
-
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
 
@@ -105,4 +103,4 @@ If you can help, please contact me directly: jason.brownlee05@gmail.com
 
 ## Acknowledgements
 
-Special thank you to M.Millar.
+Special thank you to M.Millar for research and contributions to the archive.
