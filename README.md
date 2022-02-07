@@ -25,13 +25,13 @@ Release Date | File | Description
 1996 Jul 12 | [quake101.zip](bin/quake101.zip) | Quake Shareware v1.01.
 1996 Jul 12 | [qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
-1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QC source v1.01.
+1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QuakeC source v1.01.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
 1996 Aug 14 | qwded104.exe | Win32 dedicated server v1.04.
-1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QC Source.
+1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
-1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QC source v1.06.
+1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QuakeC source v1.06.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip) | Quake shareware v1.06.
 1996 Oct 01 | [qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
@@ -52,13 +52,13 @@ Release Date | File | Description
 1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
-1997 Mar 14 | [all.zip](bin/all.zip) | QC Source and tools for Scourge of Armagon.
+1997 Mar 14 | [all.zip](bin/all.zip) | QuakeC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
 1997 Apr 09 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
-1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QC Source for Dissolution of Eternity.
+1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
 1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | 32 player maps base32b and death32c.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux Quake client.
@@ -81,7 +81,7 @@ Release Date | File | Description
 1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Q1EDGE "The Edge" by Tim Willits.
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Win/Glquake and Quakeworld source (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code (GPL).
-2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QC Source v1.01 and tools (GPL).
+2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QuakeC Source v1.01 and tools (GPL).
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
 2010 Feb 20 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg)<br>[E1m1_notes_intro.jpg](bin/E1m1_notes_intro.jpg)<br>[E1m1_notes_intro2.jpg](bin/E1m1_notes_intro2.jpg)<br>[E1m1_notes_lights_keys.jpg](bin/E1m1_notes_lights_keys.jpg) | Sketches of e1m1 map (Romero).
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
