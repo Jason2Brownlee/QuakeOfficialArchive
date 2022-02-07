@@ -55,6 +55,8 @@ Release Date | File | Description
 1997 Mar 14 | [all.zip](bin/all.zip) | QuakeC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
+1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v1.54.
+1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v1.54b.
 1997 Apr 09 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
@@ -87,6 +89,7 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
