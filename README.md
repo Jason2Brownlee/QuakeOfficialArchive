@@ -67,6 +67,7 @@ Release Date | File | Description
 1997 Apr 30 | [qwsv1_55-sparc-sun-solaris2_5_1_tar.Z](bin/qwsv1_55-sparc-sun-solaris2_5_1_tar.Z)<br>[qwsv1_55-i386-unknown-linux2_0_tar.gz](bin/qwsv1_55-i386-unknown-linux2_0_tar.gz)<br>[qwsv1_55-i386-unknown-bsdi3_0_tar.gz](bin/qwsv1_55-i386-unknown-bsdi3_0_tar.gz)<br>[qwcl1_55-i386-unknown-linux2_0_tar.gz](bin/qwcl1_55-i386-unknown-linux2_0_tar.gz) | Quakeworld *nix Client and Server v1.55.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
 1997 May 01 | [squake-1_0-i386-unknown-linux2_0_tar.gz](bin/squake-1_0-i386-unknown-linux2_0_tar.gz) | Linux SVGALib Quake v1.0.
+1997 May 01 | [unixded-1_0-sparc-sun-solaris2_5_1_tar.Z](bin/unixded-1_0-sparc-sun-solaris2_5_1_tar.Z)<br>[unixded-1_0-i386-unknown-linux2_0_tar.gz](bin/unixded-1_0-i386-unknown-linux2_0_tar.gz)<br>[unixded-1_0-i386-unknown-bsdi3_0_tar.gz](bin/unixded-1_0-i386-unknown-bsdi3_0_tar.gz) | Quake Unix Dedicated Server v1.0.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
 1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | 32 player maps base32b and death32c.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
