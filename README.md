@@ -61,7 +61,9 @@ Release Date | File | Description
 1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50.
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
-1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quakeworld death32a map.
+1997 Apr ?? | [base32.zip](bin/base32.zip) | Quakeworld base32 map (American McGee).
+1997 Apr ?? | [death32.zip](bin/death32.zip) | Quakeworld death32 map (Christian Antkow).
+1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quakeworld death32a map (Christian Antkow).
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 13 | [qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
@@ -70,7 +72,8 @@ Release Date | File | Description
 1997 May 01 | [squake-1_0-i386-unknown-linux2_0_tar.gz](bin/squake-1_0-i386-unknown-linux2_0_tar.gz) | Linux SVGALib Quake v1.0.
 1997 May 01 | [unixded-1_0-sparc-sun-solaris2_5_1_tar.Z](bin/unixded-1_0-sparc-sun-solaris2_5_1_tar.Z)<br>[unixded-1_0-i386-unknown-linux2_0_tar.gz](bin/unixded-1_0-i386-unknown-linux2_0_tar.gz)<br>[unixded-1_0-i386-unknown-bsdi3_0_tar.gz](bin/unixded-1_0-i386-unknown-bsdi3_0_tar.gz) | Quake Unix Dedicated Server v1.0.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
-1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | Quakeworld base32b and death32c maps.
+1997 Jul 02 | deathpack1.zip | Quakeworld base32a and death32b maps (Christian Antkow).
+1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | Quakeworld base32b and death32c maps (Christian Antkow).
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip) | Quakeworld client v2.00
