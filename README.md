@@ -43,11 +43,15 @@ Release Date | File | Description
 1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip) | Rendition Verite VQuake v1.06 beta 10.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
+1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
+1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | Quakeworld Player Skins.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF (Tim Willits).
+1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Player Skins.
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 10 | [wq0991.zip](bin/wq0991.zips) | WinQuake client v0.991.
+1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Player Skins.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip) | Rendition Verite VQuake v1.07 beta 5.
 1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
@@ -61,6 +65,8 @@ Release Date | File | Description
 1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50.
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
+1997 Apr 08 | [qws.zip](bin/qws.zip) | Quakeworld Player Skins.
+1997 Apr 08 | [qws_9715.zip](bin/qws_9715.zip) | Quakeworld Player Skins.
 1997 Apr ?? | [base32.zip](bin/base32.zip) | Quakeworld base32 map (American McGee).
 1997 Apr ?? | [death32.zip](bin/death32.zip) | Quakeworld death32 map (Christian Antkow).
 1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quakeworld death32a map (Christian Antkow).
@@ -71,12 +77,14 @@ Release Date | File | Description
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
 1997 May 01 | [squake-1_0-i386-unknown-linux2_0_tar.gz](bin/squake-1_0-i386-unknown-linux2_0_tar.gz) | Linux SVGALib Quake v1.0.
 1997 May 01 | [unixded-1_0-sparc-sun-solaris2_5_1_tar.Z](bin/unixded-1_0-sparc-sun-solaris2_5_1_tar.Z)<br>[unixded-1_0-i386-unknown-linux2_0_tar.gz](bin/unixded-1_0-i386-unknown-linux2_0_tar.gz)<br>[unixded-1_0-i386-unknown-bsdi3_0_tar.gz](bin/unixded-1_0-i386-unknown-bsdi3_0_tar.gz) | Quake Unix Dedicated Server v1.0.
+1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | Quakeworld Player Skins.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
 1997 Jul 02 | deathpack1.zip | Quakeworld base32a and death32b maps (Christian Antkow).
 1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | Quakeworld base32b and death32c maps (Christian Antkow).
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip) | Quakeworld client v2.00
+1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Player Skins.
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | DM7 "Archophobia" by American McGee.
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
