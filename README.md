@@ -84,7 +84,7 @@ Release Date | File | Description
 1997 Jul 13 | [qwcl0613.exe](bin/qwcl0613.exe) | Quakeworld Client v???.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
-1997 Aug 10 | qw_0809.zip<br>[qw0809.zip](bin/qw0809.zip)<br>qwsv0809.zip<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>qwcl2.00-i386-unknown-linux2.0.tar.gz | Quakeworld Client and Server v2.00
+1997 Aug 10 | qw_0809.zip<br>[qw0809.zip](bin/qw0809.zip)<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>qwcl2.00-i386-unknown-linux2.0.tar.gz | Quakeworld Client and Server v2.00
 1997 Aug 12 | qwsv0812.zip | Quakeworld Server v2.01.
 1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Player Skins.
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | DM7 "Archophobia" by American McGee.
