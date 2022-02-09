@@ -100,6 +100,9 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
+2021 Aug 19 | n/a | Quake Remastered.
+2021 Oct 07 | n/a | Quake Remastered Updated 1.
+2021 Dec 02 | n/a | Quake Remastered Updated 2 (v1.05).
 
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
