@@ -45,7 +45,7 @@ Release Date | File | Description
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
 1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
 1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | Quakeworld Player Skins.
-1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | E1M5 map converted for CTF (Tim Willits).
+1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Tim Willits).
 1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Player Skins.
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
@@ -67,9 +67,9 @@ Release Date | File | Description
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
 1997 Apr 08 | [qws.zip](bin/qws.zip) | Quakeworld Player Skins.
 1997 Apr 08 | [qws_9715.zip](bin/qws_9715.zip) | Quakeworld Player Skins.
-1997 Apr ?? | [base32.zip](bin/base32.zip) | Quakeworld base32 map (American McGee).
-1997 Apr ?? | [death32.zip](bin/death32.zip) | Quakeworld death32 map (Christian Antkow).
-1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quakeworld death32a map (Christian Antkow).
+1997 Apr ?? | [base32.zip](bin/base32.zip) | base32 map (American McGee).
+1997 Apr ?? | [death32.zip](bin/death32.zip) | death32 map (Christian Antkow).
+1997 Apr 09 | [death32a.zip](bin/death32a.zip) | death32a map (Christian Antkow).
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 13 | [qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
@@ -79,15 +79,15 @@ Release Date | File | Description
 1997 May 01 | [unixded-1_0-sparc-sun-solaris2_5_1_tar.Z](bin/unixded-1_0-sparc-sun-solaris2_5_1_tar.Z)<br>[unixded-1_0-i386-unknown-linux2_0_tar.gz](bin/unixded-1_0-i386-unknown-linux2_0_tar.gz)<br>[unixded-1_0-i386-unknown-bsdi3_0_tar.gz](bin/unixded-1_0-i386-unknown-bsdi3_0_tar.gz) | Quake Unix Dedicated Server v1.0.
 1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | Quakeworld Player Skins.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>qwsv0613.zip | Quakeworld Client and Server v1.64.
-1997 Jul 02 | deathpack1.zip | Quakeworld base32a and death32b maps (Christian Antkow).
-1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | Quakeworld base32b and death32c maps (Christian Antkow).
+1997 Jul 02 | deathpack1.zip | base32a and death32b maps (Christian Antkow).
+1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | base32b and death32c maps (Christian Antkow).
 1997 Jul 13 | [qwcl0613.exe](bin/qwcl0613.exe) | Quakeworld Client v???.
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 10 | qw_0809.zip<br>[qw0809.zip](bin/qw0809.zip)<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>qwcl2.00-i386-unknown-linux2.0.tar.gz | Quakeworld Client and Server v2.00
 1997 Aug 12 | qwsv0812.zip | Quakeworld Server v2.01.
 1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Player Skins.
-1997 Aug 25 | [dm7.zip](bin/dm7.zip) | DM7 "Archophobia" by American McGee.
+1997 Aug 25 | [dm7.zip](bin/dm7.zip) | dm7 map (American McGee).
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
@@ -101,7 +101,7 @@ Release Date | File | Description
 1998 May 16 | [qwsv22.zip](bin/qwsv22.zip)<br>[qw22.exe](bin/qw22.exe)<br>[qwsv2.20-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-i386-unknown-linux2.0.tar.gz](bin/qwsv2.20-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.20-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.20-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv2.20-i386-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-i386-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-axp-unknown-linux2.0.tar.gz](bin/qwsv2.20-axp-unknown-linux2.0.tar.gz)<br>[qwcl2.20-i386-unknown-linux2.0.tar.gz](bin/qwcl2.20-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.20.
 1998 May 21 | [qwsv221.zip](bin/qwsv221.zip)<br>[qw221.zip](bin/qw221.zip)<br>[qw221.exe](bin/qw221.exe)<br>[qwsv2.21-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv2.21-sparc-sun-solaris2.5.1.tar.gz)<br>[qwsv2.21-i386-unknown-linux2.0.tar.gz](bin/qwsv2.21-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.21-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.21-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv2.21-i386-sun-solaris2.5.1.tar.gz](bin/qwsv2.21-i386-sun-solaris2.5.1.tar.gz)<br>[qwsv2.21-axp-unknown-linux2.0.tar.gz](bin/qwsv2.21-axp-unknown-linux2.0.tar.gz)<br>[qwcl2.21-i386-unknown-linux2.0.tar.gz](bin/qwcl2.21-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.21.
 1998 Aug 26 | [qwsv230.zip](bin/qwsv230.zip)<br>[qw230.zip](bin/qw230.zip)<br>[qw230.exe](bin/qw230.exe)<br>[qwcl-2.30-1.i386.rpm](bin/qwcl-2.30-1.i386.rpm)<br>[qwcl-2.30-glibc-1.i386.rpm](bin/qwcl-2.30-glibc-1.i386.rpm)<br>[qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz](bin/qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz)<br>[qwcl-2.30-i386-unknown-linux2.0.tar.gz](bin/qwcl-2.30-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-1.i386.rpm](bin/qwsv-2.30-1.i386.rpm)<br>[qwsv-2.30-glibc-1.alpha.rpm](bin/qwsv-2.30-glibc-1.alpha.rpm)<br>[qwsv-2.30-glibc-1.i386.rpm](bin/qwsv-2.30-glibc-1.i386.rpm)<br>[qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz](bin/qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz](bin/qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-i386-unknown-bsdi3.0.tar.gz](bin/qwsv-2.30-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv-2.30-i386-unknown-linux2.0.tar.gz](bin/qwsv-2.30-i386-unknown-linux2.0.tar.gz)<br>[qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v2.30.
-1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Q1EDGE "The Edge" by Tim Willits.
+1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | q1edge map (Tim Willits).
 1999 Dec 21 | [q1source.zip](bin/q1source.zip) | Win/Glquake and Quakeworld source (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz) | Quakeworld QuakeC source code (GPL).
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QuakeC Source v1.01 and tools (GPL).
