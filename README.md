@@ -50,6 +50,7 @@ Release Date | File | Description
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
+1997 Feb 07 | [squake_linux-0_99_tar.gz](bin/squake_linux-0_99_tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 10 | [wq0991.zip](bin/wq0991.zips) | WinQuake client v0.991.
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Player Skins.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
