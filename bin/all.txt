@@ -1,0 +1,52 @@
+==================================================
+Scourge of Armagon Extensions
+Created by Mark Dochtermann 03/08/97
+Version 1.0
+Copyright (c) 1997 Hipnotic Interactive Inc.
+Scourge of Armagon (c) 1997 Id Software, Inc.
+Scourge of Armagon (tm) is a trademark of Id Software, Inc.
+Quake (r) is a registered trademark of Id Software, Inc.
+===================================================
+
+========
+CONTENTS
+========
+
+README.TXT - this help file
+FEATURES.TXT - all QC changes
+IMPULSES.TXT - a list of new impulses, gives etc.
+
+clock.map - example map demonstrating a clock
+rotate.map - example map demonstrating rotation and particle fields
+spawns.map - example map demonstrating dynamic spawning.
+
+clock.bsp - BSP of above
+rotate.bsp - BSP of above
+spawns.bsp - BSP of above
+
+light.exe - new light which handles rotation
+LIGHT.ZIP - light source code (look for //JIM to see changes)
+
+qbsp.exe - new qbsp which handles rotation
+QBSP.ZIP - qbsp source code (look in brush.c for //JIM to see changes)
+
+QC.ZIP - All our QC files.  It ain't pretty but it works.
+
+==========
+DISCLAIMER
+==========
+
+Use this information at your own risk.  Id Software and Hipnotic
+Interactive do not support this documentation.  It is being made available
+to the general public AS IS and carries with it no warranty.
+
+Modifying Quake(r) or Scourge of Armagon(tm) may break them.  It is always
+wise to make a back-up before using these modifications.
+
+====
+HELP
+====
+
+If you do have questions about anything in the SOA Extensions send email
+to <hipedit@hipnotic.com>.  Do not send mail to anyone else at Hipnotic or
+Id Software on this subject, it will be ignored.

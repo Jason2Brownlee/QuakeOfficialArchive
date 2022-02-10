@@ -61,7 +61,7 @@ Release Date | File | Description
 1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
-1997 Mar 14 | [all.zip](bin/all.zip) | QuakeC Source and tools for Scourge of Armagon.
+1997 Mar 14 | [all.txt](bin/all.txt)<br>[all.zip](bin/all.zip)<br>[docs.zip](bin/docs.zip)<br>[maps.zip](bin/maps.zip)<br>[newexes.zip](bin/newexes.zip)<br>[qc.zip](bin/qc.zip)<br>[qcc.zip](bin/qcc.zip)<br>[utilsrc.zip](bin/utilsrc.zip) | QuakeC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 29 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
