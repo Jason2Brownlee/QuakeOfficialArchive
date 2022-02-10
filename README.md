@@ -53,6 +53,7 @@ Release Date | File | Description
 1997 Feb 07 | [squake_linux-0_99_tar.gz](bin/squake_linux-0_99_tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 10 | [wq0991.zip](bin/wq0991.zips) | WinQuake client v0.991.
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Player Skins.
+1997 Feb 12 | [sgiquake_tar.Z](bin/sgiquake_tar.Z) | SGI Quake.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Feb 28 | quake107.zip | Quake upgrade v1.01 to v1.07.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip) | Rendition Verite VQuake v1.07 beta 5.
