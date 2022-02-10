@@ -27,7 +27,7 @@ Release Date | File | Description
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip) | Quake update v1.00-1.01.
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz) | QCC source and QuakeC source v1.01.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
-1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client.
+1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 14 | qwded104.exe | Win32 dedicated server v1.04.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
@@ -69,7 +69,7 @@ Release Date | File | Description
 1997 Apr 08 | [qws_9715.zip](bin/qws_9715.zip) | Quakeworld Player Skins.
 1997 Apr 09 | [base32.zip](bin/base32.zip)<br>[death32.zip](bin/death32.zip)<br>[death32a.zip](bin/death32a.zip) | base32 and death32 maps (McGee and Antkow).
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
-1997 Apr 13 | [qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
+1997 Apr 13 | [qwcl0413.zip](bin/qwcl0413.zip)<br>[qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
 1997 Apr 30 | [qwsv1_55-sparc-sun-solaris2_5_1_tar.Z](bin/qwsv1_55-sparc-sun-solaris2_5_1_tar.Z)<br>[qwsv1_55-i386-unknown-linux2_0_tar.gz](bin/qwsv1_55-i386-unknown-linux2_0_tar.gz)<br>[qwsv1_55-i386-unknown-bsdi3_0_tar.gz](bin/qwsv1_55-i386-unknown-bsdi3_0_tar.gz)<br>[qwcl1_55-i386-unknown-linux2_0_tar.gz](bin/qwcl1_55-i386-unknown-linux2_0_tar.gz) | Quakeworld Unix Client and Server v1.55.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.

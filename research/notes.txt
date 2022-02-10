@@ -107,8 +107,6 @@ how much old ctf stuff do we add?
 when did it become "id software"?
 	https://web.archive.org/web/19980113015453/http://www.planetquake.com/quakex/threewave/files.html
 
-qw skins?
-	https://www.quaddicted.com/files/idgames2/idstuff/quakeworld/skins/
 
 .plan files?
 	perhaps not yet...
