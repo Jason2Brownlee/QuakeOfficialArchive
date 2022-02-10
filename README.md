@@ -28,7 +28,7 @@ Release Date | File | Description
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
-1996 Aug 14 | qwded104.exe | Win32 dedicated server v1.04.
+1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip) | QuakeC source v1.06.
