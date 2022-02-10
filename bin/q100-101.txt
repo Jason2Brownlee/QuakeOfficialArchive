@@ -1,0 +1,9 @@
+Quake Patch
+
+To upgrade your Quake v1.00 to Quake v1.01, copy the PATCH.* files into
+your Quake v1.00 directory and type PATCH.  Make sure that the files in
+your v1.00 directory haven't been modified before installing the patch,
+or you will get errors.
+
+(C) id Software, inc. 7/19/96
+

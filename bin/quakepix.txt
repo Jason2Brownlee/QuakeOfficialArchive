@@ -1,0 +1,20 @@
+Quake screen shots
+Released August 3rd, 1995
+
+Here they are - at long last!  The very first screens shots of Quake, taken at 320x200 resolution.  Screens q15.tif and q16.tif are high-res 640x480 24-bit TIFF color screens, just so you can see the awesome lighting. The cool Quake lighting can be seen in all these screen shots (except the de1m5-? ones, which are DOOM screen shots) and a couple sprites and an Alias model as well.  We don't have any Alias models working in the game at this point, but we're >this< close to getting them fully implemented with movement, proper light sourcing and animation. Screen q6.gif has our dragon hovering above a bridge above a moat.
+
+The screen shots prefixed by qe1m5 are to be compared against their DOOM counterparts, the screen shots prefixed by de1m5.  Obviously, these are screens from DOOM episode 1, level 5.  I duplicated the level and Quakeified it and you can see for yourself how cool it looks compared to the original.
+
+In q3.gif, you will see a couple torches at the end of the hall. Those are old DOOM torches, just holding a spot for the new ones, so don't worry - we're not shabbing out some old graphics on ya. The same goes for the numbers at the bottom of every screen shot, which are DOOM's status bar number graphics.
+
+In the screens where you see some pink/purple sky - that sky parallaxes and is spherically mapped. You can just imagine the wind whistling in your ears...
+
+You should see these screens in action. :)
+
+---
++-------------------------------------------------------------------+
+| John Romero (romero@idsoftware.com) id Software                   |
+| Send questions about id software to help@idsoftware.com           |
+| ftp.idsoftware.com                Official id anonymous FTP site  |
+| www.idsoftware.com                Official id Web site            |
++-------------------------------------------------------------------+

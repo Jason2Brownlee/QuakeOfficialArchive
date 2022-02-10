@@ -1,0 +1,46 @@
++----------------------------------------+
+| The Official Quake Deathmatch TEST     |
+| Released Saturday, February 24th, 1996 |
+| Copyright (C) 1996 id Software, inc.   |
++----------------------------------------+
+| Linux Subsystem Documentation          |
+| by Dave Taylor                         |
++----------------------------------------+
+
+This is Quake for Linux, test 1a.  It was compiled and tested under an
+ELF 1.3.62 system with the tasd-3.5-beta7 sound code, using gcc 2.7.0
+and libc.so.5.0.9.  You must first download the qtest1.zip package (you
+can find it at quake.best.com:/pub/idsoftware) and unpack that in a
+directory.  Then, place the xquake executable in that directory and run
+it from there.  You must be able to run ELF applications.
+
+This version of Quake requires that you have the new mmapable sound
+driver.  You can find the sound code at tasd-3.5-beta7.tar.gz from
+ftp.best.com/pub/front/tasd.  This code allows Quake to memory-map the
+sound DMA buffer, eliminating a seperate sound process, lowering
+latency, and better-modelling DOS code.  This code does *not* work with
+the GUS, though there are some reports that it works with the GUS MAX.
+Linux GUS support may or may not happen.
+
+This also contains a version called xf86quake, featuring the new DGA
+code in XFree 3.1.2D which is available at ftp.xfree86.org.  DGA allows
+direct access to the frame buffer, page flipping, proper mouse behavior,
+and proper keyboard behavior.  As it stands, the function which does
+page flips is waiting for the vertical retrace.  This causes the game to
+run much slower, so xquake may be faster for now.  This will be fixed
+soon.  In addition, there are problems grabbing the colormap with this
+version.  If you experience trouble with this, kill your window manager
+before running the game and start it up after leaving.  xf86quake
+requires that your virtual desktop size be twice the current resolution,
+or page-flipping will not work.  So for instance, if you are running
+your X server at 320x200, your virtual desktop size must be 320x400 or
+larger.  xf86quake must also be run as root in order to memory-map the
+frame buffer.
+
+There are no Linux-specific command-line options, variables, or
+commands, beyond what is mentioned in the sound.txt file.
+
+The purpose of this release is to test for bugs & compatability
+problems.  Please do not send comments back to personal e-mail accounts.
+They will be ignored.  Submit bug reports to qtest1@idsoftware.com.
+

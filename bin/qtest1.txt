@@ -1,0 +1,511 @@
++----------------------------------------+
+| The Official Quake Deathmatch TEST     |
+| Released Saturday, February 24th, 1996 |
+| Copyright (C) 1996 id Software, inc.   |
++----------------------------------------+
+| Operating Instructions                 |
+| by John Romero                         |
++----------------------------------------+
+
+Here it is, the first public TEST of Quake's Network, Sound and Video
+technology. This is NOT a demo and this is not an ALPHA, either. If this 
+WAS a demo or an ALPHA, you would see monsters moving around, have more maps
+to play, and see the neat new effects we're programming in right now.  
+Please keep in mind that this TEST is a DOS-ONLY program -- running it from
+Win95 may harm performance.  If you run this TEST from Win95, you MUST have
+a 16mb RAM system.
+
+There are 3 special documents that cover the 3 important components of the
+Quake Engine: VIDEO.TXT, SOUND.TXT and NETWORK.TXT.  Please read these
+documents to understand how that subsystem works within Quake.  There are
+many command-line parameters listed that you can test for us!
+
+Do NOT distribute this TEST in any way, other than electronically. No
+commercial exploitation is allowed, except for distribution purposes. We
+do NOT intent for this TEST to be sold in any way, shape or form.
+
+Section List:
+
+1.   Bug Reporting
+2.   Running Quake
+3.   The Quake Console
+4.   Playing Quake
+5.   Launching a Quake Server
+5.1  Team Play
+6.   Running Quake under Windows 95
+7.   Problem Icons
+8.   Default Keyboard Settings
+9.   Quake Console Commands
+
+
++---------------+
+| Section 1     |
+| Bug Reporting |
++---------------+
+
+What we would like from you is to send us (email only) a list of the bugs 
+that you find, mostly regarding video problems, sounds problems, or network
+problems.  You are invited to send general bug-related information regarding 
+the gameplay to the Usenet newsgroup REC.GAMES.COMPUTER.QUAKE.MISC only, 
+please don't send us gameplay suggestions directly.
+
+Please send Quake bug-related email to qtest1@idsoftware.com. In your subject
+line, please describe the type of problem you are reporting: video, network,
+sound or game.  If your email to qtest1@idsoftware.com bounces back to you,
+do not resend it -- testing is over for this version of Quake.
+
+IMPORTANT NOTE: Before you even THINK about reporting any kind of bug,
+make SURE you read the associated file (NETWORK.TXT, VIDEO.TXT and SOUND.TXT)
+and use the bug reporting form contained at the end of that 
+TXT file.
+
+
++---------------+
+| Section 2     |
+| Running Quake |
++---------------+
+
+To quickly get into Quake, you simply type "quake" on the DOS command-line,
+followed by any command-line parameters you wish to use. After Quake loads,
+the console will be displayed. To get Quake to work, you must type in the 
+word 'YES' to acknowledge that you agree to the terms and conditions of the
+LICENSE.TXT file. After typing 'YES', Quake will execute your command-line
+parameters and resume execution.
+
+This "Deathmatch TEST" is heavily biased toward 16mb RAM Pentium-based 
+systems. If you are running this TEST on an 8mb RAM system, you will see
+degraded performance. An 8mb RAM system is good for running a Dedicated
+Server or as Client-only in a Deathmatch session. A 486 system will NOT 
+run Quake well, as it has not been optimized for that chipset at this time.
+
+You MUST have a minimum of 8mb of RAM under DOS to run Quake.
+
+We have included 3 maps with this TEST version.  They are named TEST1,
+TEST2 and TEST3.  To run a map in Quake, in the console type "map <name>"
+and the map will be loaded in.  The ESC key will put away the console. For
+example: while in the console, if you type "map test1", map test1 will be
+loaded and you will start a game in it.
+
+The map TEST1 is a fine example of our medieval setting. We recommend a
+maximum of 4 players on this map.
+
+The map TEST2 is a good map to demonstrate traps and instilling fear of 
+lava. Playing with 6 or less players is recommended on this map.
+
+The map TEST3 is an example of our military base setting. We recommend a
+maximum of 6 players on this map.
+
+Any map with 8 players on it will be a complete fragfest.
+
+
++-------------------+
+| Section 3         |
+| The Quake Console |
++-------------------+
+
+After you first run Quake and type the word YES (signalling that you've
+read the LICENSE.TXT and agree to the terms and conditions therein),
+you will be in the Quake console, provided you didn't enter "+map <name>"
+on the command-line.  While playing Quake, you can press the ESC key to
+bring up the console or put it away.  The console is where you enter all
+the commands to change the game state.  Any commands that you can enter
+in the console can be entered into the console from the command-line by
+putting "+" before the command.
+
+For example, one console command is "map <name>" which will load a map
+and start it up.  Starting up a map actually starts a local Server and
+a Client.  To have a map load up when Quake starts, from the command-
+line, you can add "+map <name>" to the command-line. Then, Quake will
+load that map after initialization.  From the command-line, the "+" 
+character tells Quake that the following parameter should execute the 
+console command after initialization.  Any command-line parameter that
+starts with a "-" character is an initialization parameter, such as 
+"-nosound" and is not something that can be typed in the Quake console.
+
+The console has a command history just like DOSKEY.  Pressing the up and
+down arrows in the console will change to the last command entered. You
+can backspace over the command and enter new values if you'd like. There
+is also a command-completion function.  By pressing the TAB key, you can
+have the console automatically finish the name of the command for you. A
+really good example of this is the "vid_describemodes" command that lists
+all the video modes available on your system.  Instead of typing that
+entire command, merely type "vid_d" then press the TAB key and ENTER.
+
+
++---------------+
+| Section 4     |
+| Playing Quake |
++---------------+
+
+Playing Quake is very much like playing DOOM -- get weapons and kill stuff.
+In this Deathmatch TEST, you will find SIX different weapons: the Shotgun
+(which you start out with always), Double-Barreled Shotgun, Nailgun,
+Chainailgun, Grenade Launcher and Rocket Launcher.  Two additional weapons
+are slated for the final release (Lightning Gun and Chainlightning Gun).
+
+There are 3 types of Armor: Green (30% absorbing power), Yellow (60%),
+and Red (80%).  You can pick up a weaker type of armor if the current one
+you're wearing isn't worth the armor increase the new armor would make.
+
+There are 3 types of Ammo that you can pick up: Shotgun Shells, Nailboxes,
+and Rockets.  There are small and large quantities of these ammo types.
+
+
++--------------------------+
+| Section 5                |
+| Launching a Quake Server |
++--------------------------+
+
+First of all, there are two types of Quake Servers: Dedicated Servers and
+Listen Servers.  Dedicated Servers are used only for running Quake network
+games; they will not display any graphics nor output any sound.  The other,
+and most common, type of Server is a Listen Server.  This type of Server
+will host a game AND operate as a Client.
+
+At this time, there are only 2 network protocols that Quake understands. 
+These are IPX and TCP/IP.  The ONLY TCP/IP packets that Quake understands 
+is BWNFS from Beame & Whiteside (this is not a shareware product).  The 
+IPX protocol works fine from both DOS and Windows95, so this protocol is
+recommended.  Please note that the IPX protocol will NOT work over the
+Internet unless a higher-level transport protocol is used.  For more
+details, please read NETWORK.TXT.
+
+IMPORTANT NOTE: This TEST does NOT work with the modem.  In addition, we
+have not yet tested Quake running over Kali, SLIP, PPP or any other packet
+transport protocol.  We would be happy to hear about your success in
+getting Quake to run over a phone line, though!
+
+There are two important command-line parameters that you need to use to
+start a network Quake Server. The "-dedicated" parameter will cause Quake 
+to run in Dedicated Server mode.  Clients can connect to the Server by 
+typing "+connect" on the command-line, or by typing "connect" in the 
+console. The Quake Console is documented below.
+
+Dedicated Servers will only accept the F12 key as input (which will quit
+the Server).  Don't type anything on a Dedicated Server's keyboard except
+the F12 key to quit to DOS.
+
+The "-listen" parameter will make your system a Listen Server, which
+places a heavier load on your system than normal, so run a Listen Server 
+on a fast system. To connect to any kind of Server, type "+connect" on the
+command-line or "connect" in the console.
+
+At this time, the only way to start a Server is from the command-line. You
+can start a Server on a specific map by typing "quake -dedicated +map test3",
+for example.  After the "-dedicated" and "-listen" parameters you can limit
+the amount of players allowed into the game by typing a value from 2-8. Thus,
+a "-dedicated 2" would allow a 2-player-only game.  ALWAYS make sure you
+include the map on the command-line as well, such as "+map test2". You pretty
+much will always be starting Servers by typing "quake -listen +map test1" or
+whichever map you select.
+
+For example, if you want to start a 4-player-only Listen Server with Client
+capability on the map named test2 with a time limit of 5 minutes, you would 
+type (on the Server system):
+
+quake -listen 4 +map test2 +timelimit 5
+
+The Clients that want to connect to the Server would type:
+
+quake +connect
+
+IMPORTANT NOTE: Under Win95, sometimes a connect won't work the first couple
+times. You should try to connect at least 4 times before giving up.
+
+
++-------------+
+| Section 5.1 |
+| Team Play   |
++-------------+
+
+Normally, Quake is a Deathmatch game in network mode. You can play TEAMS in
+Quake if you type "teamplay 1" in the console on the Server.  Then, anyone
+that wants to be on the same team must set their "color" to the same value.
+For example: if I wanted to team up with Tim against Carmack and Abrash,
+I would type "Quake +teamplay 1 -dedicated +map test3" on the Server system
+and on my Client system I type "color 1" and have Tim type "color 1" in his
+console as well so we're on the same team.  Then, when Carmack and Abrash
+join the game, they both would select the same color so they're on the same
+team.  Then -- BLOODBATH!
+
+In team mode, shooting your teammate will ONLY STRIP ARMOR POINTS from your
+teammate.  Rockets and whatnot will not kill them.  They may scream, but
+they will not die.  Unless you crush them with something. :)
+
+To have everyone start the game at the same time, someone can press the
+PAUSE key and the game will pause while everyone connects to the Server.
+Pressing PAUSE again will start the Team Deathmatch.
+
+
++---------------------------+
+| Section 6                 |
+| Running Quake under Win95 |
++---------------------------+
+
+To run Quake under Windows95, you absolutely need 16mb RAM.  Anything less
+and Quake will just quit back to Win95.  To check your system's memory,
+open up "My Computer->Control Panel->System".
+
+Some systems will not run Quake in a window.  Run an MS-DOS session
+and switch to full-screen by pressing ALT-ENTER.  Then run Quake.
+
+For Quake to properly run as a Server under Win95, you must have an IPX
+Networking Protocol installed.  To do this, open up "My Computer->Control
+Panel->Network".  Click on "Add->Protocol->Add->Microsoft->IPX/SPX-compatible
+Protocol->OK".
+
+Two things you need to be aware of when running Quake from an MS-DOS shell:
+
+1) Do NOT check the box labelled "Prevent MS-DOS-based programs from detecting Windows" in the Advanced dialog in MS-DOS Prompt Properties when running Quake.  Quake will run jerkily and will sometimes exit for no apparent reason if this box is checked.
+
+2) Set the "MS-DOS protected-mode (DPMI) memory" field in the Memory section of MS-DOS Prompt Properties to either Auto or a value of at least 12288.  Quake will fail to load with smaller values.
+
+If you are having crashing problems running Quake under Win95, try using the
+"-nosound" command-line parameter.
+
+
++---------------+
+| Section 7     |
+| Problem Icons |
++---------------+
+
+Quake has 3 Problem Icons that you may see on your screen from time to time.
+
+When you are getting less than 10 frames a second framerate, a turtle icon
+will appear in the top-left corner. Size your screen down or change your
+screen resolution to 320x200 (vid_mode 0).
+
+WHen you get disconnected from a Quake Server or the network packet flow is
+disturbed, you will see a Network Disconnect icon below the spot where the
+turtle icon would be.
+
+When you are very low on RAM and are in a complex area, you may see a RAM
+chip under the area where the Network Disconnect icon would be. This means
+that Quake is running low on available memory and you should size down your
+SMARTDRIVE cache size or get more memory.
+
+
++---------------------------+
+| Section 8                 |
+| Default Keyboard Settings |
++---------------------------+
+
+Quake's keyboard controls are very similar to DOOM's with the exception
+of a few new commands.
+
+Toggle CONSOLE mode = ESC
+Attack = CTRL
+Move forward = up arrow
+Move backward = down arrow
+Turn left = left arrow
+Turn right = right arrow
+Strafe left = ,
+Strafe right = .
+Jump/Swim = spacebar and ENTER
+Size screen up = +
+Size screen down = -
+Freelook = \
+
+The "Freelook" command will allow the mouse to control the view angle.
+Hold the "freelook" key down and move the mouse around at the same time
+and see how your view changes.  Get good at this.
+
+
+F1 = Clear memory cache and reload map and programs
+F2 = Reload map
+F3 = View BSP order correctly (debugging)
+F4 = View BSP order backwards (debugging)
+F5 = Take a screenshot in PCX format
+F6 = Turn off drawing speeds (debugging)
+F7 = Turn on drawing speeds (debugging)
+F8 = Turn monster targeting off (debugging)
+F9 = Turn clipping on/off (debugging)
+F10 = Turn godmode on/off
+F12 = Quit game to DOS
+
+
++------------------------+
+| Section 9              |
+| Quake Console Commands |
++------------------------+
+
+Listed below are many of the most useful Quake console commands. These
+commands change various aspects of Quake or give information about Quake.
+If you have a different keyboard or mouse configuration, you can place
+many of these commands in a text file and have Quake execute these commands
+by using the "exec" command.  For example, this is my own personal config
+file named ROMERO.CFG:
+---------start (not in file)------------
+mouse3 +mlook
+mouse1 +attack
+cl_forwardspeed 320
+cl_backspeed 320
+bind K_SHIFT +jump
+sensitivity 3
+scr_conspeed 3000
+lookspring 0
+hostname RomeroHost
+bind	K_DEL			+moveleft
+bind	K_PGDN			+moveright
+bind	K_ENTER			+showscores
+color 2 13
+name Romero
+---------end   (not in file)------------
+
+When I normally run Quake, I type "quake +exec romero.cfg".  Each line
+contains a command you would normally enter in the Quake console, but the
+"exec" command can take a file full of console commands and execute them.
+
+
+Common Server Commands
+======================
+
+START A MAP
+Syntax: map <name>
+
+The only maps you can run in this TEST are: TEST1, TEST2 and TEST3. Typing
+'map test1' will drop whatever map you're in and start up the new map.
+
+CLEAR CONSOLE BUFFER
+Syntax: clear
+
+EXECUTE A CONFIGURATION FILE
+Syntax: exec <filename>
+
+DISCONNECT FROM THE CURRENT SERVER
+Syntax: disconnect
+
+LIST ALL AVAILABLE SERVERS
+Syntax: slist
+
+CONNECT TO A SERVER
+Syntax: connect
+OR
+Syntax: connect <slist name>
+
+
+
+Game View Settings
+==================
+
+SPEED THAT THE CONSOLE SCROLLS UP/DOWN
+Syntax: scr_conspeed <value>
+
+DISPLAY DRAWING SPEEDS
+Syntax: r_speeds <0/1>
+
+DRAW VIEW AS FLAT-COLORED POLYGONS OR TEXTURE-MAPPED POLYGONS
+Syntax: r_drawflat <0/1>
+
+CHANGE COLOR OF DEAD SPACE OUTSIDE A MAP
+Syntax: r_clearcolor <0-255; 2 = default>
+
+DISPLAY HOST SPEEDS (MILLISECONDS)
+Syntax: host_speeds <0/1>
+
+
+Keyboard Settings
+=================
+
+SET A KEYBOARD KEY TO A SPECIFIC ACTION
+Syntax: bind <key> <action command>
+
+Current key names:
+K_ALT, K_DEL, K_PGDN, K_PGUP, K_SHIFT, K_CTRL, K_UPARROW, K_DOWNARROW,
+K_LEFTARROW, K_RIGHTARROW, K_SPACE, K_ENTER, K_TAB, K_PAUSE, K_ESCAPE,
+K_F1, K_F2, K_F3, K_F4, K_F5, K_F6, K_F7, K_F8, K_F9, K_F10, K_F11, K_F12
+
+Make SURE that you use UPPER-CASE for the key names!
+
+Current action commands:
++attack, +jump, +forward, +back, +speed, +moveleft, +moveright, +strafe,
++mlook, +lookup, +lookdown, +left, +right, +showscores, +moveup, +movedown,
++forward2
+
+The "+" character before the action commands means a KEYDOWN event will be
+called for that action. A "-" character before the commands will signal a 
+KEYUP event instead, but that is mostly useless.
+
+Example: to set the 'g' key to jump, you would type "bind g +jump". Any key
+that can't be typed must use an explicit key name as listed above. An example
+of this would be to set the CTRL key to strafe left, you would type
+"bind K_CTRL +moveleft".
+
+SET YOUR FORWARD MOVEMENT SPEED
+Syntax: cl_forwardspeed <value>
+The default is 200, maximum value is current value of sv_maxspeed.
+
+SET YOUR BACKWARD MOVEMENT SPEED
+Syntax: cl_backspeed <value>
+The default is 160, max = sv_maxspeed.
+
+SET YOUR SIDESTEP/STRAFING SPEED
+Syntax: cl_sidespeed <value>
+The default is 320.
+
+
+Mouse Settings
+==============
+
+SET YOUR FIRST MOUSE BUTTON FUNCTION
+Syntax: mouse1 <action command>
+
+SET YOUR SECOND MOUSE BUTTON FUNCTION
+Syntax: mouse2 <action command>
+
+SET YOUR MIDDLE MOUSE BUTTON FUNCTION
+Syntax: mouse3 <action command>
+
+SET YOUR MOUSE SENSITIVITY
+Syntax: sensitivity <value>
+The default is 3.
+
+MAKE YOUR "FREELOOK" BUTTON AUTO-CENTER
+Syntax: lookspring  <speed>
+The default is 0.
+
+Example: to set mouse button 3 (middle mouse button on 3-button mice) to
+be your "freelook" button, you would type "mouse3 +mlook".
+
+
+Network Client Settings
+=======================
+
+SET YOUR NAME IN THE GAME
+Syntax: name <string>
+
+SET YOUR COLOR IN THE GAME
+Syntax: color <0-15 = solid character color>
+OR
+Syntax: color <0-15 = shirt> <0-15 = pants>
+
+
+Network Server Settings
+=======================
+
+SET THE AMOUNT OF FRAGS AT WHICH THE GAME WILL QUIT
+Syntax: fraglimit <value>
+The default is 20.
+
+SET THE AMOUNT OF TIME THE GAME WILL LAST BEFORE QUITTING
+Syntax: timelimit <value>
+
+SET TEAMPLAY
+Syntax: teamplay <value>
+The default is 0.
+
+SET WHETHER THE GAME IS ABLE TO BE PAUSED OR NOT
+Syntax: pausable <0/1>
+
+SET THE NAME OF YOUR SERVER
+Syntax: hostname <string>
+
+CHANGE THE SPEED OF THE GAME
+Syntax: host_framerate <value>
+The range is 0 to 0.01.  To go slower, use 0.01.
+
+CHANGE THE MAXIMUM SPEED OF THE PLAYER
+Syntax: sv_maxspeed <value>
+The default is 320.
+
+
