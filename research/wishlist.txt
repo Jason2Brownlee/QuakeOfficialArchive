@@ -4,10 +4,8 @@ quake107.zip
 qw233.zip
 qw_0809.zip
 qwcl0809.zip
-qwcl2.00-i386-unknown-linux2.0.tar.gz
 qwded104.exe
 qwded104.lzh
-qwsv0812.zip
 qwsv1022.zip
 qwsv2.00-i386-unknown-linux2.0.tar.gz
 qwsv2.10-i386-unknown-bsdi3.0.tar.gz
