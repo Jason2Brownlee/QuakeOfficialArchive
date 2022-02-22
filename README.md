@@ -70,6 +70,7 @@ Release Date | File | Description
 1997 Apr 09 | [base32.zip](bin/base32.zip)<br>[death32.zip](bin/death32.zip)<br>[death32a.zip](bin/death32a.zip) | base32 and death32 maps (McGee and Antkow).
 1997 Apr 09 | [qwcl1.54c-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.54c-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.54c-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Unix Client and Server v1.54c.
 1997 Apr 09 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
+1997 Apr 09 | [unixded-0.991-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.991-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.991-i386-unknown-linux2.0.tar.gz](bin/unixded-0.991-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.991-sparc-sun-solaris2.5.1.tar.gz](bin/unixded-0.991-sparc-sun-solaris2.5.1.tar.gz) | Quake Unix Dedicated Server v0.991.
 1997 Apr 12 | [3wave40.zip](bin/3wave40.zip) | Threewave CTF v4.00.
 1997 Apr 13 | [qwcl0413.zip](bin/qwcl0413.zip)<br>[qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
