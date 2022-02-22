@@ -33,6 +33,7 @@ Release Date | File | Description
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip) | Quake v1.06 update.
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe) | Win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
+1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
 1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool binaries.
 1996 Nov 11 | [alpha-ELF-xquake-1_06.gz](bin/alpha-ELF-xquake-1_06.gz)<br>[i386-ELF-xquake-1_06.gz](bin/i386-ELF-xquake-1_06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
