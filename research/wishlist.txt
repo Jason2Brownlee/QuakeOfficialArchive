@@ -8,7 +8,6 @@ qsw091_5.zip
 qsw091_6.zip
 qsw091_7.zip
 quake107.zip
-qw233-0001.zip
 qw233.zip
 qw_0809.zip
 qwcl0809.zip
