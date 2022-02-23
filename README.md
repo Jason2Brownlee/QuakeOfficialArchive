@@ -48,7 +48,7 @@ Release Date | File | Description
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
-1997 Feb 07 | [squake_linux-0_99_tar.gz](bin/squake_linux-0_99_tar.gz) | Linux SVGALib Quake v0.99.
+1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 10 | [wq0991.zip](bin/wq0991.zips) | WinQuake client v0.991.
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Player Skins.
 1997 Feb 12 | [sgiquake_tar.Z](bin/sgiquake_tar.Z) | SGI Quake.
@@ -77,7 +77,7 @@ Release Date | File | Description
 1997 Apr 15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave CTF v4.00 pak.
 1997 Apr 30 | [qwsv1.55-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv1.55-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv1.55-i386-unknown-linux2.0.tar.gz](bin/qwsv1.55-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.55-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.55-i386-unknown-bsdi3.0.tar.gz)<br>[qwcl1.55-i386-unknown-linux2.0.tar.gz](bin/qwcl1.55-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.55.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
-1997 May 01 | [squake-1_0-i386-unknown-linux2_0_tar.gz](bin/squake-1_0-i386-unknown-linux2_0_tar.gz) | Linux SVGALib Quake v1.0.
+1997 May 01 | [squake-1.0-i386-unknown-linux2.0.tar.gz](bin/squake-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.0.
 1997 May 01 | [unixded-1.0-sparc-sun-solaris2.5.1.tar.Z](bin/unixded-1.0-sparc-sun-solaris2.5.1.tar.Z)<br>[unixded-1.0-i386-unknown-linux2.0.tar.gz](bin/unixded-1.0-i386-unknown-linux2.0.tar.gz)<br>[unixded-1.0-i386-unknown-bsdi3.0.tar.gz](bin/unixded-1.0-i386-unknown-bsdi3.0.tar.gz) | Quake Unix Dedicated Server v1.0.
 1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | Quakeworld Player Skins.
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>[qwsv0613.zip](bin/qwsv0613.zip)<br>[qwcl0613.exe](bin/qwcl0613.exe)<br>[qwcl1.64-i386-unknown-linux2.0.tar.gz](bin/qwcl1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.64-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.64-i386-unknown-linux2.0.tar.gz](bin/qwsv1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.64-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v1.64.
