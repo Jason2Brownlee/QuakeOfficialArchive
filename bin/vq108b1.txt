@@ -1,0 +1,12 @@
+This VQuake release is a small upgrade.  Everything in whatever previous
+readme you have is probably still true.  This release simply adds one new
+setting.
+
+r_surfacelookup (default 1, enabled)
+
+Disabling r_surfacelookup will make the CPU perform the 8 to 16 bit
+conversion step for texture maps instead of the Verite.  On faster CPUs
+this can increase performance.  Results also depend on what resolution
+you choose.  In other words, your mileage may vary.
+
+

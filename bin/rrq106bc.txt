@@ -1,0 +1,85 @@
+
+	    Welcome to the Verite port of Quake!
+
+--- Quick Start
+
+	Copy vquake.exe, spd3d.uc, and vq95.bat to your quake
+directory (the one that contains quake.exe.) If you already
+have vquake.exe or spd3d.uc, make sure the new version
+overwrites the old one.
+	Type "vquake" to run the accelerated game. Use vq95.bat
+when running Windows95 to allow TCP/IP networking.
+
+	NOTE: you *MUST* upgrade your software Quake from 1.01
+to 1.06 before running vquake 1.06. You can get the patch file
+from id software at http://www.idsoftware.com/dlquake.html.
+
+-- Beta 12 fix
+	fixed DOS-only cases where the command buffer was not
+	handled properly due to it not being page-aligned.
+-- Beta 11 fix
+	made sure that enough memory was available to be locked.
+-- Beta 10 fixes
+	r_drawflat 1 now works.
+	reduced stack usage a bit; maybe this fixes weird errors.
+	require at least 512K of locked memory to fix v_malloc errors.
+
+-- Beta 9 fixes
+	some debugging code was left in; might cause a hang.
+
+--- Known Problems
+
+	Please send me email (walt@rendition.com) if you have
+problems with this release that do not occur with the
+version of vquake distributed with your 3D accelerator board.
+Please include a system description, and how to duplicate the
+problem if at all possible. Thanks.
+
+	You must disable UNIVBE if you have it installed. There is no
+reason to run it as the BIOS is VESA VBE 2.0 compliant.
+
+	If Microsoft Networking for DOS is running, the game
+may hang when it exits.
+
+	If the game hangs or does not appear to run, reboot,
+run vquake with the "-nodma" flag and try again. If it works,
+then you probably have an older PCI BIOS and motherboard that
+does not work with the Verite chip's busmastering DMA.
+
+	Under Win95, you cannot suspend the game and continue
+later. Attempts to do so will crash Win95. For the same reason,
+you should turn off any screen savers.
+
+	If a window pops up on the screen (e.g., from a Win95
+background process like a virus scanner), Win95 will crash.
+
+	We have observed improved network performance when we
+turn off the screen saver on the Quake server machine.
+
+--- Cvars
+	Note: changing these values will affect your performance
+	and visual quality.
+
+	d_mipscale (default 1.0)
+		increasing it reduces texture detail for
+		more distant objects.
+
+	d_mipcap (default 0)
+		increasing it (to 1, 2, or 3) reduces texture
+		detail for all objects.
+
+	d_bilerp (default 1)
+		setting to 0 turns off texture bilinear filtering.
+
+	d_dither (default 1)
+		setting to 0 turns off dithering.
+
+	d_wamp (default 7.0)
+		controls amplitude of water warping.
+
+	d_wfreq (default 12.0)
+		controls frequency of water warping.
+
+	r_antialias (default 0)
+		Use "r_antialias 3" to antialias just about everything.
+-----
