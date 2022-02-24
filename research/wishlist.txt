@@ -1,6 +1,7 @@
 deathpack1.zip
 q105beta.exe
 quake107.zip
+qw-qc.tar.txt
 qw233.zip
 qw_0809.zip
 qwcl0809.zip
@@ -8,7 +9,7 @@ qwded104.exe
 qwded104.lzh
 qwsv1022.zip
 qwsv2.00-i386-unknown-linux2.0.tar.gz
-qwsv2_00-i386-unknown-linux2_0_tar.gz
 qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+qwsv2_00-i386-unknown-linux2_0_tar.gz
 qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 

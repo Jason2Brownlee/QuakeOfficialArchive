@@ -1,0 +1,184 @@
+ ---------------------------------------------------------------------------
+       Readme re the PowerVR(TM) GL Driver for Quake I and Hexen II ONLY
+
+                   Copyright (C) 1997 NEC Electronics
+
+              Email comments and reports of bugs to Vik_Long@el.nec.com
+ ---------------------------------------------------------------------------
+
+ TABLE OF CONTENTS
+
+ 1.  Introduction
+ 2.  Included Files
+ 3.  Requirements
+ 4.  Installation
+ 5.  A Note for PCX1 Users
+ 6.  Using Different Screen Resolutions
+ 7.  Adjusting the Screen Brightness or Gamma
+ 8.  Performance Tuning
+ 9.  Legal Stuff
+
+
+ 1. INTRODUCTION
+
+ This version of the PowerVR GL driver is ONLY for Quake I and Hexen II. With
+ this driver you can now enjoy the improved graphics quality of the OpenGL
+ option in Quake I on your PowerVR card. This driver, or an updated version
+ of it, should also work with most, if not all, coming games based on the
+ Quake I engine.
+
+ This driver is unsupported. However we welcome any comments or reports of
+ bugs that you may have. These should be sent to the email address above.
+
+ NOTE: This driver is not an OpenGL driver. It is only an implementation of
+ a subset of the OpenGL API, sufficient to run GLQuake I and its derivatives.
+ It is not certified by Silicon Graphics Inc. and has not passed any OpenGL
+ conformance tests. Do not attempt to use this driver with OpenGL
+ applications other than those based on the Quake engine, or those which
+ claim to work with a "GLQuake driver".
+
+
+ 2. INCLUDED FILES
+
+ OPENGL32.DLL - The PowerVR GL driver for Quake I and Hexen II
+ README.TXT   - This file.
+
+
+ 3. REQUIREMENTS
+
+ This driver requires the following to be installed and running
+ on the system:
+
+ * Any version of Windows 95
+ * DirectX 3.0a or later
+ * PowerVR Windows 95 drivers version 4.0.1 or later
+ * Quake I or Hexen II
+
+ The following is the recommended minimum system requirements:
+
+ * A Pentium 133 or better CPU.
+ * 32 Megabytes of RAM.
+ * A PowerVR PCX2 card such as the Apocalypse 3Dx or the Matrox m3D.
+
+ NOTE: Because this driver uses the FPU (floating point unit) of the CPU
+       extensively, current non-Intel x86 compatible processors require a
+       significantly higher clock rate than 133 MHz to match the performance
+       of a Pentium 133.
+
+
+ 4. INSTALLATION
+
+ WARNING: Do not copy the driver into your WINDOWS\SYSTEM directory as this
+ will prevent other OpenGL applications running on your system, including the
+ Windows OpenGL screen savers.
+
+ * Install the game.
+ * Put the OPENGL32.DLL file from THIS archive into your game's directory.
+ * From the Video options menu, select "PowerVR OpenGL" as your video driver.
+   Check the 8-bit texture option as "Yes."
+   Move the cursor to "Apply" and hit the [Enter] key.
+
+
+ 5. A NOTE FOR PCX1 USERS
+
+ The GL option in Quake I requires bilinear filtering for implementing
+ lighting. Unfortunately PCX1 does not support bilinear filtering and
+ as such, the lighting in the Quake I does not look as good. In addition,
+ performance on PCX1 is significantly slower than on PCX2. Apocalypse
+ 3D users may wish to upgrade to the Apocalypse 3Dx. The competitively
+ priced Matrox m3D also provides a possible upgrade path.
+
+
+ 6. USING DIFFERENT SCREEN MODES
+
+ To switch between 16, 24 and 32 bit color depths, you need to change the
+ color depth of your desktop. The Quake II test demo will automatically run at the
+ color depth of your desktop.
+
+ Do not be afraid of 24 bit mode if you are running at lower resolutions.
+ Providing your 2D video card is reasonably fast and has enough memory to
+ support the specified mode with triple buffering, 24 bit mode incurs
+ little or no performance hit.
+
+
+ 7. ADJUSTING THE SCREEN BRIGHTNESS OR GAMMA
+
+ On many systems, the default brightness of Quake II is too dark.
+ The game allows you to adjust the brightness.  If you prefer more brightness,
+ also try the following:
+
+ * Increasing the contrast and brightness settings on your monitor.
+ * Some 2D cards allow boosting the gamma via the Windows 95 Display
+   Properties page. Sometimes these setting won't "stick" between changes in
+   resolution, so you might have to switch to the resolution you want to play
+   at (e.g. 640x480), adjust the gamma, then start the game.
+
+
+ 8. PERFORMANCE TUNING
+
+ While the performance is generally very good, for hard-core players
+ want every little bit of extra performance possible. The following tips can be
+ very helpful:
+
+ * If you have a system with good FPU performance such as an Intel CPU with
+   a high clock speed, try running at 512x384.
+ * Because of the large amount of memory that the game uses, there can quite
+   often be considerable paging to disk causing
+   annoying pauses in the game. These can be minimized by making sure no
+   other applications are running in the background. Modifying your virtual
+   memory settings to use a large permanent swap file can also increase
+   performance. Virtual memory settings are adjusted in the System applet
+   in the Windows 95 Control Panel. You should also run Disk Defragmenter
+   on your hard drive before creating a permanent swap file.
+ * Make sure that, in the Video options menu, you've selected 8-bit textures
+   under OpenGL.  This helps reduce the amount of memory used.
+ * Run the game fullscreen.
+
+
+
+ 9. LEGAL STUFF
+
+ 1) SINGLE COPY LICENSE: You may download one copy of the information or
+ software ("Materials") found on the PowerVR site on a single computer for
+ your personal, non-commercial internal use only.
+
+ This is a license, not a transfer of title, and is subject to the following
+ restrictions: you may not:
+
+ (a) modify the Materials or use them for any commercial purpose, or any
+ public display, performance, sale or rental; (b) decompile, reverse engineer,
+ or disassemble software Materials; (c) remove any copyright or other
+ proprietary notices from the Materials; (d) transfer the Materials to
+ another person. You agree to prevent any unauthorized copying of the
+ Materials.
+
+ 2)   DISCLAIMER: THE MATERIALS ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR
+ IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY,
+ NONINFRINGEMENT OF INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR
+ PURPOSE. IN NO EVENT SHALL NEC ELECTRONICS INC. OR ITS SUPPLIERS BE LIABLE
+ FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS
+ OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF THE
+ USE OF OR INABILITY TO USE THE MATERIALS, EVEN IF NEC ELECTRONICS INC. HAS
+ BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME JURISDICTIONS
+ PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR
+ INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. NEC
+ Electronics Inc. further does not warrant the accuracy or completeness of
+ the information, text, graphics, links or other items contained within these
+ materials. NEC Electronics Inc. may make changes to these materials, or to
+ the products described therein, at any time without notice. NEC Electronics
+ Inc. makes no commitment to update the Materials.
+
+ 3)   COPYRIGHT AND TRADEMARK INFORMATION: The glquake drivers and this text
+ is Copyright 1997 by NEC Electronics Inc.  All rights reserved.
+
+ PowerVR, PowerVR Ready, Apocalypse 3D and Videologic are trademarks or
+ registered trademarks of VideoLogic Ltd. (United Kingdom).  All rights
+ reserved.  Used by NECEL with permission. PCX1, PCX2 and NEC is a trademark
+ of NEC Corporation (Japan).  All rights reserved.  Microsoft, Windows and
+ Direct3D are either registered trademarks or trademarks of Microsoft
+ Corporation in the United States and/or other countries. Hexen II is a
+ trademark of Raven Software Corporation. Intel and Pentium are registered
+ trademarks of Intel Corporation. Silicon Graphics and OpenGL are registered
+ trademarks of Silicon Graphics, Inc. Matrox m3D is a trademark of Matrox
+ Graphics Inc. All other trademarks used herein are the property of their
+ respective owners.
