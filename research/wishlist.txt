@@ -1,6 +1,7 @@
 deathpack1.zip
 q105beta.exe
 quake107.zip
+quake107.exe
 qw-qc.tar.txt
 qw233.zip
 qw_0809.zip
