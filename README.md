@@ -38,7 +38,7 @@ Release Date | File | Description
 1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool binaries.
 1996 Nov 11 | [alpha-ELF-xquake-1_06.gz](bin/alpha-ELF-xquake-1_06.gz)<br>[i386-ELF-xquake-1_06.gz](bin/i386-ELF-xquake-1_06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
-1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip) | Rendition Verite VQuake v1.06 beta 10.
+1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip)<br>rrq106ba.txt | Rendition Verite VQuake v1.06 beta 10.
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
 1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
