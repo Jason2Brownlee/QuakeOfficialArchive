@@ -26,7 +26,7 @@ Release Date | File | Description
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
-1996 Sep 13 | [q105beta.zip](bin/q105beta.zip)<br>q105beta.exe | Quake v1.05beta and QuakeC Source.
+1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 30 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
@@ -84,7 +84,7 @@ Release Date | File | Description
 1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | base32b and death32c maps (Antkow).
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
-1997 Aug 10 | qw_0809.zip<br>[qw0809.zip](bin/qw0809.zip)<br>qwcl0809.zip<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
+1997 Aug 10 | [qw0809.zip](bin/qw0809.zip)<br>qwcl0809.zip<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
 1997 Aug 12 | [qwsv0812.zip](bin/qwsv0812.zip) | Quakeworld Server v2.01.
 1997 Aug 13 | [qwsv2.01-i386-unknown-linux2.0.tar.gz](bin/qwsv2.01-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.01-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.01-sparc-sun-solaris2.5.1.tar.Z) | Quakeworld Client and Server v2.01.
 1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Skins Pack 5.

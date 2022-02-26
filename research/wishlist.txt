@@ -1,16 +1,53 @@
+# file wishlist
+
 deathpack1.zip
-q105beta.exe
-quake107.zip
-quake107.exe
-qw-qc.tar.txt
 qw233.zip
-qw_0809.zip
 qwcl0809.zip
 qwded104.exe
 qwded104.lzh
 qwsv1022.zip
+
+# duplicates, but with different filenames...
+qw_0809.zip
+q105beta.exe
+
+# linux qw files
 qwsv2.00-i386-unknown-linux2.0.tar.gz
 qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 qwsv2_00-i386-unknown-linux2_0_tar.gz
 qwsv2_10-i386-unknown-bsdi3_0_tar.gz
+
+# txt files
 rrq106ba.txt
+qw-qc.tar.txt
+q105beta.txt
+
+# possible macquake stuff
+Quake1084_U.sea.hqx
+Quake3Dfx1084_U.sea.hqx
+QuakeRave1084_U.sea.hqx
+QuakeDemo.sit
+MacQW211b1.sit
+MacQWSrv23b1.sit
+MacQW23b1.sit
+QuakeWorld211b1.sit
+
+
+# guessing at some filenames
+qwcl1022.zip
+
+
+# guessing at missing linux filenames
+qwsv2.00-i386-unknown-bsdi3.0.tar.gz
+qwsv2.00-sparc-sun-solaris2.5.1.tar
+qwsv2_00-i386-unknown-bsdi3_0_tar.gz
+qwsv2_00-sparc-sun-solaris2_5_1.tar
+qwcl2.01-i386-unknown-linux2.0.tar.gz
+qwsv2.01-i386-unknown-bsdi3.0.tar.gz
+qwcl2_01-i386-unknown-linux2_0_tar.gz
+qwsv2_01-i386-unknown-bsdi3_0_tar.gz
+
+
+# may or may not be real
+quake107.zip
+quake107.exe
