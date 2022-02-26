@@ -28,8 +28,6 @@ Quake3Dfx1084_U.sea.hqx
 QuakeRave1084_U.sea.hqx
 QuakeDemo.sit
 MacQW211b1.sit
-MacQWSrv22b1.sit
-MacQW23b1.sit
 QuakeWorld211b1.sit
 
 
