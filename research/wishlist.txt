@@ -27,8 +27,26 @@ Quake1084_U.sea.hqx
 Quake3Dfx1084_U.sea.hqx
 QuakeRave1084_U.sea.hqx
 QuakeDemo.sit
-MacQW211b1.sit
+Quake3Dfx109.sit.hqx
+Quake109.sit.hqx
+QuakeRAVE109.sit.hqx
+Quake1085.sit
+QuakeDemo.hqx
 
+MacQW23b1.hqx
+MacQW211b1.sit
+MacQWSrv23b1.hqx
+Quake%201.09%20Updater.hqx
+Quakeworld%20Skins.hqx
+
+# guess at missing macqw filenames
+# v221b1 ?
+# v211b3 ?
+# v211b2 ?
+221b1.sit
+211b3.sit
+211b2.sit
+211b1.sit
 
 
 # guessing at some filenames
