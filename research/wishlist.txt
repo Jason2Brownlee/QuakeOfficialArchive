@@ -61,7 +61,9 @@ qwcl2.01-i386-unknown-linux2.0.tar.gz
 qwsv2.01-i386-unknown-bsdi3.0.tar.gz
 qwcl2_01-i386-unknown-linux2_0_tar.gz
 qwsv2_01-i386-unknown-bsdi3_0_tar.gz
-
+unixded-0.992-i386-unknown-bsdi3.0.tar.gz
+unixded-0.992-i386-unknown-linux2.0.tar.gz
+unixded-0.992-sparc-sun-solaris2.5.1.tar.gz
 
 # may or may not be real
 quake107.zip
