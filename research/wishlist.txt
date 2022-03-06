@@ -19,7 +19,6 @@ qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 
 # txt files
 rrq106ba.txt
-qw-qc.tar.txt
 q105beta.txt
 
 # possible macquake stuff
@@ -67,3 +66,6 @@ qwsv2_01-i386-unknown-bsdi3_0_tar.gz
 # may or may not be real
 quake107.zip
 quake107.exe
+
+# alt q1test...
+QUAKETST.ZIP

@@ -54,7 +54,7 @@ Release Date | File | Description
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z) | SGI Quake.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | Rendition Verite VQuake v1.07 beta 5.
-1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip) | Glquake v0.92 for Quake v1.07.
+1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
 1997 Mar 14 | [all.txt](bin/all.txt)<br>[all.zip](bin/all.zip)<br>[docs.zip](bin/docs.zip)<br>[maps.zip](bin/maps.zip)<br>[newexes.zip](bin/newexes.zip)<br>[qc.zip](bin/qc.zip)<br>[qcc.zip](bin/qcc.zip)<br>[utilsrc.zip](bin/utilsrc.zip) | QuakeC Source and tools for Scourge of Armagon.
