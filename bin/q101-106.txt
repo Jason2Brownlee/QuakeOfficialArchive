@@ -1,0 +1,204 @@
+===================================
+= q101-106.txt - Quake 1.06 Patch =
+=         October 1, 1996         =
+===================================
+
+This is the Quake v1.01 to v1.06 patch.  It will upgrade Shareware users as
+well as Registered users.
+
+Step 1:  Unzip the file 'q101-106.zip' to your \quake directory, and answer
+yes to overwrite the files.
+
+Step 2:  Run the file 'patch.exe' from your Quake directory, which will alter
+your \quake\id1\pak0.pak file.
+
+Step 3:  Deathmatch until the wee hours of the morning.  That's it.
+
+
+============================================================================
+GENERAL CHANGES
+============================================================================
+
+The following general problems were fixed:
+
+1.  Increased the number of edges, so walls don't vanish in E1M8 when viewing
+the walls from certain angles in high resolutions.
+
+2.  Locking the NULL pointer protection page should no longer prevent Quake
+from running under CWSDPMI r3 and 386MAX.
+
+3.  Video mode corruption was reported and Quake would exit if
+'_vid_default_mode' in config.cfg was not a valid video mode.  Quake now
+defaults to 320x200 if an invalid default video mode is listed.  (This was
+usually the result of switching from UniVBE 5.2 to 5.3, which supports
+fewer modes than 5.2).
+
+4.  'Working_size' was not being pre-adjusted up by 64K in the memory
+allocation loop.  This may provide 64K more memory on some systems.
+
+5.  The crosshair variable is now saved in config.cfg.
+
+6.  If you already have cell ammo of 100, you can't pick up more cell ammo.
+
+7.  If you discharged the thunderbolt in the water your cells are no longer
+dropped with your backpack.  (Reason:  By discharging in the water, your
+cells should be fully depleted.)  Only wussies do this as a paniced, last
+ditch effort anyway, unless they have the Pentagram of Protection, so this
+really shouldn't affect you anyway :)
+
+8.  Added support for input devices (i.e. Spaceball and Assassin).
+
+9.  Crosshair is drawn at the correct location if you are underwater in high
+resolution video modes.
+
+10.  Spaces were being added to key bindings when reading in the config.cfg,
+and where then written back out to the config.cfg.  This caused the bindings
+to keep growing until it eventually caused a crash.
+
+11.  Binding to ";" is now written to config.cfg properly.
+
+12.  Unbound keys are no longer written to config.cfg.
+
+13.  Fixed the axe's aiming.  It wasn't always correct causing false hits and
+misses.
+
+14.  Added cycle weapon backwards (impulse 12).
+
+15.  Picking up a weapon in a backpack uses the same rules as picking up
+a weapon any other time.
+
+16.  Fixed a lot of the obituaries.  Many deaths were getting inappropraite
+messages.  There are still a few errors that can occur when reporting
+projectile obituaries.
+
+17.  The lightning gun is never considered your best weapon when you are
+underwater.
+
+18.  You can now bind the semicolon from the menu.
+
+19.  CD audio volume doesn't act oddly with certain drives.
+
+20.  Timedemo was not showing the timings at the end.
+
+21.  Made not being able to write a PCX file a warning instead of a
+sys_error.
+
+22.  Notify what weapon picked up in backpack in addition to ammo.
+
+23.  New GUS code: supports GUS Classic & fixed playback rate.
+
+24.  Made the size of the zone a command line parameter.  You specify -zone
+followed by a size in KB.  The default is 48.
+
+25.  Corrected a problem where discharging the lightning gun in water
+would sometimes leave you in a 'zombie' state.  You would be dead, but
+unable to respawn or restart.
+
+
+============================================================================
+SINGLE PLAYER CHANGES
+============================================================================
+
+Well, just two lonely single player fixes:
+
+1.  You no longer can kill Shub the wrong way, which would cause Quake to
+crash.
+
+2.  No longer prints "player exited the level" in single player.
+
+
+============================================================================
+MULTI-PLAYER / SERVER CHANGES
+============================================================================
+
+The following multi-player and server problems were fixed:
+
+1.  Player-names with spaces were listed as "unconnected" on the server.
+
+2.  'Mod_NumForName: <something> not found' when connecting to a server.
+
+3.  The server was getting stuck on the Start Level when the 'noexit 1' was
+set.  The following changes/additions have been made: 
+    a.  Now, 'timelimit' and/or 'fraglimit' must be set, when 'noexit' is
+    set to '1', or there is no way to exit the level.  The server will run
+    through all four episodes (shareware will only play episode 1).  The End
+    Level is not included, since it's not a very good Deathmatch level.
+    b.  There is now 'noexit 2'.  This WILL allow any player to exit the
+    Start level, but no one can exit any other level.  You must have 
+    'fraglimit' and/or 'timelimit' set to use 'noexit 2' also.  Essentially
+    this allows the players to choose an episode, but once the first level of 
+    that episode starts, they can't exit levels until the 'fraglimit' or
+    'timelimit' is reached.
+
+4.  End Level in Deathmatch will now advance to Start Level, once the
+'timelimit' or 'fraglimit' is reached.
+
+5.  If a player is dead during a level change, they no longer keep their
+weapons/ammo, when the next level is started, they start with nothing.
+
+6.  Having a percent sign in a chat message will no longer page fault
+the server you are connected to.
+
+7.  Player's cell ammo is not carried over to the Start Level.
+
+8.  It is no longer possible to 'kill' secret doors.  Previously this
+would cause the server to crash with a 'host_error'.
+
+9.  Added IPX support to Winded (Win32 Dedicated Server).
+
+10.  Ranking screen is centered in high resolution modes now.
+
+11.  Game drops to console, instead of crashing, when a net game fails to
+load.  These failures are generally due to trying to connect to a server
+running a level you do not have.
+
+12.  Added teamplay 2.  It differs from teamplay 1 in two ways.  You can hurt
+teammates (and yourself) and you lose 1 frag for killing a teammate.
+
+13.  Fixed a hole where a fake client was able to change cvars and execute
+Quake console commands on remote servers.
+
+14.  'Showscores' works in total full screen now (no menu bar at all).
+
+15.  Doing 'restart' or 'edict' when a server isn't running does not crash.
+
+16.  Fixed a lockup when multiplayer was selected, but there were no
+communications available
+
+17.  Spawn and respawn telefrags:
+     a.  When spawning (or respawning) it will now search and find any open
+     start spot, not just blindly go to the next one.
+     b.  You will only telefrag somebody if every single spot is occupied,
+     in which case the last person in gets whacked.  This keeps you from
+     getting right back into the rolling telefrags at the start of a level
+     and gives the first players in a chance to get off of the spots.
+     C.  Teleporter telefrags have not been changed.
+
+18.  Added 'kick' by number (similar to painting by number, only much more
+fun) so people with "funny" names can be removed from the server easily.
+(Bane inadvertently assisted in testing this one ;-)
+Usage:  "kick   #   <number>", get <number> by using the 'status'command.
+
+19.  After selecting a game in the 'Search for local games' list, that is
+full, Quake no longer drops back to the console, it remains on the local
+games list screen.
+
+20.  The modem code as been tweaked, so modem to modem play should work
+better.
+
+21.  'Port number' works now, without having to run 'Quake -udpport #'.
+     a.  'Port number' box on the multiplayer/join game menu works.
+     b.   In the multiplayer/join game menu 'connect to' box, you can type
+     in the IP address followed by the port, separated by a colon.
+     i.e. '127.0.0.1:26010' (no quotes)
+     c.  From the console you can type "connect 127.0.0.1:26010", WITH THE
+     QUOTES (otherwise the parser would pick up the colon as a seperator).
+
+
+============================================================================
+KNOWN PROBLEMS
+============================================================================
+
+1.  Classic GUS code not initiating properly; works only after running
+something that does it right (i.e. a Gravis utility), waiting for Gravis
+to help.

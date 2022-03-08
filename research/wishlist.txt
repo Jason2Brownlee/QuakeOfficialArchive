@@ -21,6 +21,7 @@ qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 rrq106ba.txt
 q105beta.txt
 
+
 # possible macquake stuff
 Quake1084_U.sea.hqx
 Quake3Dfx1084_U.sea.hqx
