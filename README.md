@@ -122,6 +122,8 @@ Release Date | File | Description
 2021 Aug 19 | n/a | Quake Remastered.
 2021 Oct 07 | n/a | Quake Remastered Updated 1.
 2021 Dec 02 | n/a | Quake Remastered Updated 2 (v1.05).
+2022 Apr 20 | n/a | Quake Remastered Updated 3.
+2022 Apr 20 | [quake-rerelease-qc-main.zip](bin/quake-rerelease-qc-main.zip) | Quake Remastered Updated 3 QuakeC Source Code.
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.

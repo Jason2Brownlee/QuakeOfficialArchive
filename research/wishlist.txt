@@ -6,6 +6,8 @@ qwcl0809.zip
 qwded104.exe
 qwded104.lzh
 qwsv1022.zip
+rrq106b4.zip
+rrq106b2.zip
 
 # duplicates, but with different filenames...
 qw_0809.zip
