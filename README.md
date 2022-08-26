@@ -123,6 +123,7 @@ Release Date | File | Description
 2021 Aug 19 | n/a | Quake Remastered.
 2021 Oct 07 | n/a | Quake Remastered Updated 1.
 2021 Dec 02 | n/a | Quake Remastered Updated 2 (v1.05).
+2022 Feb 04 | [print-quake-e2m2.png](bin/print-quake-e2m2.png) | Sketches of e2m2 map (Romero).
 2022 Apr 20 | n/a | Quake Remastered Updated 3.
 2022 Apr 20 | [quake-rerelease-qc-main3.zip](bin/quake-rerelease-qc-main3.zip) | Quake Remastered Updated 3 QuakeC Source Code.
 2022 Aug 18 | n/a | Quake Remastered Updated 4.
