@@ -67,8 +67,7 @@ Release Date | File | Description
 1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip)<br>[qwqc150.txt](bin/qwqc150.txt) | Quakeworld QuakeC Source v1.50.
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
-1997 Apr 08 | [qws.zip](bin/qws.zip) | Quakeworld Player Skins.
-1997 Apr 08 | [qws_9715.zip](bin/qws_9715.zip) | Quakeworld Skins Pack 3.
+1997 Apr 08 | [qws.zip](bin/qws.zip)<br>[qws_9715.zip](bin/qws_9715.zip)<br>[skinbase3.zip](bin/skinbase3.zip) | Quakeworld Skins Pack 3.
 1997 Apr 09 | [base32.zip](bin/base32.zip)<br>[death32.zip](bin/death32.zip)<br>[death32a.zip](bin/death32a.zip) | base32 and death32 maps (McGee and Antkow).
 1997 Apr 09 | [qwcl1.54c-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.54c-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.54c-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Unix Client and Server v1.54c.
 1997 Apr 09 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
