@@ -28,6 +28,7 @@ Release Date | File | Description
 1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
+1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | Quake Upgrade Disk for 3D Blaster PCI
 1996 Sep 30 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 01 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 01 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
@@ -127,6 +128,8 @@ Release Date | File | Description
 2022 Apr 20 | [quake-rerelease-qc-main3.zip](bin/quake-rerelease-qc-main3.zip) | Quake Remastered Updated 3 QuakeC Source Code.
 2022 Aug 18 | n/a | Quake Remastered Updated 4.
 2022 Aug 18 | [quake-rerelease-qc-main4.zip](bin/quake-rerelease-qc-main4.zip) | Quake Remastered Updated 4 QuakeC Source Code.
+
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
