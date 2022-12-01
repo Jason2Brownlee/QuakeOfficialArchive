@@ -5,7 +5,6 @@ qw233.zip
 qwcl0809.zip
 qwded104.exe
 qwded104.lzh
-qwsv1022.zip
 rrq106b4.zip
 rrq106b2.zip
 
@@ -20,7 +19,6 @@ qwsv2_00-i386-unknown-linux2_0_tar.gz
 qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 
 # txt files
-rrq106ba.txt
 q105beta.txt
 
 
