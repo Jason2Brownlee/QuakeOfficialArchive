@@ -8,6 +8,7 @@ This is hard because it is July 1996, and internet archive started in this month
 ## Files
 
 * qbsp_29.tar.gz
+* qbsp_29.txt
 * qutils.tar.gz
 * qutils.zip
 * qutils.txt
@@ -94,6 +95,8 @@ https://web.archive.org/web/19970204063238fw/http://bluesnews.com/files/qutils.z
 ## qutils.tar.gz
 
 27 june: bsp utils
+	no confirmation elsewhere of this yet...
+	no idea of what files
 2 july qutils.tar.gz and qutils.zip
 25 july qcc
 
@@ -157,10 +160,177 @@ The first release was a txt and tar.gz perhaps
 qcc was july 25 as we expect
 qbsp_29.txt also released on july 25th
 
-QuakeEd may 1996!?
+QuakeEd may 1996
+
+file timestamps in modern source/ are wrong.
+files must have been moved in oct 1996
+
+
+
+https://groups.google.com/g/nctu.ccca.mirror/c/c5ZTeDaZ8tI/m/dn6A3xg259cJ
+
+
+> 30,339 /PC/games/DOOM/idstuff/source/qutils.tar.gz
+> 736 /PC/games/DOOM/idstuff/source/qutils.txt
+
+
+https://groups.google.com/g/relcom.archives/c/2UHFQOFjbYI/m/XGkEKVooMzYJ
+
+
+> #
+> # -- 29k, 03-Jul-1996
+> get /mirrors/idsoft/idstuff/source/qutils.tar.gz
+>
+> #
+> # -- 1.2k, 03-Jul-1996
+> read /mirrors/idsoft/idstuff/source/qutils.txt
+
+
+
+https://groups.google.com/g/relcom.games/c/WqbJHOyIAYw/m/cMhxZGhRi6oJ
+
+> #
+> # -- 29k, 02-Jul-1996
+> get /mirrors/idsoft/tonsmore/idstuff/source/qutils.tar.gz
+>
+> #
+> # -- 1.2k, 02-Jul-1996
+> read /mirrors/idsoft/tonsmore/idstuff/source/qutils.txt
+
+
+Lots of confirmation of the july 02 1996 release.
+No confirmation of the June 27 release...
 
 
 
 
+### qutils.zip
+
+
+https://groups.google.com/g/fido.ger.spiele/c/V8go2Lt31aU/m/Lg2bkgngh30J
+
+carmack plan file
+
+
+> Sept 13:
+>
+> There is new source code available. ftp.idsoftware.com : /idstuff/source/qutils.zip has win-32 compiled versions and VC++ projects for all of the quake command line utilities.
+>
+> The qbsp/light/vis programs have not been tested all that well here, because we still use a dec alpha running unix for most of our work, but it has been converted from doubles to floats, which should reduce the memory requirements quite a bit (and possibly cause more numeric instabilities...).
+
+This date matches the final release of qutils.
+
+
+https://groups.google.com/g/relcom.archives/c/LaiINsjwS5s/m/4UEQAZ_XSt4J
+
+> #
+> # -- 355, 13-Sep-1996
+> read /mirrors/idsoft/idstuff/source/qutils.txt
+>
+> #
+> # -- 700k, 13-Sep-1996
+> get /mirrors/idsoft/idstuff/source/qutils.zip
+
+
+looks like the .tar.gz was removed later...
+
+
+
+https://groups.google.com/g/relcom.archives/c/OdfZraIXLHY/m/N98jNQ-kadkJ
+
+> #
+> # -- 355, 13-Sep-1996
+> read /mirrors/idsoft/tonsmore/idstuff/source/qutils.txt
+>
+> #
+> # -- 700k, 13-Sep-1996
+> get /mirrors/idsoft/tonsmore/idstuff/source/qutils.zip
+
+
+### qbsp_29.tar.gz
+
+
+https://groups.google.com/g/rec.games.computer.quake.editing/c/m_SOUEe39Mo/m/_dbg7CDn_HAJ
+
+> Frans P. de Vries July 25 1996
+>
+> John Carmack today released the Quake C compiler QCC, as well as an updated version (v29) of QBSP:
+> ftp://ftp.idsoftware.com/idstuff/source/qcc.tar.gz
+f> tp://ftp.idsoftware.com/idstuff/source/qbsp_29.tar.gz
+>
+> They have already been mirrored to the primary Quake archive:
+>
+> ftp://ftp.cdrom.com/pub/idgames2/idstuff/source/qcc.tar.gz
+> ftp://ftp.cdrom.com/pub/idgames2/idstuff/source/qbsp_29.tar.gz
+>
+> and should appear on all idgames[2] mirrors within a day or two.
+>
+> QCC includes a DOS executable, the source code of the compiler, lots of Quake C examples by way of the QC files for the monsters and various other items, and hardly any documentation ;) Hackers, eat your heart out! :-)
+
+
+released on the 25th
+
+
+https://groups.google.com/g/relcom.archives/c/oTFQtmcEnsU/m/1GOKiMp3nrQJ
+
+> #
+> # -- 386k, 26-Jul-1996
+> get /mirrors/idsoft/tonsmore/idstuff/source/qbsp_29.tar.gz
+>
+> #
+> # -- 5.3k, 26-Jul-1996
+> read /mirrors/idsoft/tonsmore/idstuff/source/qbsp_29.txt
+
+
+https://groups.google.com/g/relcom.archives/c/P1ML15kt8bU/m/XDS-pfsVPh4J
+
+
+> # -- DIR, 26-Jul-1996
+> # dir /mirrors/idsoft/idstuff/source
+>
+> #
+> # -- 386k, 26-Jul-1996
+> get /mirrors/idsoft/idstuff/source/qbsp_29.tar.gz
+>
+> #
+> # -- 5.3k, 26-Jul-1996
+> read /mirrors/idsoft/idstuff/source/qbsp_29.txt
+>
+> #
+> # -- 199k, 26-Jul-1996
+> get /mirrors/idsoft/idstuff/source/qcc.tar.gz
+>
+> #
+> # -- 3.0k, 26-Jul-1996
+> read /mirrors/idsoft/idstuff/source/qcc.txt
+
+
+
+
+https://groups.google.com/g/nctu.ccca.mirror/c/Y7A11OBaKvM/m/yHz0dc85IiwJ
+
+> 395,452 /PC/games/id/id-mirror/idstuff/source/qbsp_29.tar.gz
+> 2,479 /PC/games/id/id-mirror/idstuff/source/qbsp_29.txt
+> 1,532 /PC/games/id/id-mirror/idstuff/source/qcc.txt
+> 204,053 /PC/games/id/id-mirror/idstuff/source/qcc.tar.gz
+
+
+
+https://groups.google.com/g/relcom.archives/c/sGqPkAIlG64/m/9OTadMAzTKsJ
+
+> ----------------------------------------------------------
+> каталог /gamesdomain/idsoftware/source
+> ----------------------------------------------------------
+>
+> QuakeEd.tar.gz 394767 May-19-1996 * -
+> QuakeEd.txt 2232 May-19-1996 * -
+> qbsp_29.tar.gz 395452 Jul-25-1996 * -
+> qbsp_29.txt 5451 Jul-25-1996 * -
+> qcc.tar.gz 204053 Jul-25-1996 * -
+> qcc.txt 3081 Jul-25-1996 * -
+> qutils.tar.gz 30339 Jul-1-1996 * -
+> qutils.txt 1326 Jul-1-1996 * -
+> wolfsrc.txt 7276 Oct-19-1995 * -
+> wolfsrc.zip 576904 Oct-19-1995 * -
 
 
