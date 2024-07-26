@@ -136,7 +136,7 @@ Release Date | File | Description
 2022 Apr 20 | [quake-rerelease-qc-main3.zip](bin/quake-rerelease-qc-main3.zip) | Quake Remastered Updated 3 QuakeC Source Code.
 2022 Aug 18 | n/a | Quake Remastered Updated 4.
 2022 Aug 18 | [quake-rerelease-qc-main4.zip](bin/quake-rerelease-qc-main4.zip) | Quake Remastered Updated 4 QuakeC Source Code.
-
+2024 Jun 23 | [quake-sketches-adrianc-20240623-1.jpeg](bin/quake-sketches-adrianc-20240623-1.jpeg)<br>[quake-sketches-adrianc-20240623-2.jpeg](bin/quake-sketches-adrianc-20240623-2.jpeg)<br>[quake-sketches-adrianc-20240623-3.jpeg](bin/quake-sketches-adrianc-20240623-3.jpeg)<br>[quake-sketches-adrianc-20240623-4.jpeg](bin/quake-sketches-adrianc-20240623-4.jpeg) | Early Quake sketches by Adrian Carmack
 
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
