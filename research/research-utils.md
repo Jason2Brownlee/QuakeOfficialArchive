@@ -461,6 +461,26 @@ https://www.betaarchive.com/forum/viewtopic.php?t=22492&hilit=quake
 > * Quake Press Release (almost exactly the same as 0.8)
 
 
+Request for Quake 1.01 source and NextStep 3.3 Developer CD.
+https://www.betaarchive.com/forum/viewtopic.php?t=30195
+
+> This code was leaked back in 1997
+
+> By mere chance I had found this rare piece of gaming history. It was the source to the 1.01 build of Linux Quake. Dave Taylor was porting Quake to Linux and their (crack.com) web server was hacked. It was a notable incident. Now that the engine is OSS, I don't think it would be an issue to have though it is great for story telling.
+
+### Quake leak
+
+Infamous source leak of Linux Quake 1.01
+https://www.betaarchive.com/forum/viewtopic.php?t=22882
+
+> This is the source code to the Linux build of Quake 1.01 that Dave Taylor was porting. It was taken during an infamous server break in at Crack.com. Back in those days , this was a huge incident. The incident is mentioned in this interview (March of 1997)
+
+http://web.archive.org/web/20070711074820/http://voretimes.planetquake.gamespy.com/inter23.htm
+
+http://www.megaupload.com/?d=2G2297SE
+
+
+
 ### test1.map
 
 QuakeEd 1.2 upload/test1.map
@@ -545,3 +565,24 @@ don't know....
 ### beta 3
 
 https://quake.fandom.com/wiki/Beta3
+
+https://archive.org/download/quakeprototypes
+https://archive.org/download/quakeprototypes/Quake%20Prototypes/Quake/
+
+TEST1M.7z (View Contents)	17-Oct-2019 22:40	187.0K
+q1prerelease.zip (View Contents)	17-Oct-2019 22:39	20.9M
+qtest1.zip (View Contents)	17-Oct-2019 22:40	4.1M
+
+
+https://www.celephais.net/board/view_thread.php?id=60410
+
+
+TEST1M.7z
+	modified version of test level...
+	released after test1
+
+q1prerelease.zip
+	Quake BETA3
+	Tuesday, June 11th, 1996
+
+
