@@ -7,6 +7,8 @@ This is hard because it is July 1996, and internet archive started in this month
 
 ## Files
 
+* qbsp.tar.gz
+* qbsp.txt
 * qbsp_29.tar.gz
 * qbsp_29.txt
 * qutils.tar.gz
@@ -334,7 +336,7 @@ https://groups.google.com/g/relcom.archives/c/sGqPkAIlG64/m/9OTadMAzTKsJ
 > wolfsrc.zip 576904 Oct-19-1995 * -
 
 
-### qbsp_tar.gz
+### qbsp.tar.gz
 
 
 http://www.gamesmania.com/common/quake/qbsp_tar.gz
@@ -353,6 +355,60 @@ Date: Wed, 26 Jun 1996 20:39:02 +0100 (BST)
 
 ftp://ftp.idsoftware.com/idstuff/source/qbsp.tar.gz
 
+
+
+https://groups.google.com/g/rec.games.computer.quake.editing/c/XYbXm5qR-nk/m/Tm8piwydCH0J
+
+> /idstuff/source/qbsp.tar.gz.
+...
+> ftp://ftp.stomped.com/pub/quake_sw/level_editors/qbsp.zip, qbsp_nt.zip
+
+
+https://groups.google.com/g/relcom.games/c/5dinwt7y9jM/m/DPbvC1ZIJ7kJ
+
+> # dir /mirrors/idsoft/tonsmore/idstuff/source
+>
+> #
+> # -- 385k, 27-Jun-1996
+> get /mirrors/idsoft/tonsmore/idstuff/source/qbsp.tar.gz
+>
+> #
+> # -- 5.0k, 27-Jun-1996
+> read /mirrors/idsoft/tonsmore/idstuff/source/qbsp.txt
+
+
+
+https://groups.google.com/g/relcom.games/c/vz_KbGRbtQ4/m/vtAEvnIcWogJ
+
+> #
+> # -- DIR, 27-Jun-1996
+> # dir /mirrors/idsoft/idstuff/source
+>
+> #
+> # -- 385k, 27-Jun-1996
+> get /mirrors/idsoft/idstuff/source/qbsp.tar.gz
+>
+> #
+> # -- 5.0k, 27-Jun-1996
+> read /mirrors/idsoft/idstuff/source/qbsp.txt
+
+
+https://groups.google.com/g/rec.games.computer.quake.misc/c/10byqP-YgFs/m/y5n-tph74j4J
+
+> Jon Sprake
+> unread,
+> 28 June 1996, 5:00:00 pm
+> to
+> >The first level of qtest is available for Quake SW now. It's called dm1.bsp, and is
+> >available in the qbsp/vis/light source archive from id Software. Download it from
+> >ftp://ftp.idsoftware.com/idstuff/source/qbsp.tar.gz
+> Hurray...
+
+
+https://groups.google.com/g/nctu.ccca.mirror/c/4FNQFGdVgNE/m/DEPyxiRRHJkJ
+
+> 395,115 /PC/games/id/id-mirror/idstuff/source/qbsp.tar.gz
+> 2,373 /PC/games/id/id-mirror/idstuff/source/qbsp.txt
 
 
 ## Other
@@ -405,6 +461,22 @@ https://www.betaarchive.com/forum/viewtopic.php?t=22492&hilit=quake
 > * Quake Press Release (almost exactly the same as 0.8)
 
 
+### test1.map
+
+QuakeEd 1.2 upload/test1.map
+
+https://www.gamers.org/dEngine/quake/archive/current/0009.html
+
+> In addition, John Carmack released the test1.map source as used in
+the Quake qtest1 release. This offers every BSP builder out there
+a chance to compare the results on test1.map against the BSP file
+in qtest1.
+
+when was this released?
+
+http://www.gamers.org/dEngine/archive/
+
+https://www.gamers.org/dEngine/archive/QuakeEd/QuakeEd-1.2.map.tgz
 
 
 
