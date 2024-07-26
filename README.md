@@ -24,7 +24,7 @@ Release Date | File | Description
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip)<br>[q100-101.txt](bin/q100-101.txt) | Quake update v1.00-1.01.
-1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
+1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.zip](bin/qcc.zip)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
 1996 Jul 25 | qbsp_29.tar.gz | Updated QCC Compiler.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
