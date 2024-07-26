@@ -16,3 +16,11 @@ https://x.com/ACarmackArtist/status/1804646027514839495
 quake-sketches-adrianc-20240623-1.jpeg
 
 
+# Sun, 10 Sep 2023 04:52:39 GMT (UTC)
+
+https://www.linkedin.com/posts/adrian-carmack-43822492_quake-concepts-activity-7106499695778156544-r4CP?utm_source=share&utm_medium=member_desktop
+
+
+quake-sketches-adrianc-20230910-1.jpeg
+
+

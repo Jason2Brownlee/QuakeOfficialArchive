@@ -136,6 +136,7 @@ Release Date | File | Description
 2022 Apr 20 | [quake-rerelease-qc-main3.zip](bin/quake-rerelease-qc-main3.zip) | Quake Remastered Updated 3 QuakeC Source Code.
 2022 Aug 18 | n/a | Quake Remastered Updated 4.
 2022 Aug 18 | [quake-rerelease-qc-main4.zip](bin/quake-rerelease-qc-main4.zip) | Quake Remastered Updated 4 QuakeC Source Code.
+2023 Sep 10 | [quake-sketches-adrianc-20230910-1.jpeg](bin/quake-sketches-adrianc-20230910-1.jpeg)<br>[quake-sketches-adrianc-20230910-2.jpeg](bin/quake-sketches-adrianc-20230910-2.jpeg)<br>[quake-sketches-adrianc-20230910-3.jpeg](bin/quake-sketches-adrianc-20230910-3.jpeg)<br>[quake-sketches-adrianc-20230910-4.jpeg](bin/quake-sketches-adrianc-20230910-4.jpeg)<br>[quake-sketches-adrianc-20230910-5.jpeg](bin/quake-sketches-adrianc-20230910-5.jpeg)<br>[quake-sketches-adrianc-20230910-6.jpeg](bin/quake-sketches-adrianc-20230910-6.jpeg)<br>[quake-sketches-adrianc-20230910-7.jpeg](bin/quake-sketches-adrianc-20230910-7.jpeg)<br>[quake-sketches-adrianc-20230910-8.jpeg](bin/quake-sketches-adrianc-20230910-8.jpeg)<br> | Early Quake sketches by Adrian Carmack
 2024 Jun 23 | [quake-sketches-adrianc-20240623-1.jpeg](bin/quake-sketches-adrianc-20240623-1.jpeg)<br>[quake-sketches-adrianc-20240623-2.jpeg](bin/quake-sketches-adrianc-20240623-2.jpeg)<br>[quake-sketches-adrianc-20240623-3.jpeg](bin/quake-sketches-adrianc-20240623-3.jpeg)<br>[quake-sketches-adrianc-20240623-4.jpeg](bin/quake-sketches-adrianc-20240623-4.jpeg) | Early Quake sketches by Adrian Carmack
 
 
