@@ -478,5 +478,70 @@ http://www.gamers.org/dEngine/archive/
 
 https://www.gamers.org/dEngine/archive/QuakeEd/QuakeEd-1.2.map.tgz
 
+  3295  6 Jun  1996 johnc99.map
+671270  6 Jun  1996 jrbase1.map
+231833  7 Jun  1996 test1.map
+
+these are after quakeed was released and after utils were released...
 
 
+Quakeed:
+
+-rw-rw-rw-@ 1 jasonb  staff  671282 19 May  1996 jrbase1.map
+
+
+
+https://groups.google.com/g/rec.games.computer.quake.editing/c/B0cTu7Bz6tQ/m/5qZ1AUZdikAJ
+
+> 18 Apr 1996, 5:00:00 pm
+...
+> For example, in johnc99.map, why are 36 planes used to define a
+map with only 6 used surfaces? Why not simply define 6 planes
+and be done with it? Or am I missing something about this map?
+
+
+So, this file was available at least mid april....
+before quakeed..., after development cd
+
+
+https://quake.fandom.com/wiki/JOHNC99
+
+https://www.gamers.org/dEngine/quake/QDP/QPrimer.html
+
+johnc99.map
+
+Released with qtest1 are the test1/test2/test3 levels, but only the test1 MAP files is available.
+	not in test1.zip... or the pak
+
+
+https://www.gamers.org/dEngine/quake/QuakeEd/map_example.html
+
+
+Example from John Carmack (e-mail, april/04/96)
+Here is the contents of johnc99.map, a simple box room consisting of six brushes on the world (the entity #0), and three other entities without brushes ("info_player_start", "light", and "info_player_deathmatch"). Note that it takes six cubes (brushes or building blocks) to define on box volume, and each brush has six planes, the intersections of which define the surface of the brush.
+
+
+
+
+
+### qbsp29.zip
+
+https://www.quaddicted.com/files/idgames2/planetquake/thunder/bsp/qbsp29.zip
+
+just compiled files
+
+dates match though (24 Jul  1996), probably qbsp_29.tar.gz or a subset
+
+
+  59904 24 Jul  1996 BSPINFO.EXE
+  47104 24 Jul  1996 ENTMAP.EXE
+  86016 24 Jul  1996 LIGHT.EXE
+ 138752 24 Jul  1996 QBSP.EXE
+  87552 24 Jul  1996 VIS.EXE
+
+don't know....
+
+
+### beta 3
+
+https://quake.fandom.com/wiki/Beta3

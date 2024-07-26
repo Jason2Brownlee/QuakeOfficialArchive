@@ -16,6 +16,7 @@ Release Date | File | Description
 1996 Feb 24 | [qtest1.zip](bin/qtest1.zip)<br>[qtest1.txt](bin/qtest1.txt) | Quake Deathmatch Test v1.0.
 1996 Feb 26 | [linux_qtest1.tgz](bin/linux_qtest1.tgz)<br>[linux_qtest1.txt](bin/linux_qtest1.txt) | Linux Quake Deathmatch Test v1.0.
 1996 Mar 01 | [linux_qtest1a.tgz](bin/linux_qtest1a.tgz)<br>[linux_qtest1a.txt](bin/linux_qtest1a.txt) | Linux Quake Deathmatch Test v1.0a.
+1996 Apr 04 | [johnc99.map](bin/johnc99.map) | Sample .map by Jon Carmack
 1996 Apr 09 | n/a | Quake Development CD
 1996 May 19 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
