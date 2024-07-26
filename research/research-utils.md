@@ -334,3 +334,77 @@ https://groups.google.com/g/relcom.archives/c/sGqPkAIlG64/m/9OTadMAzTKsJ
 > wolfsrc.zip 576904 Oct-19-1995 * -
 
 
+### qbsp_tar.gz
+
+
+http://www.gamesmania.com/common/quake/qbsp_tar.gz
+
+content date is june 27
+
+
+date 27 June 1996
+
+I think this is the missing file...
+
+
+https://www.gamers.org/dEngine/quake/archive/current/0137.html
+
+Date: Wed, 26 Jun 1996 20:39:02 +0100 (BST)
+
+ftp://ftp.idsoftware.com/idstuff/source/qbsp.tar.gz
+
+
+
+## Other
+
+Maybe files are wrapped up in other releases, e.g. ports of tools
+
+
+### QUTILDOS
+
+https://www.quaddicted.com/files/idgames2/utils/graphics_edit/id_utils/qutildos.txt
+https://www.quaddicted.com/files/idgames2/utils/graphics_edit/id_utils/qutildos.zip
+
+qutildos.txt	1996-Jul-24 00:00:00	1.4K	text/plain
+qutildos.zip	1996-Jul-24 00:00:00	396.0K	application/zip
+
+So, this release uses stuff from the 1996 Jul 02 release of qutils.
+
+   0 27 Jul 07:24 DIRPACK.EXE
+   0 27 Jul 07:25 MODELGEN.EXE
+   0 27 Jul 07:25 QLUMPY.EXE
+1437 24 Jul  1996 QUTILDOS.TXT
+1341  2 Jul  1996 README.TXT
+   0 27 Jul 07:25 SPRGEN.EXE
+   0 27 Jul 07:25 TEXMAKE.EXE
+   0 27 Jul 07:25 UNPACK.EXE
+
+Contains a readme from carmack
+
+the readme is dated 2 Jul 1996
+
+on the mis utils from quake, not light and vis and stuff, the others.
+
+maybe the qutils.txt or a file within the release from that time.
+
+
+
+### Quake Development CD
+
+qutils/README.txt
+
+> Quake Development CD 9/4/96
+
+Maybe a copy of this cd was leaked....
+
+
+https://www.betaarchive.com/forum/viewtopic.php?t=22492&hilit=quake
+
+> * Qtest (or Qtest1)
+> * Quake 0.8 (called Beta3 in the readme. Probably a leftover from a previous version for Q&A)
+> * Quake Press Release (almost exactly the same as 0.8)
+
+
+
+
+
