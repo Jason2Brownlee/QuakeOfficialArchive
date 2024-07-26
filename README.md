@@ -22,13 +22,13 @@ Release Date | File | Description
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip)<br>[q100-101.txt](bin/q100-101.txt) | Quake update v1.00-1.01.
-1996 Jul ?? | qutils.zip<br>qutils.txt | Quake mapping tool binaries.
+1996 Jul ?? | qutils.zip<br>qutils.txt | Quake mapping tool source code.
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
-1996 Sep 13 | qutils.zip<br>qutils.txt | Quake mapping tool binaries.
+1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool source code.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | Quake Upgrade Disk for 3D Blaster PCI
 1996 Sep 30 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
@@ -38,7 +38,6 @@ Release Date | File | Description
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
 1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
-1996 Oct 14 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake mapping tool binaries.
 1996 Nov 11 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz)<br>[i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
 1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | Rendition Verite VQuake v1.06 beta 10.
