@@ -17,16 +17,18 @@ Release Date | File | Description
 1996 Feb 26 | [linux_qtest1.tgz](bin/linux_qtest1.tgz)<br>[linux_qtest1.txt](bin/linux_qtest1.txt) | Linux Quake Deathmatch Test v1.0.
 1996 Mar 01 | [linux_qtest1a.tgz](bin/linux_qtest1a.tgz)<br>[linux_qtest1a.txt](bin/linux_qtest1a.txt) | Linux Quake Deathmatch Test v1.0a.
 1996 Apr 09 | n/a | Quake Development CD
+1996 May 19 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
 1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
 1996 Jun 27 | qutils.tar.gz<br>qutils.txt | Quake mapping tool (QBSP/VIS/LIGHT) source code.
 1996 Jul 02 | qutils.zip<br>qutils.tar.gz<br>qutils.txt | Quake mapping tool source code.
+1996 Jul 05 | ? | Quake Linux 0.91
 1996 Jul 10 | [quake100.zip](bin/quake100.zip)<br>[QSW100_1.ZIP](bin/QSW100_1.ZIP)<br>[QSW100_2.ZIP](bin/QSW100_2.ZIP)<br>[QSW100_3.ZIP](bin/QSW100_3.ZIP)<br>[QSW100_4.ZIP](bin/QSW100_4.ZIP)<br>[QSW100_5.ZIP](bin/QSW100_5.ZIP)<br>[QSW100_6.ZIP](bin/QSW100_6.ZIP)<br>[QSW100_7.ZIP](bin/QSW100_7.ZIP)<br> | Quake Shareware v1.0.
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip)<br>[q100-101.txt](bin/q100-101.txt) | Quake update v1.00-1.01.
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.zip](bin/qcc.zip)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
-1996 Jul 25 | qbsp_29.tar.gz | Updated QCC Compiler.
+1996 Jul 25 | qbsp_29.tar.gz<br>qbsp_29.txt | Updated QCC and BSP Tools.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
@@ -40,7 +42,6 @@ Release Date | File | Description
 1996 Oct 07 | [qwded106.exe](bin/qwded106.exe)<br>[qwded106.txt](bin/qwded106.txt) | Win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
-1996 Oct 14 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
 1996 Nov 11 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz)<br>[i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
 1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | Rendition Verite VQuake v1.06 beta 10.
