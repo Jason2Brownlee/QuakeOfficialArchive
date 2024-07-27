@@ -421,6 +421,22 @@ https://groups.google.com/g/nctu.ccca.mirror/c/4FNQFGdVgNE/m/DEPyxiRRHJkJ
 > 2,373 /PC/games/id/id-mirror/idstuff/source/qbsp.txt
 
 
+
+
+
+
+https://www.quaddicted.com/files/idgames2/utils/level_edit/bsp_builders/qconvert.zip
+
+
+readme.txt
+
+has the right date, 28 june 1996
+last part is a copy-paste from the original
+
+
+
+
+
 ## Other
 
 Maybe files are wrapped up in other releases, e.g. ports of tools
