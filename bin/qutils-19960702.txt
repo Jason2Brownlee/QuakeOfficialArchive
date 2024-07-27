@@ -1,0 +1,15 @@
+Here are the miscellaneous utilities from quake:
+
+dirpack:  This collapses a directory hierarchy into a pak file.  We don't really use this anymore after the functionality was built into qcc.
+
+unpack:  Unpacks a pak file into a directory tree.  I don't think I ever used this, so I'm not even sure it works.  Trivial code, in any case.
+
+qlumpy: Grabs graphics off of lbm screens.  Has the colormap calculation code and the error-diffused mip map generation code.  It generates either individual files, or a combined wad file (barely used at all in Quake now).
+
+texmake:  Takes an alias/wavefront .tri file and generates a wireframe outline on an lbm page for artists to draw in.
+
+modelgen: Takes a directory of alias/wavefront .tri files for all of the animations of a character, combines with one or more skins colored over texmake frames, and outputs a .mdl file.  Modelgen parses the same source as qcc, so frame indexes keep their symbolic names when compiled into prog code.
+
+sprgen: Grabs sprite data.  We coded lots of ways for sprites to behave (allways perpendicular, pivot along Z to face origin, pivot on Z to be parallel to view plane, fixed orientation), but we wound up only having three sprites in the entire game:  explosions, drowning bubble, and a gold ball light in the registered version....
+
+John Carmack
