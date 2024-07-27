@@ -97,10 +97,9 @@ https://web.archive.org/web/19970204063238fw/http://bluesnews.com/files/qutils.z
 ## qutils.tar.gz
 
 27 june: bsp utils
-	no confirmation elsewhere of this yet...
-	no idea of what files
 2 july qutils.tar.gz and qutils.zip
-25 july qcc
+25 july qcc and bsp utils
+13 sep fin al utils
 
 https://groups.google.com/g/fido7.game.doom/c/-RwtQ-1o3lk/m/KSikAEq9Bl8J
 
@@ -201,7 +200,7 @@ https://groups.google.com/g/relcom.games/c/WqbJHOyIAYw/m/cMhxZGhRi6oJ
 
 
 Lots of confirmation of the july 02 1996 release.
-No confirmation of the June 27 release...
+
 
 
 
