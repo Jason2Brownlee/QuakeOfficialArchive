@@ -252,6 +252,16 @@ https://groups.google.com/g/relcom.archives/c/OdfZraIXLHY/m/N98jNQ-kadkJ
 ### qbsp_29.tar.gz
 
 
+qbsp_dos.zip
+
+README.TXT
+
+has the right date (jul 25 1996)
+has the right content
+
+I believe this is qbsp_29.txt
+
+
 https://groups.google.com/g/rec.games.computer.quake.editing/c/m_SOUEe39Mo/m/_dbg7CDn_HAJ
 
 > Frans P. de Vries July 25 1996
@@ -481,6 +491,8 @@ http://www.megaupload.com/?d=2G2297SE
 
 
 
+
+
 ### test1.map
 
 QuakeEd 1.2 upload/test1.map
@@ -584,5 +596,40 @@ TEST1M.7z
 q1prerelease.zip
 	Quake BETA3
 	Tuesday, June 11th, 1996
+
+
+### other sources
+
+https://valvearchive.com/archive/.id/Quake/Source%20Files/
+
+folder
+GFX Elements
+2020-08-11 09:45
+file
+DM8.MAP
+1996-09-05 08:0126 KB
+ar-zip
+QBOOTS.ZIP
+2018-03-22 11:372 KB
+ar-zip
+QTEX2.ZIP
+2018-03-22 11:37436 KB
+ar-zip
+QTEX.ZIP
+2018-03-22 11:387.4 MB
+ar-zip
+quake_map_source.zip
+
+
+### Quake alpha
+
+https://www.quaddicted.com/forum/viewtopic.php?id=644
+https://discuss.quaddicted.com/t/quake-alpha-version-from-1995/2593/69
+
+fake
+
+https://www.betaarchive.com/forum/viewtopic.php?t=1011
+	https://web.archive.org/web/20060309002533/http://www.quaketerminus.com/tools/qtest1.zip
+	nope, it's the quake1 test
 
 

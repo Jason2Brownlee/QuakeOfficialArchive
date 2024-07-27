@@ -19,7 +19,7 @@ Release Date | File | Description
 1996 Apr 04 | [johnc99.map](bin/johnc99.map) | Sample .map by Jon Carmack
 1996 Apr 09 | n/a | Quake Development CD
 1996 May 19 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | Quake map editor.
-1996 Jun 11 | n/a | Quake BETA3
+1996 Jun 11 | n/a | Quake Beta 0.8 aka BETA3 (leak)
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
 1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
 1996 Jun 27 | [qbsp.tar.gz](bin/qbsp.tar.gz)<br>qbsp.txt | Quake mapping tool (QBSP/VIS/LIGHT) source code.
@@ -30,7 +30,7 @@ Release Date | File | Description
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip)<br>[q100-101.txt](bin/q100-101.txt) | Quake update v1.00-1.01.
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.zip](bin/qcc.zip)<br>[qcc.txt](bin/qcc.txt) | QCC source and QuakeC source v1.01.
-1996 Jul 25 | qbsp_29.tar.gz<br>qbsp_29.txt | Updated QCC and BSP Tools.
+1996 Jul 25 | qbsp_29.tar.gz<br>[qbsp_29.txt](bin/qbsp_29.txt) | Updated QCC and BSP Tools.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
