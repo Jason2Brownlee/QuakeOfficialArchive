@@ -508,7 +508,7 @@ http://www.megaupload.com/?d=2G2297SE
 
 
 
-### test1.map
+### Quake .map files
 
 QuakeEd 1.2 upload/test1.map
 

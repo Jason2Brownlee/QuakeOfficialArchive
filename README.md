@@ -24,7 +24,7 @@ Release Date | File | Description
 1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
 1996 Jun 27 | [qbsp.tar.gz](bin/qbsp.tar.gz)<br>[qbsp.txt](bin/qbsp.txt) | Quake mapping tool (QBSP/VIS/LIGHT) source code.
 1996 Jul 02 | qutils.tar.gz<br>qutils.txt | Quake mapping tool source code.
-1996 Jul 05 | ? | Quake Linux 0.91
+1996 Jul 05 | [intel_linux_quake091.tgz](bin/intel_linux_quake091.tgz) | Quake Linux 0.91
 1996 Jul 10 | [quake100.zip](bin/quake100.zip)<br>[QSW100_1.ZIP](bin/QSW100_1.ZIP)<br>[QSW100_2.ZIP](bin/QSW100_2.ZIP)<br>[QSW100_3.ZIP](bin/QSW100_3.ZIP)<br>[QSW100_4.ZIP](bin/QSW100_4.ZIP)<br>[QSW100_5.ZIP](bin/QSW100_5.ZIP)<br>[QSW100_6.ZIP](bin/QSW100_6.ZIP)<br>[QSW100_7.ZIP](bin/QSW100_7.ZIP)<br> | Quake Shareware v1.0.
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
