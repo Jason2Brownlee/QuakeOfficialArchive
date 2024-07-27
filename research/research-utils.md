@@ -77,6 +77,12 @@ ftp://206.86.8.31/idstuff/source/
 https://www.bluesnews.com/archives/qcc.txt
 
 
+> ==July 10== 11:00p.m. CDT
+>
+> The Linux version of Quake .91 is available here and was ported by Dave Taylor, one of the former geniuses of id software and now working for Crack Dot Com in Austin, Texas.
+
+https://web.archive.org/web/19970327201029/ftp://ftp.lek.net/pub/linux/quake/intel_linux_quake091.tgz
+
 ### Files
 
 https://web.archive.org/web/19970204063238fw/http://bluesnews.com/q-files.html
@@ -90,6 +96,20 @@ https://web.archive.org/web/19970204063238fw/http://bluesnews.com/files/qcc.tar.
 
 https://web.archive.org/web/19970204063238fw/http://bluesnews.com/files/qutils.txt
 https://web.archive.org/web/19970204063238fw/http://bluesnews.com/files/qutils.zip
+
+
+
+
+## Redwood
+
+
+> ==July 2== 11:00p.m. CDT
+>
+> 8:30a.m.
+> id has released more Quake utils on their ftp site in /idstuff/source/qutils.tar.gz. Read the text file here. Those trying to reach Stomped, try ns.stomped.com.
+
+https://web.archive.org/web/19970327201029/ftp://ftp.idsoftware.com/idstuff/source/qutils.tar.gz
+https://web.archive.org/web/19970327201029/http://redwood.gatsbyhouse.com/quake/quake/qutils.txt
 
 
 ## Usenet
@@ -648,3 +668,15 @@ https://www.betaarchive.com/forum/viewtopic.php?t=1011
 	nope, it's the quake1 test
 
 
+### Linux quake
+
+https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/games/quake/INDEX.short.html
+
+https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/games/quake/intel_linux_quake091.tgz
+
+
+https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/games/quake/qutils-adb.1.0.tar.gz
+this is the source and re-compiled qutils
+the readme is a match
+
+qutils-19960702.txt

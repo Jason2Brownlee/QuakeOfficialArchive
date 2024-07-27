@@ -122,6 +122,7 @@ Release Date | File | Description
 1999 Dec 21 | [q1source.zip](bin/q1source.zip)<br>[q1source.txt](bin/q1source.txt) | Win/Glquake and Quakeworld source (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz)<br>[qw-qc.tar.txt](bin/qw-qc.tar.txt) | Quakeworld QuakeC source code (GPL).
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QuakeC Source v1.01 and tools (GPL).
+2001 Jun 24 | [e2m10.zip](bin/e2m10.zip) | Lost Entrance of the Dismal Oubliette - BSP and MAP for e2m10 (Romero)
 2006 Oct 11 | [quake_map_source.zip](bin/quake_map_source.zip) | Quake map source files (Romero).
 2010 Feb 20 | [e1m1_map_sketch.jpeg](bin/e1m1_map_sketch.jpeg)<br>[E1m1_notes_intro.jpg](bin/E1m1_notes_intro.jpg)<br>[E1m1_notes_intro2.jpg](bin/E1m1_notes_intro2.jpg)<br>[E1m1_notes_lights_keys.jpg](bin/E1m1_notes_lights_keys.jpg) | Sketches of e1m1 map (Romero).
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
