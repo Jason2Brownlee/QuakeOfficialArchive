@@ -633,6 +633,19 @@ q1prerelease.zip
 	Tuesday, June 11th, 1996
 
 
+https://www.betaarchive.com/database/search.php?q=quake
+
+Quake (0.8) (1996-06-11) (beta3)	Beta	Games	PC	1970/01/01	Anonymous	47.86 MB
+Quake (0.8) (1996-06-11) (beta3) [Press]	Beta	Games	PC	2018/04/01	T02my	47.86 MB
+
+
+https://www.moddb.com/games/quake/downloads/quake-1-prerelease
+	q1prerelease.zip
+
+https://archive.org/details/QuakeBetaPlaythrough
+	videos
+
+
 ### other sources
 
 https://valvearchive.com/archive/.id/Quake/Source%20Files/
