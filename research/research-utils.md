@@ -551,31 +551,6 @@ qutils/README.txt
 Maybe a copy of this cd was leaked....
 
 
-https://www.betaarchive.com/forum/viewtopic.php?t=22492&hilit=quake
-
-> * Qtest (or Qtest1)
-> * Quake 0.8 (called Beta3 in the readme. Probably a leftover from a previous version for Q&A)
-> * Quake Press Release (almost exactly the same as 0.8)
-
-
-Request for Quake 1.01 source and NextStep 3.3 Developer CD.
-https://www.betaarchive.com/forum/viewtopic.php?t=30195
-
-> This code was leaked back in 1997
-
-> By mere chance I had found this rare piece of gaming history. It was the source to the 1.01 build of Linux Quake. Dave Taylor was porting Quake to Linux and their (crack.com) web server was hacked. It was a notable incident. Now that the engine is OSS, I don't think it would be an issue to have though it is great for story telling.
-
-### Quake leak
-
-Infamous source leak of Linux Quake 1.01
-https://www.betaarchive.com/forum/viewtopic.php?t=22882
-
-> This is the source code to the Linux build of Quake 1.01 that Dave Taylor was porting. It was taken during an infamous server break in at Crack.com. Back in those days , this was a huge incident. The incident is mentioned in this interview (March of 1997)
-
-http://web.archive.org/web/20070711074820/http://voretimes.planetquake.gamespy.com/inter23.htm
-
-http://www.megaupload.com/?d=2G2297SE
-
 
 
 
@@ -661,41 +636,6 @@ dates match though (24 Jul  1996), probably qbsp_29.tar.gz or a subset
 don't know....
 
 
-### beta 3
-
-https://quake.fandom.com/wiki/Beta3
-
-https://archive.org/download/quakeprototypes
-https://archive.org/download/quakeprototypes/Quake%20Prototypes/Quake/
-
-TEST1M.7z (View Contents)	17-Oct-2019 22:40	187.0K
-q1prerelease.zip (View Contents)	17-Oct-2019 22:39	20.9M
-qtest1.zip (View Contents)	17-Oct-2019 22:40	4.1M
-
-
-https://www.celephais.net/board/view_thread.php?id=60410
-
-
-TEST1M.7z
-	modified version of test level...
-	released after test1
-
-q1prerelease.zip
-	Quake BETA3
-	Tuesday, June 11th, 1996
-
-
-https://www.betaarchive.com/database/search.php?q=quake
-
-Quake (0.8) (1996-06-11) (beta3)	Beta	Games	PC	1970/01/01	Anonymous	47.86 MB
-Quake (0.8) (1996-06-11) (beta3) [Press]	Beta	Games	PC	2018/04/01	T02my	47.86 MB
-
-
-https://www.moddb.com/games/quake/downloads/quake-1-prerelease
-	q1prerelease.zip
-
-https://archive.org/details/QuakeBetaPlaythrough
-	videos
 
 
 ### other sources
@@ -721,16 +661,6 @@ ar-zip
 quake_map_source.zip
 
 
-### Quake alpha
-
-https://www.quaddicted.com/forum/viewtopic.php?id=644
-https://discuss.quaddicted.com/t/quake-alpha-version-from-1995/2593/69
-
-fake
-
-https://www.betaarchive.com/forum/viewtopic.php?t=1011
-	https://web.archive.org/web/20060309002533/http://www.quaketerminus.com/tools/qtest1.zip
-	nope, it's the quake1 test
 
 
 ### Linux quake
@@ -745,3 +675,4 @@ this is the source and re-compiled qutils
 the readme is a match
 
 qutils-19960702.txt
+
