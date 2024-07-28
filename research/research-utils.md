@@ -223,6 +223,58 @@ Lots of confirmation of the july 02 1996 release.
 
 
 
+https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/games/quake/qutils-adb.1.0.tar.gz
+
+so this has many of the files from the release un-modified
+some were modified to make them compile on linux
+the readme is original
+
+note "2 Jul  1996" in:
+
+
+ 1623  2 Jul  1996 fatso.c
+ 4832  2 Jul  1996 qlumpy.c
+ 1345  2 Jul  1996 pakpatch.c
+24669  2 Jul  1996 modelgen.c
+ 2516  2 Jul  1996 mathlib.c
+10031  2 Jul  1996 lbmlib.c
+ 3857  2 Jul  1996 trilib.c
+ 7447  2 Jul  1996 texmake.c
+ 9900  2 Jul  1996 sprgen.c
+ 2896  2 Jul  1996 scriplib.c
+ 8692  2 Jul  1996 quakegrb.c
+ 2403  2 Jul  1996 unpack.c
+  313  2 Jul  1996 qlumpy.h
+ 2282  2 Jul  1996 modelgen.h
+ 1011  2 Jul  1996 mathlib.h
+  651  2 Jul  1996 lbmlib.h
+ 5565  2 Jul  1996 anorms.h
+ 1089  2 Jul  1996 wadlib.h
+  283  2 Jul  1996 trilib.h
+ 2016  2 Jul  1996 spritegn.h
+  368  2 Jul  1996 scriplib.h
+ 1326  2 Jul  1996 readme.txt
+ 2097  7 Jul  1996 dirpack.c
+ 5543  7 Jul  1996 wadlib.c
+ 8625  7 Jul  1996 cmdlib.c
+ 1647  7 Jul  1996 cmdlib.h
+ 1661  7 Jul  1996 Makefile
+ 1475  8 Jul  1996 README.adb
+22727  8 Jul  1996 qlumpy
+10701  8 Jul  1996 dirpack
+21026  8 Jul  1996 texmake
+31480  8 Jul  1996 modelgen
+19524  8 Jul  1996 sprgen
+10768  8 Jul  1996 unpack
+  605  8 Jul  1996 qutils-adb.1.0.lsm
+
+good to note this...
+
+https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/games/quake/qutils-adb.1.0.lsm
+
+Original-site:  ftp.idsoftware.com /idstuff/source
+		29kB qutils.tar.gz
+
 
 
 ### qutils.zip
