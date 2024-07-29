@@ -375,8 +375,57 @@ https://archive.is/jgzqr
 ...
 > The hackers, who identified themselves as being from the group FEH ...
 
+Happened on the 8th of jan 1997
 
-Happened on the 8th of jan 1997?
+
+
+Linux Quake Port
+https://academickids.com/encyclopedia/index.php/Linux_Quake_Port
+
+> Shortly after, crackers who had compromised Crack dot Com's server stumbled upon the virgin Quake source and copied it, distributing it among the Quake community underground. Dave Taylor reacted to the news by threatening legal action in Quake community IRC hangouts.
+
+...
+
+> Linux enthusiast Greg Alexander happened upon the Quake source, saw that someone had begun the underpinnings of a more serious Linux Quake port to SVGAlib and decided to complete it himself. In 24 hours, Quake was running on Linux. In spite of Dave Taylor's intent to prosecute, Alexander submitted the patches to John Carmack, lead programmer of id Software.
+
+
+Leaked Engines and SDK (CE, UE, Unigine, XT, Source, GFX)
+https://groups.google.com/g/vatilibac/c/xK8GMgH9n8s/m/fdTkNI4bAAAJ
+
+> An SVGALib version was also later produced by Greg Alexander in 1997 using recently leaked source code, but was later mainlined by id.[34] Later id products continued to be ported by Zoid Kirsch[35] and Timothee Besset,[36] a practice that continued until the studio's acquisition by ZeniMax Media in 2009
+
+
+AmigaQuake musings
+https://groups.google.com/g/comp.sys.amiga.games/c/rLLOujjlwwI/m/RJeUj76johIJ
+
+
+> Here is the story of the game, as far as I can tell. Basically Quake
+> was ported to Linux. AFAIK, there exist binaries for linux i386, and
+> for Linux/Alpha(! <- gotta get that one). From what I understand,
+> somehow, the sourcecode for this version of Quake called xquake was
+> leaked from crackdotcom. Apparently there is a relation between
+> crackdotcom (www.crack.dom) and id software, but I am not sure what it
+> is :)
+>
+> Anyway, someone got ahold of these sources and ported them to the
+> Amiga! Which is why you are playing the game on your Amiga today!
+> The person that ported the code is now working on recoding the display
+> engine in assembly! This is undeniably cool. I mean, it runs at a
+> respectable pace on my computer now (admittedly, at the moment, you
+> would be hard pressed to find a faster computer, though). If the
+> re-code works out, this could turn out to be a REALLY awesome port!
+
+
+
+https://groups.google.com/g/z-netz.rechner.amiga.spiele/c/VtCGnrKG7Z4/m/EyFol5zki5EJ
+
+> Yes, we did have a functional port of QUAKE done on the Amiga.
+> Yes we did use source code the was not obtained legally. We
+> wernt the ones to actually steal the code from crack.com blame
+> some lamer PC group for that blunder, BUT yes we did use what
+> can be called 'stolen source code'...
+
+
 
 ## Quake arcade version
 
@@ -387,3 +436,9 @@ https://www.quaddicted.com/quake/quake_arcade_tournament_edition
 
 
 
+## Quake GBA
+
+Quake (USA) (Prototype)
+https://web.archive.org/web/20220609140714/https://forestillusion.com/2022/quake-usa-prototype
+
+https://web.archive.org/web/20220609140714/https://forestillusion.com/dumps/Nintendo%20Game%20Boy%20Advance/Quake%20%28USA%29%20%28Prototype%29/BOBBEE_TEC_ABTE.zip
