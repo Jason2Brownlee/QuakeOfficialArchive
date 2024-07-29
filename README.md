@@ -130,7 +130,7 @@ Release Date | File | Description
 2010 Aug 14 | [e2m3_map_sketch.jpeg](bin/e2m3_map_sketch.jpeg) | Sketch of e2m3 map (Romero).
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
-2021 Jun 11 | [Quake1_JRomero_PenultimateQuake.jpg](bin/Quake1_JRomero_PenultimateQuake.jpg) | Sketch of Quake episode layout.
+2021 Jun 11 | [Quake1_JRomero_PenultimateQuake.jpg](bin/Quake1_JRomero_PenultimateQuake.jpg) | Sketch of Quake episode layout (Romero).
 2021 Aug 19 | n/a | Quake Remastered.
 2021 Oct 07 | n/a | Quake Remastered Update 1.
 2021 Dec 02 | n/a | Quake Remastered Update 2 (v1.05).
@@ -139,9 +139,9 @@ Release Date | File | Description
 2022 Apr 20 | [quake-rerelease-qc-main3.zip](bin/quake-rerelease-qc-main3.zip) | Quake Remastered Update 3 QuakeC Source Code.
 2022 Aug 18 | n/a | Quake Remastered Update 4.
 2022 Aug 18 | [quake-rerelease-qc-main4.zip](bin/quake-rerelease-qc-main4.zip) | Quake Remastered Update 4 QuakeC Source Code.
-2022 Dec 18 | [quake-sketches-adrianc-20221218-1.jpeg](bin/quake-sketches-adrianc-20221218-1.jpeg)<br>[quake-sketches-adrianc-20221218-2.jpeg](bin/quake-sketches-adrianc-20221218-2.jpeg)<br>[quake-sketches-adrianc-20221218-3.jpeg](bin/quake-sketches-adrianc-20221218-3.jpeg)<br>[quake-sketches-adrianc-20221218-4.jpeg](bin/quake-sketches-adrianc-20221218-4.jpeg) | Early Quake sketches by Adrian Carmack
-2023 Sep 10 | [quake-sketches-adrianc-20230910-1.jpeg](bin/quake-sketches-adrianc-20230910-1.jpeg)<br>[quake-sketches-adrianc-20230910-2.jpeg](bin/quake-sketches-adrianc-20230910-2.jpeg)<br>[quake-sketches-adrianc-20230910-3.jpeg](bin/quake-sketches-adrianc-20230910-3.jpeg)<br>[quake-sketches-adrianc-20230910-4.jpeg](bin/quake-sketches-adrianc-20230910-4.jpeg)<br>[quake-sketches-adrianc-20230910-5.jpeg](bin/quake-sketches-adrianc-20230910-5.jpeg)<br>[quake-sketches-adrianc-20230910-6.jpeg](bin/quake-sketches-adrianc-20230910-6.jpeg)<br>[quake-sketches-adrianc-20230910-7.jpeg](bin/quake-sketches-adrianc-20230910-7.jpeg)<br>[quake-sketches-adrianc-20230910-8.jpeg](bin/quake-sketches-adrianc-20230910-8.jpeg) | Early Quake sketches by Adrian Carmack
-2024 Jun 23 | [quake-sketches-adrianc-20240623-1.jpeg](bin/quake-sketches-adrianc-20240623-1.jpeg)<br>[quake-sketches-adrianc-20240623-2.jpeg](bin/quake-sketches-adrianc-20240623-2.jpeg)<br>[quake-sketches-adrianc-20240623-3.jpeg](bin/quake-sketches-adrianc-20240623-3.jpeg)<br>[quake-sketches-adrianc-20240623-4.jpeg](bin/quake-sketches-adrianc-20240623-4.jpeg) | Early Quake sketches by Adrian Carmack
+2022 Dec 18 | [quake-sketches-adrianc-20221218-1.jpeg](bin/quake-sketches-adrianc-20221218-1.jpeg)<br>[quake-sketches-adrianc-20221218-2.jpeg](bin/quake-sketches-adrianc-20221218-2.jpeg)<br>[quake-sketches-adrianc-20221218-3.jpeg](bin/quake-sketches-adrianc-20221218-3.jpeg)<br>[quake-sketches-adrianc-20221218-4.jpeg](bin/quake-sketches-adrianc-20221218-4.jpeg) | Early Quake sketches (Adrian Carmack).
+2023 Sep 10 | [quake-sketches-adrianc-20230910-1.jpeg](bin/quake-sketches-adrianc-20230910-1.jpeg)<br>[quake-sketches-adrianc-20230910-2.jpeg](bin/quake-sketches-adrianc-20230910-2.jpeg)<br>[quake-sketches-adrianc-20230910-3.jpeg](bin/quake-sketches-adrianc-20230910-3.jpeg)<br>[quake-sketches-adrianc-20230910-4.jpeg](bin/quake-sketches-adrianc-20230910-4.jpeg)<br>[quake-sketches-adrianc-20230910-5.jpeg](bin/quake-sketches-adrianc-20230910-5.jpeg)<br>[quake-sketches-adrianc-20230910-6.jpeg](bin/quake-sketches-adrianc-20230910-6.jpeg)<br>[quake-sketches-adrianc-20230910-7.jpeg](bin/quake-sketches-adrianc-20230910-7.jpeg)<br>[quake-sketches-adrianc-20230910-8.jpeg](bin/quake-sketches-adrianc-20230910-8.jpeg) | Early Quake sketches (Adrian Carmack).
+2024 Jun 23 | [quake-sketches-adrianc-20240623-1.jpeg](bin/quake-sketches-adrianc-20240623-1.jpeg)<br>[quake-sketches-adrianc-20240623-2.jpeg](bin/quake-sketches-adrianc-20240623-2.jpeg)<br>[quake-sketches-adrianc-20240623-3.jpeg](bin/quake-sketches-adrianc-20240623-3.jpeg)<br>[quake-sketches-adrianc-20240623-4.jpeg](bin/quake-sketches-adrianc-20240623-4.jpeg) | Early Quake sketches (Adrian Carmack).
 
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
