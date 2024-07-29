@@ -1,16 +1,18 @@
 Quake Leaks
 ===========
 
-I don't endorse or want these leaks.
+We don't endorse or want these leaks.
 
-I just want to know what was leaked and when for a complete history.
+We intentionally do not host any leaked material in this archive!
+
+We just want to know what was leaked and when for a complete history.
 
 What do we know?
 
 * quake alpha leak (fake)
 * quake beta3 leak (real), june 10/11 1996
-* quake press leak (real) june 22 1996
-* quake source leak (real), ???
+* quake pre-release leak (real) june 22 1996
+* quake source leak (real), jan 08 1997
 
 
 
@@ -354,9 +356,34 @@ https://en.wikipedia.org/wiki/Quake_(video_game)
 
 
 
+### Various
+
+Building a Retro Linux Gaming Computer - Part 27: Lost Souls
+https://www.gamingonlinux.com/2023/02/building-a-retro-linux-gaming-computer-part-27-lost-souls/
+
+> Dave Taylor only ported the game to X11, but thanks to the Quake source code being stolen from the Crack dot Com server, coder Greg Alexander was able to finish a port to SVGALib in just twenty four hours.
+>
+> Alexander even had the chutzpah to submit the patches to John Carmack, who graciously accepted them without the threat of legal action.
+
+
+Hackers Hack Crack, Steal Quake
+JAN 10, 1997 8:00 PM
+https://www.wired.com/1997/01/hackers-hack-crack-steal-quake/
+https://archive.is/jgzqr
+
+> HACKERS BROKE INTO the Web server and file server of Crack dot Com, a Texas gaming company, on Wednesday, stealing the source code for id's Quake 1.01, as well as Crack's newest project, Golgatha, and older games Abuse and Mac Abuse.
+...
+> The hackers, who identified themselves as being from the group FEH ...
+
+
+Happened on the 8th of jan 1997?
+
 ## Quake arcade version
 
 was this leaked?
 
 Quake Arcade Tournament Edition
 https://www.quaddicted.com/quake/quake_arcade_tournament_edition
+
+
+
