@@ -166,3 +166,36 @@ https://web.archive.org/web/19970327201041/http://redwood.gatsbyhouse.com/quake/
 
 ==June 20== 3:00p.m. CDT
 I put the Quake True Type Font here for download. It's also on ftp.idsoftware.com and it's mirrors in /imagery.
+
+
+https://groups.google.com/g/relcom.archives/c/sGqPkAIlG64/m/9OTadMAzTKsJ
+
+----------------------------------------------------------
+каталог /gamesdomain/idsoftware/imagery
+----------------------------------------------------------
+
+qdigi.jpg 675943 Jul-18-1996 * -
+qgraphics.zip 409475 Jun-19-1996 * -
+qpaper.tif 1466403 Jun-19-1996 * -
+
+
+https://groups.google.com/g/relcom.archives/c/aHIozJsUOUg/m/ZSZ6WRQva-IJ
+
+#
+# -- DIR, 25-Jun-1996
+# dir /mirrors/idsoft/tonsmore/idstuff/imagery
+
+#
+# -- 9.0k, 23-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qdigi.jpg
+
+#
+# -- 399k, 20-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qgraphics.zip
+
+#
+# -- 1.3M, 20-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qpaper.tif
+
+
+June 20| qpaper.tif | Quake Logo

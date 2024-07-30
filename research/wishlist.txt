@@ -1,5 +1,14 @@
 # file wishlist
 
+# quake imagery
+qdigi.jpg
+
+# quake development
+qbsp_29.tar.gz
+qbsp_29.zip
+qutils.tar.gz
+
+
 deathpack1.zip
 qw233.zip
 qwcl0809.zip
@@ -75,3 +84,5 @@ quake107.exe
 
 # alt q1test...
 QUAKETST.ZIP
+
+
