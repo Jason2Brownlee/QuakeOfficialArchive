@@ -125,3 +125,44 @@ https://www.classicdosgames.com/forum/viewtopic.php?f=6&t=639
 consider all sgi ports:
 https://web.archive.org/web/19970526005454/http://reality.sgi.com/sgiquake/
 
+
+Another quake files project
+http://3rd.quakeworld.nl/filesmissing.html
+http://3rd.quakeworld.nl/files.html
+
+
+
+FONT
+
+qgraphics.zip
+
+https://web.archive.org/web/19970101093400/http://gamers.org/pub/games/idgames/idstuff/imagery/qgraphics.zip
+
+18 june 1996?
+official?
+
+https://groups.google.com/g/rec.games.computer.quake.misc/c/PeZmhNmwoZs/m/onv1wYJ76csJ
+
+ok, you wanted it so here it is:
+
+ftp://ftp.idsoftware.com/idstuff/imagery/qgraphics.zip
+
+That zip file contains the Quake FONT and some other stuff.
+while your at it, take alook at:
+
+https://groups.google.com/g/rec.games.computer.quake.misc/c/GH_sMwXIe78/m/BvoxfImbuhsJ
+
+The truetype font is available as part of a package at
+ftp://ftp.idsoftware.com/idstuff/imagery/qgraphics.zip.
+
+
+https://web.archive.org/web/19970204063238fw_/http://bluesnews.com/q-files.html
+
+Quake True-Type Font	Like the web page starter kit.	qttfont.zip (11 KB)
+
+https://web.archive.org/web/19970327201041/http://redwood.gatsbyhouse.com/quake/696.html
+
+
+
+==June 20== 3:00p.m. CDT
+I put the Quake True Type Font here for download. It's also on ftp.idsoftware.com and it's mirrors in /imagery.

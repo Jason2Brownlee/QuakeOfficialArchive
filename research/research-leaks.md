@@ -733,6 +733,13 @@ latest date is jan 20
 matches the wired article date of the leak...
 
 
+Crack dot Com
+https://en.wikipedia.org/wiki/Crack_dot_Com
+
+> The company experienced a setback on January 13, 1997[5] when their file server was broken into by way of their web server,[6] and the source code to Golgotha and also the Quake engine they had licensed from id was stolen.[7] This did result in a number of unofficial ports for Quake, including an SVGAlib version for Linux that was later mainlined by id,[8] as well as unauthorized ports to OS/2, Amiga, Java VMs, and Mac OS.[9] The source code for both Quake and Golgotha were later legally released.[10]
+
+
+
 ### Greg Alexander
 
 galexand@sietch.bloomington.in.us
