@@ -56,11 +56,11 @@ Release Date | File | Description
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Willits).
 1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Skins Pack 1.
 1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | Rendition Verite VQuake v1.06 beta 12.
-1997 Jan 08 | n/a | Quake v1.01 Source Code (leak)
+1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip)<br>[glquake1.txt](bin/glquake1.txt) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
-1997 Feb 10 | [wq0991.zip](bin/wq0991.zips) | WinQuake client v0.991.
+1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Skins Pack 2.
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z) | SGI Quake.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
