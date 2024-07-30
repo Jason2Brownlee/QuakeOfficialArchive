@@ -8,7 +8,7 @@ qbsp_29.tar.gz
 qbsp_29.zip
 qutils.tar.gz
 
-
+# real and missing
 deathpack1.zip
 qw233.zip
 qwcl0809.zip
@@ -81,6 +81,10 @@ unixded-1.1-i386-unknown-bsdi3.0.tar.gz
 # may or may not be real
 quake107.zip
 quake107.exe
+quake094.zip
+qwded104_2.exe
+quake105.exe
+qw0809ng.zip
 
 # alt q1test...
 QUAKETST.ZIP

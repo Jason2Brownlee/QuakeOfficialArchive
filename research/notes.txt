@@ -199,3 +199,43 @@ get /mirrors/idsoft/tonsmore/idstuff/imagery/qpaper.tif
 
 
 June 20| qpaper.tif | Quake Logo
+
+
+https://web.archive.org/web/19961231231339/http://gamers.org/pub/games/idgames/idstuff/imagery/
+https://web.archive.org/web/19970105171741/http://gamers.org/pub/3dgamers/00archives/doom/addons/idstuff/imagery/
+
+
+
+quake105.exe
+just 	q105beta.zip I believe
+
+
+https://groups.google.com/g/tw.bbs.rec.pcgame/c/JA6dlH_BCss/m/tysMVhBMSWwJ
+
+China wrote:
+>
+> When I execute Q95.bat under Win95, loading(quake loading for tcp/ip)
+> Halfway through, an error message appeared at the bottom of the MS-dos window, probably:
+>............................
+> .......page fault = ...........
+>Then the display of some memory addresses...
+>
+> At this point, it stopped and the game cannot be executed!!!!!
+> I wonder if any netizens have encountered the same problem and how to solve it?
+>Save me!..........sos..........sos..........
+> --
+> ☆ [Origin: ◎Coconut Grove Style◎] [From: 140.112.171.115 ] [Login: 60] [Post: 17]
+:Upgrade QUAKE to 1.05 and it will be OK....
+:The following is a quote from my previous post...
+
+> :Are you confused by the display analysis of Quake1.01? Is it not very smooth? It seems inexplicable?
+> :The latest Quake1.05 (beta) version has been leaked!!
+>: Originally there were two revisions, but I integrated them into one, just decompress and cover them in the QUAKE directory...
+> : After a small trial, it turned out to be a big improvement....
+> : Read the attached README for details!!....
+> :Please go to....
+> :ftp://ftp.cis.nctu.edu.tw/upload/games/quake105.exe
+> :or to
+> :ftp://ftp.csie.mctu.edu.tw/pub/upload/misc/quake105.exe
+> :Act quickly!!
+
