@@ -562,3 +562,12 @@ Availability:
 * https://www.quaddicted.com/files/idgames2/idstuff/quake/wq100.zip
 * https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/wq100.zip
 
+
+## WinQuake FAQ
+
+An unofficial WinQuake FAQ was created and maintained by Sean T. Martin aka "Redwood".
+
+> This page is designed to help with the most common WinQuake questions so you should look here first for any information you want. Secondly, check the excellent readme for any problems you might have or things you do not see here. If you think there is a question/answer that should appear here or have exhausted all sources of information, please e-mail me. If the answer to your question is in the text file or on here, you're message will promptly be deleted. I get a lot of e-mails and I do not have the time to answer questions that people asked because they're too lazy to look for the answer. I'd much rather spend the time on updating the page or real lifeTM. This document will be updated/expanded as I see fit/receive more information. Also, I can't promise I will have an answer to every problem, so please don't expect this or get mad when I can't give one.
+
+-- [http://redwood.stomped.com/quake/wqfaq.html](https://web.archive.org/web/19980511172153/http://redwood.stomped.com/quake/wqfaq.html)
+
