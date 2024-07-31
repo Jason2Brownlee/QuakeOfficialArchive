@@ -8,7 +8,7 @@ Releases:
 
 * 1996 Jul 25, QuakeC v1.01, qcc.tar.gz, qcc.zip, qcc.txt
 * 1996 Sep 13, QuakeC v1.05, q105beta.zip, qutils.zip, qutils.txt
-* 1996 Sep 30, QuakeC v1.06, progs106.zip, progs106.txt
+* 1996 Oct 02, QuakeC v1.06, progs106.zip, progs106.txt
 
 Later related releases include:
 
@@ -273,6 +273,8 @@ John Carmack's .plan update:
 	...
 ```
 
+-- [http://redwood.gatsbyhouse.com/quake/996.html](https://web.archive.org/web/19970327201002/http://redwood.gatsbyhouse.com/quake/996.html)
+
 Two day's later, Redwood announced the game update and subsequent fix:
 
 ```text
@@ -282,6 +284,8 @@ Two day's later, Redwood announced the game update and subsequent fix:
 Quake v1.05beta as well as a later beta5a.exe patch that fixxes the disappearing weapon bug.
 ...
 ```
+
+-- [http://redwood.gatsbyhouse.com/quake/996.html](https://web.archive.org/web/19970327201002/http://redwood.gatsbyhouse.com/quake/996.html)
 
 Links:
 
