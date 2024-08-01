@@ -119,7 +119,7 @@ https://web.archive.org/web/19970327201029/http://redwood.gatsbyhouse.com/quake/
 27 june: bsp utils
 2 july qutils.tar.gz and qutils.zip
 25 july qcc and bsp utils
-13 sep fin al utils
+13 sep final utils
 
 https://groups.google.com/g/fido7.game.doom/c/-RwtQ-1o3lk/m/KSikAEq9Bl8J
 

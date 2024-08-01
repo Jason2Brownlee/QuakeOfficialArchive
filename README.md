@@ -104,8 +104,8 @@ Release Date | File | Description
 1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Skins Pack 5.
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | dm7 map (McGee).
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
-1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx) | Quake for Macintosh v1.08.2
-1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | Mac client.
+1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit) | Quake for Macintosh v1.08.2
+1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake client.
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 22 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
@@ -146,6 +146,8 @@ Release Date | File | Description
 2022 Dec 18 | [quake-sketches-adrianc-20221218-1.jpeg](bin/quake-sketches-adrianc-20221218-1.jpeg)<br>[quake-sketches-adrianc-20221218-2.jpeg](bin/quake-sketches-adrianc-20221218-2.jpeg)<br>[quake-sketches-adrianc-20221218-3.jpeg](bin/quake-sketches-adrianc-20221218-3.jpeg)<br>[quake-sketches-adrianc-20221218-4.jpeg](bin/quake-sketches-adrianc-20221218-4.jpeg) | Early Quake sketches (Adrian Carmack).
 2023 Sep 10 | [quake-sketches-adrianc-20230910-1.jpeg](bin/quake-sketches-adrianc-20230910-1.jpeg)<br>[quake-sketches-adrianc-20230910-2.jpeg](bin/quake-sketches-adrianc-20230910-2.jpeg)<br>[quake-sketches-adrianc-20230910-3.jpeg](bin/quake-sketches-adrianc-20230910-3.jpeg)<br>[quake-sketches-adrianc-20230910-4.jpeg](bin/quake-sketches-adrianc-20230910-4.jpeg)<br>[quake-sketches-adrianc-20230910-5.jpeg](bin/quake-sketches-adrianc-20230910-5.jpeg)<br>[quake-sketches-adrianc-20230910-6.jpeg](bin/quake-sketches-adrianc-20230910-6.jpeg)<br>[quake-sketches-adrianc-20230910-7.jpeg](bin/quake-sketches-adrianc-20230910-7.jpeg)<br>[quake-sketches-adrianc-20230910-8.jpeg](bin/quake-sketches-adrianc-20230910-8.jpeg) | Early Quake sketches (Adrian Carmack).
 2024 Jun 23 | [quake-sketches-adrianc-20240623-1.jpeg](bin/quake-sketches-adrianc-20240623-1.jpeg)<br>[quake-sketches-adrianc-20240623-2.jpeg](bin/quake-sketches-adrianc-20240623-2.jpeg)<br>[quake-sketches-adrianc-20240623-3.jpeg](bin/quake-sketches-adrianc-20240623-3.jpeg)<br>[quake-sketches-adrianc-20240623-4.jpeg](bin/quake-sketches-adrianc-20240623-4.jpeg) | Early Quake sketches (Adrian Carmack).
+
+
 
 
 * **No Link**: indicates that we could not locate a copy of the file yet.

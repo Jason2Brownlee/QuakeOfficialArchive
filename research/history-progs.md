@@ -16,7 +16,8 @@ Later related releases include:
 * 1997 Apr 30, QuakeC, Dissolution of Eternity, doe_qc.zip, doe_qc.txt
 * 2000 May 09, QuakeC v1.01 GPL, q1tools_gpl.tgz
 * 2022 Apr 07, QuakeC Rerelease Update 3, GitHub
-* 2022 Aug 19, QuakeC Rerelease Update 4, GitHub
+* 2022 Aug 18, QuakeC Rerelease Update 4, GitHub
+* 2022 Aug 19, QuakeC Rerelease Update 4 (more sources), GitHub
 
 ## QuakeC v1.01
 

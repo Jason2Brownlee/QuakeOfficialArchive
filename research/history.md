@@ -10,5 +10,6 @@ If you have notes/additions/corrections, please email Jason via jason.brownlee05
 
 * [Quake Leaks](history-leaks.md)
 * [QuakeC Source History](history-progs.md)
+* [Quake Tools History](history-tools.md)
 * [WinQuake History](history-winquake.md)
 
