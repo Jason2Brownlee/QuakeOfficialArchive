@@ -12,6 +12,7 @@ A handful of video cards used this chipset and VQuake allowed those cards to run
 
 Releases:
 
+* 1996 Sep 26, quake3db_101.zip
 * 1996 Oct 23, rrvq106b.zip
 * 1996 Oct 26, rrq106b2.zip
 * 1996 ??? ??, rrq106b3.zip
@@ -24,12 +25,16 @@ Releases:
 * 1996 Dec 04, rrq106ba.zip
 * 1996 ??? ??, rrq106bb.zip
 * 1997 Jan 16, rrq106bc.zip
+* 1997 Jan 22, quake3db_106.zip
 * 1997 ??? ??, rrq107b1.zip
 * 1997 ??? ??, rrq107b2.zip
 * 1997 ??? ??, rrq107b3.zip
 * 1997 ??? ??, rrq107b4.zip
 * 1997 Mar 03, rrq107b5.zip
 * 1997 Oct 30, vq108b1.zip
+
+
+
 
 
 rrvq106b.zip
@@ -49,19 +54,14 @@ rrq107b3.zip
 rrq107b4.zip
 
 
-QUAKE3DB_101.zip
-QUAKE3DB_106.zip
 
 
 ## VQuake v1.01
 
-???
-
-people were playing it prior to v1.06?
+filename?
 
 
-
-early reference:
+Early reference:
 
 
 ```text
@@ -73,6 +73,7 @@ However, when he ran vquake.exe (the accelerated executable giving all the textu
 ...
 ```
 
+Early reference:
 
 
 ```text
@@ -86,6 +87,37 @@ Makes me fell a little better.
 
 -- https://www.bluesnews.com/archives/oct96-2.html
 
+
+## VQuake v1.01 for Creative 3D Blaster
+
+Released as `quake3db_101.zip`.
+
+Archive content:
+
+```text
+     69 15 Oct  1996 DISK.ID
+     10 13 Sep  1996 QUAKE3DB.BAT
+   6521 26 Sep  1996 QUAKE3DB.TXT
+     17 16 Sep  1996 QUAKEDMA.BAT
+  56680 23 Aug  1996 SPD3D.UC
+     65 13 Sep  1996 VQ95.BAT
+     72 13 Sep  1996 VQ95DMA.BAT
+ 520192 13 Sep  1996 VQUAKE.EXE
+```
+
+Readme snippet:
+
+```text
+Readme file for Creative 3D Blaster PCI QUAKE
+
+...
+
+26 September 1996  Revision 1C
+```
+
+Links:
+
+* https://gona.mactar.hu/v1000/vquake/QUAKE3DB_101.zip
 
 
 ## VQuake v1.06 Beta 1
@@ -393,6 +425,35 @@ Changelog:
 rrq106bc.zip/README.TXT
 
 
+
+
+
+## VQuake v1.06 Beta 12 for Creative 3D Blaster
+
+Released as `quake3db_106.zip`.
+
+Archive content:
+
+```text
+   7252 15 Apr  1997 QUAKE3DB.TXT
+  65176  6 Nov  1996 SPD3D.UC
+     69  7 Nov  1996 VQ95.BAT
+ 551936  6 Jan  1997 VQUAKE.EXE
+```
+
+Readme snippet:
+
+```text
+Readme file for Creative 3D Blaster PCI QUAKE Patch
+
+...
+
+22 January 1997
+```
+
+Links:
+
+* https://gona.mactar.hu/v1000/vquake/QUAKE3DB_106_(same_as_rrq106bc)_Beta_12.zip
 
 ## VQuake v1.07 Beta 5
 

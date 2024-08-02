@@ -41,7 +41,7 @@ Release Date | File | Description
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
-1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | Quake Upgrade Disk for 3D Blaster PCI
+1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | VQuake 1.01, Quake Upgrade Disk for 3D Blaster PCI
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 02 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
@@ -64,6 +64,7 @@ Release Date | File | Description
 1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Skins Pack 1.
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
+1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip)<br>[glquake1.txt](bin/glquake1.txt) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
