@@ -14,8 +14,21 @@ qw233.zip
 qwcl0809.zip
 qwded104.exe
 qwded104.lzh
-rrq106b4.zip
+
+# vquake, known and expected versions
+rrvq106b.zip
 rrq106b2.zip
+rrq106b3.zip
+rrq106b4.zip
+rrq106b5.zip
+rrq106b6.zip
+rrq106b7.zip
+rrq106b8.zip
+rrq106bb.zip
+rrq107b1.zip
+rrq107b2.zip
+rrq107b3.zip
+rrq107b4.zip
 
 # duplicates, but with different filenames...
 qw_0809.zip

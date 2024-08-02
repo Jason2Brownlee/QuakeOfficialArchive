@@ -53,7 +53,7 @@ Release Date | File | Description
 1996 Oct 29 | rrq106b4.zip | VQuake v1.06 Beta 4
 1996 Nov 09 | rrq106b8.zip | VQuake v1.06 Beta 8
 1996 Nov 11 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz)<br>[i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
-1996 Nov 13 | rrq106b9.zip | VQuake 1.06 Beta 9
+1996 Nov 13 | [rrq106b9.zip](bin/rrq106b9.zip) | VQuake 1.06 Beta 9
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
 1996 Dec 04 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | VQuake 1.06 Beta 10
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.

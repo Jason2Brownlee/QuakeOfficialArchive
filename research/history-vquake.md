@@ -24,15 +24,33 @@ Releases:
 * 1996 Dec 04, rrq106ba.zip
 * 1996 ??? ??, rrq106bb.zip
 * 1997 Jan 16, rrq106bc.zip
-* 199? ??? ??, rrq107b1.zip
-* 199? ??? ??, rrq107b2.zip
-* 199? ??? ??, rrq107b3.zip
-* 199? ??? ??, rrq107b4.zip
+* 1997 ??? ??, rrq107b1.zip
+* 1997 ??? ??, rrq107b2.zip
+* 1997 ??? ??, rrq107b3.zip
+* 1997 ??? ??, rrq107b4.zip
 * 1997 Mar 03, rrq107b5.zip
 * 1997 Oct 30, vq108b1.zip
 
 
+rrvq106b.zip
+rrq106b2.zip
+rrq106b3.zip
+rrq106b4.zip
+rrq106b5.zip
+rrq106b6.zip
+rrq106b7.zip
+rrq106b8.zip
 
+rrq106bb.zip
+
+rrq107b1.zip
+rrq107b2.zip
+rrq107b3.zip
+rrq107b4.zip
+
+
+QUAKE3DB_101.zip
+QUAKE3DB_106.zip
 
 
 ## VQuake v1.01
@@ -233,6 +251,28 @@ Links:
 
 * ftp://bluesnews.com/pub/vquake/rrq106b9.zip
 * ftp://ftp.rendition.com/pub/rrq106b9.zip
+
+Archive content:
+
+```text
+ 363392 15 Oct  1996 Q101-106.ZIP
+   2361 12 Nov  1996 README.TXT
+  65176  6 Nov  1996 SPD3D.UC
+     69  7 Nov  1996 VQ95.BAT
+ 556032 12 Nov  1996 VQUAKE.EXE
+```
+
+Changelog:
+
+```text
+--- Beta 9 Update
+
+	Upgraded from 1.01 to 1.06.
+	GUS now works.
+	Various port and performance bugs fixed.
+```
+
+-- rrq106b9.zip/README.TXT
 
 
 ## VQuake v1.06 Beta 10 (a)
@@ -492,6 +532,6 @@ Archive Content:
 
 * [VQuake](https://www.vogonswiki.com/index.php/VQuake)
 * [THE STORY OF THE RENDITION VÉRITÉ 1000](https://fabiensanglard.net/vquake/)
-
+* [Benchmarks to compare the Rendition Vérité](https://gona.mactar.hu/v1000/)
 
 
