@@ -48,17 +48,22 @@ Release Date | File | Description
 1996 Oct 02 | [qwded106.exe](bin/qwded106.exe)<br>[qwded106.txt](bin/qwded106.txt) | Win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
+1996 Oct 23 | rrvq106b.zip | VQuake v1.06 Beta 1
+1996 Oct 26 | rrq106b2.zip | VQuake v1.06 Beta 2
+1996 Oct 29 | rrq106b4.zip | VQuake v1.06 Beta 4
+1996 Nov 09 | rrq106b8.zip | VQuake v1.06 Beta 8
 1996 Nov 11 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz)<br>[i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
+1996 Nov 13 | rrq106b9.zip | VQuake 1.06 Beta 9
 1996 Nov 22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave CTF v3.01.
-1996 Dec 02 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | Rendition Verite VQuake v1.06 beta 10.
+1996 Dec 04 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | VQuake 1.06 Beta 10
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
 1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
 1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | Quakeworld Player Skins.
 1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Willits).
 1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Skins Pack 1.
-1997 Jan 06 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | Rendition Verite VQuake v1.06 beta 12.
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
+1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [glquake1.zip](bin/glquake1.zip)<br>[glquake1.txt](bin/glquake1.txt) | GLQuake for PowerVR.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
@@ -66,7 +71,7 @@ Release Date | File | Description
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Skins Pack 2.
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z) | SGI Quake.
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
-1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | Rendition Verite VQuake v1.07 beta 5.
+1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
 1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
@@ -111,7 +116,7 @@ Release Date | File | Description
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
 1997 Oct 29 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and Quakeworld.
-1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | Rendition Verite VQuake v1.08 beta 1.
+1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | Glquake v0.97.
 1998 Apr 03 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
