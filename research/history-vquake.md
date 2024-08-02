@@ -26,34 +26,12 @@ Releases:
 * 1996 ??? ??, rrq106bb.zip
 * 1997 Jan 16, rrq106bc.zip
 * 1997 Jan 22, quake3db_106.zip
-* 1997 ??? ??, rrq107b1.zip
+* 1997 Mar 03, rrq107b1.zip
 * 1997 ??? ??, rrq107b2.zip
 * 1997 ??? ??, rrq107b3.zip
 * 1997 ??? ??, rrq107b4.zip
 * 1997 Mar 03, rrq107b5.zip
 * 1997 Oct 30, vq108b1.zip
-
-
-
-
-
-rrvq106b.zip
-rrq106b2.zip
-rrq106b3.zip
-rrq106b4.zip
-rrq106b5.zip
-rrq106b6.zip
-rrq106b7.zip
-rrq106b8.zip
-
-rrq106bb.zip
-
-rrq107b1.zip
-rrq107b2.zip
-rrq107b3.zip
-rrq107b4.zip
-
-
 
 
 ## VQuake v1.01
@@ -183,6 +161,36 @@ Links:
 
 * ftp://bluesnews.com/pub/vquake/rrq106b2.zip
 
+
+```text
+Where is VQUAKE 1.06 beta 2? OR should I avoid it?
+Eric T. Busch
+27 Oct 1996
+
+It's on their ftp site. ftp://ftp.rendition.com/pub/rrq106b2.zip
+...
+```
+
+-- [comp.sys.ibm.pc.hardware.video](https://groups.google.com/g/comp.sys.ibm.pc.hardware.video/c/bInbqJ-3PgQ/m/lYXYlIzp5k8J)
+
+
+```text
+VQuake 1.06 Beta2
+Mike Boich
+26 Oct 1996
+
+It's not on the web site yet, but it's on the ftp site:
+ftp.rendition.com/pub/rrqb2.zip
+
+I hope you like it; it's much improved.
+
+- Mike Boich
+Rendition
+```
+
+-- [rec.autos.simulators](https://groups.google.com/g/rec.autos.simulators/c/GjTewlH1hDU/m/3dh-lF9EWvIJ)
+
+
 ## VQuake v1.06 Beta 3
 
 private beta?
@@ -217,9 +225,21 @@ Links:
 * ftp://ftp.rendition.com/pub/rrq106b4.zip
 
 
+```text
+VQuake Beta 4 is out
+Eric T. Busch
+29 Oct 1996
+
+I don't know what happened to beta 3, but beta 4 has just been released.
+I'm getting about a 2-4 fps boost over beta 2, and it looks like the
+aberrant texture problem as been fixed.
+ftp://ftp.rendition.com/pub/rrq106b4.zip
+```
+
+-- [rec.autos.simulators](https://groups.google.com/g/rec.autos.simulators/c/R9jjO70Az-A/m/WIsnAznaOY0J)
+
 
 Later pulled:
-
 
 
 ```text
@@ -266,6 +286,20 @@ Links:
 * https://www.bluesnews.com/archives/rrq106b8.zip
 
 
+```text
+VQuake 1.06 Beta8
+Eric T. Busch
+9 Nov 1996
+
+I don't know what happened to beta 3, 5, 6, or 7, but Beta 8 of VQuake
+1.06 is now on Rendition's ftp site. The zip file also includes the
+1.01 to 1.06 patch for those of you who haven't upgraded the base Quake
+to 1.06 yet.
+ftp://ftp.rendition.com/pub/rrq106b8.zip
+```
+
+-- [rec.autos.simulators](https://groups.google.com/g/rec.autos.simulators/c/qR4sLTEbHP8/m/iEjplMFOgzIJ)
+
 
 
 ## VQuake v1.06 Beta 9
@@ -283,6 +317,20 @@ Links:
 
 * ftp://bluesnews.com/pub/vquake/rrq106b9.zip
 * ftp://ftp.rendition.com/pub/rrq106b9.zip
+
+
+```text
+==November 13== 10:15a.m. CST
+
+Saw on blue's that there is a new beta 9 v1.06 of Rendition Quake. Download it.
+```
+
+-- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
+
+Links:
+
+* ftp://ftp.rendition.com/pub/rrq106b9.zip
+
 
 Archive content:
 
@@ -307,6 +355,11 @@ Changelog:
 -- rrq106b9.zip/README.TXT
 
 
+Link:
+
+* https://discmaster.textfiles.com/file/22080/SSERVCD_43.bin/utils/patches/rrq106b9.zip
+
+
 ## VQuake v1.06 Beta 10 (a)
 
 
@@ -322,6 +375,20 @@ Links:
 * https://www.bluesnews.com/files/rrq106ba.zip
 * http://www.rendition.com/quake.html
 
+
+```text
+==December 4==
+
+Just saw on Blue's that beta 10 of vquake 1.06 is out on the Rendition Quake page.
+```
+
+-- [http://redwood.gatsbyhouse.com/quake/1296.html](https://web.archive.org/web/19970327200909/http://redwood.gatsbyhouse.com/quake/1296.html) (archived)
+
+
+Links:
+
+* http://www.rendition.com/rrq106ba.zip
+* http://www.rendition.com/quake.html
 
 Archive:
 
@@ -376,6 +443,19 @@ Links:
 * https://www.bluesnews.com/files/rrq106bc.zip
 * http://www.rendition.com/
 
+
+```text
+January 16, 1997
+
+Go to the Renditon Downloads page to get Vquake 1.06 beta 12 (272k).
+```
+
+-- [http://redwood.gatsbyhouse.com/quake/197.html](https://web.archive.org/web/19970327200851/http://redwood.gatsbyhouse.com/quake/197.html) (archived)
+
+Links:
+
+* http://www.rendition.com/download.html
+* http://www.rendition.com/rrq106bc.zip
 
 
 ```text
@@ -454,6 +534,59 @@ Readme file for Creative 3D Blaster PCI QUAKE Patch
 Links:
 
 * https://gona.mactar.hu/v1000/vquake/QUAKE3DB_106_(same_as_rrq106bc)_Beta_12.zip
+
+
+## VQuake v1.07 Beta 1
+
+Released as `rrq107b1.zip`.
+
+```text
+VQuake v1.07b available!
+Johannes Weiman
+4 Mar 1997
+
+Get it at
+http://www.rendition.com/downloads/rrq107b1.zip
+It supports the Rogue and Hipnotic level packs.
+```
+
+-- [comp.sys.ibm.pc.hardware.video](https://groups.google.com/g/comp.sys.ibm.pc.hardware.video/c/S4kavfA95No/m/er15WD6Qg9YJ)
+
+
+```text
+Quake and 3D cards
+Peter Porai-Koshits
+5 Mar 1997
+
+...
+* VQuake: rrq107b1.zip from <http://www.rendition.com> (278k)
+```
+
+-- [fido7.su.game](https://groups.google.com/g/fido7.su.game/c/z8zeRXqRZlM/m/y5iU0GhSRKEJ)
+
+
+```text
+March 3, 1997
+
+I noticed on the Renditions Download Page that beta 1 of VQuake 1.07 (will allow the Hipnotic Mission pack to work properly) is available. Download rrq107b1.zip (289k). Now if only GLQuake worked then I'd be happy.
+```
+
+-- [http://redwood.gatsbyhouse.com/quake/397.html](https://web.archive.org/web/19970327200819/http://redwood.gatsbyhouse.com/quake/397.html) (archived)
+
+Links:
+
+* http://www.rendition.com/download.html
+* http://redwood.gatsbyhouse.com/quake/files/ports/rrq107b1.zip
+
+
+Additional Links:
+
+* https://discmaster.textfiles.com/file/22393/XENIATGM31.iso/e-mail/gramegna/rrq107b1.zip
+* http://www.imaxx.net/~dakota/capture/FILES/rrq107b1.zip
+
+Looks identical to beta 5, I suspect they replaced the file with the same name on the FTP site.
+
+
 
 ## VQuake v1.07 Beta 5
 
@@ -584,6 +717,13 @@ Archive Content:
  558080 30 Oct  1997 VQUAKE.EXE
 ```
 
+Links:
+
+* https://discmaster.textfiles.com/file/22094/SSERVCD_53A.iso/UTILS/PATCHES/VQ108B1.ZIP
+* https://discmaster.textfiles.com/file/4150/Hardcore%20Gamer%20Resource%20Kit%20-%20Disc%203.iso/patches/vq108b1.zip
+* https://discmaster.textfiles.com/file/2913/3DFXManiaCDROM.iso/patches/vq108b1.zip
+* ftp://ftp.stomped.com/pub/redwood/ports/vq108b1.zip
+* http://ftp//ftp.gamers.org/pub/mirrors/ftp.gamesdomain.co.uk/patches/pc/3dcard-patches/v/vq108b1.zip
 
 
 
@@ -594,5 +734,5 @@ Archive Content:
 * [VQuake](https://www.vogonswiki.com/index.php/VQuake)
 * [THE STORY OF THE RENDITION VÉRITÉ 1000](https://fabiensanglard.net/vquake/)
 * [Benchmarks to compare the Rendition Vérité](https://gona.mactar.hu/v1000/)
-
+* [a review of VQuake by Buck DeFore](https://web.archive.org/web/19970218032034/http://www.allgames.com/main/vquake.htm)
 
