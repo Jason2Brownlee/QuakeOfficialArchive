@@ -20,10 +20,6 @@ Releases:
 * 1997 Sep 24, sgiquake.tar.gz
 
 
-
-
-
-
 ## Custom Quake Renderer (early SGI Quake?)
 
 Not a port of Quake, but a Quake renderer/server written for SGI.
@@ -67,7 +63,7 @@ Links:
 
 
 
-## SGI Quake (Ed Hutchins) v???
+## SGI Quake (Ed Hutchins) v1
 
 Perhaps released as `sgiquake.tar.Z`, later distributed as `sgiquake.tar.gz.pre_040997`.
 
@@ -160,10 +156,11 @@ Perhaps released as `quake.gl`.
 Found in a directory titled `1997-03-25/` suggesting a release date.
 
 binary
-?
+
+md5sum does not match other Ed versions.
 
 
-## SGI Quake (Ed Hutchins) v???
+## SGI Quake (Ed Hutchins) v2
 
 
 `sgiquake-1997-04.tar.gz`
