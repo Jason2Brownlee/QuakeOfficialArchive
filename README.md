@@ -70,7 +70,7 @@ Release Date | File | Description
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
 1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Skins Pack 2.
-1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) SGI Quake (Ed Hutchins) v1
+1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) | SGI Quake (Ed Hutchins) v1
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 03 | rrq107b1.zip | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
