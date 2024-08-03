@@ -65,7 +65,7 @@ Release Date | File | Description
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
-1997 Jan 22 | [glquake1.zip](bin/glquake1.zip)<br>[glquake1.txt](bin/glquake1.txt) | GLQuake.
+1997 Jan 22 | glquake.zip<br>[glquake1.zip](bin/glquake1.zip)<br>[glquake1.txt](bin/glquake1.txt) | GLQuake beta.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
@@ -74,7 +74,7 @@ Release Date | File | Description
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 03 | rrq107b1.zip | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
-1997 Mar 12 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
+1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
 1997 Mar 14 | [squake-0.991-i386-unknown-linux2.0.tar.gz](bin/squake-0.991-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.991.
@@ -113,6 +113,7 @@ Release Date | File | Description
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit) | Quake for Macintosh v1.08.2
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake client.
+1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 22 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
@@ -120,8 +121,9 @@ Release Date | File | Description
 1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and Quakeworld.
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
-1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | Glquake v0.97.
-1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip) | PowerVR GLQuake
+1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 for Quake v1.09.
+1997 Nov 14 | [glqwcl-2.10-i386-unknown-linux2.0.tar.gz](bin/glqwcl-2.10-i386-unknown-linux2.0.tar.gz) | GL QuakeWorld Client v2.10
+1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip) | PowerVR GLQuake/GLHexen II Driver v2
 1998 Apr 03 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
 1998 Apr 22 | [QuakeWorld211b1.sit](bin/QuakeWorld211b1.sit) | Mac Quakeworld client v2.11b1 for QW v2.11.
 1998 May 16 | [qwsv22.zip](bin/qwsv22.zip)<br>[qw22.exe](bin/qw22.exe)<br>[qwsv2.20-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-i386-unknown-linux2.0.tar.gz](bin/qwsv2.20-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.20-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.20-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv2.20-i386-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-i386-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-axp-unknown-linux2.0.tar.gz](bin/qwsv2.20-axp-unknown-linux2.0.tar.gz)<br>[qwcl2.20-i386-unknown-linux2.0.tar.gz](bin/qwcl2.20-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.20.
