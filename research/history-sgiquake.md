@@ -41,6 +41,17 @@ a benchmark of what SGI machines can do :-)
 -- [comp.sys.sgi.announce](https://groups.google.com/g/comp.sys.sgi.announce/c/qBpfTShJ8E4/m/-RDNLwsnauQJ)
 
 
+```text
+January 17, 1997
+
+Here's an interesting GL Quake link for those with SGI machines from an SGI employee.
+```
+
+-- [http://redwood.stomped.com/197.html](https://web.archive.org/web/20011031111652/http://redwood.stomped.com/197.html) (archive)
+
+Link:
+
+* http://reality.sgi.com/employees/hutchins_asd/
 
 ```text
 * GLQuake v0.3 - GLQuake executable
@@ -83,6 +94,19 @@ It's not one of Zoid's ports, but there's an SGI Quake avaiilable at Ed's Homely
 Links:
 
 * http://reality.sgi.com/employees/hutchins_asd/
+
+```text
+February 12, 1997
+
+I saw at Blue's that the SGI Quake that I mentioned here a few weeks ago has been released as a full version.
+```
+
+-- [http://redwood.stomped.com/297.html](https://web.archive.org/web/20010422160347/http://redwood.stomped.com/297.html) (archived)
+
+Links:
+
+* http://reality.sgi.com/employees/hutchins_asd/
+
 
 
 Suggestion of a prior version, or perhaps this references his two versions (e.g. Feb and April 1997).
@@ -147,6 +171,11 @@ Welcome to the SGI port of idsoftware's Quake!
 - Ed Hutchins
 2/11/1997
 ```
+
+Additional Links:
+
+* https://web.archive.org/web/19970409141001/http://www.frag.com/files/ports/sgiquake_tar.Z
+* https://web.archive.org/web/19970327191450/http://redwood.gatsbyhouse.com/files/ports/sgiquake_tar.Z
 
 
 ## SGI Quake Binary (Ed Hutchins) v???
@@ -348,6 +377,11 @@ Readme snippet:
 ...
 ```
 
+Additional Links:
+
+* https://web.archive.org/web/19980511165728/ftp://ftp.stomped.com/pub/redwood/ports/sgiquake1_10_tar.Z
+
+
 ## SGI Quake v1.11
 
 Perhaps released as `sgiquake.tar.gz`.
@@ -398,3 +432,5 @@ Readme snippet:
 * https://web.archive.org/web/19970526005454/http://reality.sgi.com/sgiquake/
 * https://ftp.zx.net.nz/pub/archive/ftp.sgi.com/sgi/quake/download/quake1/
 * https://ftp.jurassic.nl/mirrors/ftp.sgi.com/sgi/quake/download/quake1/
+* https://discmaster.textfiles.com/browse/17621/sgi.tar/ftp.sgi.com/sgi/quake/download/quake1
+
