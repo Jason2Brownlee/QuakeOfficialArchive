@@ -289,6 +289,8 @@ Additional Links:
 
 * https://romero.smugmug.com/Video-Games/QTEST
 * https://quake.fandom.com/wiki/Qtest
+* https://quake.fandom.com/wiki/Qtest_Custom_Files
 * https://www.quakeworld.nu/news/670/qtest-15-years-on
 * https://www.bluesnews.com/guide/quake.htm
 * https://archive.org/download/qtest
+* https://valvearchive.com/archive/.id/Quake/Playable%20Builds/QTest/

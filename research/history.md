@@ -8,7 +8,7 @@ These essays are very time consuming to develop, but I will add more as time per
 
 If you have notes/additions/corrections, please email Jason via jason.brownlee05@gmail.com
 
-* [Quake Deathmatch Tests](history-qtest.md)
+* [QTest History](history-qtest.md)
 * [Quake Leaks](history-leaks.md)
 * [QuakeC Source History](history-progs.md)
 * [Quake Tools History](history-tools.md)
