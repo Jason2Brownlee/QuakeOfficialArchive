@@ -2,7 +2,7 @@
 
 SGI stands for "Silicon Graphics, Inc", a company responsible for the "Silicon Graphics Computer Systems", a high-end workstation capable of 3D graphics in 1996.
 
-Quake was ported to this platform prior to the source code being GPL'ed and was called "SGI Quake", "SGIQuake", or "IRIX Quake", after the name of the SGI operating system IRIX.
+Quake was ported to this platform (I believe officially, or perhaps using the leaked Linux source) and was called "SGI Quake", "SGIQuake", or "IRIX Quake", after the name of the SGI operating system IRIX.
 
 > Id software bears _NO_ support responsibility for the SGI versions of Quake (either .gl or .sw) whatsoever! Likewise, SGI is releasing these versions of Quake as-is, and is not responsible for support. These executables are being made available in a large part through the efforts of individual employees of SGI, and to the extent that we can we'll be happy to answer questions on the appropriate SGI newsgroups (comp.sys.sgi.\*). Please help ensure further Quake-related progress by limiting your questions to this channel.
 

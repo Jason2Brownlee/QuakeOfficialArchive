@@ -1,19 +1,18 @@
 # Quake Release Histories
 
-Essays that attempt to reconstruct the release history of "official" Quake files.
+Technical essays that attempt to reconstruct the release history of "official" Quake files.
 
-This is important for the archive as it ensures we don't miss any releases.
+This is important for the archive as it ensures we don't miss any releases. These essays are very time consuming to develop, but I will add more as time permits.
 
-These essays are very time consuming to develop, but I will add more as time permits.
-
-If you have notes/additions/corrections, please email Jason via jason.brownlee05@gmail.com
+If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 
 * [QTest History](history-qtest.md)
-* [Quake Leaks](history-leaks.md)
+* [Quake Leaks History](history-leaks.md)
+* [Quake Shareware History](history-shareware.md)
 * [QuakeC Source History](history-progs.md)
 * [Quake Tools History](history-tools.md)
 * [WinQuake History](history-winquake.md)
 * [VQuake History](history-vquake.md)
 * [GLQuake History](history-glquake.md)
 * [PowerVR Quake History](history-powervr.md)
-* [SGI Quake](history-sgiquake.md)
+* [SGIQuake History](history-sgiquake.md)

@@ -735,4 +735,4 @@ Links:
 * [THE STORY OF THE RENDITION VÉRITÉ 1000](https://fabiensanglard.net/vquake/)
 * [Benchmarks to compare the Rendition Vérité](https://gona.mactar.hu/v1000/)
 * [a review of VQuake by Buck DeFore](https://web.archive.org/web/19970218032034/http://www.allgames.com/main/vquake.htm)
-
+* https://web.archive.org/web/19970204063324fw/http://bluesnews.com/vquake.html
