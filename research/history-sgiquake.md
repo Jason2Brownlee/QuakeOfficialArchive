@@ -2,7 +2,7 @@
 
 SGI stands for "Silicon Graphics, Inc", a company responsible for the "Silicon Graphics Computer Systems", a high-end workstation capable of 3D graphics in 1996.
 
-Quake was ported to this platform (I believe officially, or perhaps using the leaked Linux source) and was called "SGI Quake", "SGIQuake", or "IRIX Quake", after the name of the SGI operating system IRIX.
+Quake was ported to this platform officially (Ed Hutchins and John Carmack) and was called "SGI Quake", "SGIQuake", or "IRIX Quake", after the name of the SGI operating system IRIX.
 
 > Id software bears _NO_ support responsibility for the SGI versions of Quake (either .gl or .sw) whatsoever! Likewise, SGI is releasing these versions of Quake as-is, and is not responsible for support. These executables are being made available in a large part through the efforts of individual employees of SGI, and to the extent that we can we'll be happy to answer questions on the appropriate SGI newsgroups (comp.sys.sgi.\*). Please help ensure further Quake-related progress by limiting your questions to this channel.
 
@@ -73,6 +73,21 @@ Links:
 
 
 ## Early Interest and Requests
+
+Early testing by John Carmack:
+
+```text
+-----------------------------------------
+John Carmack's .plan for Mar 02, 1996
+-----------------------------------------
+
+* wrote sgi test demo
+```
+
+-- [johnc .plan archive](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
+
+Dave Taylor references this in his email below.
+
 
 Request of Dave Taylor by Piotr Marek Jr. aka "YoonioR":
 
@@ -153,6 +168,22 @@ John Carmack
 
 -- [http://www.pk.edu.pl/%7Epmj/quake/carmacksgi.html](https://web.archive.org/web/19991011003832/http://www.pk.edu.pl/%7Epmj/quake/carmacksgi.html) (archived)
 
+
+The exchange outlined in the email looks like to have paid off one month later:
+
+```text
+-----------------------------------------
+John Carmack's .plan for Nov 23, 1996
+-----------------------------------------
+
+...
+
+IRIX-GLQuake: In two weeks, Ed Hutchins from SGI is coming down and we are going to port glQuake to irix. This will only run (reasonably) on systems with hardware texture mapping: O2, impact, RE2, and IR. No indys, extremes, etc. You could probably use them as dedicated servers, though.
+```
+
+-- [johnc .plan archive](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
+
+This suggests that the port by Ed Hutchins was official.
 
 
 ## SGI Quake (Ed Hutchins) v1
