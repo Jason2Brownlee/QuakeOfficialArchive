@@ -72,6 +72,87 @@ Links:
 * ftp:ftp/libutil.tar.Z
 
 
+## Early Interest and Requests
+
+Request of Dave Taylor by Piotr Marek Jr. aka "YoonioR":
+
+```text
+10/29/1996
+I got a reply from Dave Taylor <ddt;@crack.com> (former programmer and co-founder of id Software), now co-owner of the UNIX-oriented company crack dot com (who wrote the game Abuse, among other things). I asked him about the next versions of Quake for the Intel/Linux platform and - something that interests me and a few other people very much - a port to SGI/IRIX. Bad news, my friends. Read the letter carefully...
+```
+
+-- [http://www.pk.edu.pl/~pmj/quake/news_old1.html](https://web.archive.org/web/19981206044920/http://www.pk.edu.pl:80/~pmj/quake/news_old1.html) (archived, google translate)
+
+Email:
+
+```text
+Subject:
+        Re: Quake ports to SGI?
+  Date:
+        Mon, 28 Oct 1996 22:15:18 -0600 (CST)
+  From:
+        Dave Taylor
+    To:
+        "Piotr Marek Jr."
+
+
+>       I have two quick questions.
+> First - are You planning to make Linux port based on 1.06 progs?
+> Currently available 1.01 makes impossible (as far as for myself)
+> to run it with modified ServerModules as they're based on 1.06 progs.
+
+I can't, but Linus might be able to.  Ask (beg) him.
+
+> Second, more important: have You heard any rumors regarding
+> IRIX port to Quake?
+
+I can't do it.  You can beg id Software.  Carmack made an OpenGL version
+which screamed on a loaner Maximum Impact we had.  It made my dick hard.
+But I know he didn't maintain the source.  Would take some serious convincing.
+There are buttloads of reasons not to do it.
+
+        =-ddt->
+```
+
+-- [http://www.pk.edu.pl/~pmj/quake/taylor.html](https://web.archive.org/web/19991118001510/http://www.pk.edu.pl/~pmj/quake/taylor.html) (archived)
+
+Follow-up with John Carmack:
+
+```
+31.10.1996
+
+New news from the Quake porting front to other platforms. John Carmack replied to my question about a Quake port to IRIX. Details in the mail!
+```
+
+-- [http://www.pk.edu.pl/~pmj/quake/news_old1.html](https://web.archive.org/web/19981206044920/http://www.pk.edu.pl:80/~pmj/quake/news_old1.html) (archived, google translate)
+
+Email:
+
+```text
+From: John Carmack
+Date: Wed, 30 Oct 96 11:31:23 -0600
+To: "Piotr Marek Jr."
+Subject: Re: IRIX port to Quake? Ever?
+
+A server port to irix would be very easy, but a proper
+client would take more time than we are likely to have.
+
+We are probably going to do an open-gl version of quake
+on NT, which would be the interesting thing to run on
+SGI hardware, but that is quite some time off.
+
+If you know anyone at sgi, I will make this offer:
+
+If sgi is willing to provide an r10000 based machine
+(for us to keep) and an engineer to work on sight here
+at id, I will provide them with assistance in fully
+porting the linux version of quake over to irix.
+
+John Carmack
+```
+
+-- [http://www.pk.edu.pl/%7Epmj/quake/carmacksgi.html](https://web.archive.org/web/19991011003832/http://www.pk.edu.pl/%7Epmj/quake/carmacksgi.html) (archived)
+
 
 
 ## SGI Quake (Ed Hutchins) v1

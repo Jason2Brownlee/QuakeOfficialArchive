@@ -756,3 +756,5 @@ Additional Links:
 * https://archive.org/details/Quake_802
 * https://quake.fandom.com/wiki/Quake_Version_History
 * https://www.dosgamesarchive.com/download/quake
+* https://www.classicdosgames.com/game/Quake.html
+
