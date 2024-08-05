@@ -266,7 +266,7 @@ This suggests that the port by Ed Hutchins was official.
 
 Released as `sgiquake.tar.Z`, later distributed as `sgiquake.tar.gz.pre_040997`.
 
-Work on the port was announced on http://www.webcom.com/phantasm/QUSI/ which was not archived:
+Work on the port was tracked by "Thomas Winzig" on http://www.webcom.com/phantasm/QUSI/ which was not archived:
 
 ```text
 Joel Baxter
@@ -482,6 +482,20 @@ Links:
 * http://www.webcom.com/phantasm/QUSI/
 
 
+```text
+Saturday, April 12th
+
+New SGI Quake
+Saw on The Void that a new version of SGI Quake has been released. guess I'll fire up my SGI at home and play this bad boy.. uh.. yea.. Actually I saw it on Blue's, who saw it at the Void, but I'll give Patrick credit damn it.
+```
+
+-- [http://www.shugashack.com/archives/a18_a12.htm](https://web.archive.org/web/19991021234340/http://www.shugashack.com/archives/a18_a12.htm) (archived)
+
+Links:
+
+* http://www.organism.com/void/
+* http://www.webcom.com/phantasm/QUSI/
+
 
 Archive content:
 
@@ -529,7 +543,18 @@ Links:
 
 * http://www.webcom.com/phantasm/QUSI/
 
+```
+Saturday, May 3rd
 
+SGI Quake v1.08
+Thomas Winzig, the definition of a coolbeans dude has v1.08 of SGI Quake available on his page. Quake Utils for SGI Irix
+```
+
+-- [http://www.shugashack.com/archives/m3_a27.htm](https://web.archive.org/web/20010121184600/http://www.shugashack.com/archives/m3_a27.htm) (archived)
+
+Links:
+
+* http://www.webcom.com/phantasm/QUSI/
 
 Archive content:
 
@@ -578,6 +603,29 @@ Links:
 
 * http://www.webcom.com/phantasm/QUSI/
 
+```text
+Wednesday, May 14th
+
+10:28am - SGI Quake v1.09
+For all you SGI owners out there who play Quake, (Yea, all 5 of you) v1.09 has been released and can be found on Thomas Winzig's Quake Utils for SGI Irix page. (Where the hell is Scott, Tom?)
+```
+
+-- [http://shugashack.com/archives/m18_m11.htm](https://web.archive.org/web/19991002180334/http://shugashack.com/archives/m18_m11.htm) (archived)
+
+Links:
+
+* http://www.webcom.com/phantasm/QUSI/
+
+
+```text
+Sunday, May 18th
+
+SGI Quake Survey
+
+All of you guys out there who play SGI Quake (If you dont know, you dont need it) there is a survey posted by Thomas Winzig by Phillip Nemec's request.( The SGI Port master)
+```
+
+-- [http://shugashack.com/archives/m18_m11.htm](https://web.archive.org/web/19991002180334/http://shugashack.com/archives/m18_m11.htm) (archived)
 
 
 Archive content:
@@ -625,6 +673,20 @@ Links:
 * http://www.webcom.com/phantasm/QUSI/
 
 
+```text
+Thursday, May 22nd
+
+SGI Quake v1.10
+
+The lookspring was b0rked in the old version of SGI Quake, so Phillip Nemec fixed it. If you happen to have an SGI machine, give me one! or go to the SGI Quake page and download the latest version for yourself.. selfish bastard. (thanks Mr. Winzig)
+```
+
+-- [http://www.shugashack.com/archives/m25_m12.htm](https://web.archive.org/web/20000816012710/http://www.shugashack.com/archives/m25_m12.htm) (archived)
+
+Links:
+
+* http://www.webcom.com/phantasm/QUSI/
+
 Archive content:
 
 ```text
@@ -658,9 +720,6 @@ Additional Links:
 ## SGI Quake v1.11
 
 Perhaps released as `sgiquake.tar.gz`.
-
-
-
 
 
 
