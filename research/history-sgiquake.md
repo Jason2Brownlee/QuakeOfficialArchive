@@ -24,6 +24,74 @@ Releases:
 
 Not a port of Quake, but a Quake renderer/server written for SGI.
 
+Comment on Edward Hutchins aka "Ed Hutchins" project:
+
+```text
+Ed Hutchins
+6 Sept 1996
+
+> Author: Matt Pharr <m...@graphics.stanford.edu>
+> Date: 05 Sep 1996 16:08:49 -0700
+
+>
+> r...@fangio.asd.sgi.com (Robert Keller) writes:
+> > Ian CR Mapleson <mapl...@cee.hw.ac.uk> wrote:
+> > >I doubt any port would take advantage of any hw texture mapping that some
+> > >SGI machines have though - too much work to write such a complex port.
+> >
+> > perhaps for id software, but I know of someone who is using the bits of
+> > freely available id quake code and databases to make a quake-equivalent
+> > come to life on InfiniteReality...
+Thanks for spilling the beans on project MooseHead! (I hope I have as much
+fun on my sabbatical as you apparently are :-).
+
+> Sounds like they're opening a bit of a can of worms there. It's not going
+> to look _that_ much better on the $200,000 IR than it does on a $3000 PC;
+> while higher resolution better texture sampling, etc. would be nice, I
+> don't think that it's going to look 70x better...
+
+I mainly did it because I hadn't written a decent OpenGL app before.
+The biggest problem is that all the artwork comes from 256 color palettes.
+Things look amazingly good considering the game's target platform, but I'd
+agree it isn't worth 70x (1280x1024 instead of 640x480 is about 4x,
+multisampling is another 4x, real mip-mapping and 60Hz is worth 2x, so
+I'd give it a 32x rating). Lighting is the biggest problem so far (I've done
+a sleazy hack that lets you independently turn lightmaps on or off, but
+the real game incrementally blends contributions from each lightmap which
+means host side fiddling and subtex loads are needed...). The QuakeC
+interpreter is up and running, entities initialize themselves... all
+that's really left is doing the simulation loop. Wish me luck.
+
+(note that running @ film resolution (2048x1200) gives you 8 x 4 x 2 x
+an extra 2 because face it, film-res is way cool, for a grand total of
+128x better than the PC).
+
+Oh, I should pick up another 2x just because I disprove a Michael Abrash
+quote from one of his Quake talks:
+
+"It would be nice to be able to chuck all the polygons at a rasterizer that
+was so fast that we didn't have to think any further.
+Problem: no such rasterizer."
+
+I render whole levels (no sw culling) at 1280x1024 at 10+fps, as fast as a
+$3k PC renders at 640x480. Rendering using the PVS and view direction to
+perform culling hits 60fps.
+
+> -matt
+> --
+> Matt Pharr | m...@lux.stanford.edu | <URL:http://www-graphics.stanford.edu/~mmp>
+
+P.S. if any id guys out there are interested in supplying the server
+side IRIX executable + specs on the communication interface to the client,
+I'd be happy to provide an Infinite Reality tuned client-side renderer :-)
+
+- Ed
+```
+
+-- [comp.sys.sgi.misc](https://groups.google.com/g/comp.sys.sgi.misc/c/9wcQU8XNVVE/m/vAr6MWV8K8sJ)
+
+And later:
+
 ```text
 GLQuake v0.3 available
 Ed Hutchins
@@ -70,6 +138,14 @@ Links:
 * ftp:ftp/GLQuakeV0_3.tar.Z
 * ftp:ftp/GLQuakeV0_3src.tar.Z
 * ftp:ftp/libutil.tar.Z
+
+I suspect these links were supposed to be something like the following (based on sgiquake links below):
+
+* http://reality.sgi.com/employees/hutchins_asd/ftp/GLQuakeV0_3.tar.Z
+* http://reality.sgi.com/employees/hutchins_asd/ftp/GLQuakeV0_3src.tar.Z
+* http://reality.sgi.com/employees/hutchins_asd/ftp/libutil.tar.Z
+
+
 
 
 ## Early Interest and Requests
@@ -188,7 +264,67 @@ This suggests that the port by Ed Hutchins was official.
 
 ## SGI Quake (Ed Hutchins) v1
 
-Perhaps released as `sgiquake.tar.Z`, later distributed as `sgiquake.tar.gz.pre_040997`.
+Released as `sgiquake.tar.Z`, later distributed as `sgiquake.tar.gz.pre_040997`.
+
+Work on the port was announced on http://www.webcom.com/phantasm/QUSI/ which was not archived:
+
+```text
+Joel Baxter
+31 Jan 1997
+
+Yah, we're pretty bummed about that too. I've been following the progress
+of SGIQuake via this site:
+
+http://www.webcom.com/phantasm/QUSI/
+
+For a while it was cool. They're posting SGI/glquake screenshots! They're
+posting SGI/xquake screenshots! They have servers and clients running!
+They're playing CTF! At about that point I felt like tapping gently on the
+window and saying "Uhh... guys... there's folks out here too..." And then
+no more updates. I think they've locked themselves in a room to "test" the
+thing a little more.
+
+Now even the QUSI page author has posted a little paragraph saying that he's
+puzzled at the sudden Informational Black Hole that has engulfed the
+project. If I were you, I'd still maintain some optimism. In all
+seriousness, they're probably just wanting to polish the thing up before
+releasing it. Also, I heard from another source that SGIQuake was
+stimulating some hardware bug on the machine they were testing it on, and
+they were trying to chase that down (although that was a while ago). Not a
+design flaw, but an actual malf in that particular machine; still you could
+see how figuring that out might take priority (after all, they are SGI
+employees, not id employees).
+
+
+Keep the faith, brother.
+
+
+--
+Joel Baxter jba...@lemur.stanford.edu http://lemur.stanford.edu/~jbaxter/
+aka lemurboy Clan 9 From Outer Space http://lemur.stanford.edu/clan9/
+```
+
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/C_Bich6jUOo/m/p_fhL-ZZ3L4J)
+
+
+
+(Pre)Launch announcement:
+
+```text
+SGI Quake
+Ed Hutchins
+12 Feb 1997
+
+The SGI port of idsoftware's Quake should be available from:
+http://www.sgi.com/Fun/Free_games.html
+sometime tomorrow (Wednesday).
+For those who really can't wait, you can grab copies now from:
+http://reality.sgi.com/employees/hutchins_asd
+
+- Ed
+```
+
+-- [comp.sys.sgi.apps](https://groups.google.com/g/comp.sys.sgi.apps/c/YAdEZ-z2CA8/m/P9igx7lW4WwJ)
 
 
 Announced:
@@ -259,7 +395,9 @@ Link:
 
 * http://reality.sgi.com/employees/hutchins_asd/ftp/sgiquake.tar.Z
 
+Screenshots taken of SGI Quake:
 
+* https://web.archive.org/web/19970315085554/http://reality.sgi.com/rae/quake/pics/sgiquake/
 
 Archive content:
 
@@ -284,6 +422,25 @@ Welcome to the SGI port of idsoftware's Quake!
 2/11/1997
 ```
 
+On the day of release, Philip Nemec (who later takes over support of the port) is offering technical support on USENET:
+
+```text
+Philip Nemec
+12 Feb 1997
+to Phillip George Geiger
+
+I'm not sure if 5.2 works at all. But since you're running a < 6.3 OS
+you need to run without sound (-nosound) - I think that will fix that
+unresolvable symbol problem.
+The glxinfo not being found will mess up the autodetection so you should
+manually run the correct binary (in your case I think that would be
+./quake.sw -nosound).
+```
+
+-- [comp.sys.sgi.misc](https://groups.google.com/g/comp.sys.sgi.misc/c/82Zxr0wbPXs/m/CT7uIY1SZcgJ)
+
+
+
 Additional Links:
 
 * https://web.archive.org/web/19970409141001/http://www.frag.com/files/ports/sgiquake_tar.Z
@@ -299,6 +456,10 @@ Found in a directory titled `1997-03-25/` suggesting a release date.
 binary
 
 md5sum does not match other Ed versions.
+
+Link:
+
+* https://www.siliconbunny.com/mirrors/ftp.sgi.com/sgi/quake/download/quake1/1997-03-25/
 
 
 ## SGI Quake (Ed Hutchins) v2
@@ -498,6 +659,11 @@ Additional Links:
 
 Perhaps released as `sgiquake.tar.gz`.
 
+
+
+
+
+
 Archive content:
 
 ```text
@@ -524,8 +690,126 @@ Readme snippet:
 ```
 
 
+## Afterward
+
+Ed Hutchins may have still been involved, e.g. adding the "heapsize parameter" mentioned in the changelog of v1.11:
+
+```text
+Edward Hutchins
+2 Oct 1997
+
+I sent the changes to ne...@sgi.com that should allow you to
+specify -heapsize 16000 and play with the more demanding add-ons.
+(8M was fine for the shareware and registered versions).
+Check out http://reality.sgi.com/nemec/quake/... version 1.10 is
+what you want.
+
+- Ed
+```
+
+-- [comp.sys.sgi.misc](https://groups.google.com/g/comp.sys.sgi.misc/c/V87GwtinZzw/m/jjsV_zxixkkJ)
 
 
+Comments on many optimizations and 3DFX being faster than SGI hardware:
+
+```text
+Edward Hutchins
+2 Oct 1997
+
+> Author: Ben Cannon <b...@cartsys.com>
+> Date: Tue, 30 Sep 1997 18:36:09 -0700
+
+>
+> Kristoffer Lawson wrote:
+> >
+> > Brian A. Higgins (higg...@falcon.jmu.edu) wrote:
+> > : > Expect a lot less for a PC machine
+> >
+> > : Heheh...when I first read this, I thought you meant PC as in "personal
+> > : computer running Windows." :)
+> >
+> > I happen to have a R5000PC machine as that's what I got with the bundle
+> > I purchased. How much would a SC processor upgrade cost? Is just switching
+> > the processor enough? Atm. Quake runs quite nice in 640x480x32+32 mode
+> > except for a lot of swapping but I also heard 3dfx Quake is actually faster..
+>
+> I've heard that my Cat (Sylvester) is the Pope. Dosen't mean it's true
+> :)
+Better get a pointy hat for that cat...
+
+> O2 is faster than 3Dfx. (though 3dfx is pretty good, when you can get
+> their mess of drivers and crap to work.)
+
+No, at 640x480 3Dfx is faster than an R10K O2. Period. I've benchmarked
+them both. Even with dynamic lightmapping enabled the 3Dfx on a fast
+Pentia wins. At 800x600 and above, the O2 is infinitely faster than the 3Dfx
+because the 3Dfx can't do double-buffered/Z visuals of the right type for
+Quake at that rez (unless they've tweaked their drivers since I last
+checked). At 1280x1024 an R5k O2 runs neck-and-neck with carmack's $30k
+Intergraph workstation, because while the CPU is a bit choked the O2 does
+have a pretty good fill rate. If you want to brag, I believe the O2 has
+the fastest glDrawPixels rate on the planet (it beats the IR!). Video
+apps of all kinds are pretty much top-of-class too (due to UMA and VICE).
+Not to mention the fact that my little O2 kick's a Sun ES3000's butt at
+IO (at least for a database app that I've run on both systems).
+
+> > Well, I know the SGI port hasn't exactly been very finely optimized (?)
+>
+> It's been ported to a MIPS chip, that's about it!
+
+Thanks a lot... actually, a lot of the optimizations that I did for
+the SGI version wound up back in the main Quake sources (things like
+lookup tables for sin/cos). There was more time spent on optimization
+than on the actual porting effort. Some tradeoffs were made so that
+the Onyx2 IR (which was used for a lot of the profiling) could hit
+60Hz at 1280x1024, but basically I don't think there are any easy
+pickin's left in the optimization realm. Possibly as the MIPS compiler
+gets smarter (which all compilers do over time), there might be some
+incremental improvements. Also, eliminating some of the round-trips
+to the Xserver for things like glViewport (on the O2) would help quite
+a bit.
+
+> > but it's still annoying have some 3dfx ppl brag about their card :-P
+
+They deserve to, for what it was designed for it's a good card. If SGI
+management ever gets it's act together and gets the respun R10K interface
+out the door, the O2 might be able to beat the 3Dfx. Of course, I'd be
+more worried about chips like the NVidia Riva128 and follow-ons at that
+point (once they clean up their drivers). That chipset is a full 2D/3D
+solution too...
+
+> > I tried running Quake in 16+16bit mode where it's definitely a good bit
+> > faster.
+
+Yup, but dithering looks kinda sucky in my opinion. 32+32 is only slightly
+slower and looks tons better, but you need at least 128M.
+
+> You need more RAM.
+> Quake (all by itself) on an O2 likes over 80MB of RAM.
+> (!!!!!!!!!!!!!!)
+
+Textures are tiled on rather large boundaries, and unfortunately
+there are still a lot of small textures in Quake (so you end up
+with tons of pages pinned down and wasted because of internal
+fragmentation). I don't know what happened to the suggestion that
+small textures release unused pages so that they can at least
+be used for code and data... it would probably allow Quake to
+run with all features on on a 64M O2.
+
+Don't get me wrong, I'm posting this from an O2 and I find them
+one of the most useful and powerful machines for the price (well
+worth 2X the Dell NT system sitting beside me), but it isn't top
+dog in every category, and it's beginning to show it's age (the
+PC realm is moving much faster than Moor's law for the time being
+because they're playing catch-up with the workstation market).
+
+- Ed
+
+P.S. Just thought of something... I've not benchmarked the 1M SC
+200MHz R5k O2... that one might be a bit faster.
+```
+
+-- [comp.sys.sgi.misc](https://groups.google.com/g/comp.sys.sgi.misc/c/5uDvc-ooKmg/m/nk0Ghb_stloJ)
 
 
 ## References
@@ -545,4 +829,5 @@ Readme snippet:
 * https://ftp.zx.net.nz/pub/archive/ftp.sgi.com/sgi/quake/download/quake1/
 * https://ftp.jurassic.nl/mirrors/ftp.sgi.com/sgi/quake/download/quake1/
 * https://discmaster.textfiles.com/browse/17621/sgi.tar/ftp.sgi.com/sgi/quake/download/quake1
-
+* https://web.archive.org/web/19970315044841/http://reality.sgi.com/rae/quake/
+* https://web.archive.org/web/19970315085554/http://reality.sgi.com/rae/quake/pics/sgiquake/
