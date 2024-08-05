@@ -42,6 +42,20 @@ Links:
 
 * ftp://ftp.videologic.com/PUB/PRODUCTS/APOC3Dx/DRIVERS/OGLB18A.ZIP
 
+
+```text
+Wednesday, October 8  7:17pm
+
+PowerVR GLQuake Drivers
+The new drivers for GLQuake (Also work for Hexen2) for all you PowerVR owners have been released. Here be the file hosted locally. (Woah, I missed doin gthat for the past couple days) The guys behind these cool new cards are NEC.
+```
+
+-- [http://www.shugashack.com/archives/oct11_oct5.htm](https://web.archive.org/web/20000816012442/http://www.shugashack.com/archives/oct11_oct5.htm) (archived)
+
+Links:
+
+* http://www.shugashack.com/shack_files/misc/oglb18a.zip
+
 ```text
 The GLQuake and GLHexen II driver is available now!
 You can now download this driver for Apocalypse 3D, Apocalypse 3Dx and Apocalypse 5D. This FREE software enables GLQuake, GLQuakeWorld or GLHexen II to run under PowerVR.
@@ -97,9 +111,48 @@ Links:
 
 
 
-## PowerVR GLQuake v2?
+## PowerVR GLQuake v2
 
-Released as `glquake1.zip`.
+Released as `glquake1.zip` and perhaps `glquake1.exe` on January 7 1998.
+
+
+```text
+Jan 07, 1998   113K   glquake1.exe  -   PowerVR mini-OpenGL driver for GLQuake
+```
+
+-- [http://www.3dgamers.com/3daction/00archives/quake](https://web.archive.org/web/19980128212437/http://www.3dgamers.com/3daction/00archives/quake/) (archived)
+
+
+```text
+Thursday, January 8, 1998
+
+New PowerVR GL Drivers
+Apparently new versions of the PowerVR OpenGL driver for Quake II and PowerVR OpenGL driver for Quake and Hexen II have been released on the Apocalypse 3D Software page. There are also new Version 4.1 Windows drivers for the Apocalypse 3D there. Thanks Frans P. de Vries of 3D Action Gamers'.
+```
+
+-- https://www.bluesnews.com/archives/jan98-1.html
+
+Links:
+
+* http://www.videologic.com/VLSOFT/a3d.htm
+
+
+```text
+Thursday, January 8  2:34pm
+
+GL Drivers
+A pair of new drivers for you guys that just love that GL experience:
+
+* New PowerVR drivers for Quake, Quake2, and Hexen2 have all been released on the VideoLogic Homepage. I gotta give the PowerVR guys credit where it is due, they are ALWAYS working on ways to squeeze more performance and kill bugs. Great job in supporting the users. -Blue's
+* The H3D guys are also releasing some new drivers if you are a lucky owner of some H3D Goggles make sure and grab a copy of the new drivers from the homepage at http://www.h3dmedia.com/Quake/
+```
+
+-- [http://www.shugashack.com/archives/j9_j5.htm](https://web.archive.org/web/20001117012800/http://www.shugashack.com/archives/j9_j5.htm) (archived)
+
+Links:
+
+* http://www.videologic.com/VLSOFT/a3d.htm
+* http://www.h3dmedia.com/Quake/
 
 Archive contents:
 
