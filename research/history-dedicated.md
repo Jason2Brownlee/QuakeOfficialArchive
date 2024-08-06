@@ -7,7 +7,7 @@ A dedicated server hosts a game that allows clients to connect, but is not direc
 Windows Releases:
 
 * 1996 Aug 08, qwded103.exe
-* 1996 Aug 13, qwded104.exe
+* 1996 Aug 13, qwded104.exe, qwded104.lzh
 * 1996 Aug 19, qwded104.exe (minor update)
 * 1996 Oct 01, qwded106.exe
 * 1996 Oct 07, qwded106.exe (minor update)
@@ -95,6 +95,26 @@ Links:
 * ftp://ftp.canvasnet.com/quake/idstuff/unsup/qwded103.exe
 * ftp://ftp.idsoftware.com/idstuff/unsup/qwded103.exe
 
+
+```text
+Quake Win32 here
+Rick Bastedo
+8 Aug 1996
+
+I just got an email from Mike Wilson, saying "come get Win32 Quake
+dedicated server exe", so now that I have it, you come get it too...
+http://www.gygabite.com
+
+it's in the "Files" area. It's for registered only, it's dedicated only.
+It runs on 95 and NT, NT for coolest performance. Mike said, "Smoothest
+Quake Server we've seen yet"
+
+-Rick
+```
+
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/5Fow4xBZiak/m/m4GzLnhczzMJ)
+
+
 Archive content:
 
 ```text
@@ -140,7 +160,7 @@ Additional Links:
 
 ## Quake Windows Dedicated Server v1.04
 
-Released as `qwded104.exe` on August 13th 1996.
+Released as `qwded104.exe` and `qwded104.lzh` on August 13th 1996.
 
 Announced:
 
@@ -185,6 +205,36 @@ Also, id has released version 1.04 of the Win32 dedicated Quake server, but this
 Links:
 
 * ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
+
+
+```text
+----------------------------------------------------------
+каталог /gamesdomain/idsoftware/unsup
+----------------------------------------------------------
+
+intel_linux_quake101.tgz 324944 Aug-9-1996 * -
+qwded103.exe 213525 Aug-8-1996 * -
+qwded104.exe 213766 Aug-12-1996 * -
+qwded104.lzh 212146 Aug-12-1996 * -
+```
+
+-- [relcom.archives](https://groups.google.com/g/relcom.archives/c/sGqPkAIlG64/m/9OTadMAzTKsJ)
+
+
+```text
+Quake Win32 dedicated server here
+Frans P. de Vries
+13 Aug 1996
+
+...
+An updated version was just released:
+
+qwded104.lzh or qwded104.exe in the same places as above.
+--
+Frans P. de Vries | f...@ftp.cdrom.com | Doom/Quake archive backup maintainer
+```
+
+-- [rec.games.computer.quake.servers](https://groups.google.com/g/rec.games.computer.quake.servers/c/AnbhzYPq5Ug/m/m4GzLnhczzMJ)
 
 
 **We do not have a copy of this release at this time.**
@@ -253,6 +303,34 @@ Uhh, since nobody I noticed seems to have noticed, QUAKE 1.06 is OUT!! Read what
 Relevant Links:
 
 * ftp://ftp.idsoftware.com/idstuff/unsup/qwded106.exe
+
+```text
+() Quake v1.06 released ()
+Frans P. de Vries
+2 Oct 1996
+
+id Software just released the long-awaited version 1.06 of Quake.
+The complete array of files is available:
+quake106.zip full 9MB shareware release
+qsw106_?.zip shareware release in 7 parts of 1.44MB
+q101-106.zip upgrade patch v1.01 to v1.06 (363kB)
+qwded106.exe dedicated Win32 server (217kB)
+progs106.zip latest Quake-C sources and progs.dat (231kB)
+
+from id's server and the idgames2 archive:
+
+ftp://ftp.idsoftware.com/idstuff/quake/
+ftp://ftp.cdrom.com/pub/idgames2/idstuff/quake/
+
+and within a day or so from more than a dozen idgames2 mirrors around
+the world.
+--
+Frans P. de Vries | f...@ftp.cdrom.com | Doom/Quake archive backup maintainer
+```
+
+-- [rec.games.computer.quake.announce](https://groups.google.com/g/rec.games.computer.quake.announce/c/tDP8TEJpxDI/m/cFP95gXVrlIJ)
+
+
 
 Archive content:
 

@@ -37,7 +37,7 @@ Release Date | File | Description
 1996 Jul 25 | qbsp_29.tar.gz<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
-1996 Aug 13 | qwded104.exe | Quake Windows dedicated server v1.04
+1996 Aug 13 | qwded104.exe<br>qwded104.lzh | Quake Win32 x86 dedicated server v1.04
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
 1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
