@@ -69,6 +69,26 @@ Running "version" command reports:
 `exe: 23:09:18 june 10 1996`
 
 
+It may have been leaked to `ftp.cdrom.com` with the filename `quakeb3.zip` and `quakeb-3.zip`, for example:
+
+
+```text
+ftp://ftp.cdrom.com/pub/idgames/incoming/quakeb-3.zip????
+
+Steve Delorme
+21 June 1996
+
+ftp://ftp.cdrom.com/pub/idgames/incoming/quakeb-3.zip
+
+could it be true?
+```
+
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/deF4oQuT0R4/m/Ei0iZoZ4HUcJ)
+
+People later in that thread claim to have downloaded and played it, referring to it by the name "BETA3".
+
+Others found it to, for example [here](https://groups.google.com/g/tw.bbs.rec.pcgame/c/JTspV5KVm_8/m/y3I-GavIsfkJ), [here](https://groups.google.com/g/rec.games.computer.quake.misc/c/KbldZBFc_9E/m/vFiV-iZXOXsJ) and [here](https://groups.google.com/g/rec.games.computer.quake.misc/c/L4GGMZh1-1s/m/QodGXAXaxbgJ) (and more).
+
 
 
 ## Quake Pre-Release aka Press-Release
