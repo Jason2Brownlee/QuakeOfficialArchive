@@ -35,18 +35,19 @@ Release Date | File | Description
 1996 Jun 19 | [qgraphics.zip](bin/qgraphics.zip)<br>[qpaper.tif](bin/qpaper.tif)<br>qdigi.jpg | Quake True Type Font and Graphics
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.zip](bin/qcc.zip)<br>[qcc.txt](bin/qcc.txt) | QCC compiler source and QuakeC source v1.01.
 1996 Jul 25 | qbsp_29.tar.gz<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
-1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Win32 dedicated server v1.03.
+1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
-1996 Aug 14 | qwded104.exe<br>qwded104.lzh | Win32 dedicated server v1.04.
+1996 Aug 13 | qwded104.exe | Quake Windows dedicated server v1.04
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
+1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | VQuake 1.01, Quake Upgrade Disk for 3D Blaster PCI
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 02 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
-1996 Oct 02 | [qwded106.exe](bin/qwded106.exe)<br>[qwded106.txt](bin/qwded106.txt) | Win32 dedicated server v1.06.
-1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
+1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
+1996 Oct 07 | [qwded106.exe](bin/qwded106_v2.exe) | Quake Win32 x86 dedicated server v1.06 (minor update)
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
 1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
 1996 Oct 23 | rrvq106b.zip | VQuake v1.06 Beta 1

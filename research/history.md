@@ -17,3 +17,4 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [PowerVR Quake History](history-powervr.md)
 * [SGIQuake History](history-sgiquake.md)
 * [AIXQuake History](history-aixquake.md)
+* [Quake Dedicated Server History](history-dedicated.md)

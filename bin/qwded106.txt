@@ -1,1 +1,0 @@
-Intel Win32 dedicated Quake server v1.06
