@@ -71,6 +71,15 @@ Running "version" command reports:
 
 It may have been leaked to `ftp.cdrom.com` with the filename `quakeb3.zip` and `quakeb-3.zip`, for example:
 
+```text
+...
+QUAKEB3.ZIP C27 Quake Beta 3 full registered version
+...
+```
+
+-- [it.annunci.varie](https://groups.google.com/g/it.annunci.varie/c/5M4AixZrxzc)
+
+And:
 
 ```text
 ftp://ftp.cdrom.com/pub/idgames/incoming/quakeb-3.zip????
