@@ -48,6 +48,7 @@ Release Date | File | Description
 1996 Oct 02 | [qwded106.exe](bin/qwded106.exe)<br>[qwded106.txt](bin/qwded106.txt) | Win32 dedicated server v1.06.
 1996 Oct 07 | [WINDED.EXE](bin/WINDED.EXE)<br>[WINDED.TXT](bin/WINDED.TXT) | Win32 dedicated server for Quake 1.06
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
+1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
 1996 Oct 23 | rrvq106b.zip | VQuake v1.06 Beta 1
 1996 Oct 26 | rrq106b2.zip | VQuake v1.06 Beta 2
 1996 Oct 29 | rrq106b4.zip | VQuake v1.06 Beta 4
@@ -105,6 +106,7 @@ Release Date | File | Description
 1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | Quakeworld Skins Pack 4.
 1997 May 22 | [sgiquake.tar.gz](bin/sgiquake-1997-05-21.tar.gz) | SGI Quake v1.10
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>[qwsv0613.zip](bin/qwsv0613.zip)<br>[qwcl0613.exe](bin/qwcl0613.exe)<br>[qwcl1.64-i386-unknown-linux2.0.tar.gz](bin/qwcl1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.64-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.64-i386-unknown-linux2.0.tar.gz](bin/qwsv1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.64-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v1.64.
+1997 Jun 24 | [quake.bin](bin/quake.bin)<br>[quake.sw.tar.Z](bin/quake.sw.tar.Z)<br>[quake.sw.just.exe.tar.Z](bin/quake.sw.just.exe.tar.Z) | Quake Shareware for IBM AIX (PowerPC) v1.07.
 1997 Jul 02 | deathpack1.zip | base32a and death32b maps (Antkow).
 1997 Jul 04 | [deathpack1u.zip](bin/deathpack1u.zip) | base32b and death32c maps (Antkow).
 1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
