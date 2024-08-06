@@ -14,11 +14,9 @@ Releases:
 * 1996 Oct 15, Quake.bin, Quake.bin.txt  (first release)
 * 1997 Jun 24, Quake.bin, quake.sw.tar.Z, quake.sw.just.exe.tar.Z (last release)
 
-1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
 
-1997 Jun 24 | [quake.bin](bin/quake.bin), [quake.sw.tar.Z](bin/quake.sw.tar.Z), [quake.sw.just.exe.tar.Z](bin/quake.sw.just.exe.tar.Z) | Quake Shareware for IBM AIX (PowerPC) v1.07.
 
-## First Release
+## Quake Shareware for AIX v? (first release)
 
 Announcement:
 
@@ -121,7 +119,7 @@ The `ftp.tu-clausthal.de` server mirrored the release and had an HTTP interface 
 * [http://ftp.tu-clausthal.de/pub/msdos/games/quake](https://web.archive.org/web/19990218093433/http://ftp.tu-clausthal.de/pub/msdos/games/quake) (archive)
 
 
-## Quake Shareware for AIX v1.07
+## Quake Shareware for AIX v1.07 (last release)
 
 Released as `Quake.bin`, `quake.sw.tar.Z`, and `quake.sw.just.exe.tar.Z`.
 
