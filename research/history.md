@@ -6,6 +6,7 @@ This is important for the archive as it ensures we don't miss any releases. Thes
 
 If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 
+* [Quake Imagery History](history-imagery.md)
 * [QTest History](history-qtest.md)
 * [Quake Leaks History](history-leaks.md)
 * [Quake Shareware History](history-shareware.md)

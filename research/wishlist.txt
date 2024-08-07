@@ -1,5 +1,9 @@
 # file wishlist
 
+# images
+quakegam.zip
+steve.zip
+
 # real and missing
 deathpack1.zip
 qw233.zip
