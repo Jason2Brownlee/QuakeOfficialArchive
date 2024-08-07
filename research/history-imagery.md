@@ -4,7 +4,7 @@ Releases of quake imagery, e.g. screenshots of the game and editors.
 
 Releases:
 
-* 1995 Aug 04, quakepix.zip, quakegam.zip
+* 1995 Aug 05, quakepix.zip, quakegam.zip
 * 1995 Aug ??, steve.zip
 * 1995 Aug 10, qe_dev.gif
 * 1995 Sep 28, qpix.zip
@@ -15,6 +15,33 @@ Releases:
 These were released as `quakepix.zip`. The zip may have been corrupted and re-uploaded. A second version of the archive may have been uploaded as `quakegam.zip`.
 
 Announcement and discussion:
+
+```text
+   finally, on august 5th, 1995, a series of much awaited early
+screenshots were released by id software. they can be obtained from
+id's ftp site at
+
+      ftp://ftp.idsoftware.com/idstuff/quake/quakepix.zip
+
+   or viewed on their web site at
+
+      http://www.idsoftware.com/qss.html
+
+   these screenshots show the architecture of the levels that can be
+built with the new engine (levels over levels and vertical sloped are
+seen e.g.) as well as certain lightinng effects (shadows e.g.) but
+the only monster to be seen is a dragon flying through the air out
+of the distance. likewise, no status bar is visable either, merely a
+red '100' at the bottom of the screen (probably the players health).
+
+   i was truely amazed by the screenshots and anyone who wasn't should
+consider that we are not seing the actual game in motion, but merely
+still images. i'm sure quake will be more than 'just another doom' as
+skeptists have been saying.
+```
+
+-- [QuakeTalk](https://www.gamers.org/games/quake/quaketalk.txt)
+
 
 ```text
 Quake screenshots
@@ -135,6 +162,19 @@ Here they are - at long last!  The very first screens shots of Quake, taken at 3
 -- quakepix.zip/README.TXT
 
 
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/quake/quakepix.zip
+* http://ftp.icm.edu.pl/pub/coast/games/idsoftware/quake/quakepix.zip
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/quake/quakepix.zip
+* http://gamers.org/pub/3dgamers/00archives/quake/releases/quakepix.zip
+* http://gamers.org/pub/games/idgames2/more_idstuff/quakepix.zip
+* http://www.gamers.org/pub/games/idgames2/more_idstuff/quakepix.zip
+* http://www.gamers.org/pub/idgames2/more_idstuff/quakepix.zip
+* http://www.idsoftware.com/ftp/quake/quakepix.zip
+* https://www.quaddicted.com/files/idgames2/more_idstuff/quakepix.zip
+
+
 ## steve.zip
 
 An encrypted file name `steve.zip` was uploaded to the id software FTP, perhaps in August 1995.
@@ -229,7 +269,39 @@ There appears to be 13 images.
 
 ## qe_dev.gif
 
-?
+A screenshot of the QuakeEd editor.
+
+Details of release?
+
+```text
+->   after a while, even more screenshots related to _auek_ were released.
+-> an example of john romero's level edit, quaked, can be found at
+
+->   ftp://ftp.idsoftware.com/idstuff/quake/qe_dev.gif
+
+->   it's running under nextstep and there seem to be no plans to release
+-> this particular editor. shawn green however is rumored to be working on
+-> a ms windows version of a quake editor.
+```
+
+-- [QuakeTalk](https://www.gamers.org/games/quake/quaketalk.txt)
+
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/quake/qe_dev.gif
+* http://ftp.infomagic.com/pub/mirrors/doom/idstuff/quake/?M=A/qe_dev.gif
+* http://gamers.org/dEngine/images/qe_dev.gif
+* http://gamers.org/dEngine/images/t_qe_dev.gif
+* http://gamers.org/pub/3dgamers/00archives/doom/addons/idstuff/quake/qe_dev.gif
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/quake/qe_dev.gif
+* http://gamers.org/pub/3dgamers/00archives/quake/releases/qe_dev.gif
+* http://gamers.org/pub/games/idgames/idstuff/quake/qe_dev.gif
+* http://reality.sgi.com/rae/quake/dev/images/qe_dev.gif
+* http://reality.sgi.com/rae_aw/quake/dev/images/qe_dev.gif
+* http://www.gamers.org/dEngine/images/qe_dev.gif
+* http://www.gamers.org/dEngine/images/t_qe_dev.gif
+* http://www.gamers.org/pub/games/idgames/idstuff/quake/qe_dev.gif
+* http://www.idsoftware.com/ftp/quake/qe_dev.gif
 
 ## qpix.zip
 
@@ -240,6 +312,24 @@ It is possible that screenshots were hosted on the id software webpage at `idsof
 * http://www.idsoftware.com/qss.html (not archived)
 
 Announcement and discussion:
+
+```text
+->   id showed an example of 2 completed polygon monsters in action in 4
+-> new screenshots at
+
+->   ftp://ftp.idsoftware.com/idstuff/quake/qpix.gif
+
+->   american mcgee commented on these in the help@idsoftware.com .plan:
+
+->   "we have two functioning monsters in right now. one is the
+->    knight that you saw in the screen shots and the other is an
+->    ogre that just got finished. the knight chases you around and
+->    slashes at you with his sword and the ogre has a huge axe and
+->    a missile attack. both of these monsters look extremely cool."
+```
+
+-- [QuakeTalk](https://www.gamers.org/games/quake/quaketalk.txt)
+
 
 ```text
 New Quake shots at ftp.idsoftware.com
@@ -314,6 +404,17 @@ Archive content:
   63742 28 Sep  1995 QUAKE03.GIF
 ```
 
+Links:
+
+* http://gamers.org/pub/3dgamers/00archives/doom/addons/idstuff/quake/qpix.zip
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/quake/qpix.zip
+* http://gamers.org/pub/3dgamers/00archives/quake/releases/qpix.zip
+* http://gamers.org/pub/games/idgames2/more_idstuff/qpix.zip
+* http://www.gamers.org/pub/games/idgames/idstuff/quake/qpix.zip
+* http://www.gamers.org/pub/games/idgames2/more_idstuff/qpix.zip
+* http://www.gamers.org/pub/idgames2/more_idstuff/qpix.zip
+* http://www.idsoftware.com/ftp/quake/qpix.zip
+* https://www.quaddicted.com/files/idgames2/more_idstuff/qpix.zip
 
 ## qgraphics.zip
 
@@ -339,7 +440,7 @@ There is a new logo on id's ftp site mirrors. It's originally a 661k jpeg, but I
 Links:
 
 * http://redwood.gatsbyhouse.com/quake/quake/qttfont.zip
-* /http://redwood.gatsbyhouse.com/quake/quake/qdigism.jpg
+* http://redwood.gatsbyhouse.com/quake/quake/qdigism.jpg
 
 
 ```text
@@ -373,4 +474,10 @@ Archive content:
    17484  9 Apr  1996 quake___.ttf
   130835 30 May  1996 quakelo.jpg
 ```
+
+Links:
+
+* http://gamers.org/pub/3dgamers/00archives/doom/addons/idstuff/imagery/qgraphics.zip
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/imagery/qgraphics.zip
+* http://gamers.org/pub/games/idgames/idstuff/imagery/qgraphics.zip
 
