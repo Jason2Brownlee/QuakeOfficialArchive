@@ -241,7 +241,7 @@ It is possible that screenshots were hosted on the id software webpage at `idsof
 
 Announcement and discussion:
 
-``text
+```text
 New Quake shots at ftp.idsoftware.com
 mto...@eskimo.com
 29 Sept 1995
