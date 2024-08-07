@@ -97,7 +97,25 @@ Oliver Fromme, Leibnizstr. 18-61, 38678 Clausthal, Germany
 
 -- [de.alt.games.quake](https://groups.google.com/g/de.alt.games.quake/c/BOnUZqwMXP0/m/GIDNUYFI5jgJ) (google translated)
 
-The `ftp.software.ibm.com` server where the releaes were officially distributed has an HTTP interface for the file system that was archived.
+Later mention:
+
+```text
+==November 3==
+
+3:00p.m. CST
+There's an AIX port of Quake. You can get it from ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin. Check out the readme (html) for more info. This was orginally posted on Quake Domain.
+```
+
+-- [http://redwood.stomped.com/1196.html](https://web.archive.org/web/20011031110024/http://redwood.stomped.com/1196.html) (archived)
+
+Links:
+
+* ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
+* ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/README.html
+* http://www.gameaholic.com/
+
+
+The `ftp.software.ibm.com` server where the releases were officially distributed has an HTTP interface for the file system that was archived.
 
 * [https://ftp.software.ibm.com/aix/freeSoftware/games/](https://web.archive.org/web/20230713160812/https://ftp.software.ibm.com/aix/freeSoftware/games/) (archived)
 
