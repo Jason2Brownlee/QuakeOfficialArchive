@@ -67,7 +67,7 @@ Release Date | File | Description
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
-1997 Jan 22 | glquake.zip<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta.
+1997 Jan 22 | [glquake.zip](bin/glquake.zip)<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
