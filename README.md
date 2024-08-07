@@ -34,7 +34,7 @@ Release Date | File | Description
 1996 Jul 19 | [q100-101.zip](bin/q100-101.zip)<br>[q100-101.txt](bin/q100-101.txt) | Quake update v1.00-1.01.
 1996 Jun 19 | [qgraphics.zip](bin/qgraphics.zip)<br>[qpaper.tif](bin/qpaper.tif)<br>qdigi.jpg | Quake True Type Font and Graphics
 1996 Jul 25 | [qcc.tar.gz](bin/qcc.tar.gz)<br>[qcc.zip](bin/qcc.zip)<br>[qcc.txt](bin/qcc.txt) | QCC compiler source and QuakeC source v1.01.
-1996 Jul 25 | qbsp_29.tar.gz<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
+1996 Jul 26 | [qbsp_29.tar.gz](bin/qbsp_29.tar.gz)<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 13 | qwded104.exe<br>qwded104.lzh | Quake Win32 x86 dedicated server v1.04

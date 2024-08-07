@@ -3,11 +3,6 @@
 # quake imagery
 qdigi.jpg
 
-# quake development
-qbsp_29.tar.gz
-qbsp_29.zip
-qutils.tar.gz
-
 # real and missing
 deathpack1.zip
 qw233.zip
