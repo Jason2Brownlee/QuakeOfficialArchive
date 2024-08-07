@@ -18,14 +18,15 @@ Unix Releases:
 	* unixded-0.99-i386-unknown-bsdi3.0.tar.gz
 	* unixded-0.99-i386-unknown-linux2.0.tar.gz
 	* unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz
+	* unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
 * 1997 Apr 09
 	* unixded-0.991-i386-unknown-bsdi3.0.tar.gz
 	* unixded-0.991-i386-unknown-linux2.0.tar.gz
 	* unixded-0.991-sparc-sun-solaris2.5.1.tar.gz
 * 1997 May 01
-	* unixded-1.0-sparc-sun-solaris2.5.1.tar.Z
-	* unixded-1.0-i386-unknown-linux2.0.tar.gz
 	* unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+	* unixded-1.0-i386-unknown-linux2.0.tar.gz
+	* unixded-1.0-sparc-sun-solaris2.5.1.tar.Z
 
 
 
@@ -486,6 +487,111 @@ Additional Links:
 * https://www.quaddicted.com/files/engines/qwded106.exe
 * https://www.quaddicted.com/files/idgames/idstuff/unsup/qwded106.exe
 * https://www.quaddicted.com/files/idgames2/idstuff/unsup/qwded106.exe
+
+
+## Quake Unix Dedicated Server v0.99
+
+The files in this release included:
+
+* unixded-0.99-i386-unknown-bsdi3.0.tar.gz
+* unixded-0.99-i386-unknown-linux2.0.tar.gz
+* unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz
+* unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+
+Announcements:
+
+```
+March 27, 1997
+
+New Unix Ports
+The following announcement was just sent along by Zoid, which is also posted on ThreeWave:
+
+	Unix Ports - New Release
+
+	Here is the long awaited release of several Unix Quake ports. These got delayed a bit from all the CTF4 work I've been doing.
+
+	The ports all have support for Quake Mission Packs #1 and #2 from Hipnotic Interactive and Rogue Entertainment, respectively. There are four new dedicated Quake server ports as well as a new SVGALib Linux Quake for playing on. The new SQuake for Linux fixes up the middle mouse button problem and some random crashes. It's at version 0.991 off the Quake 1.07 source.
+
+	Please see the Files Section for the ports and to the download them. The quick list is dedicated servers for Linux2.0, BSDI3.0, Solaris2.5 and SCO ODT5. The dedicated servers are all based on the Quake1.07 source and are version numbered at 0.99 for now.
+```
+
+-- https://www.bluesnews.com/archives/march97-4.html
+
+Links:
+
+* http://www.planetquake.com/quakex/threewave/
+* http://www.planetquake.com/quakex/threewave/files.html
+
+
+These versions are listed on the threewave files section:
+
+```text
+- Regular Quake dedicated (TCP/IP) Unix Servers
+unixded-0.99-i386-unknown-bsdi3.0.tar.gz
+
+- BSDI BSD/OS 3.0 on Intel Platforms -
+unixded-0.99-i386-unknown-linux2.0.tar.gz
+
+- Linux2.0 (ELF) on Intel Platforms -
+unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz
+
+- SCO Unix (ODT5) 3.2v5.0.2 on Intel Platforms -
+unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+- Sun Solaris2.5.1 (SunOs 5.5.1) on Sun Sparc Platforms -
+```
+-- [http://www.planetquake.com/quakex/threewave/files.html](https://web.archive.org/web/19970610153232/http://www.planetquake.com/quakex/threewave/files.html)
+
+Links:
+
+* http://www.planetquake.com/quakex/threewave/files/unixded-0.99-i386-unknown-bsdi3.0.tar.gz
+* http://www.planetquake.com/quakex/threewave/files/unixded-0.99-i386-unknown-linux2.0.tar.gz
+* http://www.planetquake.com/quakex/threewave/files/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz
+* ftp://ftp.firestarter.org/pub/3wave/unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+
+
+The `unixded-0.99-i386-unknown-linux2.0.tar.gz` archive content:
+
+```text
+ 28 Mar  1997 readme.unixded
+ 28 Mar  1997 unixded-i386-unknown-linux2.0
+```
+
+Readme snippet:
+
+```text
+
+README for Unix Dedicated Server
+--------------------------------
+
+This is a dedicated Quake server for Unix.  It only supports TCP/IP.
+```
+
+-- unixded-0.99-i386-unknown-linux2.0.tar.gz/readme.unixded
+
+
+
+## Quake Unix Dedicated Server v0.991
+
+The files in this release included:
+
+* unixded-0.991-i386-unknown-bsdi3.0.tar.gz
+* unixded-0.991-i386-unknown-linux2.0.tar.gz
+* unixded-0.991-sparc-sun-solaris2.5.1.tar.gz
+
+
+
+
+
+
+
+## Quake Unix Dedicated Server v1.0
+
+The files in this release included:
+
+* unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* unixded-1.0-i386-unknown-linux2.0.tar.gz
+* unixded-1.0-sparc-sun-solaris2.5.1.tar.Z
+
 
 
 

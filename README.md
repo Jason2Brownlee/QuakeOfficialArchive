@@ -83,7 +83,7 @@ Release Date | File | Description
 1997 Mar 14 | [all.txt](bin/all.txt)<br>[all.zip](bin/all.zip)<br>[docs.zip](bin/docs.zip)<br>[maps.zip](bin/maps.zip)<br>[newexes.zip](bin/newexes.zip)<br>[qc.zip](bin/qc.zip)<br>[qcc.zip](bin/qcc.zip)<br>[utilsrc.zip](bin/utilsrc.zip) | QuakeC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
-1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz) | Quake Unix Dedicated Server v0.99.
+1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz)<br>unixded-0.99-sparc-sun-solaris2.5.1.tar.Z | Quake Unix Dedicated Server v0.99.
 1997 Mar 29 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
 1997 Apr 01 | [qwinst150.exe](bin/qwinst150.exe)<br>[qwinst150b.exe](bin/qwinst150b.exe) | Quakeworld Client v1.50.
 1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip)<br>[qwqc150.txt](bin/qwqc150.txt) | Quakeworld QuakeC Source v1.50.
