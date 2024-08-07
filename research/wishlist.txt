@@ -1,8 +1,5 @@
 # file wishlist
 
-# quake imagery
-qdigi.jpg
-
 # real and missing
 deathpack1.zip
 qw233.zip
