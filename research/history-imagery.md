@@ -273,6 +273,15 @@ A screenshot of the QuakeEd editor.
 
 Details of release?
 
+
+```text
+Screenshot by John Romero, 1995
+
+This screenshot provided by John Romero dates back to 1995. There has been at least on QuakeEd revision. The screenshot features the Texture Palette inspector (64x64 textures, four rows in a separate window), some BSP options (FastBSP, 1/2 BSP, Full BSP), a look down view, some Brush options. Note that the "sizing" buttons have been removed in the current version, and that BSP and other options have been moved to menus.
+```
+
+-- https://www.gamers.org/dEngine/quake/QuakeEd/quake_ed.html
+
 ```text
 ->   after a while, even more screenshots related to _auek_ were released.
 -> an example of john romero's level edit, quaked, can be found at
