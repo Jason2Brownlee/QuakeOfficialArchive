@@ -12,7 +12,7 @@ Releases:
 
 ## quakepix.zip
 
-These were released as `quakepix.zip`. The zip may have been corrupted and reuploaded. A second version of the archive may have been uploaded as `quakegam.zip`.
+These were released as `quakepix.zip`. The zip may have been corrupted and re-uploaded. A second version of the archive may have been uploaded as `quakegam.zip`.
 
 Announcement and discussion:
 
@@ -137,7 +137,7 @@ Here they are - at long last!  The very first screens shots of Quake, taken at 3
 
 ## steve.zip
 
-An encripted file name `steve.zip` was uploaded to the id software FTP, perhaps in August 1995.
+An encrypted file name `steve.zip` was uploaded to the id software FTP, perhaps in August 1995.
 
 The file was acquired and cracked. The password was `poole`, and intended for Steve Poole at PC GAMER magazine.
 
@@ -233,6 +233,78 @@ There appears to be 13 images.
 
 ## qpix.zip
 
+Released as `qpix.zip`.
+
+It is possible that screenshots were hosted on the id software webpage at `idsoftware.com/qss.html`, although the page was not archived:
+
+* http://www.idsoftware.com/qss.html (not archived)
+
+Announcement and discussion:
+
+``text
+New Quake shots at ftp.idsoftware.com
+mto...@eskimo.com
+29 Sept 1995
+
+There are 4 new quake screenshots (zipped into one file) at
+ftp.idsoftware.com. The URL is:
+ftp://ftp.idsoftware.com/idstuff/quake/qpix.zip
+
+There are two pictures of the knight and two pictures of some sort of
+ogre/troll-like creature. Here is the associated text file:
+
+>Quake screen shots
+>Released Sep 28th 1995
+>
+>Here are some shots of the knight and ogre.
+>I said something about looking at the knight
+>in the help finger file... and then realized
+>that there were no shots of him on the ftp
+>site. So here they are.
+>
+>---
+>-American McGee (amer...@idsoftware.com)
+> id Software
+```
+
+-- [rec.games.computer.doom.misc](https://groups.google.com/g/rec.games.computer.doom.misc/c/GjpbhoZKlsc/m/HsglavgR8FkJ)
+
+
+```text
+() Quake
+
+Creator / Distributor : id Software
+Latest Version : none (not yet released)
+Appropriate Newsgroups: alt.games.quake
+comp.sys.ibm.pc.games.action
+
+FAQ : http://doomgate.cs.buffalo.edu/games/quake/quaketalk.html
+ftp://ftp.pht.com/pub/games/doom/docs/faqs/qtalk363.txt
+Screenshots: http://www.idsoftware.com/qss.html
+ftp://ftp.pht.com/pub/gamehead/q/quakepix.zip
+| ftp://ftp.pht.com/pub/games/doom/idstuff/quake/qpix.zip
+```
+
+-- [rec.games.computer.doom.announce](https://groups.google.com/g/rec.games.computer.doom.announce/c/yn4AT_JvcNw/m/Q5nu9_DfVAYJ)
+
+
+```text
+Frans P. de Vries
+3 Dec 1995
+
+...
+1A. Where are the Quake screen shots?
+ftp://{INS_site/path_HERE}/idstuff/quake/quakepix.zip
+ftp://{INS_site/path_HERE}/idstuff/quake/qpix.zip
+ftp://{INS_site/path_HERE}/idstuff/quake/qe_dev.gif [Quake Editor]
+
+where {INS_site/path_HERE} = any DOOM ftp site, eg. ftp.cdrom.com/pub/idgames
+--
+Frans P. de Vries | f...@xymph.iaf.nl | Rec.Games.Computer.Doom FAQ maintainer
+```
+
+-- [comp.sys.ibm.pc.games.action](https://groups.google.com/g/comp.sys.ibm.pc.games.action/c/0lkcpgUHLx8/m/GguHds0ueKkJ)
+
 Archive content:
 
 ```text
@@ -245,6 +317,53 @@ Archive content:
 
 ## qgraphics.zip
 
+Released as `qgraphics.zip`.
+
+The release included if software logos, Quake logos and a true type font (TTF) used for the game.
+
+It is possible that some of the images were unpacked and released along-side the archive, such as `qdigi.jpg` and `qpaper.tif`.
+
+
+Announcement and discussion:
+
+```text
+==June 20== 3:00p.m. CDT
+I put the Quake True Type Font here for download. It's also on ftp.idsoftware.com and it's mirrors in /imagery.
+
+10:20a.m.
+There is a new logo on id's ftp site mirrors. It's originally a 661k jpeg, but I shrunk it down to a 38k jpeg so I could let you take a look at it. Click here to see it. The last entry in Carmack's log yesterday "* created 0.9 SW RC distribution "!!!! WHOOP!!! :) It's so close that I'm about to explode. ;)
+```
+
+-- [http://redwood.gatsbyhouse.com/quake/696.html](https://web.archive.org/web/19970327201041/http://redwood.gatsbyhouse.com/quake/696.html) (archived)
+
+Links:
+
+* http://redwood.gatsbyhouse.com/quake/quake/qttfont.zip
+* /http://redwood.gatsbyhouse.com/quake/quake/qdigism.jpg
+
+
+```text
+###############################################################################
+#
+# -- DIR, 25-Jun-1996
+# dir /mirrors/idsoft/tonsmore/idstuff/imagery
+
+#
+# -- 9.0k, 23-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qdigi.jpg
+
+#
+# -- 399k, 20-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qgraphics.zip
+
+#
+# -- 1.3M, 20-Jun-1996
+get /mirrors/idsoft/tonsmore/idstuff/imagery/qpaper.tif
+
+###############################################################################
+```
+
+-- [relcom.archives](https://groups.google.com/g/relcom.archives/c/aHIozJsUOUg/m/ZSZ6WRQva-IJ)
 
 Archive content:
 
