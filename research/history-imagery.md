@@ -267,18 +267,45 @@ The with all the screenshots was archived, but the images were not:
 
 There appears to be 13 images.
 
+A copy of the images is available in an archive titled `quakepic.zip`:
+
+* https://archive.org/details/ftp.sysabend.org.2017
+* https://archive.org/download/ftp.sysabend.org.2017/ftp.sysabend.org.zip/ftp.sysabend.org%2Fpub%2FSysabend%2Fuploads%2Fquakepic.zip
+* https://discmaster.textfiles.com/file/11754/ftp.sysabend.org.zip/ftp.sysabend.org/pub/Sysabend/uploads/quakepic.zip
+
+This archive contains the `qe_dev.gif` image, as well as images from `quakepix.zip` and `qpix.zip`.
+
+The image filenames are as follows:
+
+```text
+ 8796  7 Nov  1995 QUAKE00.JPG
+ 8238  7 Nov  1995 QUAKE01.JPG
+ 8802  7 Nov  1995 QUAKE02.JPG
+ 8326  7 Nov  1995 QUAKE03.JPG
+ 6997  7 Nov  1995 QUAKE04.JPG
+ 8186  7 Nov  1995 QUAKE05.JPG
+10292  7 Nov  1995 QUAKE07.JPG
+ 9051  7 Nov  1995 QUAKE08.JPG
+ 8524  7 Nov  1995 QUAKE10.JPG
+12926  7 Nov  1995 QUAKE11.JPG
+54141  7 Nov  1995 SQBIG1.JPG
+54589  7 Nov  1995 SQBIG2.JPG
+```
+
+
+
+
+
+
 ## qe_dev.gif
 
 A screenshot of the QuakeEd editor.
 
-Details of release?
+Details and announcement of release?
 
-
-```text
-Screenshot by John Romero, 1995
-
-This screenshot provided by John Romero dates back to 1995. There has been at least on QuakeEd revision. The screenshot features the Texture Palette inspector (64x64 textures, four rows in a separate window), some BSP options (FastBSP, 1/2 BSP, Full BSP), a look down view, some Brush options. Note that the "sizing" buttons have been removed in the current version, and that BSP and other options have been moved to menus.
-```
+> Screenshot by John Romero, 1995
+>
+> This screenshot provided by John Romero dates back to 1995. There has been at least on QuakeEd revision. The screenshot features the Texture Palette inspector (64x64 textures, four rows in a separate window), some BSP options (FastBSP, 1/2 BSP, Full BSP), a look down view, some Brush options. Note that the "sizing" buttons have been removed in the current version, and that BSP and other options have been moved to menus.
 
 -- https://www.gamers.org/dEngine/quake/QuakeEd/quake_ed.html
 
