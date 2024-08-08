@@ -272,6 +272,7 @@ A copy of the images is available in an archive titled `quakepic.zip`:
 * https://archive.org/details/ftp.sysabend.org.2017
 * https://archive.org/download/ftp.sysabend.org.2017/ftp.sysabend.org.zip/ftp.sysabend.org%2Fpub%2FSysabend%2Fuploads%2Fquakepic.zip
 * https://discmaster.textfiles.com/file/11754/ftp.sysabend.org.zip/ftp.sysabend.org/pub/Sysabend/uploads/quakepic.zip
+* https://discmaster.textfiles.com/browse/11754/ftp.sysabend.org.zip/ftp.sysabend.org/pub/Sysabend/uploads/quakepic.zip
 
 This archive contains the `qe_dev.gif` image, as well as images from `quakepix.zip` and `qpix.zip`.
 
@@ -291,10 +292,6 @@ The image filenames are as follows:
 54141  7 Nov  1995 SQBIG1.JPG
 54589  7 Nov  1995 SQBIG2.JPG
 ```
-
-
-
-
 
 
 ## qe_dev.gif
