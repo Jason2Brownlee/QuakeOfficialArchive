@@ -19,7 +19,7 @@ Unix Releases:
 	* unixded-0.99-i386-unknown-linux2.0.tar.gz
 	* unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz
 	* unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
-* 1997 Apr 09
+* 1997 Apr 10
 	* unixded-0.991-i386-unknown-bsdi3.0.tar.gz
 	* unixded-0.991-i386-unknown-linux2.0.tar.gz
 	* unixded-0.991-sparc-sun-solaris2.5.1.tar.gz
@@ -579,8 +579,75 @@ The files in this release included:
 * unixded-0.991-sparc-sun-solaris2.5.1.tar.gz
 
 
+No SCO Unix releases from this point and in the future.
+
+Announcement and discussion:
+
+```text
+April 10, 1997
+
+New Unix Ports
+Zoid's been busy, there are a bunch of new Unix releases up on id Software's FTP Site (shift-click the links to download):
+
+Linux QWCL qwcl1.54c-i386-unknown-linux2.0
+BSDI QWSV qwsv1.54c-i386-unknown-bsdi3.0
+Linux QWSV qwsv1.54c-i386-unknown-linux2.0
+Solaris QWSV qwsv1.54c-sparc-sun-solaris2.5.1
+Linux SVGALib Quake squake-0.992-i385-unknown-linux2.0
+BSDI Dedicated Quake unixded-0.991-i386-unknown-bsdi3.0
+Linux Dedicated Quake unixded-0.991-i386-unknown-linux2.0
+Solaris Dedicated Quake unixded-0.991-sparc-sun-solaris2.51
+```
+
+-- https://www.bluesnews.com/archives/april97-1.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-0_991-i386-unknown-bsdi3_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-0_991-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-0_991-sparc-sun-solaris2_5_1_tar.gz
+
+```text
+April 10, 1997
+
+7:10a.m. CDT
+It seems Zoid's been working overtime, because there are a bunch of new Unix ports available (QuakeWorld, Dedicated Server, and regular clients). I don't have time to list them individually right now, so just go to ftp://ftp.stomped.com/pub/redwood/qw/unix.
+```
+
+-- [http://redwood.stomped.com/497.html](https://web.archive.org/web/20011031111944/http://redwood.stomped.com/497.html) (archived)
+
+The `unixded-0.991-i386-unknown-linux2.0.tar.gz` archive content:
+
+```text
+  2829 10 Apr  1997 readme.unixded
+342876 10 Apr  1997 unixded
+```
+
+Readme snippet:
+
+```text
+...
+0.991 notes
+-----------
+
+- Can run in background, such as:
+	nohup unixded &
+- dynamic ip aliasing now supported.  If you have multiple ip addresses, you
+  can use the -ip option to multihome the servers, i.e.
+  		unixded -ip 204.174.17.50
+  		unixded -ip 204.174.17.99
+  to have two servers on different ip addresses on the same machine (but with
+  the same port).
+```
+
+-- readme.unixded
 
 
+Additional links:
+
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-0.991-i386-unknown-bsdi3.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-0.991-i386-unknown-linux2.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-0.991-sparc-sun-solaris2.5.1.tar.gz
 
 
 
@@ -594,4 +661,86 @@ The files in this release included:
 
 
 
+Announcement and discussion:
+
+```text
+April 30, 1997
+
+New Unix Ports
+Zoid has released new QuakeWorld and Quake Unix ports that fix various problems with previous versions:
+qwcl1.55-i386-unknown-linux2.0.tar.gz
+qwsv1.55-i386-unknown-bsdi3.0.tar.gz
+qwsv1.55-i386-unknown-linux2.0.tar.gz
+qwsv1.55-sparc-sun-solaris2.5.1.tar.gz
+squake-1.0-i386-unknown-linux2.0.tar.gz
+unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+unixded-1.0-i386-unknown-linux2.0.tar.gz
+unixded-1.0-sparc-sun-solaris2.5.1.tar.gz
+```
+
+-- [http://redwood.stomped.com/497.html](https://web.archive.org/web/20011031111944/http://redwood.stomped.com/497.html) (archived)
+
+Links:
+
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-sparc-sun-solaris2.5.1.tar.gz
+
+```text
+May 1, 1997
+
+uake/QuakeWorld Unix Ports
+Thanks Bounty Hunter (Xenocide Flag Academy) for pointing out that there are a whole bunch of new ports up on Threewave (you may need to shift-click):
+
+qwcl1_55-i386-unknown-linux2_0_tar.gz	(124 KB)	QuakeWorld SVGALib Client for Linux 2.0
+qwsv1_55-i386-unknown-bsdi3_0_tar.gz	(241 KB)	QuakeWorld TCP/IP Server for BSDI BSD/OS 3.0
+qwsv1_55-i386-unknown-linux2_0_tar.gz	(126 KB)	QuakeWorld TCP/IP Server for Linux 2.0
+qwsv1_55-sparc-sun-solaris2_5_1_tar.gz	(280 KB)	QuakeWorld TCP/IP Server for Sun Sparc Solaris 2.5.1
+squake-1_0-i386-unknown-linux2_0_tar.gz	(163 KB)	Regular Quake SVGALib Client for Linux 2.0
+unixded-1_0-i386-unknown-bsdi3_0_tar.gz	(253 KB)	Regular Quake TCP/IP Dedicated Server for BSDI BSD/OS 3.0
+unixded-1_0-i386-unknown-linux2_0_tar.gz	(150 KB)	Regular Quake TCP/IP Dedicated Server for Linux 2.0
+unixded-1_0-sparc-sun-solaris2_5_1_tar.gz	(440 KB)	Regular Quake TCP/IP Dedicated Server for Sun Sparc Solaris 2.5.1
+```
+
+-- https://www.bluesnews.com/archives/april97-4.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-bsdi3_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-sparc-sun-solaris2_5_1_tar.gz
+
+
+The `unixded-1.0-i386-unknown-linux2.0.tar.gz` archive content:
+
+```text
+  2829  1 May  1997 readme.unixded
+350108  1 May  1997 unixded
+```
+
+
+
+Additional links:
+
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.stomped.com/pub/redwood/qw/unix/unixded-1.0-sparc-sun-solaris2.5.1.tar.gz
+* http://bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-bsdi3_0_tar.gz
+* http://bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-linux2_0_tar.gz
+* http://bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-sparc-sun-solaris2_5_1_tar.gz
+* http://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-bsdi3_0_tar.gz
+* http://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-i386-unknown-linux2_0_tar.gz
+* http://www.bluesnews.com/files/idstuff/quakeworld/unix/unixded-1_0-sparc-sun-solaris2_5_1_tar.Z
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/old/unixded-1.0-sparc-sun-solaris2.5.1.tar.Z
+* http://www.idsoftware.com/ftp/quakeworld/unix/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* http://www.idsoftware.com/ftp/quakeworld/unix/unixded-1.0-sparc-sun-solaris2.5.1.tar.Z
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/unix/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/unix/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/unix/unixded-1.0-sparc-sun-solaris2.5.1.tar.gz
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/unix/unixded-1.0-i386-unknown-bsdi3.0.tar.gz
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/unix/unixded-1.0-i386-unknown-linux2.0.tar.gz
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/unix/unixded-1.0-sparc-sun-solaris2.5.1.tar.gz
 
