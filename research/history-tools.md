@@ -603,6 +603,22 @@ Frans P. de Vries | f...@ftp.cdrom.com | Doom/Quake archive backup maintainer
 
 -- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/m_SOUEe39Mo/m/_dbg7CDn_HAJ)
 
+
+```text
+7-25-96, Thursday, 8:30PM EST
+
+...
+
+The Quake C compiler has been released by id. You can get the tar/gzipped source from id's FTP site, and this even includes a DOS executable. This stuff looks complicated, but extremely powerful.
+```
+
+-- [http://www.canvasnet.com/quake/old/july.htm](https://web.archive.org/web/20010719125231/http://www.canvasnet.com/quake/old/july.htm)
+
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/source/qcc.tar.gz
+
+
 Archive content:
 
 ```text
@@ -1122,6 +1138,26 @@ Released as `q1tools_gpl.tgz`.
 
 Announcements:
 
+
+```text
+Tuesday · May 9 · 2000
+
+More Quake 1 source code released
+JCal @  10:58 PM Your Time
+
+id Software's John Carmack updated his .plan file with news on more source code for Quake 1:
+
+And the Q1 utilities are now also available under the GPL in source/q1tools_gpl.tgz.
+
+id's FTP site is located at ftp://ftp.idsoftware.com.
+```
+
+-- [http://www.stomped.com/news/arc4-2000.shtml](https://web.archive.org/web/20000816002131/http://www.stomped.com/news/arc4-2000.shtml) (archived)
+
+Links:
+
+* http://finger.stomped.com/users.php3?user=johnc@idsoftware.com
+* ftp://ftp.idsoftware.com/
 
 ```text
 5/9/00
