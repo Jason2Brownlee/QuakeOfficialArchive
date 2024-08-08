@@ -206,6 +206,46 @@ The `qcc.zip/v101qc` directory contents:
  20120 24 Jul  1996 zombie.qc
 ```
 
+Locations for `qcc.tar.gz`:
+
+* ftp://ftp.idsoftware.com/idstuff/source/qcc.tar.gz
+* http://darkskye.home.mindspring.com/files/qcc.tar.gz
+* http://ftp.mancubus.net/pub/idgames2/idstuff/source/qcc.tar.gz
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/source/qcc.tar.gz
+* http://gamers.org/pub/games/idgames/idstuff/source/qcc.tar.gz
+* http://public.planetmirror.com/pub/idgames2/quakec/utils/qcc.tar.gz
+* http://reality.sgi.com/rae/quake/idfiles/qcc.tar.gz
+* http://reality.sgi.com/rae_aw/quake/idfiles/qcc.tar.gz
+* http://www.bluesnews.com/files/qcc_tar.gz
+* http://www.gamers.org/pub/games/idgames/idstuff/source/qcc.tar.gz
+* http://www.gamers.org/pub/games/idgames2/idstuff/source/qcc.tar.gz
+* http://www.gamers.org/pub/games/idgames2/quakec/utils/qcc.tar.gz
+* http://www.gamers.org/pub/games/idgames2/utils/quakec/qcc.tar.gz
+* http://www.gamers.org/pub/idgames/idstuff/source/qcc.tar.gz
+* http://www.gamers.org/pub/idgames2/idstuff/source/qcc.tar.gz
+* http://www.gamers.org/pub/idgames2/quakec/utils/qcc.tar.gz
+* http://www.gamers.org/pub/idgames2/utils/quakec/qcc.tar.gz
+* http://www.gamesmania.com/english/../common/quake/qcc_tar.gz
+* http://www.gamesmania.com/german/../common/quake/qcc_tar.gz
+* http://www.gamesmania.com/italian/../common/quake/qcc_tar.gz
+* http://www.gamesmania.com/japanese/common/quake/qcc_tar.gz
+* http://www.idsoftware.com/ftp/source/qcc.tar.gz
+* https://www.quaddicted.com/files/idgames/idstuff/source/qcc.tar.gz
+* https://www.quaddicted.com/files/idgames2/idstuff/source/qcc.tar.gz
+* https://www.quaddicted.com/files/idgames2/quakec/utils/qcc.tar.gz
+* https://www.quaddicted.com/files/idgames2/utils/quakec/qcc.tar.gz
+* https://www.quaddicted.com/files/tools/idgames2_utils/quakec/qcc.tar.gz
+
+Locations for `qcc.zip`:
+
+* ftp://ftp.canvasnet.com/quake/qc/qcc.zip
+* http://www.fortunecity.com/underworld/caterpillar/2/qcc.zip
+* http://www.gygabite.com/gameroom/files/qcc.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/chopshop/utilities/quake/qc_utils/qcc.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/chopshop/utilities/quake/qc_utils/qcc.zip
+* https://www.quaddicted.com/files/tools/qcc.zip
+
+
 ## QuakeC v1.05
 
 The next release was on September 13 1996.
@@ -535,7 +575,14 @@ The timestamps were:
   288 12 Sep  1996 VIS
 ```
 
+Locations:
 
+* ftp://ftp.canvasnet.com/quake/idstuff/unsup/q105beta.exe
+* ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
+* http://www.gamesmania.com/common/quake/q105beta.zip
+* http://www.gamesmania.com/english/../common/quake/q105beta.zip
+* http://www.gamesmania.com/german/../common/quake/q105beta.zip
+* http://www.gamesmania.com/italian/../common/quake/q105beta.zip
 
 
 ## QuakeC v1.06
@@ -654,3 +701,40 @@ The `progs106.zip` archive only contained the QuakeC source and a compiled `prog
   11058 26 Sep  1996 world.qc
   20108 26 Sep  1996 zombie.qc
 ```
+
+Locations:
+
+* ftp://bluesnews.com/pub/idstuff/unsup/progs106.zip
+* ftp://ftp.idsoftware.com/idstuff/unsup/progs106.zip
+* ftp://ftp.stomped.com/pub/redwood/idstuff/progs106.zip
+* http://cd.textfiles.com/cream/cream22/doom/progs106.zip
+* http://cd.textfiles.com/cream22/doom/progs106.zip
+* http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/progs106.zip
+* http://ftp.3dgamers.com/pub/3daction/quake/unsupported/progs106.txt
+* http://ftp.mancubus.net/pub/idgames2/idstuff/unsup/progs106.zip
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/unsup/progs106.zip
+* http://gamers.org/pub/games/idgames/idstuff/unsup/progs106.zip
+* http://quake-1.com/quakec-gallery/progs106.zip
+* http://quake.errorabove.com/Official/progs106.zip
+* http://redwood.gatsbyhouse.com/files/idstuff/progs106.zip
+* http://wiki.quakesrc.org/files/progs106.zip
+* http://www.3dgamers.com/dl/games/quake/Thirdparty/progs106.txt
+* http://www.3dgamers.com/dlselect/games/quake/Thirdparty/progs106.txt
+* http://www.gameaholic.com/deicide/download.cgi?/idstuff/unsup/progs106.zip
+* http://www.gamers.org/pub/3daction/quake/unsupported/progs106.txt
+* http://www.gamers.org/pub/games/idgames/idstuff/unsup/progs106.zip
+* http://www.gamers.org/pub/games/idgames2/idstuff/unsup/progs106.zip
+* http://www.gamers.org/pub/idgames/idstuff/unsup/progs106.zip
+* http://www.gamers.org/pub/idgames2/idstuff/unsup/progs106.zip
+* http://www.inside3d.com/file.shtml?file=qip/q1/progs106gpl.zip
+* http://www.inside3d.com/qip/text/progs106gpl.txt
+* http://www.quake-1.com/files/sourcecodes/kits/progs106.zip
+* http://www.quaketastic.com/files/misc/progs106.zip
+* http://www.telefragged.com/mirrors/mirror.pl?inside3d/progs106.zip
+* https://www.quaddicted.com/files/idgames/idstuff/unsup/progs106.zip
+* https://www.quaddicted.com/files/idgames2/idstuff/unsup/progs106.zip
+* https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/progs106.zip
+* https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/quake/source/progs106.zip
+* https://www.quaddicted.com/files/mods/progs106fishfix.txt
+* https://www.quaddicted.com/files/mods/progs106fishfix.zip
+
