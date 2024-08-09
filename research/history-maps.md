@@ -18,6 +18,7 @@ Releases:
 * 1997 Jul 06, deathpack1u.zip
 * 1997 Aug 25, dm7.zip
 * 1999 Mar 18, q1edge.zip
+* 2001 Jun 23, e2m10.zip
 * 2006 Oct 11, quake_map_source.zip
 
 
@@ -770,6 +771,89 @@ Locations:
 * https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/Fargo/q1edge.zip
 * https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/q1edge.zip
 
+
+## e2m10.zip
+
+Released as `e2m10.zip`
+
+```text
+Quake Birthday Surprise -  Saturday - June 23, 2001
+
+Well, what more is there to say about Quake?  I love 'im like a son.  And I have some great memories of his birth, of his growing up, out in the world.  All the LAN parties, all the levels, all the demos and speed-running contests and challenges... it's been a great 5 years for good ole Quake.  So good, in fact, that he got two brothers: Quake II and Quake III, who made their own way in the world; established their own unique identities and accomplished their own goals.
+But to me, there's just something about Quake 1, the original, that keeps pulling me back into its dark embrace.  I think... it's the rawness, the edgy violence and the unsettling, menagerie of wild creatures we pulled from the nethercore of our mind's eye and then placed among the tattered ruins and ancient walkways of Quake's wind-blown crevices and scenic vistas.
+
+Creating those fantastic and impossible environments was a challenge from the very beginning.  We were accustomed to having the editor, or at least the graphics engine, take care of such trivial things as connecting walls to floors, evenly lighting entire rooms, and making it easy to create doors and doorways.  That was the familiar universe of our baby, DOOM.  We were in the new universe of Quake, where once again we were inventing our own rules and trying to play by them, or at least create by them.
+
+It took a while to get used to the freedom of creation in the new engine and to get the right feel for scale and space.  Countless maps were worked on and discarded.  I remember many maps that I thought were going to turn out great, but just didn't make the cut in the end.  I wish I had copies of those old guys -- I spent a lot of time in them, thinking about them during their creation, learning how to create spaces with them.  Really, the only visible remnant of my early, slightly-off perception of Quake-space is in e2m6, The Dismal Oubliette.  In the area where you take the elevator through the three floors, the hallways are very cramped and dangerous -- I didn't have the right scale in there and didn't have time to correct it before release, but I knew it was wrong.  Ah, well.  A defective gene was left in, but it's not the only one, thankfully.
+
+For a long time now, I've kept one remnant of Quake's creation that I had to cut out.  It's the Lost Entrance of the Dismal Oubliette.  Yes, there used to be a much more interesting beginning to that area of Quake, but I had to amputate the guy and cauterize the wound into its current state, the starting point of e2m6.  I remember spending many hours trying to get it just right, to create the feeling of an awful, cavernous pit for the player to get out of and into the real horror of the Oubliette.  It added a nice bit of gameplay time and I'm sorry that it had to go, but we set the .BSP file size at 1.4Mb and had to be strict about it.
+
+But today, on Quake's 5th Birthday, I will give you a personal piece of Quake's creation that I treasure.  Be careful with it, it's fragile and one of a kind and was created back in the mists of time around QTest's release.  I've named the map E2M10.BSP and am including the E2M10.MAP that chronicles its creation.  Looking closely at the .map file will reveal some long-lost entities that we had in Quake and I'm not sure if I even remember what they did...
+
+The Lost Entrance to the Dismal Oubliette
+
+e2m10.zip
+
+Unzip all the files in your quake\id1\maps directory, run Quake, pull up the console and type map e2m10 and spend a little time in a creation that was destined for release, but didn't make the cut.
+```
+
+-- [http://rome.ro/archive/news/news_05_12_2001_to_06_27_2001.htm](https://web.archive.org/web/20020604182126/http://rome.ro/archive/news/news_05_12_2001_to_06_27_2001.htm) (archived)
+
+Links:
+
+* http://rome.ro/downloads/e2m10.zip
+
+
+```text
+Romero's "Lost" Quake Map [Jun 24, 2001, 08:12 am ET] – 12 Comments
+An update to Planet Romero in honor of Quake's fifth birthday the other day offers "Lost Entrance of the Dismal Oubliette," a map that at one point was intended for inclusion in Quake that was cut for exceeding their file size for .bsps. Here's a bit from the accompanying update that fills us in on the history of this map:
+
+	Yes, there used to be a much more interesting beginning to that area of Quake, but I had to amputate the guy and cauterize the wound into its current state, the starting point of e2m6. I remember spending many hours trying to get it just right, to create the feeling of an awful, cavernous pit for the player to get out of and into the real horror of the Oubliette. It added a nice bit of gameplay time and I'm sorry that it had to go, but we set the .BSP file size at 1.4Mb and had to be strict about it.
+
+	But today, on Quake's 5th Birthday, I will give you a personal piece of Quake's creation that I treasure. Be careful with it, it's fragile and one of a kind and was created back in the mists of time around QTest's release. I've named the map E2M10.BSP and am including the E2M10.MAP that chronicles its creation. Looking closely at the .map file will reveal some long-lost entities that we had in Quake and I'm not sure if I even remember what they did...
+```
+
+-- https://www.bluesnews.com/s/26231/romero_s-lost-quake-map
+
+Links:
+
+* http://www.johnromero.com/
+
+
+Archive content:
+
+```text
+-r--r--r--  0 0      0      282987 19 Jun  1998 e2m10.map
+-rw-rw-r--  0 0      0        2306 23 Jun  2001 e2m10.txt
+-r--r--r--  0 0      0      574308 19 Jun  1998 e2m10.bsp
+```
+
+Readme snippet:
+
+```text
+February 1996
+================================================================
+Title                   : Lost Entrance of the Dismal Oubliette
+Filename                : e2m10.bsp
+Author                  : John Romero
+Email Address           : john@rome.ro
+Description             : Winding, dripping cave entrance
+
+         More Quake History and tidbits might be found on:
+                           http://rome.ro
+================================================================
+...
+```
+
+Locations:
+
+* http://quake.crimea.ua/files/quake/maps/e2m10.zip
+* http://www.quaddicted.com/filebase/e2m10.zip
+* https://www.quaddicted.com/filebase/e2m10.zip
+* https://www.quaddicted.com/files/maps/multiplayer/e2m10.zip
+* https://www.quaddicted.com/files/maps/singleplayer/e2m10.zip
+* https://www.quaddicted.com/files/mirrors/quakerepo.net/singleplayer-deathmatch/maps/e2m10.zip
+* https://www.quaddicted.com/reviews/e2m10.html
 
 ## quake_map_source.zip
 
