@@ -355,6 +355,19 @@ Links:
 * https://www.bluesnews.com/files/death32.zip
 * http://www.bluesnews.com/cgi_bin/idfinger.cgi?who=xian
 
+```text
+April 3rd
+12:33am Another id map
+
+Disruptor over at id updated his .plan with the release of yet another id map. this is a good thing.
+I've released a deathmatch map compilation I've done for QuakeWorld called Death32 which is a mix of
+DM2, DM4 and DM6. It's available on;
+ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/death32.zip
+I'll probably have another release later on this week as I recieve comments from the players.
+```
+
+-- [http://www.shugashack.com/archives/apr4_m22.htm](https://web.archive.org/web/20000816012754/http://www.shugashack.com/archives/apr4_m22.htm) (archived)
+
 The archive `death32.zip` contains `death32.bsp`.
 
 ```text
@@ -375,6 +388,20 @@ Locations:
 
 Released as `death32a.zip`.
 
+
+```text
+Apr.09.97 - 12:19 AM CST
+
+...
+
+I also released my death32a deathmatch map which is a compilation of DM2, DM4 and DM6. This one corrects some errors in the previous version, and adds some new connecting passages. It's running on Underworld, my server here at id up on the QPlug.
+```
+
+-- [http://revco.stomped.com/](https://web.archive.org/web/19970529113947/http://revco.stomped.com/) (archived)
+
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/death32a.zip
 
 ```text
 April 9, 1997
@@ -479,6 +506,15 @@ Links:
 * ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/deathpack1.zip
 * https://www.bluesnews.com/files/idstuff/quakeworld/maps/dm3.zip
 * ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/
+
+```text
+Wednesday, July 2nd 5:21pm
+New Death32
+
+Got a few errands to run, and webservers to fix.. ugh.. just wanted to announce there are new files (Death32 using radiosity lighting) on id's FTP including a DM3 vised for transparent water. (Use GLQuake, and the r_wateralpha console command)
+```
+
+-- [http://www.shugashack.com/archives/j5_j30.htm](https://web.archive.org/web/20000816012632/http://www.shugashack.com/archives/j5_j30.htm) (archived)
 
 Archive `deathpack1.zip` content:
 
