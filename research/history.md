@@ -12,6 +12,7 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [Quake Shareware History](history-shareware.md)
 * [QuakeC Source History](history-progs.md)
 * [Quake Tools History](history-tools.md)
+* [Quake Map History](history-maps.md)
 * [WinQuake History](history-winquake.md)
 * [VQuake History](history-vquake.md)
 * [GLQuake History](history-glquake.md)

@@ -63,7 +63,7 @@ Release Date | File | Description
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
 1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
 1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | Quakeworld Player Skins.
-1996 Dec 31 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Willits).
+1996 Dec 30 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Willits).
 1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Skins Pack 1.
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
