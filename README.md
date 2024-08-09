@@ -94,7 +94,7 @@ Release Date | File | Description
 1997 Apr 08 | [qws.zip](bin/qws.zip)<br>[qws_9715.zip](bin/qws_9715.zip)<br>[skinbase3.zip](bin/skinbase3.zip) | Quakeworld Skins Pack 3.
 1997 Apr 09 | [sgiquake.tar.gz](bin/sgiquake-1997-04.tar.gz) | SGI Quake (Ed Hutchins) v2
 1997 Apr 02 | [death32.zip](bin/death32.zip) | Quake map that combines DM2, DM4, and DM6 (Disruptor).
-1997 Apr 09 | [death32a.zip](bin/death32a.zip) Quake map that combines DM2, DM4, and DM6, fixed (Disruptor).
+1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quake map that combines DM2, DM4, and DM6, fixed (Disruptor).
 1997 Apr 09 | [qwcl1.54c-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.54c-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.54c-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Unix Client and Server v1.54c.
 1997 Apr 09 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
 1997 Apr 10 | [unixded-0.991-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.991-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.991-i386-unknown-linux2.0.tar.gz](bin/unixded-0.991-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.991-sparc-sun-solaris2.5.1.tar.gz](bin/unixded-0.991-sparc-sun-solaris2.5.1.tar.gz) | Quake Unix Dedicated Server v0.991.
