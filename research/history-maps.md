@@ -591,6 +591,14 @@ Locations
 Released as `dm7.zip`.
 
 ```text
+Sunday, August 24, 1997
+
+According to Jim McCauley, Features Editor of PC Format (UK), the CD included with their September issue (due out August 28) will have DM7, the oft-rumored follow-up to the six original id DM levels.
+```
+
+-- https://www.bluesnews.com/archives/aug97-4.html
+
+```text
 Monday, August 25, 1997
 I received an okay from id to post the new deathmatch map DM7 (263 KB), that was recently released on the UK's PC Format (not PC Zone as I said originally, thanks Spike).  Ion Storm's Cleaner sent along the text file which was omitted (I've included it with my zip), as well as an explanation of the map's odd history :
 
@@ -607,13 +615,7 @@ Links:
 * https://www.bluesnews.com/files/maps/dm7.txt
 
 
-```text
-Sunday, August 24, 1997
 
-According to Jim McCauley, Features Editor of PC Format (UK), the CD included with their September issue (due out August 28) will have DM7, the oft-rumored follow-up to the six original id DM levels.
-```
-
--- https://www.bluesnews.com/archives/aug97-4.html
 
 ```text
 August 25, 1997
