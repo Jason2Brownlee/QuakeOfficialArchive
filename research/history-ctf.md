@@ -2,14 +2,11 @@
 
 ThreeWave Capture the Flag or "ThreeWaveCTF" or "TWCTF, perhaps one of the most popular mods for Quake.
 
-Not sure this belongs in the "official releases", but it was endorsed by id software after Zoid joined the company late 1996.
+Not sure this belongs in the "official releases", but it was endorsed by id software after Zoid joined the company (e.g. Linux ports, Quake2 CTF, etc.).
 
 Versions of TWCTF were hosted on id software's FTP server:
 
 * [http://www.idsoftware.com/ftp/quakeworld/mods/ctf4/](https://web.archive.org/web/19970617152913/http://www.idsoftware.com:80/ftp/quakeworld/mods/ctf4/) (circa 1997)
-
-Let's see.
-
 
 ## Releases
 
