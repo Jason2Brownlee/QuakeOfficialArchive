@@ -26,3 +26,6 @@ Less-official stuff (but endorsed by id-software?):
 
 * [Threewave Capture the Flag (CTF) History](history-ctf.md)
 
+Other versions of "quake official releases lists":
+
+* [Other Release Lists](history-other.md)
