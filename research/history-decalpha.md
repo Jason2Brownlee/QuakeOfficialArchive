@@ -78,7 +78,9 @@ Indeed, know what you mean..
 
 ## alpha-ELF-xquake.gz (Linus Torvalds)
 
-Released as `alpha-ELF-xquake.gz`, likely by Linus Torvalds as a bug fix for Dave Taylor's August version.
+Released as `alpha-ELF-xquake.gz`, likely by Linus Torvalds as a bug fix for Dave Taylor's August version or perhaps the August version as-is.
+
+We know little.
 
 Announcement and discussion:
 
@@ -109,6 +111,9 @@ it is of no use to you whatsoever (and bandwidth is limited enough
 already, so don't download it ;-)
 ```
 -- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/cKGT0uqJP5Y/m/4C8Z5ciyisgJ)
+
+
+Locations:
 
 
 
@@ -142,6 +147,9 @@ Ravi
 ```
 -- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/xVvxzFgADW0/m/UvlJd-td0FIJ)
 
+* ftp://ftp.stomped.com/pub/redwood/ports/alpha-ELF-xquake-1_06.gz
+* http://redwood.gatsbyhouse.com/files/ports/alpha-ELF-xquake-1_06.gz
+* http://www.planetquake.com/threewave/htdocs/linux/files/alpha-ELF-xquake-1.06.gz
 
 
 ## i386-ELF-xquake-1.06.gz (Linus Torvalds)
@@ -149,6 +157,30 @@ Ravi
 Released as `i386-ELF-xquake-1.06.gz` and perhaps repackaged as `i386-ELF-xquake-1.06.tar.gz`.
 
 Announcement and discussion:
+
+```text
+==November 1== 11:15p.m. CST
+John Cash updated his .plan today (thanks to RIDE-MY-ROCKET) with this :
+
+	11/1:
+	*Sent off source to get the 1.06 Linux version done.
+	Tim just got a Mortal Kombat II machine.  Productivity may suffer.
+```
+-- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
+
+```text
+==November 25== 11:30p.m. CST
+
+Thanks to Russ Ringer for pointing out Linux Quake 1.06 is available. I got it from that guy's ftp site that created Linux (I think...ftp://ftp.cs.Helsinki.FI/pub/People/Torvalds_Linus/) in a testing directory on a Finnish ftp site so I can't guarantee it's finished but Russ said it got rid of some errors he was having in 1.01 Linux Quake. Anyway, here is i386-ELF-xquake-1_06.gz. Also while I was there I noticed alpha-ELF-xquake-1_06.gz which I'm guessing is for DEC Alpha processors.
+```
+-- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
+
+Links:
+
+* ftp://ftp.cs.helsinki.fi/pub/People/Torvalds_Linus/
+* http://redwood.gatsbyhouse.com/quake/files/i386-ELF-xquake-1_06.gz
+* http://redwood.gatsbyhouse.com/quake/files/alpha-ELF-xquake-1_06.gz
+
 
 ```text
 1.06 Linux X
@@ -204,6 +236,14 @@ FR-- 248659 1997/09/22 00:00 testing/xquake-1.06-alpha-bin.gz
 ```
 - [muc.archive.update](https://groups.google.com/g/muc.archive.update/c/_mq5lH5H8oc/m/kz2hPjNF_lsJ)
 
+Locations:
+
+* ftp://ftp.stomped.com/pub/redwood/ports/i386-ELF-xquake-1_06.gz
+* http://ftp.sun.ac.za/sites/sunsite.unc.edu/pub/Linux/games/quake/i386-ELF-xquake-1.06.gz
+* http://redwood.gatsbyhouse.com/files/ports/i386-ELF-xquake-1_06.gz
+* http://sunsite.unc.edu/pub/Linux/Incoming/i386-ELF-xquake-1.06.gz
+* http://www.planetquake.com/threewave/htdocs/linux/files/i386-ELF-xquake-1.06.gz
+* https://www.quaddicted.com/files/engines/i386-ELF-xquake-1.06.gz
 
 
 
