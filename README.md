@@ -38,17 +38,18 @@ Release Date | File | Description
 1996 Jul 26 | [qbsp_29.tar.gz](bin/qbsp_29.tar.gz)<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
-1996 Aug 12 | [alpha-ELF-xquake.gz](bin/alpha-ELF-xquake.gz) | DEC Alpha Linux Quake.
+1996 Aug 12 | ? | DEC Alpha Linux Quake (Dave Taylor).
 1996 Aug 13 | qwded104.exe<br>qwded104.lzh | Quake Win32 x86 dedicated server v1.04
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
 1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | VQuake 1.01, Quake Upgrade Disk for 3D Blaster PCI
+1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 02 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
 1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
-1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
+1996 Oct 04 | [alpha-ELF-xquake.gz](bin/alpha-ELF-xquake.gz) | DEC Alpha Linux X11 Quake v1.01  (Linus Torvalds)
 1996 Oct 07 | [qwded106.exe](bin/qwded106_v2.exe) | Quake Win32 x86 dedicated server v1.06 (minor update)
 1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
 1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
@@ -56,8 +57,9 @@ Release Date | File | Description
 1996 Oct 26 | rrq106b2.zip | VQuake v1.06 Beta 2
 1996 Oct 29 | rrq106b4.zip | VQuake v1.06 Beta 4
 1996 Nov 09 | rrq106b8.zip | VQuake v1.06 Beta 8
-1996 Nov 11 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz)<br>[i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | Linux AXP (DEC Alpha) Quake v1.06.
 1996 Nov 13 | [rrq106b9.zip](bin/rrq106b9.zip) | VQuake 1.06 Beta 9
+1996 Nov 13 | [alpha-ELF-xquake-1.06.gz](bin/alpha-ELF-xquake-1.06.gz) | DEC Alpha Linux X11 Quake v1.06 (Linus Torvalds)
+1996 Nov 22 | [i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | i386 Linux X11 Quake v1.06 (Linus Torvalds)
 1996 Dec 04 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | VQuake 1.06 Beta 10
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
@@ -121,6 +123,7 @@ Release Date | File | Description
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit) | Quake for Macintosh v1.08.2
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake client.
+1997 Sep 22 | [xquake-1.06-alpha-bin.gz](bin/xquake-1.06-alpha-bin.gz) | DEC Alpha Linux X11 Quake v1.06 fixed (Linus Torvalds)
 1997 Sep 24 | [sgiquake.tar.gz](bin/sgiquake.tar.gz) | SGI Quake v1.11
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
 1997 Oct 14 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.

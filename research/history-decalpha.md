@@ -6,17 +6,17 @@ The Quake client was ported to this platform for Alpha Linux and was referred to
 
 Releases:
 
-* 1996 Aug 12, alpha-ELF-xquake.gz
-* xquake-1.06-alpha-bin.gz
-* i386-ELF-xquake-1.06.gz
-* alpha-ELF-xquake-1.06.gz
+* 1996 Aug 12, DEC Alpha Linux Quake (Dave Taylor)
+* 1996 Oct 04, alpha-ELF-xquake.gz
+* 1996 Nov 13, alpha-ELF-xquake-1.06.gz
+* 1996 Nov 22, i386-ELF-xquake-1.06.gz
+* 1997 Sep 22, xquake-1.06-alpha-bin.gz
 
+## DEC Alpha Linux Quake (Dave Taylor)
 
+Developed by Dave Taylor.
 
-
-## alpha-ELF-xquake.gz
-
-Developed and released by Dave Taylor.
+Perhaps not released publicly by Dave?
 
 Announcement and discussion:
 
@@ -74,6 +74,15 @@ Indeed, know what you mean..
 ```
 -- https://blu.org/pipermail/discuss/1996-August/001053.html
 
+
+
+## alpha-ELF-xquake.gz (Linus Torvalds)
+
+Released as `alpha-ELF-xquake.gz`, likely by Linus Torvalds as a bug fix for Dave Taylor's August version.
+
+Announcement and discussion:
+
+
 ```text
 ...
 bme...@bruce.cs.monash.edu.au
@@ -102,11 +111,146 @@ already, so don't download it ;-)
 -- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/cKGT0uqJP5Y/m/4C8Z5ciyisgJ)
 
 
-Archive contents:
+
+
+## alpha-ELF-xquake-1.06.gz (Linus Torvalds)
+
+Released as `alpha-ELF-xquake-1.06.gz`.
+
+Announcement and discussion:
+
 
 ```text
-defla d7416de7 Aug 12 05:25       244942       645048  62.0% ./alpha-ELF-xquake
+Bergen Friundervisningen
+16 Nov 1996
+
+I believe there is an ALPHA version at ftp.cs.helsinki.fi
+in the directory /pub/Software/Linux/Kernel/testing/alpha-ELF-xquake-1.06.gz
+
+Kjartan Maraas
+
+...
+
+Ravi K. Swamy
+18 Nov 1996
+
+Linus really does have the source to Quake and has fixed a few bugs
+with the Alpha port. Read the alpha mailing list and you'll see posts
+from him mentioning it from time to time.
+
+Ravi
 ```
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/xVvxzFgADW0/m/UvlJd-td0FIJ)
+
+
+
+## i386-ELF-xquake-1.06.gz (Linus Torvalds)
+
+Released as `i386-ELF-xquake-1.06.gz` and perhaps repackaged as `i386-ELF-xquake-1.06.tar.gz`.
+
+Announcement and discussion:
+
+```text
+1.06 Linux X
+This is the version of quake as produced by 'id' games and compiled by Linus Torvalds of Linux fame now working on his Thesis. This is only an executable - X-Windows libs are required to run it as a server.
+```
+-- [http://www.cms.dmu.ac.uk/~rl/Quake/](https://web.archive.org/web/19980114151448/http://www.cms.dmu.ac.uk/~rl/Quake/) (archived)
+
+Links:
+
+* http://www.cms.dmu.ac.uk/~rl/Quake/i386-ELF-xquake-1.06.tar.gz
+
+
+```text
+Phil Ross
+23 Nov 1996
+
+Well, when I was looking for kernel 2.0.26, I found these in the
+testing directory:
+Current directory is /pub/People/Torvalds_Linus/testing
+
+Up to higher level directory
+alpha-ELF-xquake-1.06.gz 242 Kb Wed Nov 13 14:52:00 1996
+alpha-ELF-xquake.gz 239 Kb Fri Oct 4 12:01:00 1996
+axp-bash.gz 380 Kb Fri Mar 10 00:00:00 1995
+axp-net.tar.gz 277 Kb Mon Jul 10 00:00:00 1995
+axp-patch-e2fsprog.gz 17 Kb Sun Mar 12 00:00:00 1995
+axp-uemacs.gz 116 Kb Thu Mar 23 00:00:00 1995
+e2fsprogs-0.5a.tar.gz 222 Kb Sun Mar 12 00:00:00 1995
+i386-ELF-xquake-1.06.gz 145 Kb Fri Nov 22 15:43:00 1996
+
+
+Is the i386-ELF-xquake-1.0.6.gz not really 1.06???
+
+I downloaded it and it worked and when I start it it says 1.06.
+
+*shrug*
+
+
+-Phil
+```
+-- [comp.os.linux.misc](https://groups.google.com/g/comp.os.linux.misc/c/0ItwknxKHn8/m/5zm_21fbY-cJ)
+
+
+```text
+...
+FR-- 248083 1996/11/13 00:00 testing/alpha-ELF-xquake-1.06.gz
+FR-- 244942 1996/10/03 00:00 testing/alpha-ELF-xquake.gz
+...
+FR-- 148856 1996/11/22 00:00 testing/i386-ELF-xquake-1.06.gz
+...
+FR-- 248659 1997/09/22 00:00 testing/xquake-1.06-alpha-bin.gz
+...
+```
+- [muc.archive.update](https://groups.google.com/g/muc.archive.update/c/_mq5lH5H8oc/m/kz2hPjNF_lsJ)
+
+
+
+
+
+## xquake-1.06-alpha-bin.gz (Linus Torvalds)
+
+Released as `xquake-1.06-alpha-bin.gz` by Linus Torvalds.
+
+
+```text
+xquake binary update
+Linus Torvalds
+22 Sept 1997
+
+I was asked to show xquake on my alpha yesterday, and noticed that my
+xquake binary no longer worked on my machine. It core-dumped when
+trying to start a new game. Panic. Embarrassment.
+
+I don't know if anybody else has seen this problem, or if anybody cares,
+but I decided I might as well make a new test binary available in case
+others see the same thing with the old binary.
+
+The problem was due to the newer 'malloc()' implementation that no
+longer allocated contiguous memory (it uses anonymous mmap() for large
+memory allocations). Quake uses some 32-bit offsets internally, and the
+offsets between different allocations no longer fit into 32 bits with
+the new malloc.
+
+The new binary is available on
+
+ftp://ftp.kernel.org/pub/linux/kernel/testing/xquake-1.06-alpha-bin.gz
+
+but if the old binaries work for you the new one shouldn't have any new
+features, so this is relevant only if you have had problems with quake
+on the alpha.
+
+Linus
+```
+-- [comp.os.linux.alpha](https://groups.google.com/g/comp.os.linux.alpha/c/LoNOegYW5vY/m/rPktwwmMxcEJ)
+
+
+Locations:
+
+* https://cdn.kernel.org/pub/linux/kernel/testing/old/quake/xquake-1.06-alpha-bin.gz
+* https://mirror.ihost.md/kernel/testing/old/quake/xquake-1.06-alpha-bin.gz
+* https://kebo.pens.ac.id/linux/testing/old/quake/xquake-1.06-alpha-bin.gz
+
 
 
 
@@ -117,3 +261,5 @@ defla d7416de7 Aug 12 05:25       244942       645048  62.0% ./alpha-ELF-xquake
 * https://cdn.kernel.org/pub/linux/kernel/testing/old/quake/
 * http://31.131.0.222/?dir=kernel/testing/old/quake
 * http://ftpkernel.metu.edu.tr/linux/kernel/testing/old/quake/
+* https://web.archive.org/web/19970617190706/http://www.planetquake.com/threewave/htdocs/linux/
+* https://web.archive.org/web/19980114151448/http://www.cms.dmu.ac.uk/~rl/Quake/
