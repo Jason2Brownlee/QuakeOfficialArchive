@@ -14,13 +14,21 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [Quake Tools History](history-tools.md)
 * [Quake Map History](history-maps.md)
 * [WinQuake History](history-winquake.md)
+* [Quake Dedicated Server History](history-dedicated.md)
 * [Linux Quake History](history-linuxquake.md)
 * [VQuake History](history-vquake.md)
 * [GLQuake History](history-glquake.md)
 * [PowerVR Quake History](history-powervr.md)
 * [SGIQuake History](history-sgiquake.md)
 * [AIXQuake History](history-aixquake.md)
-* [Quake Dedicated Server History](history-dedicated.md)
+* [SolarisQuake History](history-solarisquake.md)
+* DEC AlphaQuake History
+* AmigaQuake History
+* MacQuake History
+* QuakeWorld Skins History
+* QuakeWorld History
+* Sketches History
+* GPL History
 
 Less-official stuff (but endorsed by id-software?):
 
