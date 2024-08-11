@@ -21,6 +21,56 @@ Excludes DEC Alpha releases, IRIX releases, Linux QuakeWorld releases, Linux ded
 
 ## intel_linux_quake091.tgz (Dave Taylor)
 
+Announcement:
+
+```text
+July 5th
+
+Linux Quake Released
+Dave Taylor's eagerly awaited Linux port of Quake 0.91 (303 KB) has been released, and can be found on LEK Internet Services's FTP site.
+```
+-- https://www.bluesnews.com/archives/july96.html
+
+Links:
+
+* http://www.panix.com/~sheaslip/3d/uqf.txt
+* ftp://ftp.lek.net/pub/linux/quake/
+
+
+```text
+==July 10== 11:00p.m. CDT
+The Linux version of Quake .91 is available here and was ported by Dave Taylor, one of the former geniuses of id software and now working for Crack Dot Com in Austin, Texas.
+```
+-- [http://redwood.gatsbyhouse.com/quake/796.html](https://web.archive.org/web/19970327201029/http://redwood.gatsbyhouse.com/quake/796.html) (archived)
+
+Links:
+
+* ftp://ftp.lek.net/pub/linux/quake/intel_linux_quake091.tgz
+
+```text
+Linux Quake is out
+Robert Logan
+5 July 1996
+
+Heaven. My server for Quake will now be up all the time
+(except when W95 needs dusting). The Linux version is
+'as the QTEST' for Linux - and its excellent.
+Try it and see:
+ftp://ftp.lek.net/pub/linux/quake/intel_linux_quake091.tgz
+
+Or try below (UK V.fast server)
+
+http://www.cms.dmu.ac.uk/~rl/intel_linux_quake091.tgz
+--
+-------------------------------------------------------
+Linux - reaches the parts other beers fail to reach.
+WWW: http://www.cms.dmu.ac.uk/~rl
+WWW: http://www.cms.dmu.ac.uk/CCSR
+-------------------------------------------------------
+```
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/idkgG5hzw2E/m/4rA5ChfiwroJ)
+
+
 Archive content:
 
 ```text
@@ -51,6 +101,57 @@ Locations:
 
 
 ## intel_linux_quake101.tgz (Dave Taylor)
+
+Announcement:
+
+```text
+==August 8== 11:00p.m. CDT
+Well, well. First, go to the second part of the August 1st update and look for the Linux part. Now read the fact that you can get Linux quake for v1.01 Registered from ftp://ftp.idsoftware.com/idstuff/unsup/intel_linux_quake101.tgz. Hmmmm.... August 1st to the 8th is seven days, which equals one week. :)
+```
+-- [http://redwood.gatsbyhouse.com/quake/896.html](https://web.archive.org/web/19970327201017/http://redwood.gatsbyhouse.com/quake/896.html) (archived)
+
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/unsup/intel_linux_quake101.tgz
+
+
+```text
+LinuxQuake 1.01 is out!
+Frans P. de Vries
+9 Aug 1996
+
+
+Subject says all, really :)
+ftp://ftp.idsoftware.com/idstuff/unsup/intel_linux_quake101.tgz
+ftp://ftp.cdrom.com/pub/idgames2/idstuff/unsup/intel_linux_quake101.tgz
+
+and mirrors within a day or two.
+--
+Frans P. de Vries | f...@ftp.cdrom.com | Doom/Quake archive backup maintainer
+```
+-- [rec.games.computer.quake.servers](https://groups.google.com/g/rec.games.computer.quake.servers/c/JLNUT6xS1Ec/m/044bP1grBUUJ)
+
+
+```text
+August 12th
+
+Linux Quake Out
+One day after I say probably next week--d'oh! Here's Linux Quake 1.01 (317 KB), from LEK Internet Services. Ported by Dave Taylor of Crack Dot Com, Inc.
+Thanks to Sean Martin of Redwood's Quake Page for dropping me a line to keep me in the loop (he predicted the release date a week ago).
+
+From the readme:
+
+	A NOTE FROM DAVE TAYLOR
+
+	Crack is out of time. We are doing full-time development of our next game and have plenty on our plates. We can merge in one or two more versions of Quake (if necessary) and release them, but we will not be fixing bugs unless they're trivial.
+```
+-- https://www.bluesnews.com/archives/august96.html
+
+Links:
+
+* ftp://ftp.lek.net/pub/linux/quake/intel_linux_quake101.tgz
+* https://www.bluesnews.com/archives/intel_linux.txt
+
 
 Archive content:
 
@@ -116,6 +217,56 @@ Locations:
 
 ## squake-linux-0.99.tar.gz (Dave Kirsch / Greg Alexander)
 
+Announcements:
+
+```text
+February 6, 1997
+SVGA Linux Quake
+Zoid has completed a "late beta" of SVGA Linux Quake, which is available on Threewave. This is an unsupported release. Also congrats to Zoid in his new job.
+```
+-- https://www.bluesnews.com/archives/feb97-1.html
+
+```text
+February 9, 1997
+Ooops, I accidentally forgot to mention that Zoid has an SVGALinux Quake .99 out. To read more, see the Threewave page. In other Linux news, McAfee announced the first Linux virus has been found.
+```
+-- [http://redwood.gatsbyhouse.com/quake/297.html](https://web.archive.org/web/19970327200835/http://redwood.gatsbyhouse.com/quake/297.html) (archived)
+
+Links:
+
+* http://www.planetquake.com/quakex/threewave/squake.linux-0.99.tar.gz
+
+
+```text
+ANNOUNCEMENT: SVGAlib Quake is out!
+Bryson Borg
+10 Feb 1997
+
+hello.
+a month or two ago there was a rather lengthly thread going on about the
+linux port of quake for X. i hope it's not inappropriate now to use this
+space to mention that a port of quake for SVGAlib has been released. it
+rocks. my framerate (as measured by the TIMEREFRESH command) is almost
+twice what it was with xf86quake, and a good 25% faster than in DOS
+(FWIW, 100MHz P5, 32MB 70ns RAM, crappy monitor). it is available at
+ftp.cdrom.com/.11/idgames2/more_idstuff as squake-linux-0.99.tar.gz.
+
+and a big, gruesome salute goes to Dave 'Zoid' Kirsch for doing the drudge
+work of porting this fine application to the finest of all operating
+systems, linux, and giving another connotation to the phrase "a hacker's OS."
+
+
+------------------------------------------------------------------
+
+Bryson Borg := bdb...@psu.edu
+
+All are lunatics, but he who can analyze his delusions is called a philosopher.
+
+- Ambrose Bierce
+```
+-- [comp.os.linux.development.apps](https://groups.google.com/g/comp.os.linux.development.apps/c/HKKCE10TTcY/m/sShOuJY8m7AJ)
+
+
 Archive content:
 
 ```text
@@ -172,6 +323,22 @@ Locations:
 
 ## squake-0.992-i385-unknown-linux2.0.tar.gz (Dave Kirsch)
 
+Announcement:
+
+```text
+April 10, 1997
+
+...
+Linux SVGALib Quake squake-0.992-i385-unknown-linux2.0
+...
+```
+-- https://www.bluesnews.com/archives/april97-1.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/squake-0_992-i385-unknown-linux2_0_tar.gz
+
+
 Archive content:
 
 ```text
@@ -186,6 +353,21 @@ Locations:
 
 
 ## squake-1.0-i386-unknown-linux2.0.tar.gz (Dave Kirsch)
+
+Announcements:
+
+```text
+May 1, 1997
+Quake/QuakeWorld Unix Ports
+Thanks Bounty Hunter (Xenocide Flag Academy) for pointing out that there are a whole bunch of new ports up on Threewave (you may need to shift-click):
+...
+squake-1_0-i386-unknown-linux2_0_tar.gz	(163 KB)	Regular Quake SVGALib Client for Linux 2.0
+```
+-- https://www.bluesnews.com/archives/april97-4.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/squake-1_0-i386-unknown-linux2_0_tar.gz
 
 Archive content:
 
@@ -206,6 +388,20 @@ Locations:
 
 
 ## squake-1.1-i386-unknown-linux2.0.tar.gz (Dave Kirsch)
+
+Announcement:
+
+```text
+Sunday, August 10, 1997
+
+New GLQuake GLQuakeWorld, QW Server
+Okay, the problems abated, here are the missing goodies: the full QuakeWorld 2.0 client install (1.4 MB) which includes QuakeSpy 5.3 and the GL QuakeWorld client, the new GLQuake (269 KB), which, like the GLQW client, uses 8 bit textures for greatly enhanced performance, the QuakeWorld server (221 KB): it should be noted that only version 2.0 clients can connect to 2.0 servers, though the new client can still connect to older servers. Finally, for the UNIX aficionados, here's the Linux client (163 KB) the Linux server (200KB), and the new SVGALib Quake (200 KB).
+```
+-- https://www.bluesnews.com/archives/aug97-2.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/unsup/squake-1.1-i386-unknown-linux2.0.tar.gz
 
 Archive content:
 
@@ -264,6 +460,19 @@ Locations:
 * https://www.quaddicted.com/files/idgames2/idstuff/unsup/unix/quake.x11-1.0-i386-unknown-linux2.0.tar.gz
 
 ## glquake-0.97-i386-unknown-linux2.0.tar.gz (Dave Kirsch)
+
+Announcement:
+
+```text
+Friday, November 14, 1997
+New GLQuake Releases
+Zoid sent along word that some new GLQuake releases are available: GLQuake 0.97 (393 KB) fixes the sprite bug from the previous version, and adds independent console sizing (such as a 320x200 scaled console when running at 640x480) and support for SGI Multitexture extensions for high-end Voodoo (Obsidian) and other 3D cards. Also newly released is GLQuake for Linux (449 KB) which requires a 3DFX Voodoo Graphics card (not Voodoo RUSH) and Linux 2.0, and finally, GLQuakeWorld for Linux (412 KB), which again requires 3DFX Voodoo Graphics (not Voodoo RUSH) and Linux 2.0. Also available on id's ftp.site.
+```
+-- https://www.bluesnews.com/archives/nov97-2.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/unsup/unix/glquake-0.97-i386-unknown-linux2.0.tar.gz
 
 Archive content:
 
