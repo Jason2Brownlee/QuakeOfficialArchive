@@ -38,6 +38,7 @@ Release Date | File | Description
 1996 Jul 26 | [qbsp_29.tar.gz](bin/qbsp_29.tar.gz)<br>[qbsp_29.txt](bin/qbsp_29.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v29.
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
+1996 Aug 12 | [alpha-ELF-xquake.gz](bin/alpha-ELF-xquake.gz) | DEC Alpha Linux Quake.
 1996 Aug 13 | qwded104.exe<br>qwded104.lzh | Quake Win32 x86 dedicated server v1.04
 1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
@@ -125,7 +126,7 @@ Release Date | File | Description
 1997 Oct 14 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 22 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
-1997 Oct 28 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z)<br>[quake1.09-sparc-sun-solaris2.5.1.tar.gz](bin/quake1.09-sparc-sun-solaris2.5.1.tar.gz) | Solaris Quake and Quakeworld.
+1997 Oct 28 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z)<br>[quake1.09-sparc-sun-solaris2.5.1.tar.gz](bin/quake1.09-sparc-sun-solaris2.5.1.tar.gz) | Solaris Quake and Quakeworld Clients.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
