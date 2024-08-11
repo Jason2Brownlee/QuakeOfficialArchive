@@ -14,13 +14,13 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [Quake Tools History](history-tools.md)
 * [Quake Map History](history-maps.md)
 * [WinQuake History](history-winquake.md)
+* [Linux Quake History](history-linuxquake.md)
 * [VQuake History](history-vquake.md)
 * [GLQuake History](history-glquake.md)
 * [PowerVR Quake History](history-powervr.md)
 * [SGIQuake History](history-sgiquake.md)
 * [AIXQuake History](history-aixquake.md)
 * [Quake Dedicated Server History](history-dedicated.md)
-
 
 Less-official stuff (but endorsed by id-software?):
 

@@ -41,6 +41,10 @@ QuakeWorld Releases:
 * 3wqw10.zip
 * 3wqw11.zip
 
+Moved to a separate project:
+
+* https://github.com/Jason2Brownlee/ThreeWaveCTF
+
 
 ## Threewave Home Pages
 

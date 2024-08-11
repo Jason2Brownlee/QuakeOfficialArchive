@@ -28,7 +28,7 @@ Release Date | File | Description
 1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
 1996 Jun 27 | [qbsp.tar.gz](bin/qbsp.tar.gz)<br>[qbsp.txt](bin/qbsp.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v28.
 1996 Jul 02 | [qutils.tar.gz](bin/qutils.tar.gz)<br>[qutils.txt](bin/qutils-19960702.txt) | Quake utilities source code (DIRPACK, UNPACK, QLUMPY, TEXMAKE, MODELGEN, SPRGEN).
-1996 Jul 05 | [intel_linux_quake091.tgz](bin/intel_linux_quake091.tgz) | Quake Linux 0.91
+1996 Jul 04 | [intel_linux_quake091.tgz](bin/intel_linux_quake091.tgz) | Quake Linux 0.91
 1996 Jul 11 | [quake100.zip](bin/quake100.zip)<br>[QSW100_1.ZIP](bin/QSW100_1.ZIP)<br>[QSW100_2.ZIP](bin/QSW100_2.ZIP)<br>[QSW100_3.ZIP](bin/QSW100_3.ZIP)<br>[QSW100_4.ZIP](bin/QSW100_4.ZIP)<br>[QSW100_5.ZIP](bin/QSW100_5.ZIP)<br>[QSW100_6.ZIP](bin/QSW100_6.ZIP)<br>[QSW100_7.ZIP](bin/QSW100_7.ZIP)<br> | Quake Shareware v1.0.
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).
 1996 Jul 12 | [quake101.zip](bin/quake101.zip)<br>[qsw101_1.zip](bin/qsw101_1.zip)<br>[qsw101_2.zip](bin/qsw101_2.zip)<br>[qsw101_3.zip](bin/qsw101_3.zip)<br>[qsw101_4.zip](bin/qsw101_4.zip)<br>[qsw101_5.zip](bin/qsw101_5.zip)<br>[qsw101_6.zip](bin/qsw101_6.zip)<br>[qsw101_7.zip](bin/qsw101_7.zip)<br> | Quake Shareware v1.01.
@@ -95,7 +95,7 @@ Release Date | File | Description
 1997 Apr 02 | [death32.zip](bin/death32.zip) | Quake map that combines DM2, DM4, and DM6 (Disruptor).
 1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quake map that combines DM2, DM4, and DM6, fixed (Disruptor).
 1997 Apr 09 | [qwcl1.54c-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.54c-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.54c-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Unix Client and Server v1.54c.
-1997 Apr 09 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
+1997 Apr 10 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
 1997 Apr 10 | [unixded-0.991-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.991-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.991-i386-unknown-linux2.0.tar.gz](bin/unixded-0.991-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.991-sparc-sun-solaris2.5.1.tar.gz](bin/unixded-0.991-sparc-sun-solaris2.5.1.tar.gz) | Quake Unix Dedicated Server v0.991.
 1997 Apr 13 | [qwcl0413.zip](bin/qwcl0413.zip)<br>[qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 30 | [qwsv1.55-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv1.55-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv1.55-i386-unknown-linux2.0.tar.gz](bin/qwsv1.55-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.55-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.55-i386-unknown-bsdi3.0.tar.gz)<br>[qwcl1.55-i386-unknown-linux2.0.tar.gz](bin/qwcl1.55-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.55.
@@ -110,7 +110,7 @@ Release Date | File | Description
 1997 Jun 24 | [quake.bin](bin/quake.bin)<br>[quake.sw.tar.Z](bin/quake.sw.tar.Z)<br>[quake.sw.just.exe.tar.Z](bin/quake.sw.just.exe.tar.Z) | Quake Shareware for IBM AIX (PowerPC) v1.07.
 1997 Jul 02 | deathpack1.zip<br>dm3.zip | Quake base32a and death32b maps and DM3 with transparent water (Disruptor).
 1997 Jul 06 | [deathpack1u.zip](bin/deathpack1u.zip) | Quake base32b and death32c maps Fixed (Disruptor).
-1997 Aug 10 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
+1997 Aug 08 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip)<br>qwcl0809.zip<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
 1997 Aug 12 | [qwsv0812.zip](bin/qwsv0812.zip) | Quakeworld Server v2.01.
@@ -122,10 +122,10 @@ Release Date | File | Description
 1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake client.
 1997 Sep 24 | [sgiquake.tar.gz](bin/sgiquake.tar.gz) | SGI Quake v1.11
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
+1997 Oct 14 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
 1997 Oct 22 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
 1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
-1997 Oct 29 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 29 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z) | Solaris 2 Quake and Quakeworld.
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
