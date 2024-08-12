@@ -156,6 +156,10 @@ Ravi
 
 Released as `i386-ELF-xquake-1.06.gz` and perhaps repackaged as `i386-ELF-xquake-1.06.tar.gz`.
 
+Note, **this is not for DEC Alpha**, it is an x86 release, but listed here as it's part of the DEC Alpha development program by Linus.
+
+For a moment in time, this was the official 1.06 Linux executable for Quake until Zoid took over Linux dev.
+
 Announcement and discussion:
 
 ```text

@@ -21,14 +21,15 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [PowerVR Quake History](history-powervr.md)
 * [SGIQuake History](history-sgiquake.md)
 * [AIXQuake History](history-aixquake.md)
-* [SolarisQuake History](history-solarisquake.md)
-* [DEC AlphaQuake History](history-decalpha.md)
+* [Solaris Quake History](history-solarisquake.md)
+* [DEC Alpha Quake History](history-decalpha.md)
 * AmigaQuake History
 * MacQuake History
-* QuakeWorld Skins History
+* [QuakeWorld Skins History](history-quakeworld-skins.md)
 * QuakeWorld History
 * Sketches History
 * GPL History
+* Ports Based on Leaked Linux Source
 
 Less-official stuff (but endorsed by id-software?):
 

@@ -43,6 +43,7 @@ Release Date | File | Description
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
 1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
+1996 Sep 14 | [skins.zip](bin/skins.zip)<br>[skinbase1014.zip](bin/skinbase1014.zip) | QuakeWorld Skin Template (v1)
 1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | VQuake 1.01, Quake Upgrade Disk for 3D Blaster PCI
 1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
@@ -50,7 +51,6 @@ Release Date | File | Description
 1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
 1996 Oct 04 | [alpha-ELF-xquake.gz](bin/alpha-ELF-xquake.gz) | DEC Alpha Linux X11 Quake v1.01  (Linus Torvalds)
 1996 Oct 07 | [qwded106.exe](bin/qwded106_v2.exe) | Quake Win32 x86 dedicated server v1.06 (minor update)
-1996 Oct 14 | [skinbase1014.zip](bin/skinbase1014.zip) | Quakeworld Skin Template.
 1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
 1996 Oct 23 | rrvq106b.zip | VQuake v1.06 Beta 1
 1996 Oct 26 | rrq106b2.zip | VQuake v1.06 Beta 2
@@ -61,19 +61,21 @@ Release Date | File | Description
 1996 Nov 22 | [i386-ELF-xquake-1.06.gz](bin/i386-ELF-xquake-1.06.gz) | i386 Linux X11 Quake v1.06 (Linus Torvalds)
 1996 Dec 04 | [rrq106ba.zip](bin/rrq106ba.zip)<br>[rrq106ba.txt](bin/rrq106ba.txt) | VQuake 1.06 Beta 10
 1996 Dec 13 | [qwsv1213.zip](bin/qwsv1213.zip) | Quakeworld Server v1.03.
+1996 Dec 13 | [skin1213.zip](bin/skin1213.zip) | QuakeWorld Skin Pack
+1996 Dec 15 | skinbase.zip | QuakeWorld Skin Template (v2)
+1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) |QuakeWorld Skin Template (v3)
+1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | QuakeWorld Skin Pack
 1996 Dec 17 | [qwcl1217.zip](bin/qwcl1217.zip) | Quakeworld Client 1.25.
-1996 Dec 17 | [skinbase.zip](bin/skinbase.zip) | Quakeworld Player Skins.
-1996 Dec 17 | [qw_skins.zip](bin/qw_skins.zip) | Quakeworld Player Skins.
 1996 Dec 30 | [idctf1.zip](bin/idctf1.zip) | e1m5 map for CTF (Willits).
-1997 Jan 01 | [qws_9652.zip](bin/qws_9652.zip) | Quakeworld Skins Pack 1.
+1996 Dec 31 | [qws_9652.zip](bin/qws_9652.zip) | QuakeWorld Skin Pack #1
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
 1997 Jan 22 | [glquake.zip](bin/glquake.zip)<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta.
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
+1997 Feb 08 | [qws_9706.zip](bin/qws_9706.zip) | QuakeWorld Skin Pack #2
 1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
-1997 Feb 12 | [qws_9706.zip](bin/qws_9706.zip) | Quakeworld Skins Pack 2.
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) | SGI Quake (Ed Hutchins) v1
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Mar 03 | rrq107b1.zip | VQuake v1.07 Beta 1.
@@ -92,7 +94,7 @@ Release Date | File | Description
 1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip)<br>[qwqc150.txt](bin/qwqc150.txt) | Quakeworld QuakeC Source v1.50.
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
-1997 Apr 08 | [qws.zip](bin/qws.zip)<br>[qws_9715.zip](bin/qws_9715.zip)<br>[skinbase3.zip](bin/skinbase3.zip) | Quakeworld Skins Pack 3.
+1997 Apr 07 | [skinbase3.zip](bin/skinbase3.zip)<br>[qws.zip](bin/qws.zip)<br>[qws_9715.zip](bin/qws_9715.zip) | QuakeWorld Skin Pack #3
 1997 Apr 09 | [sgiquake.tar.gz](bin/sgiquake-1997-04.tar.gz) | SGI Quake (Ed Hutchins) v2
 1997 Apr 02 | [death32.zip](bin/death32.zip) | Quake map that combines DM2, DM4, and DM6 (Disruptor).
 1997 Apr 09 | [death32a.zip](bin/death32a.zip) | Quake map that combines DM2, DM4, and DM6, fixed (Disruptor).
@@ -106,7 +108,7 @@ Release Date | File | Description
 1997 May 01 | [unixded-1.0-sparc-sun-solaris2.5.1.tar.Z](bin/unixded-1.0-sparc-sun-solaris2.5.1.tar.Z)<br>[unixded-1.0-i386-unknown-linux2.0.tar.gz](bin/unixded-1.0-i386-unknown-linux2.0.tar.gz)<br>[unixded-1.0-i386-unknown-bsdi3.0.tar.gz](bin/unixded-1.0-i386-unknown-bsdi3.0.tar.gz) | Quake Unix Dedicated Server v1.0.
 1997 May 02 | [sgiquake.tar.gz](bin/sgiquake-1997-05-02.tar.gz) | SGI Quake v1.08
 1997 May 14 | [sgiquake.tar.gz](bin/sgiquake-1997-05-13.tar.gz) | SGI Quake v1.09
-1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | Quakeworld Skins Pack 4.
+1997 May 20 | [qws_9721.zip](bin/qws_9721.zip) | QuakeWorld Skin Pack #4
 1997 May 22 | [sgiquake.tar.gz](bin/sgiquake-1997-05-21.tar.gz) | SGI Quake v1.10
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>[qwsv0613.zip](bin/qwsv0613.zip)<br>[qwcl0613.exe](bin/qwcl0613.exe)<br>[qwcl1.64-i386-unknown-linux2.0.tar.gz](bin/qwcl1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.64-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.64-i386-unknown-linux2.0.tar.gz](bin/qwsv1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.64-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v1.64.
 1997 Jun 24 | [quake.bin](bin/quake.bin)<br>[quake.sw.tar.Z](bin/quake.sw.tar.Z)<br>[quake.sw.just.exe.tar.Z](bin/quake.sw.just.exe.tar.Z) | Quake Shareware for IBM AIX (PowerPC) v1.07.
@@ -117,7 +119,7 @@ Release Date | File | Description
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip)<br>qwcl0809.zip<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
 1997 Aug 12 | [qwsv0812.zip](bin/qwsv0812.zip) | Quakeworld Server v2.01.
 1997 Aug 13 | [qwsv2.01-i386-unknown-linux2.0.tar.gz](bin/qwsv2.01-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.01-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.01-sparc-sun-solaris2.5.1.tar.Z) | Quakeworld Client and Server v2.01.
-1997 Aug 16 | [qws_9729.zip](bin/qws_9729.zip) | Quakeworld Skins Pack 5.
+1997 Aug 14 | [qws_9729.zip](bin/qws_9729.zip) | QuakeWorld Skin Pack #5
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | Quake DM7 "Archophobia" deathmatch map (McGee, Namaksy).
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit) | Quake for Macintosh v1.08.2
