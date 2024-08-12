@@ -19,6 +19,9 @@ Excludes DEC Alpha releases, IRIX releases, Linux QuakeWorld releases, Linux ded
 * 1997 Nov 14, glquake-0.97-i386-unknown-linux2.0.tar.gz
 
 
+Update: there was also `i386-ELF-xquake-1.06.gz` released by Linus Torvalds as part of his Alpha Linux Quake port in November 1996. See the DEC Alpha Linux Quake port history.
+
+
 ## intel_linux_quake091.tgz (Dave Taylor)
 
 Announcement:

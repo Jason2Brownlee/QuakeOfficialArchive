@@ -303,3 +303,4 @@ Locations:
 * http://ftpkernel.metu.edu.tr/linux/kernel/testing/old/quake/
 * https://web.archive.org/web/19970617190706/http://www.planetquake.com/threewave/htdocs/linux/
 * https://web.archive.org/web/19980114151448/http://www.cms.dmu.ac.uk/~rl/Quake/
+* https://web.archive.org/web/19970806044626/http://www.cs.washington.edu/homes/tlau/tome/byname.html
