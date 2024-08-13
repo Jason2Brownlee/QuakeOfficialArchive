@@ -8,5 +8,5 @@ Other versions of "quake official releases lists":
 * [The History and Development of Quake, Quake Wiki](https://quakewiki.org/wiki/The_History_and_Development_of_Quake)
 * [QuakeTalk 95, build 400](https://www.gamers.org/games/quake/quaketalk.txt)
 * [Methos Quake News, Quake History In A Nutshell](https://web.archive.org/web/20011026104833/http://www.methosq.com/newsjuly01.htm) (archived)
-
+* [quakeworld.nl File Archive](http://3rd.quakeworld.nl/files.html)
 

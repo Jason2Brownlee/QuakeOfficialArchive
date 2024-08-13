@@ -89,9 +89,10 @@ Release Date | File | Description
 1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz)<br>unixded-0.99-sparc-sun-solaris2.5.1.tar.Z | Quake Unix Dedicated Server v0.99.
-1997 Mar 29 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
-1997 Apr 01 | [qwinst150.exe](bin/qwinst150.exe)<br>[qwinst150b.exe](bin/qwinst150b.exe) | Quakeworld Client v1.50.
-1997 Apr 02 | [qwqc150.zip](bin/qwqc150.zip)<br>[qwqc150.txt](bin/qwqc150.txt) | Quakeworld QuakeC Source v1.50.
+1997 Mar 30 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
+1997 Apr 01 | [qwinst150.exe](bin/qwinst150.exe) | Quakeworld Client v1.50.
+1997 Apr 01 | [qwqc150.zip](bin/qwqc150.zip)<br>[qwqc150.txt](bin/qwqc150.txt) | Quakeworld QuakeC Source v1.50.
+1997 Apr 03 | [qwinst150b.exe](bin/qwinst150b.exe) | Quakeworld Client v1.50 (updated).
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 04 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
 1997 Apr 07 | [skinbase3.zip](bin/skinbase3.zip)<br>[qws.zip](bin/qws.zip)<br>[qws_9715.zip](bin/qws_9715.zip) | QuakeWorld Skin Pack #3

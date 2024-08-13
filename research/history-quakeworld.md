@@ -3,8 +3,18 @@
 History of QuakeWorld client (QWCL) and server (QWSV) releases.
 
 
+## Releases
 
-## QuakeWorld v1.03 (server)
+* 1996 Dec 13, qwsv1213.zip
+* 1996 Dec 17, qwcl1217.zip
+* 1997 Mar 30, qwsv3_29.zip
+* 1997 Apr 01, qwinst150.exe
+* 1997 Apr 01, qwqc150.zip
+* 1997 Apr 03, qwinst150b.exe
+* 1997 Apr 03, qwcl1.54-i386-unknown-linux2.0.tar.gz, qwsv1.54-i386-unknown-linux2.0.tar.gz
+
+
+## QuakeWorld Server (QWSV) v(1213)
 
 Released as `qwsv1213.zip`.
 
@@ -94,7 +104,7 @@ Last Updated: Thursday, December 12th, 1996
 -- QWSV.TXT
 
 
-## QuakeWorld v1.25 (client)
+## QuakeWorld Client (QWCL) v1.25
 
 Released as `qwcl1217.zip`.
 
@@ -163,4 +173,215 @@ Readme snippets:
 Released: Tuesday, December 17th, 1996
 ```
 -- qwcl.txt
+
+
+## QuakeWorld Server (QWSV) v(0329) v1.51
+
+Released as `qwsv3_29.zip`.
+
+```text
+March 30, 1997
+New QuakeWorld Server
+The new version of the Quake World server, has been released on id's FTP site. A different version, with the same filename was uploaded shortly after the original, so if you downloaded it early on, you should get it again. Once again, in advance of the client to allow servers to be online when the client is released. Also now available is QPlug, the browser plug-in that accompanied the new QW. Unfortunately, the new master is not compatible with the current masters/clients, so this should be kept in mind when switching over. More information can be found on QuakeWorld Central "The Official Home of QuakeWorld" which is now open for business.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+```text
+March 30, 1997
+QuakeWorld Central Update II
+The reference to a new QuakeWorld server on QuakeWorld Central is the second version that was uploaded last night. To make sure you have the right one, simply verify that you have version 1.51. From earlier, thanks kolinahr for pointing out there was an update answering the many frequently asked questions about the new QuakeWorld.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+Links:
+
+* https://www.bluesnews.com/files/qwsv3_29.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv3_29.zip
+* https://www.bluesnews.com/files/qp3_29.zip
+
+
+Archive content:
+
+```text
+-rw-rw-r--  0 0      0      184320 30 Mar  1997 QWSV.EXE
+-rw-rw-r--  0 0      0      187452 29 Mar  1997 PROGS.DAT
+-rw-rw-r--  0 0      0         265 30 Mar  1997 QWSV.TXT
+```
+
+Readme:
+
+```text
+QWSV Notes (March.29.1997 Release)
+----------------------------------
+
+ Please refer to
+
+ http://qwcentral.stomped.com
+
+ for documentation.
+
+ Server operators wishing to link to our master server at id, please use;
+
+ qwsv +setmaster 192.246.40.12.
+ ```
+
+## QuakeWorld Client (QWCL) v1.50
+
+Released as `qwinst150.exe`.
+
+
+```text
+April 1, 1997
+New QuakeWorld Client/QSpy Release
+Hot off the presses is the new QuakeWorld Client and QuakeSpy (1.6 MB) all rolled into one. The new QuakeWorld is version 1.50, and is only compatible with the new servers (currently version 1.51). The new program is an installer that will install everything for you. Hint of the day: if the installation suggests rebooting, believe it. In honor of the event, Disruptor's .plan and the RevCo page have been updated. My old buddy Moogle wrote in to point out the most recent addition to Dis' .plan to save a little wear and tear in Dis' mailbox:
+
+	- U_REMOVE on full update: We know about this. It shouldn't be a serious
+	error. We'll try to fix it.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+Links:
+
+* https://www.bluesnews.com/files/qwinst150.exe
+
+
+**Cannot unzip on a POSIX box, yet.**
+
+
+## QuakeWorld QuakeC v1.50
+
+Released as `qwqc150.zip` and qwqc150.txt.
+
+```text
+April 2, 1997
+QuakeWorld QC
+Disruptor released the new QuakeWorld Quake C files yesterday.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+Links:
+
+* https://www.bluesnews.com/files/qwqc150.zip
+
+
+Archive content:
+
+```text
+-rw-rw-r--  0 0      0        1697  5 Dec  1996 amtest.qc
+-rw-rw-r--  0 0      0        2910  5 Dec  1996 buttons.qc
+-rw-rw-r--  0 0      0       30162 27 Mar  1997 client.qc
+-rw-rw-r--  0 0      0        7578 29 Mar  1997 combat.qc
+-rw-rw-r--  0 0      0       24717 27 Mar  1997 defs.qc
+-rw-rw-r--  0 0      0       17076 26 Feb  1997 doors.qc
+-rw-rw-r--  0 0      0       31876 29 Mar  1997 items.qc
+-rw-rw-r--  0 0      0         222  5 Dec  1996 jctest.qc
+-rw-rw-r--  0 0      0       16413 19 Feb  1997 misc.qc
+-rw-rw-r--  0 0      0        9788  5 Dec  1996 models.qc
+-rw-rw-r--  0 0      0        7741 26 Feb  1997 plats.qc
+-rw-rw-r--  0 0      0       20596 28 Mar  1997 player.qc
+-rw-rw-r--  0 0      0        2368  5 Dec  1996 server.qc
+-rw-rw-r--  0 0      0         486  5 Dec  1996 sprites.qc
+-rw-rw-r--  0 0      0        5542 13 Dec  1996 subs.qc
+-rw-rw-r--  0 0      0       14140 19 Feb  1997 triggers.qc
+-rw-rw-r--  0 0      0       27741 27 Mar  1997 weapons.qc
+-rw-rw-r--  0 0      0       11188  5 Dec  1996 world.qc
+-rw-rw-r--  0 0      0         149  5 Dec  1996 progs.src
+```
+
+Readme:
+
+```text
+The latest id source code to QuakeWorld progs.dat.
+```
+-- qwqc150.txt
+
+
+## QuakeWorld Client (QWCL) v1.50 v2
+
+Released as `qwinst150b.exe`.
+
+```text
+April 3, 1997
+QW Installer
+Here is the new installer (1.1 MB) for the QuakeWorld client that has the lean, DLL-less install of QSpy 5.1b. morbid says that if you haven't already gotten the new smaller QSpy, you really ought to do so, among other things it apparently operates faster.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+Links:
+
+* https://www.bluesnews.com/files/qwinst150b.exe
+
+**Cannot unzip on a POSIX box, yet.**
+
+
+## Linux QuakeWorld Client (QWCL) and Server (QWSV) v1.54
+
+Released as:
+
+* `qwcl1.54-i386-unknown-linux2.0.tar.gz`
+* `qwsv1.54-i386-unknown-linux2.0.tar.gz`
+
+
+```text
+April 3, 1997
+Linux QuakeWorld
+Well that was Quick... I mentioned that Zoid said soon for the Linux QuakeWorld files, but I didn't realize that meant hours. While I was at the QuakeCast, Zoid released the Linux Server, and the Linux Client (shift-click on the links), thanks moogle.
+```
+-- https://www.bluesnews.com/archives/march97-5.html
+
+Links:
+
+* https://www.bluesnews.com/files/qwsv1_54-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/qwcl1_54-i386-unknown-linux2_0_tar.gz
+
+
+The `qwcl1_54-i386-unknown-linux2_0_tar.gz` content:
+
+```text
+-rwsr-xr-x  0 root   root   271952  4 Apr  1997 qwcl
+-rw-------  0 zoid   users    4131  4 Apr  1997 qwcl.txt
+```
+
+The `qwsv1.54-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwx------  0 zoid   users       0  4 Apr  1997 qw/
+-rw-------  0 zoid   users  187452  4 Apr  1997 qw/qwprogs.dat
+drwx------  0 zoid   users       0  4 Apr  1997 qw/skins/
+-rwx------  0 zoid   users     109  4 Apr  1997 qw/skins/fixskins.sh
+-rwx------  0 zoid   users  141828  4 Apr  1997 qwsv
+-rw-------  0 zoid   users     631  4 Apr  1997 qwsv.txt
+```
+
+Readme:
+
+```text
+Linux QWSV Notes (April.03.1997 Release)
+----------------------------------------
+
+ Please refer to
+
+ http://qwcentral.stomped.com
+
+ for documentation.
+
+ Server operators wishing to link to our master server at id, please use;
+
+ qwsv +setmaster 192.246.40.12.
+
+Skins Note
+----------
+
+After you get the skin files from ftp.idsoftware.com (currently,
+qw_skins.zip, qws_9652.zip and qws_9706.zip) and install them in
+qw/skins, you should run the shell script 'fixskins.sh' that you can find in
+the qw/skins directly distributed with this archive.
+
+Linux qwsv will always look for lowercase file names first.
+```
+-- qwsv.txt
+
+
+
+
 
