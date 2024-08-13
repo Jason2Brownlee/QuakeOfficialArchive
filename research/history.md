@@ -26,7 +26,7 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * AmigaQuake History
 * MacQuake History
 * [QuakeWorld Player Skins History](history-quakeworld-skins.md)
-* QuakeWorld History
+* [QuakeWorld History](history-quakeworld.md)
 * Sketches History
 * GPL History
 * Ports Based on Leaked Linux Source
