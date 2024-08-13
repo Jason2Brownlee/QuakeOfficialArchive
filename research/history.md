@@ -25,7 +25,7 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [DEC Alpha Quake History](history-decalpha.md)
 * AmigaQuake History
 * MacQuake History
-* [QuakeWorld Skins History](history-quakeworld-skins.md)
+* [QuakeWorld Player Skins History](history-quakeworld-skins.md)
 * QuakeWorld History
 * Sketches History
 * GPL History

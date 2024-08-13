@@ -1,8 +1,8 @@
 # QuakeWorld Player Skins History
 
-Players can change the way they look to other players in the game. Skinpacks are collections of player skins that can be downloaded and installed to allow the player to choose from in-game, and to see the choices of other players in the game.
+Players can change the way they look to other players in the game. Skin packs are collections of player skins that can be downloaded and installed to allow the player to choose from in-game, and to see the choices of other players in the game.
 
-Skinpacks and the images for basis for creating skins for designers were releases for QuakeWorld on the id Software FTP site.
+Skin packs and the images used for basis for creating skins for designers were releases for QuakeWorld on the id Software FTP site.
 
 ## Releases
 
@@ -21,7 +21,9 @@ Skinpacks and the images for basis for creating skins for designers were release
 
 ## Other Lists Of Files
 
-Other lists of skinpack files:
+Other lists of skin pack files:
+
+### qwcentral.stomped.com
 
 ```text
 QuakeWorld SkinPack Files
@@ -35,6 +37,8 @@ qws_9729.zip	QuakeWorld Skinpack #5	1.0	8/14/97
 ```
 -- [http://qwcentral.stomped.com/](https://web.archive.org/web/19980507195830/http://qwcentral.stomped.com/)
 
+
+### bluesnews.com
 ```text
 qw_skins.zip
 qws_9652.zip
@@ -44,6 +48,36 @@ qws_9721.zip
 qws_9729.zip
 ```
 -- https://www.bluesnews.com/guide/qw.htm
+
+### quakeworld.net
+```text
+Skins Pack 1 Size: 2657K Version: 9652
+QuakeWorld skins pack #1
+qws_9652.zip - id Software
+qws_9652.zip - Walnut Creek Archives
+
+Skins Pack 2 Size: 3052K Version: 9706
+QuakeWorld skins pack #2
+qws_9706.zip - id Software
+qws_9706.zip - Walnut Creek Archives
+
+Skins Pack 3 Size: 2790K Version: 9715
+QuakeWorld skins pack #3
+qws_9715.zip - id Software
+qws_9715.zip - Walnut Creek Archives
+
+Skins Pack 4 Size: 1652K Version: 9721
+QuakeWorld skins pack #4
+qws_9721.zip - id Software
+qws_9721.zip - Walnut Creek Archives
+
+Skins Pack 5 Size: 5267K Version: 9729
+QuakeWorld skins pack #4
+qws_9729.zip - id Software
+qws_9729.zip - Walnut Creek Archives
+```
+-- [http://www.quakeworld.net:80/main-files.html](https://web.archive.org/web/19971210064040/http://www.quakeworld.net:80/main-files.html)
+
 
 
 ## skins.zip
