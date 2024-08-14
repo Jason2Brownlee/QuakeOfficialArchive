@@ -1,6 +1,6 @@
 # QuakeWorld History
 
-History of QuakeWorld client (QWCL) and server (QWSV) releases.
+Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 
 
 ## Releases
@@ -9,9 +9,11 @@ History of QuakeWorld client (QWCL) and server (QWSV) releases.
 * 1996 Dec 17, qwcl1217.zip
 * 1997 Mar 30, qwsv3_29.zip
 * 1997 Apr 01, qwinst150.exe
-* 1997 Apr 01, qwqc150.zip
+* 1997 Apr 01, qwqc150.zip (v1)
 * 1997 Apr 03, qwinst150b.exe
 * 1997 Apr 03, qwcl1.54-i386-unknown-linux2.0.tar.gz, qwsv1.54-i386-unknown-linux2.0.tar.gz
+* 1997 Apr 06, qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz, qwcl1.54b-i386-unknown-linux2.0.tar.gz
+* 1997 Apr 09, qwqc150.zip (v2)
 
 
 ## QuakeWorld Server (QWSV) v(1213)
@@ -248,9 +250,9 @@ Links:
 **Cannot unzip on a POSIX box, yet.**
 
 
-## QuakeWorld QuakeC v1.50
+## QuakeWorld QuakeC v1.50 (v1)
 
-Released as `qwqc150.zip` and qwqc150.txt.
+Released as `qwqc150.zip`.
 
 ```text
 April 2, 1997
@@ -263,6 +265,7 @@ Links:
 
 * https://www.bluesnews.com/files/qwqc150.zip
 
+The archive excludes `progs.src`.
 
 Archive content:
 
@@ -285,15 +288,9 @@ Archive content:
 -rw-rw-r--  0 0      0       14140 19 Feb  1997 triggers.qc
 -rw-rw-r--  0 0      0       27741 27 Mar  1997 weapons.qc
 -rw-rw-r--  0 0      0       11188  5 Dec  1996 world.qc
--rw-rw-r--  0 0      0         149  5 Dec  1996 progs.src
 ```
 
-Readme:
 
-```text
-The latest id source code to QuakeWorld progs.dat.
-```
--- qwqc150.txt
 
 
 ## QuakeWorld Client (QWCL) v1.50 v2
@@ -382,6 +379,117 @@ Linux qwsv will always look for lowercase file names first.
 -- qwsv.txt
 
 
+## Solaris and Linux QuakeWorld Server (QWSV) v1.54b
+
+Released as:
+
+* qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz
+* qwcl1.54b-i386-unknown-linux2.0.tar.gz
 
 
+```text
+April 6, 1997
+Solaris QuakeWorld Server
+Zoid released Solaris QWSV (196 KB, shift-click the link to download) on Threewave. He also posted the following caveat:
+
+	Please note this is for Solaris 2.5.1. It will not run on 2.4 and it has some problems running on 2.5.0. I'm hoping to get a 2.4 port ready soon.
+```
+-- https://www.bluesnews.com/archives/april97-1.html
+
+Links:
+* http://www.bluesnews.com/files/qwsv1_54b-sparc-sun-solaris2_5_1_tar.gz
+
+```text
+April 6, 1997
+Linux QuakeWorld Client
+There is a new Linux QuakeWorld Client (shift-click to download), version 1.54b (125 KB) on Threewave.
+```
+-- https://www.bluesnews.com/archives/april97-1.html
+
+Links:
+* https://www.bluesnews.com/files/qwcl1_54b-i386-unknown-linux2_0_tar.gz
+
+
+The `qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz` archive content:
+
+```text
+drwx------  0 zoid   users       0  4 Apr  1997 qw/
+-rw-------  0 zoid   users  187452  4 Apr  1997 qw/qwprogs.dat
+drwx------  0 zoid   users       0  5 Apr  1997 qw/skins/
+-rwx------  0 zoid   users     104  5 Apr  1997 qw/skins/fixskins.sh
+-rw-------  0 zoid   users  313452  6 Apr  1997 qwsv
+-rw-------  0 zoid   users     633  6 Apr  1997 qwsv.txt
+```
+
+Readme snippet:
+
+```text
+Solaris QWSV Notes (April.05.1997 Release)
+----------------------------------------
+...
+```
+
+-- qwsv.txt
+
+
+The `qwcl1.54b-i386-unknown-linux2.0.tar.gz` archive content:
+
+```text
+-rwsr-xr-x  0 root   root   271968  7 Apr  1997 qwcl
+-rw-------  0 zoid   users    4131  7 Apr  1997 qwcl.txt
+```
+
+
+## QuakeWorld QuakeC v1.50 (v2)
+
+Released as `qwqc150.zip` and qwqc150.txt.
+
+```text
+April 9, 1997
+QuakeWorld QC
+Disruptor updated his .plan with word that he uploaded the new QuakeWorld QC (56 KB):
+
+	I've re-uploaded qwqc150.zip to ftp.idsoftware.com which now includes progs.src which I neglected to include when I first uploaded it. You should now be able to recompile the QuakeWorld QC without any problems.
+
+```
+-- https://www.bluesnews.com/archives/april97-1.html
+
+Links:
+
+* https://www.bluesnews.com/files/idstuff/quakeworld/qwqc150.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwqc150.zip
+
+The archive includes a `progs.src`.
+
+
+Archive content:
+
+```text
+-rw-rw-r--  0 0      0        1697  5 Dec  1996 amtest.qc
+-rw-rw-r--  0 0      0        2910  5 Dec  1996 buttons.qc
+-rw-rw-r--  0 0      0       30162 27 Mar  1997 client.qc
+-rw-rw-r--  0 0      0        7578 29 Mar  1997 combat.qc
+-rw-rw-r--  0 0      0       24717 27 Mar  1997 defs.qc
+-rw-rw-r--  0 0      0       17076 26 Feb  1997 doors.qc
+-rw-rw-r--  0 0      0       31876 29 Mar  1997 items.qc
+-rw-rw-r--  0 0      0         222  5 Dec  1996 jctest.qc
+-rw-rw-r--  0 0      0       16413 19 Feb  1997 misc.qc
+-rw-rw-r--  0 0      0        9788  5 Dec  1996 models.qc
+-rw-rw-r--  0 0      0        7741 26 Feb  1997 plats.qc
+-rw-rw-r--  0 0      0       20596 28 Mar  1997 player.qc
+-rw-rw-r--  0 0      0        2368  5 Dec  1996 server.qc
+-rw-rw-r--  0 0      0         486  5 Dec  1996 sprites.qc
+-rw-rw-r--  0 0      0        5542 13 Dec  1996 subs.qc
+-rw-rw-r--  0 0      0       14140 19 Feb  1997 triggers.qc
+-rw-rw-r--  0 0      0       27741 27 Mar  1997 weapons.qc
+-rw-rw-r--  0 0      0       11188  5 Dec  1996 world.qc
+-rw-rw-r--  0 0      0         149  5 Dec  1996 progs.src
+```
+
+Readme:
+
+```text
+The latest id source code to QuakeWorld progs.dat.
+```
+-- qwqc150.txt
 
