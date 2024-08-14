@@ -91,7 +91,7 @@ Release Date | File | Description
 1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz)<br>unixded-0.99-sparc-sun-solaris2.5.1.tar.Z | Quake Unix Dedicated Server v0.99.
 1997 Mar 30 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
 1997 Apr 01 | [qwinst150.exe](bin/qwinst150.exe) | Quakeworld Client v1.50.
-1997 Apr 01 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50 (v1m excludes progs.src).
+1997 Apr 01 | [qwqc150.zip](bin/qwqc150.zip) | Quakeworld QuakeC Source v1.50 (v1, excludes progs.src).
 1997 Apr 03 | [qwinst150b.exe](bin/qwinst150b.exe) | Quakeworld Client v1.50 (updated).
 1997 Apr 03 | [qwsv1.54-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54-i386-unknown-linux2.0.tar.gz)<br>[qwcl1.54-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54.
 1997 Apr 06 | [qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz)<br>[qwcl1.54b-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54b-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.54b.
@@ -103,7 +103,7 @@ Release Date | File | Description
 1997 Apr 09 | [qwcl1.54c-i386-unknown-linux2.0.tar.gz](bin/qwcl1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.54c-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.54c-i386-unknown-linux2.0.tar.gz](bin/qwsv1.54c-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Unix Client and Server v1.54c.
 1997 Apr 10 | [squake-0.992-i385-unknown-linux2.0.tar.gz](bin/squake-0.992-i385-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.992.
 1997 Apr 10 | [unixded-0.991-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.991-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.991-i386-unknown-linux2.0.tar.gz](bin/unixded-0.991-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.991-sparc-sun-solaris2.5.1.tar.gz](bin/unixded-0.991-sparc-sun-solaris2.5.1.tar.gz) | Quake Unix Dedicated Server v0.991.
-1997 Apr 13 | [qwcl0413.zip](bin/qwcl0413.zip)<br>[qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
+1997 Apr 14 | [qwcl0413.zip](bin/qwcl0413.zip)<br>[qwcl0413.exe](bin/qwcl0413.exe)<br>[qwcl0413_u.zip](bin/qwcl0413_u.zip)<br>[qwsv0413_u.zip](bin/qwsv0413_u.zip) | Quakeworld Client and Server v1.55.
 1997 Apr 30 | [qwsv1.55-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv1.55-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv1.55-i386-unknown-linux2.0.tar.gz](bin/qwsv1.55-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.55-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.55-i386-unknown-bsdi3.0.tar.gz)<br>[qwcl1.55-i386-unknown-linux2.0.tar.gz](bin/qwcl1.55-i386-unknown-linux2.0.tar.gz) | Quakeworld Unix Client and Server v1.55.
 1997 Apr 30 | [doe_qc.zip](bin/doe_qc.zip)<br>[doe_qc.txt](bin/doe_qc.txt) | QuakeC Source for Dissolution of Eternity.
 1997 May 01 | [squake-1.0-i386-unknown-linux2.0.tar.gz](bin/squake-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.0.

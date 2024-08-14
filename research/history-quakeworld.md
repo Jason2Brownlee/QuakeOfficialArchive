@@ -14,6 +14,9 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 * 1997 Apr 03, qwcl1.54-i386-unknown-linux2.0.tar.gz, qwsv1.54-i386-unknown-linux2.0.tar.gz
 * 1997 Apr 06, qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz, qwcl1.54b-i386-unknown-linux2.0.tar.gz
 * 1997 Apr 09, qwqc150.zip (v2)
+* 1996 Apr ??, * qwcl1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-i386-unknown-bsdi3.0.tar.gz, qwsv1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz
+* 1997 Apr 14, qwcl0413.exe, qwcl0413_u.zip, qwsv0413_u.zip
+
 
 
 ## QuakeWorld Server (QWSV) v(1213)
@@ -492,4 +495,88 @@ Readme:
 The latest id source code to QuakeWorld progs.dat.
 ```
 -- qwqc150.txt
+
+
+## QuakeWorld Unix Client and Server v1.54c
+
+Released as:
+
+* qwcl1.54c-i386-unknown-linux2.0.tar.gz
+* qwsv1.54c-i386-unknown-bsdi3.0.tar.gz
+* qwsv1.54c-i386-unknown-linux2.0.tar.gz
+* qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz
+
+
+
+Not covered on blues?
+
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v1.55
+
+Released as:
+
+* qwcl0413.exe
+* qwcl0413_u.zip
+* qwsv0413_u.zip
+
+
+```text
+April 14, 1997
+New QuakeWorld
+Here is version 1.55 of the QuakeWorld Client Installer. Here is the upgrade if you have the previous version, here is the patch to upgrade from 1.50 server. BTW, it's the Birthday of Jack "Morbid" Mathews (part of the QW Team as well as Team QSpy), so everybody who sees him today, be sure to give him his Birthday noogies.
+```
+-- https://www.bluesnews.com/archives/april97-2.html
+
+Links:
+
+* http://www.bluesnews.com/files/idstuff/quakeworld/qwcl0413.exe
+* http://www.bluesnews.com/files/idstuff/quakeworld/qwcl0413_u.zip
+* http://www.bluesnews.com/files/idstuff/quakeworld/qwsv0413_u.zip
+
+
+**Cannot extract `qwcl0413.exe` on POSIX, yet**
+
+
+Archive `qwcl0413_u.zip` content:
+
+```text
+-rw-rw-r--  0 0      0      568832 12 Apr  1997 QWCL.EXE
+-rw-rw-r--  0 0      0         217 13 Apr  1997 readme.txt
+```
+
+Readme:
+
+```text
+---------------------------
+Release Notes (April.13.97)
+---------------------------
+
+ This is an upgrade to the QuakeWorld Client 1.50. Please overwrite your
+\quake\qwcl.exe with the contents of this archive.
+```
+
+Archive `qwsv0413_u.zip` content:
+
+```text
+-rw-rw-r--  0 0      0      184320 13 Apr  1997 QWSV.EXE
+-rw-rw-r--  0 0      0         217 13 Apr  1997 readme.txt
+```
+-- readme.txt
+
+
+Readme:
+
+```text
+---------------------------
+Release Notes (April.13.97)
+---------------------------
+
+ This is an upgrade to the QuakeWorld Server 1.50. Please overwrite your
+\quake\qwsv.exe with the contents of this archive.
+```
+-- readme.txt
+
+
+
+
 
