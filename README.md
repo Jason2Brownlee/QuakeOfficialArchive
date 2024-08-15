@@ -140,8 +140,8 @@ Release Date | File | Description
 1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip)<br>[glquake1.exe](bin/glquake1.exe)<br>[glquake1.txt](bin/glquake1.txt) | PowerVR GLQuake/GLHexen II Driver v2
 1998 Apr 03 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
 1998 Apr 22 | [MacQW211b1.sit](bin/MacQW211b1.sit)<br>[QuakeWorld211b1.sit](bin/QuakeWorld211b1.sit) | Mac QuakeWorld Client v2.11 Beta 1.
-1998 Apr 26 | MacQW211b2.sit<br>MacQW211b2U.sit | | Mac QuakeWorld Client v2.11 Beta 2
-1998 May 03 | MacQW211b3.sit | | Mac QuakeWorld Client v2.11 Beta 3
+1998 Apr 26 | MacQW211b2.sit<br>MacQW211b2U.sit | Mac QuakeWorld Client v2.11 Beta 2
+1998 May 03 | MacQW211b3.sit | Mac QuakeWorld Client v2.11 Beta 3
 1998 May 15 | ? | Mac QuakeWorld Server v2.11 Beta 1
 1998 May 17 | [qwsv22.zip](bin/qwsv22.zip)<br>[qw22.exe](bin/qw22.exe)<br>[qwsv2.20-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-i386-unknown-linux2.0.tar.gz](bin/qwsv2.20-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.20-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.20-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv2.20-i386-sun-solaris2.5.1.tar.gz](bin/qwsv2.20-i386-sun-solaris2.5.1.tar.gz)<br>[qwsv2.20-axp-unknown-linux2.0.tar.gz](bin/qwsv2.20-axp-unknown-linux2.0.tar.gz)<br>[qwcl2.20-i386-unknown-linux2.0.tar.gz](bin/qwcl2.20-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.20.
 1998 May 21 | [qwsv221.zip](bin/qwsv221.zip)<br>[qw221.zip](bin/qw221.zip)<br>[qw221.exe](bin/qw221.exe)<br>[qwsv2.21-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv2.21-sparc-sun-solaris2.5.1.tar.gz)<br>[qwsv2.21-i386-unknown-linux2.0.tar.gz](bin/qwsv2.21-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.21-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.21-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv2.21-i386-sun-solaris2.5.1.tar.gz](bin/qwsv2.21-i386-sun-solaris2.5.1.tar.gz)<br>[qwsv2.21-axp-unknown-linux2.0.tar.gz](bin/qwsv2.21-axp-unknown-linux2.0.tar.gz)<br>[qwcl2.21-i386-unknown-linux2.0.tar.gz](bin/qwcl2.21-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.21.
