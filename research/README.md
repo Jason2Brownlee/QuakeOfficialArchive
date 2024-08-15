@@ -39,3 +39,11 @@ Less-official stuff (but endorsed by id-software?):
 Other versions of "quake official releases lists":
 
 * [Other Release Lists](history-other.md)
+
+Other research notes (less structured, more exploratory):
+
+* [Research notes on AdrianC sketches](research-adrianc.md)
+* [Research notes on Quake leaks](research-leaks.md)
+* [Research notes on Quake utilities](research-utils.md)
+* [Early research notes](notes.txt)
+* [File wishlist](wishlist.txt)
