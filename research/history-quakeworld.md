@@ -10,14 +10,15 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 * 1997 Mar 30, qwsv3_29.zip
 * 1997 Apr 01, qwinst150.exe
 * 1997 Apr 01, qwqc150.zip (v1)
-* 1997 Apr 03, qwinst150b.exe
 * 1997 Apr 03
+	* qwinst150b.exe
 	* qwcl1.54-i386-unknown-linux2.0.tar.gz
 	* qwsv1.54-i386-unknown-linux2.0.tar.gz
 * 1997 Apr 06
 	* qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz
 	* qwcl1.54b-i386-unknown-linux2.0.tar.gz
-* 1997 Apr 09, qwqc150.zip (v2)
+* 1997 Apr 09
+	* qwqc150.zip (v2)
 * 1996 Apr ??
 	* qwcl1.54c-i386-unknown-linux2.0.tar.gz
 	* qwsv1.54c-i386-unknown-bsdi3.0.tar.gz
@@ -45,6 +46,12 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 	* qwsv0809.zip
 	* qwsv2.00-i386-unknown-linux2.0.tar.gz
 	* qwcl2.00-i386-unknown-linux2.0.tar.gz
+* 1997 Aug 13
+	* qwsv0812.zip
+	* qwsv2.01-i386-unknown-linux2.0.tar.gz
+	* qwsv2.01-sparc-sun-solaris2.5.1.tar.Z
+
+
 
 ## QuakeWorld Server (QWSV) v(1213)
 
@@ -985,5 +992,132 @@ Readme:
 
 ## QuakeWorld Server (QWSV) v2.01
 
+Released as:
 
+* qwsv0812.zip
+* qwsv2.01-i386-unknown-linux2.0.tar.gz
+* qwsv2.01-sparc-sun-solaris2.5.1.tar.Z
+
+```text
+Wednesday, August 13, 1997
+QuakeWorld Server 2.01
+Version 2.01 of the QuakeWorld server has been released (as noted in Disruptor's .plan) on id's FTP site. Here's the Win95/NT version (223 KB), the Linux version (200 KB), and the Solaris version (448 KB). Jack Mathews updated his .plan saying we would probably have to wait for next week for the 2.01 client (they are currently unable to access the source code for the installer), which will fix the color glitches (he also is not at liberty to reveal his cool news yet).
+```
+-- https://www.bluesnews.com/archives/aug97-2.html
+
+Links:
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/
+* https://www.bluesnews.com/files/idstuff/quakeworld/qwsv0812.zip
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv2_01-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv2_01-sparc-sun-solaris2_5_1_tar.Z
+
+
+Archive `qwsv0812.zip` content:
+
+```text
+-rw-rw-r--  0 0      0      197940 12 Aug  1997 qw/qwprogs.dat
+-rw-rw-r--  0 0      0        2910  5 Dec  1996 qw/src/buttons.qc
+-rw-rw-r--  0 0      0       34077 12 Aug  1997 qw/src/client.qc
+-rw-rw-r--  0 0      0        7637 12 Aug  1997 qw/src/combat.qc
+-rw-rw-r--  0 0      0       25010 30 Jul  1997 qw/src/defs.qc
+-rw-rw-r--  0 0      0       18318 12 Aug  1997 qw/src/doors.qc
+-rw-rw-r--  0 0      0        6076 12 Aug  1997 qw/src/files.dat
+-rw-rw-r--  0 0      0       36842 12 Aug  1997 qw/src/items.qc
+-rw-rw-r--  0 0      0       17280 12 Aug  1997 qw/src/misc.qc
+-rw-rw-r--  0 0      0        9788  5 Dec  1996 qw/src/models.qc
+-rw-rw-r--  0 0      0        8167 12 Aug  1997 qw/src/plats.qc
+-rw-rw-r--  0 0      0       21418 27 Jul  1997 qw/src/player.qc
+-rw-rw-r--  0 0      0        2541 12 Aug  1997 qw/src/progdefs.h
+-rw-rw-r--  0 0      0         181 12 Aug  1997 qw/src/progs.src
+-rw-rw-r--  0 0      0        2517 12 Aug  1997 qw/src/server.qc
+-rw-rw-r--  0 0      0        2048 11 Aug  1997 qw/src/spectate.qc
+-rw-rw-r--  0 0      0         486  5 Dec  1996 qw/src/sprites.qc
+-rw-rw-r--  0 0      0        5542 13 Dec  1996 qw/src/subs.qc
+-rw-rw-r--  0 0      0       15060 12 Aug  1997 qw/src/triggers.qc
+-rw-rw-r--  0 0      0       29264 12 Aug  1997 qw/src/weapons.qc
+-rw-rw-r--  0 0      0       12183 31 Jul  1997 qw/src/world.qc
+-rw-rw-r--  0 0      0       10976 12 Aug  1997 qwrlnote.txt
+-rw-rw-r--  0 0      0      200704 12 Aug  1997 qwsv.exe
+-rw-rw-r--  0 0      0         259  9 Aug  1997 qwsv.txt
+```
+
+Archive `qwsv2.01-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwxrwxr-x  0 zoid   zoid        0 13 Aug  1997 qw/
+-rw-rw-r--  0 zoid   zoid   197940 13 Aug  1997 qw/qwprogs.dat
+drwxrwxr-x  0 zoid   zoid        0 13 Aug  1997 qw/src/
+-rw-rw-r--  0 zoid   zoid     2910  6 Dec  1996 qw/src/buttons.qc
+-rw-rw-r--  0 zoid   zoid    34077 13 Aug  1997 qw/src/client.qc
+-rw-rw-r--  0 zoid   zoid     7637 13 Aug  1997 qw/src/combat.qc
+-rw-rw-r--  0 zoid   zoid    25010 31 Jul  1997 qw/src/defs.qc
+-rw-rw-r--  0 zoid   zoid    18318 13 Aug  1997 qw/src/doors.qc
+-rw-rw-r--  0 zoid   zoid     6076 13 Aug  1997 qw/src/files.dat
+-rw-rw-r--  0 zoid   zoid    36842 13 Aug  1997 qw/src/items.qc
+-rw-rw-r--  0 zoid   zoid    17280 13 Aug  1997 qw/src/misc.qc
+-rw-rw-r--  0 zoid   zoid     9788  6 Dec  1996 qw/src/models.qc
+-rw-rw-r--  0 zoid   zoid     8167 13 Aug  1997 qw/src/plats.qc
+-rw-rw-r--  0 zoid   zoid    21418 28 Jul  1997 qw/src/player.qc
+-rw-rw-r--  0 zoid   zoid     2541 13 Aug  1997 qw/src/progdefs.h
+-rw-rw-r--  0 zoid   zoid      181 13 Aug  1997 qw/src/progs.src
+-rw-rw-r--  0 zoid   zoid     2517 13 Aug  1997 qw/src/server.qc
+-rw-rw-r--  0 zoid   zoid     2048 12 Aug  1997 qw/src/spectate.qc
+-rw-rw-r--  0 zoid   zoid      486  6 Dec  1996 qw/src/sprites.qc
+-rw-rw-r--  0 zoid   zoid     5542 14 Dec  1996 qw/src/subs.qc
+-rw-rw-r--  0 zoid   zoid    15060 13 Aug  1997 qw/src/triggers.qc
+-rw-rw-r--  0 zoid   zoid    29264 13 Aug  1997 qw/src/weapons.qc
+-rw-rw-r--  0 zoid   zoid    12183  1 Aug  1997 qw/src/world.qc
+-rw-rw-r--  0 zoid   zoid    10976 13 Aug  1997 qwrlnote.txt
+-rwxrwxr-x  0 zoid   zoid   166093 13 Aug  1997 qwsv
+-rw-rw-r--  0 zoid   zoid      259 10 Aug  1997 qwsv.txt
+```
+
+Archive `qwsv2.01-sparc-sun-solaris2.5.1.tar.Z` content:
+
+```text
+drwxrwxr-x  0 zoid   zoid        0 13 Aug  1997 qw/
+-rw-rw-r--  0 zoid   zoid   197940 13 Aug  1997 qw/qwprogs.dat
+drwxrwxr-x  0 zoid   zoid        0 13 Aug  1997 qw/src/
+-rw-rw-r--  0 zoid   zoid     2910 13 Aug  1997 qw/src/buttons.qc
+-rw-rw-r--  0 zoid   zoid    34077 13 Aug  1997 qw/src/client.qc
+-rw-rw-r--  0 zoid   zoid     7637 13 Aug  1997 qw/src/combat.qc
+-rw-rw-r--  0 zoid   zoid    25010 13 Aug  1997 qw/src/defs.qc
+-rw-rw-r--  0 zoid   zoid    18318 13 Aug  1997 qw/src/doors.qc
+-rw-rw-r--  0 zoid   zoid     6076 13 Aug  1997 qw/src/files.dat
+-rw-rw-r--  0 zoid   zoid    36842 13 Aug  1997 qw/src/items.qc
+-rw-rw-r--  0 zoid   zoid    17280 13 Aug  1997 qw/src/misc.qc
+-rw-rw-r--  0 zoid   zoid     9788 13 Aug  1997 qw/src/models.qc
+-rw-rw-r--  0 zoid   zoid     8167 13 Aug  1997 qw/src/plats.qc
+-rw-rw-r--  0 zoid   zoid    21418 13 Aug  1997 qw/src/player.qc
+-rw-rw-r--  0 zoid   zoid     2541 13 Aug  1997 qw/src/progdefs.h
+-rw-rw-r--  0 zoid   zoid      181 13 Aug  1997 qw/src/progs.src
+-rw-rw-r--  0 zoid   zoid     2517 13 Aug  1997 qw/src/server.qc
+-rw-rw-r--  0 zoid   zoid     2048 13 Aug  1997 qw/src/spectate.qc
+-rw-rw-r--  0 zoid   zoid      486 13 Aug  1997 qw/src/sprites.qc
+-rw-rw-r--  0 zoid   zoid     5542 13 Aug  1997 qw/src/subs.qc
+-rw-rw-r--  0 zoid   zoid    15060 13 Aug  1997 qw/src/triggers.qc
+-rw-rw-r--  0 zoid   zoid    29264 13 Aug  1997 qw/src/weapons.qc
+-rw-rw-r--  0 zoid   zoid    12183 13 Aug  1997 qw/src/world.qc
+-rw-rw-r--  0 zoid   zoid    10976 13 Aug  1997 qwrlnote.txt
+-rw-r--r--  0 zoid   zoid   409796 13 Aug  1997 qwsv
+-rw-rw-r--  0 zoid   zoid      259 13 Aug  1997 qwsv.txt
+```
+
+Readme:
+
+```text
+QWSV Notes (Aug.09.1997 Release)
+----------------------------------
+...
+```
+-- qwsv.txt
+
+```text
+	  	 ----------------------------------------------
+		  QuakeWorld v2.01 Release Notes (Aug 12,1997)
+		 ----------------------------------------------
+		        Copyright id Software 1996, 1997
+...
+```
+-- qwrlnote.txt
 

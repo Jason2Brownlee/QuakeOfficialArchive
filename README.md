@@ -119,8 +119,7 @@ Release Date | File | Description
 1997 Aug 08 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip)<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>qwsv2.00-i386-unknown-linux2.0.tar.gz<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
-1997 Aug 12 | [qwsv0812.zip](bin/qwsv0812.zip) | Quakeworld Server v2.01.
-1997 Aug 13 | [qwsv2.01-i386-unknown-linux2.0.tar.gz](bin/qwsv2.01-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.01-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.01-sparc-sun-solaris2.5.1.tar.Z) | Quakeworld Client and Server v2.01.
+1997 Aug 13 | [qwsv0812.zip](bin/qwsv0812.zip)<br>[qwsv2.01-i386-unknown-linux2.0.tar.gz](bin/qwsv2.01-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.01-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.01-sparc-sun-solaris2.5.1.tar.Z) | Quakeworld Server v2.01.
 1997 Aug 14 | [qws_9729.zip](bin/qws_9729.zip) | QuakeWorld Skin Pack #5
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | Quake DM7 "Archophobia" deathmatch map (McGee, Namaksy).
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
