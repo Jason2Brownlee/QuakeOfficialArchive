@@ -14,9 +14,9 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 * 1997 Apr 03, qwcl1.54-i386-unknown-linux2.0.tar.gz, qwsv1.54-i386-unknown-linux2.0.tar.gz
 * 1997 Apr 06, qwsv1.54b-sparc-sun-solaris2.5.1.tar.gz, qwcl1.54b-i386-unknown-linux2.0.tar.gz
 * 1997 Apr 09, qwqc150.zip (v2)
-* 1996 Apr ??, * qwcl1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-i386-unknown-bsdi3.0.tar.gz, qwsv1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz
+* 1996 Apr ??, qwcl1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-i386-unknown-bsdi3.0.tar.gz, qwsv1.54c-i386-unknown-linux2.0.tar.gz, qwsv1.54c-sparc-sun-solaris2.5.1.tar.gz
 * 1997 Apr 14, qwcl0413.exe, qwcl0413_u.zip, qwsv0413_u.zip
-
+* 1997 May 01, qwcl1.55-i386-unknown-linux2.0.tar.gz, qwsv1.55-i386-unknown-bsdi3.0.tar.gz, qwsv1.55-i386-unknown-linux2.0.tar.gz, qwsv1.55-sparc-sun-solaris2.5.1.tar.Z
 
 
 ## QuakeWorld Server (QWSV) v(1213)
@@ -578,5 +578,92 @@ Release Notes (April.13.97)
 
 
 
+## Unix QuakeWorld Client (QWCL) and Server (QWSV) v1.55
+
+Released as:
+
+* qwcl1.55-i386-unknown-linux2.0.tar.gz
+* qwsv1.55-i386-unknown-bsdi3.0.tar.gz
+* qwsv1.55-i386-unknown-linux2.0.tar.gz
+* qwsv1.55-sparc-sun-solaris2.5.1.tar.Z
+
+
+
+```text
+May 1, 1997
+Quake/QuakeWorld Unix Ports
+Thanks Bounty Hunter (Xenocide Flag Academy) for pointing out that there are a whole bunch of new ports up on Threewave (you may need to shift-click):
+
+qwcl1_55-i386-unknown-linux2_0_tar.gz	(124 KB)	QuakeWorld SVGALib Client for Linux 2.0
+qwsv1_55-i386-unknown-bsdi3_0_tar.gz	(241 KB)	QuakeWorld TCP/IP Server for BSDI BSD/OS 3.0
+qwsv1_55-i386-unknown-linux2_0_tar.gz	(126 KB)	QuakeWorld TCP/IP Server for Linux 2.0
+qwsv1_55-sparc-sun-solaris2_5_1_tar.gz	(280 KB)	QuakeWorld TCP/IP Server for Sun Sparc Solaris 2.5.1
+squake-1_0-i386-unknown-linux2_0_tar.gz	(163 KB)	Regular Quake SVGALib Client for Linux 2.0
+unixded-1_0-i386-unknown-bsdi3_0_tar.gz	(253 KB)	Regular Quake TCP/IP Dedicated Server for BSDI BSD/OS 3.0
+unixded-1_0-i386-unknown-linux2_0_tar.gz	(150 KB)	Regular Quake TCP/IP Dedicated Server for Linux 2.0
+unixded-1_0-sparc-sun-solaris2_5_1_tar.gz	(440 KB)	Regular Quake TCP/IP Dedicated Server for Sun Sparc Solaris 2.5.1
+```
+-- https://www.bluesnews.com/archives/april97-4.html
+
+Links:
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwcl1_55-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv1_55-i386-unknown-bsdi3_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv1_55-i386-unknown-linux2_0_tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv1_55-sparc-sun-solaris2_5_1_tar.gz
+
+
+Archive `qwcl1.55-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+-rwsr-xr-x  0 root   root   277420  1 May  1997 qwcl
+-rw-r--r--  0 zoid   users    4130 22 Apr  1997 qwcl.txt
+```
+
+
+Archive `qwsv1.55-i386-unknown-bsdi3.0.tar.gz` content:
+
+```text
+drwx------  0 100    100         0  1 May  1997 qw/
+-rw-------  0 100    100    187452  1 May  1997 qw/qwprogs.dat
+drwx------  0 100    100         0  1 May  1997 qw/skins/
+-rwx------  0 100    100       104  1 May  1997 qw/skins/fixskins.sh
+-rwxr-xr-x  0 100    100    379880  1 May  1997 qwsv
+-rw-------  0 100    100      1241  1 May  1997 qwsv.txt
+```
+
+Archive `qwsv1.55-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwx------  0 zoid   users       0 10 Apr  1997 qw/
+-rw-------  0 zoid   users  187452 10 Apr  1997 qw/qwprogs.dat
+drwx------  0 zoid   users       0 10 Apr  1997 qw/skins/
+-rwx------  0 zoid   users     104 10 Apr  1997 qw/skins/fixskins.sh
+-rwx------  0 zoid   users  142544  1 May  1997 qwsv
+-rw-------  0 zoid   users    1241 22 Apr  1997 qwsv.txt
+```
+
+Archive `qwsv1.55-sparc-sun-solaris2.5.1.tar.Z` content:
+
+```text
+drwx------  0 quake  staff       0  1 May  1997 qw/
+-rw-------  0 quake  staff  187452  1 May  1997 qw/qwprogs.dat
+drwx------  0 quake  staff       0  1 May  1997 qw/skins/
+-rwx------  0 quake  staff     104  1 May  1997 qw/skins/fixskins.sh
+-rwxr-xr-x  0 quake  staff  314680  1 May  1997 qwsv
+-rw-------  0 quake  staff    1241  1 May  1997 qwsv.txt
+```
+
+Readme snippet:
+
+```text
+...
+1.55 release note
+------------------
+
+- bug with loading large maps fixed
+- bug with consuming large amounts of cpu time if stdin closed removed
+...
+```
+-- qwsv1.55-i386-unknown-linux2.0.tar.gz/qwsv.txt
 
 
