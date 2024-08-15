@@ -61,7 +61,15 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 	* qwsv2.10-sparc-sun-solaris2.5.1.tar.Z
 * 1997 Nov 14
 	* glqwcl-2.10-i386-unknown-linux2.0.tar.gz
-
+* 1998 May 17
+	* qw22.exe
+	* qwcl2.20-i386-unknown-linux2.0.tar.gz
+	* qwsv2.20-axp-unknown-linux2.0.tar.gz
+	* qwsv2.20-i386-sun-solaris2.5.1.tar.gz
+	* qwsv2.20-i386-unknown-bsdi3.0.tar.gz
+	* qwsv2.20-i386-unknown-linux2.0.tar.gz
+	* qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
+	* qwsv22.zip
 
 
 
@@ -1371,6 +1379,67 @@ Linux GLQWCL v2.10, Quake v1.09 release notes
 ```
 -- readme.glqwcl
 
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.20
+
+Released as:
+
+* qw22.exe
+* qwcl2.20-i386-unknown-linux2.0.tar.gz
+* qwsv2.20-axp-unknown-linux2.0.tar.gz
+* qwsv2.20-i386-sun-solaris2.5.1.tar.gz
+* qwsv2.20-i386-unknown-bsdi3.0.tar.gz
+* qwsv2.20-i386-unknown-linux2.0.tar.gz
+* qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
+* qwsv22.zip
+
+```text
+Sunday, May 17, 1998
+New QuakeWorld
+Zoid has released version 2.2 of QuakeWorld, as a windows client (1.9 MB), a Linux client (660 KB), a Windows server (232 KB), a Linux server (188 KB), as well as server ports for Linux Alpha (220 KB), Sun Solaris x86 (202 KB), BDSI (287 KB), and Sun Solaris Sparc (202 KB). As noted in his .plan, version 2.2 is not compatible with version 2.1 and earlier. As his .plan also notes, this update focuses on cheating and security issues, and brings the feel of QuakeWorld closer in line with the feel of network Quake. Here's the update:
+
+	I've released QuakeWorld 2.2. I've also added a couple new ports for this release: Sun Solaris x86 and Linux Alpha for servers. The new QuakeWorld should work through various broken routers that previous versions of QuakeWorld did not work with before.
+
+	QuakeWorld 2.2 is NOT COMPATIBLE with old versions (2.1 or earlier).
+
+	The changes focused on security, cheating and gameplay. QW2.2 plays as close as possible to the original Quake, but with the benefits of prediction. My beta testers were very excited about the changes, and I hope everyone will enjoy them.
+
+	Please note: Team Fortress 2.6 currently doesn't work with QW2.2. The Team Fortress team is aware of this and will be releasing a small patch for servers ASAP.
+
+	As always, QuakeWorld is an unsupported product. If you have any problems tho, you can report them to bugs@quakeworld.net.
+
+	The release packages:
+
+	QuakeWorld Client For Windows 95 and NT
+	QuakeWorld Server for Windows 95 and NT
+
+	QuakeWorld Client for Linux i386
+	QuakeWorld Server for Linux i386
+
+	QuakeWorld Server for Linux Alpha
+	QuakeWorld Server for Sun Solaris x86
+	QuakeWorld Server for BSDI3.0 i386
+	QuakeWorld Server for Sun Solaris (sparc)
+```
+-- https://www.bluesnews.com/archives/may98-3.html
+
+Links:
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qw22.exe
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwcl2.20-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv22.zip
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.20-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.20-axp-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.20-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qw22.exe
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv22.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwcl2.20-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-axp-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-i386-sun-solaris2.5.1.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
 
 
 

@@ -56,8 +56,16 @@ Quake1085.sit
 QuakeDemo.hqx
 
 MacQW23b1.hqx
-MacQW211b1.sit
+MacQW211b2.sit
+MacQW211b2U.sit
+MacQW211b3.sit
+MacQWSrv211b1.sit
+MacQW221b1.sit
+MacQWSrv221b1.sit
 MacQWSrv23b1.hqx
+
+
+
 Quake%201.09%20Updater.hqx
 Quakeworld%20Skins.hqx
 
