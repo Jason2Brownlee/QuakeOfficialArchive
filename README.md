@@ -130,9 +130,9 @@ Release Date | File | Description
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
 1997 Oct 14 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
-1997 Oct 22 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
+1997 Oct 28 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
 1997 Oct 28 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z)<br>[quake1.09-sparc-sun-solaris2.5.1.tar.gz](bin/quake1.09-sparc-sun-solaris2.5.1.tar.gz) | Solaris Quake and Quakeworld Clients.
-1997 Oct 29 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
+1997 Oct 28 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 for Quake v1.09.

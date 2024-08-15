@@ -50,6 +50,19 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 	* qwsv0812.zip
 	* qwsv2.01-i386-unknown-linux2.0.tar.gz
 	* qwsv2.01-sparc-sun-solaris2.5.1.tar.Z
+* 1997 Oct 28
+	* qw1022.exe
+	* qwcl2.10-sparc-sun-solaris2.5.1.tar.Z
+	* qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz
+	* qwcl2.10-x11-i386-unknown-linux2.0.tar.gz
+	* qwsv1022.zip
+	* qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+	* qwsv2.10-i386-unknown-linux2.0.tar.gz
+	* qwsv2.10-sparc-sun-solaris2.5.1.tar.Z
+* 1997 Nov 14
+	* glqwcl-2.10-i386-unknown-linux2.0.tar.gz
+
+
 
 
 
@@ -1120,4 +1133,244 @@ QWSV Notes (Aug.09.1997 Release)
 ...
 ```
 -- qwrlnote.txt
+
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.10
+
+Released as:
+
+* qw1022.exe
+* qwcl2.10-sparc-sun-solaris2.5.1.tar.Z
+* qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz
+* qwcl2.10-x11-i386-unknown-linux2.0.tar.gz
+* qwsv1022.zip
+* qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+* qwsv2.10-i386-unknown-linux2.0.tar.gz
+* qwsv2.10-sparc-sun-solaris2.5.1.tar.Z
+
+
+```text
+Tuesday, October 28, 1997
+New GLQuake & QuakeWorld
+Version 2.1 of QuakeWorld (1.7 MB, includes GameSpy 1.01) as well as version 0.96 of GLQuake (381 KB), which includes a new and improved GL miniport, have been released by id Software, as detailed in this email from Zoid:
+
+	QuakeWorld 2.1 (in several client and server versions), GLQuake 0.96 and Regular Quake clients for Sun Solaris Sparc Stations and X11 under Linux have been released tonight.
+
+	QuakeWorld 2.1 is mostly just a maintenance release that addresses a few bugs that appeared in 2.0. It also has a full installer for Windows 95/NT that 2.0 did not include.
+
+	GLQuake 0.96 features a new GL miniport for 3DFX VooDoo chipsets that improves speed a bit. It also has a new user friendly installer. The new Sun Solaris clients for Quake and QuakeWorld appear with the cooperation of Sun Microsystems.
+
+	The new X11 versions of Quake and Quakeworld for Linux offer a new avenue of play under the Linux operating system.
+
+	I hope everyone enjoys this new release.
+
+	GLQuake 0.96
+	Regular Quake for Linux ELF 2.0 with X11
+	Regular Quake for Sun Solaris Sparc Workstations
+	QuakeWorld 2.1 for Windows 95/NT, with GameSpy
+	QuakeWorld 2.1 server for Windows 95/NT
+	QuakeWorld 2.1 Client for Sun Solaris Sparc Workstations
+	QuakeWorld 2.1 SVGALib (Console) Client for Linux ELF 2.0
+	QuakeWorld 2.1 X11 Client for Linux ELF 2.0
+	QuakeWorld 2.1 Server for BSDI BSD/OS 3.0
+	QuakeWorld 2.1 Server for Linux ELF 2.0
+	QuakeWorld 2.1 Server for Sun Solaris 2.5.1 on Sparc platforms
+```
+-- https://www.bluesnews.com/archives/oct97-4.html
+
+Links:
+* https://www.bluesnews.com/files/idstuff/quakeworld/qw1022.exe
+* https://www.bluesnews.com/files/idstuff/unsup/glq1022.exe
+* ftp://ftp.idsoftware.com/idstuff/unsup/glq1022.exe
+* ftp://ftp.idsoftware.com/idstuff/unsup/unix/quake.x11-1.0-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/unsup/unix/quake1.09-sparc-sun-solaris2.5.1.tar.Z
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qw1022.exe
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv1022.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z
+
+
+Archive `qwcl2.10-sparc-sun-solaris2.5.1.tar.Z` content:
+
+```text
+-rw-r--r--  0 quake  staff    3284 29 Oct  1997 README.Solaris
+drwxr-xr-x  0 quake  staff       0 29 Oct  1997 qw/
+drwxr-xr-x  0 quake  staff       0 29 Oct  1997 qw/skins/
+-rwx------  0 quake  staff     104 29 Oct  1997 qw/skins/fixskins.sh
+-rwxr-xr-x  0 quake  staff  557536 29 Oct  1997 qwcl.xil
+-rw-r--r--  0 quake  staff   11289 29 Oct  1997 qwrlnote.txt
+```
+
+Archive `qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/skins/
+-rwx------  0 zoid   zoid      104 14 Oct  1997 qw/skins/fixskins.sh
+-rwxrwxr-x  0 zoid   zoid   403808 14 Oct  1997 qwcl
+-rw-r--r--  0 zoid   zoid     4144 14 Oct  1997 qwcl.txt
+-rw-rw-r--  0 zoid   zoid    11289 14 Oct  1997 qwrlnote.txt
+```
+
+Archive `qwcl2.10-x11-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/skins/
+-rwx------  0 zoid   zoid      104 14 Oct  1997 qw/skins/fixskins.sh
+-rw-r--r--  0 zoid   zoid     3588 14 Oct  1997 qwcl-x11.txt
+-rwxrwxr-x  0 zoid   zoid   405134 14 Oct  1997 qwcl.x11
+-rw-rw-r--  0 zoid   zoid    11289 14 Oct  1997 qwrlnote.txt
+```
+
+Archive `qwsv1022.zip` content:
+
+```text
+-rw-rw-r--  0 0      0       11544 21 Oct  1997 qwrlnote.txt
+-rw-rw-r--  0 0      0      200704 22 Oct  1997 qwsv.exe
+-rw-rw-r--  0 0      0         259  9 Aug  1997 qwsv.txt
+-rw-rw-r--  0 0      0      197940 12 Aug  1997 qw/qwprogs.dat
+-rw-rw-r--  0 0      0        2910  5 Dec  1996 qw/src/buttons.qc
+-rw-rw-r--  0 0      0       34077 12 Aug  1997 qw/src/client.qc
+-rw-rw-r--  0 0      0        7637 12 Aug  1997 qw/src/combat.qc
+-rw-rw-r--  0 0      0       25010 30 Jul  1997 qw/src/defs.qc
+-rw-rw-r--  0 0      0       18318 12 Aug  1997 qw/src/doors.qc
+-rw-rw-r--  0 0      0        6076 12 Aug  1997 qw/src/files.dat
+-rw-rw-r--  0 0      0       36842 12 Aug  1997 qw/src/items.qc
+-rw-rw-r--  0 0      0       17280 12 Aug  1997 qw/src/misc.qc
+-rw-rw-r--  0 0      0        9788  5 Dec  1996 qw/src/models.qc
+-rw-rw-r--  0 0      0        8167 12 Aug  1997 qw/src/plats.qc
+-rw-rw-r--  0 0      0       21418 27 Jul  1997 qw/src/player.qc
+-rw-rw-r--  0 0      0        2541 12 Aug  1997 qw/src/progdefs.h
+-rw-rw-r--  0 0      0         181 12 Aug  1997 qw/src/progs.src
+-rw-rw-r--  0 0      0        2517 12 Aug  1997 qw/src/server.qc
+-rw-rw-r--  0 0      0        2048 11 Aug  1997 qw/src/spectate.qc
+-rw-rw-r--  0 0      0         486  5 Dec  1996 qw/src/sprites.qc
+-rw-rw-r--  0 0      0        5542 13 Dec  1996 qw/src/subs.qc
+-rw-rw-r--  0 0      0       15060 12 Aug  1997 qw/src/triggers.qc
+-rw-rw-r--  0 0      0       29264 12 Aug  1997 qw/src/weapons.qc
+-rw-rw-r--  0 0      0       12183 31 Jul  1997 qw/src/world.qc
+-rw-rw-r--  0 0      0         643 25 Oct  1997 leiame.txt
+```
+
+Archive `qwsv2.10-i386-unknown-linux2.0.tar.gz` content:
+
+```text
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/
+-rw-rw-r--  0 zoid   zoid   197940 14 Oct  1997 qw/qwprogs.dat
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/src/
+-rw-rw-r--  0 zoid   zoid     2910 14 Oct  1997 qw/src/buttons.qc
+-rw-rw-r--  0 zoid   zoid    34077 14 Oct  1997 qw/src/client.qc
+-rw-rw-r--  0 zoid   zoid     7637 14 Oct  1997 qw/src/combat.qc
+-rw-rw-r--  0 zoid   zoid    25010 14 Oct  1997 qw/src/defs.qc
+-rw-rw-r--  0 zoid   zoid    18318 14 Oct  1997 qw/src/doors.qc
+-rw-rw-r--  0 zoid   zoid     6076 14 Oct  1997 qw/src/files.dat
+-rw-rw-r--  0 zoid   zoid    36842 14 Oct  1997 qw/src/items.qc
+-rw-rw-r--  0 zoid   zoid    17280 14 Oct  1997 qw/src/misc.qc
+-rw-rw-r--  0 zoid   zoid     9788 14 Oct  1997 qw/src/models.qc
+-rw-rw-r--  0 zoid   zoid     8167 14 Oct  1997 qw/src/plats.qc
+-rw-rw-r--  0 zoid   zoid    21418 14 Oct  1997 qw/src/player.qc
+-rw-rw-r--  0 zoid   zoid     2541 14 Oct  1997 qw/src/progdefs.h
+-rw-rw-r--  0 zoid   zoid      181 14 Oct  1997 qw/src/progs.src
+-rw-rw-r--  0 zoid   zoid     2517 14 Oct  1997 qw/src/server.qc
+-rw-rw-r--  0 zoid   zoid     2048 14 Oct  1997 qw/src/spectate.qc
+-rw-rw-r--  0 zoid   zoid      486 14 Oct  1997 qw/src/sprites.qc
+-rw-rw-r--  0 zoid   zoid     5542 14 Oct  1997 qw/src/subs.qc
+-rw-rw-r--  0 zoid   zoid    15060 14 Oct  1997 qw/src/triggers.qc
+-rw-rw-r--  0 zoid   zoid    29264 14 Oct  1997 qw/src/weapons.qc
+-rw-rw-r--  0 zoid   zoid    12183 14 Oct  1997 qw/src/world.qc
+drwxrwxr-x  0 zoid   zoid        0 14 Oct  1997 qw/skins/
+-rwx------  0 zoid   zoid      104 14 Oct  1997 qw/skins/fixskins.sh
+-rw-rw-r--  0 zoid   zoid    11289 14 Oct  1997 qwrlnote.txt
+-rwxrwxr-x  0 zoid   zoid   166189 24 Oct  1997 qwsv
+-rw-rw-r--  0 zoid   zoid      259 14 Oct  1997 qwsv.txt
+```
+
+Archive `qwsv2.10-sparc-sun-solaris2.5.1.tar.Z` content:
+
+```text
+drwxr-xr-x  0 quake  staff       0 29 Oct  1997 qw/
+-rw-r--r--  0 quake  staff  197940 29 Oct  1997 qw/qwprogs.dat
+drwxr-xr-x  0 quake  staff       0 29 Oct  1997 qw/src/
+-rw-r--r--  0 quake  staff    2910 29 Oct  1997 qw/src/buttons.qc
+-rw-r--r--  0 quake  staff   34077 29 Oct  1997 qw/src/client.qc
+-rw-r--r--  0 quake  staff    7637 29 Oct  1997 qw/src/combat.qc
+-rw-r--r--  0 quake  staff   25010 29 Oct  1997 qw/src/defs.qc
+-rw-r--r--  0 quake  staff   18318 29 Oct  1997 qw/src/doors.qc
+-rw-r--r--  0 quake  staff    6076 29 Oct  1997 qw/src/files.dat
+-rw-r--r--  0 quake  staff   36842 29 Oct  1997 qw/src/items.qc
+-rw-r--r--  0 quake  staff   17280 29 Oct  1997 qw/src/misc.qc
+-rw-r--r--  0 quake  staff    9788 29 Oct  1997 qw/src/models.qc
+-rw-r--r--  0 quake  staff    8167 29 Oct  1997 qw/src/plats.qc
+-rw-r--r--  0 quake  staff   21418 29 Oct  1997 qw/src/player.qc
+-rw-r--r--  0 quake  staff    2541 29 Oct  1997 qw/src/progdefs.h
+-rw-r--r--  0 quake  staff     181 29 Oct  1997 qw/src/progs.src
+-rw-r--r--  0 quake  staff    2517 29 Oct  1997 qw/src/server.qc
+-rw-r--r--  0 quake  staff    2048 29 Oct  1997 qw/src/spectate.qc
+-rw-r--r--  0 quake  staff     486 29 Oct  1997 qw/src/sprites.qc
+-rw-r--r--  0 quake  staff    5542 29 Oct  1997 qw/src/subs.qc
+-rw-r--r--  0 quake  staff   15060 29 Oct  1997 qw/src/triggers.qc
+-rw-r--r--  0 quake  staff   29264 29 Oct  1997 qw/src/weapons.qc
+-rw-r--r--  0 quake  staff   12183 29 Oct  1997 qw/src/world.qc
+drwxr-xr-x  0 quake  staff       0 29 Oct  1997 qw/skins/
+-rwx------  0 quake  staff     104 29 Oct  1997 qw/skins/fixskins.sh
+-rw-r--r--  0 quake  staff   11289 29 Oct  1997 qwrlnote.txt
+-rwxr-xr-x  0 quake  staff  330272 29 Oct  1997 qwsv
+-rw-r--r--  0 quake  staff     259 29 Oct  1997 qwsv.txt
+```
+
+Readme:
+
+```text
+	  	 ----------------------------------------------
+		  QuakeWorld v2.10 Release Notes (Oct 21,1997)
+		 ----------------------------------------------
+		        Copyright id Software 1996, 1997
+...
+```
+-- qwrlnote.txt
+
+
+## Linux GLQuakeWorld Client (QWCL) v2.10
+
+Released as:
+
+* glqwcl-2.10-i386-unknown-linux2.0.tar.gz
+
+
+```text
+Friday, November 14, 1997
+New GLQuake Releases
+Zoid sent along word that some new GLQuake releases are available: GLQuake 0.97 (393 KB) fixes the sprite bug from the previous version, and adds independent console sizing (such as a 320x200 scaled console when running at 640x480) and support for SGI Multitexture extensions for high-end Voodoo (Obsidian) and other 3D cards. Also newly released is GLQuake for Linux (449 KB) which requires a 3DFX Voodoo Graphics card (not Voodoo RUSH) and Linux 2.0, and finally, GLQuakeWorld for Linux (412 KB), which again requires 3DFX Voodoo Graphics (not Voodoo RUSH) and Linux 2.0. Also available on id's ftp.site.
+```
+-- https://www.bluesnews.com/archives/nov97-2.html
+
+Links:
+* https://www.bluesnews.com/files/idstuff/unsup/glq1114.exe
+* https://www.bluesnews.com/files/idstuff/unsup/unix/glquake-0.97-i386-unknown-linux2.0.tar.gz
+* https://www.bluesnews.com/files/idstuff/quakeworld/unix/glqwcl-2.10-i386-unknown-linux2.0.tar.gz
+
+
+Archive content:
+
+```text
+-rwxrwxr-x  0 zoid   zoid   311856 14 Nov  1997 glqwcl
+-rwxr-xr-x  0 zoid   zoid   791544 14 Nov  1997 libMesaGL.so.2.5
+-rw-rw-r--  0 zoid   zoid     6449 14 Nov  1997 readme.glqwcl
+```
+
+Readme:
+
+```text
+Linux GLQWCL v2.10, Quake v1.09 release notes
+...
+```
+-- readme.glqwcl
+
+
+
 
