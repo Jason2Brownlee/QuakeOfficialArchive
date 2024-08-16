@@ -23,7 +23,7 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [AIXQuake History](history-aixquake.md)
 * [Solaris Quake History](history-solarisquake.md)
 * [DEC Alpha Quake History](history-decalpha.md)
-* AmigaQuake History
+* [AmigaQuake History](history-amigaquake.md)
 * [MacQuake History](history-macquake.md)
 * [MacQuakeWorld History](history-macquakeworld.md)
 * [QuakeWorld Player Skins History](history-quakeworld-skins.md)

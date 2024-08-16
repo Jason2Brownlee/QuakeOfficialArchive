@@ -10,3 +10,4 @@ Other versions of "quake official releases lists":
 * [Methos Quake News, Quake History In A Nutshell](https://web.archive.org/web/20011026104833/http://www.methosq.com/newsjuly01.htm) (archived)
 * [quakeworld.nl File Archive](http://3rd.quakeworld.nl/files.html)
 * [quake releases](http://forum.darkside.com.br/vb/showthread.php?t=8753)
+* [Quake beta/prototype list](https://www.betaarchive.com/forum/viewtopic.php?t=22492)

@@ -46,9 +46,11 @@ Westlake Interactive is working with MacSoft to provide a bug fix update of Quak
 
 
 
-## MacQuake Alpha (Unofficial Port)
+## MacQuake Alpha (Unofficial Port aka HackQuake)
 
-Perhaps distributed as `PPC_Quake_a2.bin`.
+Perhaps at least versions, e.g. alpha 1 and alpha 2.
+
+Perhaps distributed as `PPC_Quake_a2.bin` or `MacQuake.sit.bin` or `MacQuake a2 Installer.1.bin`, etc.
 
 
 ```text
@@ -145,6 +147,23 @@ quit it anyway.
 ...
 ```
 -- [comp.sys.mac.games.action](https://groups.google.com/g/comp.sys.mac.games.action/c/DK5BEjFQtsE/m/tBVa7Z2Hlt8J)
+
+
+```text
+There was an unofficial port of Quake 1 to Mac OS long before the official retail version. Any of you heard about this? Supposedly someone had stolen the DOS source code from the servers of the company CrackDotCom, and ported it to Mac. This was how everyone on Mac played Quake 1 at first. It was distributed very heavily over the server/client BBS-style software "Hotline". This version of Quake 1 was usually referred to as "HackQuake". I can probably dig up a copy of the application. It's a pretty rough port. Very laggy and has some occasional crashes. The particle effects from grenades & rockets caused substantial lag. Still, when this was the only way to play Quake, it was good enough for the time being. Especially since it was playable over the net, and against DOS/Win players as well of course.
+```
+-- https://www.betaarchive.com/forum/viewtopic.php?t=22492
+
+
+```text
+hackQuake
+mi...@tandp.com
+18 June 1997
+There's a hackQuake FAQ on my page for those of you who can't figure that shit out...
+http://www.thajungle.com/ace
+```
+-- [alt.hackintosh](https://groups.google.com/g/alt.hackintosh/c/9a60_VUtR-I/m/lzzL_OwUviAJ)
+
 
 
 ## MacQuake Retail CD
@@ -397,3 +416,4 @@ https://www.quaddicted.com/files/engines/:
 * https://web.archive.org/web/20110808232155/http://www.shacknews.com/file/104/quake-demo-mac
 * https://web.archive.org/web/19990203141012/http://macledge.com/News/archives.html
 * https://web.archive.org/web/19990221220936/http://mac.telefragged.com/links.shtml
+* https://www.macintoshrepository.org/3182-quake
