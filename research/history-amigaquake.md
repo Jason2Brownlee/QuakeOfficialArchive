@@ -92,10 +92,27 @@ Yepz the options are in order.
 
 
 
+## Coolquake
 
+Subsequent port based on leaked code?
+
+## Fastquake
+
+Subsequent port based on leaked code?
+
+## Clickboom
+
+Official
+http://www.clickboom.com/download.shtml
 
 
 ## References
 
 * https://eab.abime.net/showthread.php?p=1411641
 * http://www.oldgamesfinder.com/?m=2&q=Quake
+* https://quake.fandom.com/wiki/Quake_(Amiga_version)
+* https://www.amigareviews.leveluphost.com/quake1.htm
+* https://www.quakeworld.nu/forum/topic/1411/16501/amiga-quake
+* http://www.clickboom.com/download.shtml
+* http://obligement.free.fr/articles/quake_amiga_bonne_id.php
+* https://web.archive.org/web/20000422214419/http://devnull.owl.de/~frank/quake_e.html

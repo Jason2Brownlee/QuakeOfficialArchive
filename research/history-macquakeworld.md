@@ -8,7 +8,7 @@ Reconstructed history of the Mac Quakeworld port by Westlake Interactive.
 * 1998 Apr 26, MacQW211b2.sit, MacQW211b2U.sit
 * 1998 May 03, MacQW211b3.sit
 * 1998 May 15, Mac QuakeWorld Server Beta 1 (v2.11?)
-* 1998 Jun 22, MacQW221b1.sit, MacQWSrv221b1.sit
+* 1998 Jun 09, MacQW221b1.sit, MacQWSrv221b1.sit
 * 1998 Oct 15, MacQW23b1.sit, MacQWSrv23b1.sit
 
 
@@ -145,6 +145,20 @@ Links:
 
 Released as `MacQWSrv221b1.sit` and `MacQW221b1.sit`.
 
+
+```text
+Tuesday, June 9, 1998
+MacQuakeWorld  [1:22 AM EDT]
+MacQuakeWorld version 2.21 is up on the Westlake Interactive website, both a new client, and server. Here are local copies of the server (161 KB) and the client (1.3 MB), courtesy of GamesNET's ozone-friendly FTP. Thanks Greg Potts.
+```
+-- https://www.bluesnews.com/archives/june98-1.html
+
+Links:
+* http://www.westlakeinteractive.com/download0007.html
+* http://www.westlakeinteractive.com/download0006.html
+* http://www.westlakeinteractive.com/download0007.html
+* ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQWSrv221b1.sit
+* ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQW221b1.sit
 
 
 ```text

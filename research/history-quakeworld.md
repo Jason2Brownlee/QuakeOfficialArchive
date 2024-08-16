@@ -70,6 +70,39 @@ Reconstructed history of QuakeWorld client (QWCL) and server (QWSV) releases.
 	* qwsv2.20-i386-unknown-linux2.0.tar.gz
 	* qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
 	* qwsv22.zip
+* 1998 May 23
+	* qw221.exe
+	* qw221.zip
+	* qwcl2.21-i386-unknown-linux2.0.tar.gz
+	* qwsv2.21-axp-unknown-linux2.0.tar.gz
+	* qwsv2.21-i386-sun-solaris2.5.1.tar.gz
+	* qwsv2.21-i386-unknown-bsdi3.0.tar.gz
+	* qwsv2.21-i386-unknown-linux2.0.tar.gz
+	* qwsv2.21-sparc-sun-solaris2.5.1.tar.gz
+	* qwsv221.zip
+* 1998 Jul 13
+	qw229BETA.zip
+* 1998 Aug 28
+	* qw230.exe
+	* qw230.zip
+	* qwcl-2.30-1.i386.rpm
+	* qwcl-2.30-glibc-1.i386.rpm
+	* qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz
+	* qwcl-2.30-i386-unknown-linux2.0.tar.gz
+	* qwsv-2.30-1.i386.rpm
+	* qwsv-2.30-glibc-1.alpha.rpm
+	* qwsv-2.30-glibc-1.i386.rpm
+	* qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz
+	* qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz
+	* qwsv-2.30-i386-unknown-bsdi3.0.tar.gz
+	* qwsv-2.30-i386-unknown-linux2.0.tar.gz
+	* qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz
+	* qwsv230.zip
+* 1998 Dec 17
+	* qw233.zip
+	* qw233-0001.zip
+* 1998 Dec 22
+	* qw233-0005.zip
 
 
 
@@ -1441,5 +1474,446 @@ Links:
 * ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-i386-unknown-bsdi3.0.tar.gz
 * ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.20-sparc-sun-solaris2.5.1.tar.gz
 
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.21
+
+Released as:
+
+* qw221.exe
+* qw221.zip
+* qwcl2.21-i386-unknown-linux2.0.tar.gz
+* qwsv2.21-axp-unknown-linux2.0.tar.gz
+* qwsv2.21-i386-sun-solaris2.5.1.tar.gz
+* qwsv2.21-i386-unknown-bsdi3.0.tar.gz
+* qwsv2.21-i386-unknown-linux2.0.tar.gz
+* qwsv2.21-sparc-sun-solaris2.5.1.tar.gz
+* qwsv221.zip
+
+```text
+Saturday, May 23, 1998
+QuakeWorld 2.21  [4:06 PM EDT]
+QuakeWorld 2.21 is out on id's FTP Site (thanks Redwood), as usual in a variety of flavors. Here are local copies (rah GamesNET FTP!). Full Client including GameSpy 1.53 for Windows95/NT (1.9 MB), Upgrade from 2.20 only (must have GameSpy 1.53 or 2.0beta2 installed) for Windows95/NT (589 KB), Server for Windows95/NT (223 KB), Client for i386 Linux 2.0 (662 KB), Server for i386 Linux 2.0 (190 KB), Server for Alpha Linux 2.0 (221 KB), Server for Solaris x86 2.5.1 (203 KB) Server for BSDI/i386 3.0 (289 KB), and Server for Solaris 2.5.1 on Sparc (201 KB). Here's Zoid's .plan update:
+
+	QuakeWorld 2.21 has been released that should address some of the problems in the previous release. Players and server operators are STRONGLY urged to upgrade to this version since many of the new features in 2.2 have been updated and bugs have been fixed.
+
+	The 2.21 versions will interroprate with 2.20 versions, but with some loss in performance. So, yes you can play on a 2.20 server with 2.21, or play with 2.20 on a 2.21 server, but you'll get the best gameplay and performance using a 2.21 client on a 2.21 server.
+
+	Here's the files:
+
+	Full QuakeWorld Client including GameSpy 1.53 for Windows95/NT
+
+	Upgrade from 2.20 only (must have GameSpy 1.53 or 2.0beta2 installed) for Windows95/NT
+
+	QuakeWorld Server for Windows95/NT
+
+	QuakeWorld Client for i386 Linux 2.0
+	QuakeWorld Server for i386 Linux 2.0
+
+	QuakeWorld Server for Alpha Linux 2.0
+	QuakeWorld Server for Solaris x86 2.5.1
+	QuakeWorld Server for BSDI/i386 3.0
+	QuakeWorld Server for Solaris 2.5.1 on Sparc
+```
+-- https://www.bluesnews.com/archives/may98-4.html
+
+Links:
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qw221.exe
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qw221.zip
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv221.zip
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwcl2.21-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.21-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.21-axp-unknown-linux2.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.21-i386-sun-solaris2.5.1.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.21-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qwsv2.21-sparc-sun-solaris2.5.1.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qw221.exe
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qw221.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv221.zip
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwcl2.21-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.21-i386-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.21-axp-unknown-linux2.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.21-i386-sun-solaris2.5.1.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.21-i386-unknown-bsdi3.0.tar.gz
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/qwsv2.21-sparc-sun-solaris2.5.1.tar.gz
+
+
+## QuakeWorld Client (QWCL) v2.29 Beta
+
+Released as `qw229BETA.zip`.
+
+```text
+Monday, July 13, 1998
+New QuakeWorld Beta  [11:43 PM EDT]
+Zoid updated his .plan with word that he's released a beta version of QuakeWorld 2.29. Here's the update:
+
+	I've released a public BETA of QuakeWorld 2.29. This release is not compatible with previous versions. Please note that this is a beta only release and not meant for general use.
+
+	You may get the BETA from:
+
+	ftp://ftp.idsoftware.com/idstuff/quakeworld/beta/qw229BETA.zip
+
+	This 2.29 BETA release contains servers and clients for Windows (Win32) and Linux i386 ONLY.
+
+	I'm looking for bug reports and suggestions about this new release. This 2.29 version should address the problems that were present in the 2.21 release. Once the beta test is finished (length depends on what problems are found, etc), I will release a 2.30 public version.
+
+	Here is the list of changes:
+
+	- 2.1 movement code mostly restored, but sv_friction is still 4 (like NQ) and the gravity application matches NQ. This should fix some bugs on maps people saw in 2.21 and fix some other errors.
+	- Complete rewrite of the reliable data handling. NO MORE OVERFLOWS.
+	- Client to Server (from you to the server) data is about 25% less bandwidth
+	using delta compression. This means you can bump up your cl_maxfps by about 20%. This will have a minor impact on lag.
+	- QuakeWorld now allows one external command packet until server connection. This makes QPlug work again as well as older versions of QuakeSpy/GameSpy.
+	- In GLQWCL, the size of the eyes.mdl is double sized. In GL, the default eyes model was much, much harder to see than in software. This should help even it out.
+	- New spectator camera. A 'through the eyes' view of the player you are tracking. To enable this, type "cl_chasecam 1" when in spectator mode and chasing a player.
+
+Here's a local copy (965 KB) on GamesNET FTP.
+```
+-- https://www.bluesnews.com/archives/july98-2.html
+
+Links:
+
+* ftp://ftp.idsoftware.com/idstuff/quakeworld/beta/qw229BETA.zip
+* ftp://ftp.gamesnet.net/pub/bluesnews/idstuff/quakeworld/qw229BETA.zip
+
+
+Archive `qw229BETA.zip` content:
+
+```text
+-rw-rw-r--  0 0      0        1652 13 Jul  1998 2.29_README.TXT
+-rw-rw-r--  0 0      0      430080 13 Jul  1998 glqwcl.exe
+-rw-rw-r--  0 0      0      429571 13 Jul  1998 linux-i386.tar.gz
+-rw-rw-r--  0 0      0      696320 13 Jul  1998 qwcl.exe
+-rw-rw-r--  0 0      0      183808 13 Jul  1998 qwsv.exe
+```
+
+Archive `linux-i386.tar.gz` content:
+
+```text
+-rwsrwxr-x  0 root   zoid   229184 14 Jul  1998 glqwcl
+-rwsrwxr-x  0 root   zoid   246424 14 Jul  1998 qwcl
+-rwxrwxr-x  0 zoid   zoid   248804 14 Jul  1998 qwcl.x11
+-rwxrwxr-x  0 zoid   zoid   128108 14 Jul  1998 qwsv
+```
+
+Readme snippet:
+
+```text
+
+BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA
+
+QuakeWorld 2.29 BETA Readme
+
+BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA BETA
+
+This is a public beta release of 2.29.  I'm doing a public beta to get more
+feedback and wider testing.  This release contains both Win32 and Linux
+versions (other platforms will follow after the beta period).
+
+What's new in 2.29:
+
+- 2.1 movement code mostly restored, but sv_friction is still 4 (like NQ)
+  and the gravity application matches NQ.  This should fix some bugs on maps
+  people saw in 2.21 and fix some other errors.
+- Complete rewrite of the reliable data handling.  NO MORE OVERFLOWS.
+- Client to Server (from you to the server) data is about 25% less bandwidth
+  using delta compression.  This means you can bump up your cl_maxfps by about
+  20%.  This will have a minor impact on lag.
+- QuakeWorld now allows one external command packet until server connection.
+  This makes QPlug work again as well as older versions of QuakeSpy/GameSpy.
+- In GLQWCL, the size of the eyes.mdl is double sized.  In GL, the default
+  eyes model was much, much harder to see than in software.  This should
+  help even it out.
+- New spectator camera.  A 'through the eyes' view of the player you are
+  tracking.  To enable this, type "cl_chasecam 1" when in spectator mode and
+  chasing a player.
+
+This is a public BETA.  I invite bug reports and feedback on the version,
+but I will ignore anything resembling tech support.  If you don't want to
+be working with BETA software, stick to 2.21.
+
+/// Zoid.
+zoid@idsoftware.com
+```
+-- 2.29_README.TXT
+
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.30
+
+Released as:
+
+Clients:
+* qw230.exe
+* qw230.zip
+* qwcl-2.30-1.i386.rpm
+* qwcl-2.30-glibc-1.i386.rpm
+* qwcl-2.30-glibc-i386-unknown-linux2.0.tar.gz
+* qwcl-2.30-i386-unknown-linux2.0.tar.gz
+
+Servers:
+* qwsv-2.30-1.i386.rpm
+* qwsv-2.30-glibc-1.alpha.rpm
+* qwsv-2.30-glibc-1.i386.rpm
+* qwsv-2.30-glibc-alpha-unknown-linux2.0.tar.gz
+* qwsv-2.30-glibc-i386-unknown-linux2.0.tar.gz
+* qwsv-2.30-i386-unknown-bsdi3.0.tar.gz
+* qwsv-2.30-i386-unknown-linux2.0.tar.gz
+* qwsv-2.30-sparc-sun-solaris2.5.1.tar.gz
+* qwsv230.zip
+
+
+```text
+Friday, August 28, 1998
+QuakeWorld 2.30  [11:10 PM EDT]
+Zoid updated his .plan to announce a new version 2.30 of QuakeWorld available on id's FTP server. Here is a local copy of the client installer (817 KB), the client zip (593 KB), and the server zip (217 KB). Here's the update:
+
+	QuakeWorld 2.30 Release
+	-----------------------
+
+	The long awaited Quakeworld version 2.30 has been released. Head over to http://www.quakeworld.net/ for download information. The main archive for QuakeWorld can be found at ftp://ftp.idsoftware.com/idstuff/quakeworld/
+
+	2.30 doesn't introduce a lot of new features over 2.29 (the most notable is the packet loss meter on the scoreboard), but mostly consists of "behind the scenes" fixes from the 2.29 BETA.
+
+	All servers should upgrade to 2.30. This will end the current situation of 2.1, 2.21 and 2.29 server differences. The 2.30 version covers all the bases and offers all the functionality of the previous versions.
+
+	Assuming that no major bugs show up in this 2.30 release (one can only hope murphy doesn't rear his ugly head), this will probably be the last QuakeWorld release. QuakeWorld has been an amazing project from John Carmack's early origins, to over a year of tweaking at Jack 'morbid' Mathews and my hands. It is one of the most complete and best first person internet gaming experience available today. It's been a pleasure working on it and keeping in contact and participating with the thousands of players. Thanks to all for your feedback and requests in helping me build a great product.
+```
+-- https://www.bluesnews.com/archives/aug98-4.html
+
+Links:
+* https://www.bluesnews.com/files/qw230exe.shtml
+* https://www.bluesnews.com/files/qw230zip.shtml
+* https://www.bluesnews.com/files/qwsv230zip.shtml
+
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.33 Test (beta)
+
+Released as:
+
+* qw233.zip
+* qw233-0001.zip
+
+
+```text
+Thursday, December 17, 1998
+QuakeWorld 2.33 Test Release  [3:52 PM EST]
+Zoid has posted a test version of Quakeworld version 2.33 on QuakeWorld.net. Thanks Hanif. Here are local downloads (547 KB) courtesy of Blue's News FTP, Walnut Creek, and Log (it's big, it's heavy, it's wood). Here's the lowdown from Zoid's update:
+
+	QuakeWorld 2.33 is a test release to address several issues that have come to light in the QuakeWorld community. Several different DoS (Denial Of Service) attacks have surfaced that need addressed.
+
+	This test release contains both a new client and server to address these problems. This release is currently compatible with 2.30 servers and clients, but this will not be true once the test period has completed. The next release of QuakeWorld with be 2.4 and will be changed so previous versions will no longer function. This is necessary in order to fully combat all the denial of service attacks currently present and to facility some changes in the prevention of cheating.
+
+	The QuakeWorld 2.33 client has the follow changes and issues addressed:
+
+	Bug where client would crash during a level change if a skin name longer than 16 characters on the server has been fixed.
+	The client now ignores foreign connection requests while connected to a server.
+	A foreign message packet with C-style format strings no longer cause a client crash. Large packets sent to the client could cause it to exit with a fatal error
+	Timing issues with later versions of Windows 95 and Windows 98 that would cause clients to mistime their frame times and result in a player that could run faster/slower on a server has been changed and fixed.
+	When the client is running in a window, going to the menu or the console automatically frees up the mouse cursor.
+	QuakeWorld 2.33 server changes:
+
+	Server now unpauses when all clients disconnect.
+	A possible server crash with large userinfo data has been fixed
+	A minor buffering error in network data was fixed
+	Test release downloads:
+
+	Windows 95/NT Client and Server (upgrade from previous releases only)
+	Other platforms will soon follow
+	Feedback for the release should be directed to Zoid at zoid@idsoftware.com
+```
+-- https://www.bluesnews.com/archives/dec98-2.html
+
+Links:
+* http://www.quakeworld.net/
+* https://www.bluesnews.com/files/quakeworld/betas/qwtest.shtml
+* http://www.quakeworld.net/files/quakeworld/qw233.zip
+
+
+```text
+Thursday, December 17, 1998
+Another QuakeWorld Test  [6:04 PM EST]
+Zoid has updated QuakeWorld.net with a newer version of the QuakeWorld 2.33 test (548 KB) released earlier (story). Here's the update:
+
+	With any test release, problems tend to show up quickly.
+
+	Test release 2.33-0001 is now available. Changes are:
+
+	Bug where 2.33 players would get 'stuck' after about fifteen minutes of play corrected.
+	New version system in that interim test releases now have build numbers. This release is 2.33-0001, the next test release will probably be 2.33-0002 or higher (for your info, the second number is days since Dec 17th, 1998).
+	Test release 2.33-0001 downloads:
+
+	Windows 95/NT Client and Server Version 2.33-0001 (upgrade from previous releases only)
+	Other platforms will soon follow
+```
+-- https://www.bluesnews.com/archives/dec98-2.html
+
+Links:
+* https://www.bluesnews.com/files/quakeworld/betas/qwtest.shtml
+* http://www.quakeworld.net/files/quakeworld/qw233-0001.zip
+
+
+Archive `qw233-0001.zip` content:
+
+```text
+-rw-rw-r--  0 0      0      430592 17 Dec  1998 glqwcl.exe
+-rw-rw-r--  0 0      0      696832 17 Dec  1998 qwcl.exe
+-rw-rw-r--  0 0      0      185344 17 Dec  1998 qwsv.exe
+-rw-rw-r--  0 0      0        2151 17 Dec  1998 release233-0001_notes.txt
+```
+
+Readme:
+
+```text
+
+QuakeWorld 2.33-0001 Test Release
+----------------------------
+
+QuakeWorld 2.33 is a test release to address several issues that have
+come to light in the QuakeWorld community.  Several different DoS
+(Denial Of Service) attacks have surfaced that need addressed.
+
+This test release contains both a new client and server to address these
+problems.  This release is currently compatible with 2.30 servers and clients,
+but this will not be true once the test period has completed.  The next
+release of QuakeWorld with be 2.4 and will be changed so previous versions
+will no longer function.  This is necessary in order to fully combat all
+the denial of service attacks currently present and to facility some changes
+in the prevention of cheating.
+
+The QuakeWorld 2.33 client has the follow changes and issues addressed:
+
+- Bug where client would crash during a level change if a skin name longer
+than 16 characters on the server has been fixed.
+- The client now ignores foreign connection requests while connected to a
+server.
+- A foreign message packet with C-style format strings no longer cause a
+client crash.
+- Large packets sent to the client could cause it to exit with a fatal error
+- Timing issues with later versions of Windows 95 and Windows 98 that would
+cause clients to mistime their frame times and result in a player that could
+run faster/slower on a server has been changed and fixed.
+- When the client is running in a window, going to the menu or the console
+automatically frees up the mouse cursor.
+
+QuakeWorld 2.33 server changes:
+
+- Server now unpauses when all clients disconnect.
+- A possible server crash with large userinfo data has been fixed
+- A minor buffering error in network data was fixed
+
+Additional changes in the 2.33-0001 release:
+
+- Bug where 2.33 players would get 'stuck' after about fifteen minutes of
+play corrected.
+- New version system in that interim test releases now have build numbers.
+This release is 2.33-0001, the next test release will probably be
+2.33-0002 or higher.
+
+Feedback for the release should be directed to Zoid at zoid@idsoftware.com
+```
+-- release233-0001_notes.txt
+
+
+
+## QuakeWorld Client (QWCL) and Server (QWSV) v2.33 Test 0005
+
+Released as `qw233-0005.zip`.
+
+```text
+Tuesday, December 22, 1998
+QuakeWorld 2.33-0005  [5:56 AM EST]
+Zoid has released another test of QuakeWorld, posting version 2.33-0005 on QuakeWorld.net. Thanks Origen =Aster=. Here's part of the update, which goes on to explain that itchy sites shouldn't go mirroring this file to avoid confusion with the frequent updates.
+
+	A new test release is now available. This addresses a few more outstanding issues in the QuakeWorld client. Assuming that no problems show up with this release, 2.4 should be available then after the holidays.
+
+	Test release 2.33-0005 is now available. Changes are:
+
+	Added cvar v_contentblend which allows disabling of the blend color in liquids, this works in GL as well (so GL users can control liquid blends independantly of polyblend).
+	GL version: added -no8bit command line parameter to disable 8bit textures. This can improve submip visual quality.
+	Fixed new mouse handling bug to let go of mouse cursour when alt-tabbing and the console wasn't down
+	Some interal fixes to make cheating a bit harder
+	Out of band disconnect (0x02) packet is now ignored.
+	Test release 2.33-0005 downloads:
+
+	Windows 95/NT Client and Server Version 2.33-0005 (upgrade from previous releases only)
+	Other platforms will soon follow
+	As people may have noticed, I changed they way I handled updates to QuakeWorld. Even though I has hoped 2.30 would be the last version (it was only the seriousness of the denial of service attacks that I'm developing this new release) I'm trying out a new build, test and release method with this version.
+```
+-- https://www.bluesnews.com/archives/dec98-3.html
+
+Links:
+* http://www.quakeworld.net/files/quakeworld/qw233-0005.zip
+
+
+Archive content:
+
+```text
+-rw-rw-r--  0 0      0      430592 21 Dec  1998 glqwcl.exe
+-rw-rw-r--  0 0      0      696832 21 Dec  1998 qwcl.exe
+-rw-rw-r--  0 0      0      185856 21 Dec  1998 qwsv.exe
+-rw-rw-r--  0 0      0        2709 21 Dec  1998 release233-0005_notes.txt
+```
+
+Readme:
+```text
+
+QuakeWorld 2.33-0005 Test Release
+----------------------------
+
+QuakeWorld 2.33 is a test release to address several issues that have
+come to light in the QuakeWorld community.  Several different DoS
+(Denial Of Service) attacks have surfaced that need addressed.
+
+This test release contains both a new client and server to address these
+problems.  This release is currently compatible with 2.30 servers and clients,
+but this will not be true once the test period has completed.  The next
+release of QuakeWorld with be 2.4 and will be changed so previous versions
+will no longer function.  This is necessary in order to fully combat all
+the denial of service attacks currently present and to facility some changes
+in the prevention of cheating.
+
+The QuakeWorld 2.33 client has the follow changes and issues addressed:
+
+- Bug where client would crash during a level change if a skin name longer
+than 16 characters on the server has been fixed.
+- The client now ignores foreign connection requests while connected to a
+server.
+- A foreign message packet with C-style format strings no longer cause a
+client crash.
+- Large packets sent to the client could cause it to exit with a fatal error
+- Timing issues with later versions of Windows 95 and Windows 98 that would
+cause clients to mistime their frame times and result in a player that could
+run faster/slower on a server has been changed and fixed.
+- When the client is running in a window, going to the menu or the console
+automatically frees up the mouse cursor.
+
+QuakeWorld 2.33 server changes:
+
+- Server now unpauses when all clients disconnect.
+- A possible server crash with large userinfo data has been fixed
+- A minor buffering error in network data was fixed
+
+Additional changes in the 2.33-0001 release:
+
+- Bug where 2.33 players would get 'stuck' after about fifteen minutes of
+play corrected.
+- New version system in that interim test releases now have build numbers.
+This release is 2.33-0001, the next test release will probably be
+2.33-0002 or higher.
+
+Additional changes in the 2.33-0005 release:
+
+- Added cvar v_contentblend which allows disabling of the blend color in
+liquids, this works in GL as well (so GL users can control liquid blends
+independantly of polyblend).
+- GL version:  added -no8bit command line parameter to disable 8bit textures.
+This can improve submip visual quality.
+- Fixed new mouse handling bug to let go of mouse cursour when alt-tabbing
+and the console wasn't down
+- Some interal fixes to make cheating a bit harder
+- Out of band disconnect (0x02) packet is now ignored.
+
+Feedback for the release should be directed to Zoid at zoid@idsoftware.com
+```
+-- release233-0005_notes.txt
 
 
