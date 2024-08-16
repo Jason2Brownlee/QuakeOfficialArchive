@@ -140,7 +140,7 @@ Release Date | File | Description
 1997 Nov 14 | [glqwcl-2.10-i386-unknown-linux2.0.tar.gz](bin/glqwcl-2.10-i386-unknown-linux2.0.tar.gz) | GL QuakeWorld Client v2.10
 1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip)<br>[glquake1.exe](bin/glquake1.exe)<br>[glquake1.txt](bin/glquake1.txt) | PowerVR GLQuake/GLHexen II Driver v2
 1998 Mar 04 | Quake1085.sit | MacQuake v1.08.5.
-1998 Apr 09 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
+1998 Apr 09 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br>[Quake1.09.sea.sit](bin/Quake1.09.sea.sit)<br>[QuakeRave109_U.sea.hqx](bin/QuakeRave109_U.sea.hqx)<br>[QuakeRAVE1.09.sea.sit](bin/QuakeRAVE1.09.sea.sit)<br>[Quake109_U_readme.txt.sit](bin/Quake109_U_readme.txt.sit)<br>[Quake3Dfx1.09.sea.sit](bin/Quake3Dfx1.09.sea.sit) | MacQuake v1.09.
 1998 Apr 22 | [MacQW211b1.sit](bin/MacQW211b1.sit)<br>[QuakeWorld211b1.sit](bin/QuakeWorld211b1.sit) | Mac QuakeWorld Client v2.11 Beta 1.
 1998 Apr 26 | MacQW211b2.sit<br>MacQW211b2U.sit | Mac QuakeWorld Client v2.11 Beta 2
 1998 May 03 | MacQW211b3.sit | Mac QuakeWorld Client v2.11 Beta 3

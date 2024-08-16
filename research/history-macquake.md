@@ -342,11 +342,51 @@ Links:
 * http://www.westlakeinteractive.com/dls/Quake3Dfx109.sit.hqx
 * http://www.westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 
+```text
+Quake
+
+Current Quake Technical issues, April 9, 1997.
+
+If you have trouble with weird colors or incorrect textures in 1.09, throw away all the files inside the "glquake" folder in the "id1" folder to fix the problem.
+
+Quake Technical issues, December 5, 1997.
+
+If you get a message regarding the "gfx.wad," move the "Quake" folder to your desktop and attempt to run the program with the folder in that location. This has worked for some users. Our programmers are working to remedy this problem.
+
+Modem and Serial play have been fixed in version 1.08.4
+
+Patches
+
+Patch for Full Version (Upgrades to 1.09)
+Quake109_U_readme.txt (9 k)
+Quake109_U.sea.hqx (466 k)
+Patch for Full Version - 3Dfx (Upgrades to 1.09)
+(Quake3Dfx109_U.sea.hqx462 k)
+
+Patch for Full Version - Rave (Upgrades to 1.09)
+QuakeRave109_U.sea.hqx (500 k)
+
+Drivers
+Correct drivers for ATI video cards
+Please do not redistribute
+QuakeATI Drivers.hqx(550 k)
+```
+-- [http://www.wizworks.com/macsoft/mactech/quake_01.html](https://web.archive.org/web/19980627033701/http://www.wizworks.com/macsoft/mactech/quake_01.html)
+
+Links:
+* ftp://ftp.wizworks.com/macpatch/Quake109_U_readme.txt
+* ftp://ftp.wizworks.com/macpatch/Quake109_U.sea.hqx
+* ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+* ftp://ftp.wizworks.com/macpatch/QuakeRave109_U.sea.hqx
 
 
+https://www.quaddicted.com/files/engines/:
 
-
-
+* QuakeRave109_U.sea.hqx
+* Quake109_U_readme.txt.sit
+* Quake RAVE 1.09.sea.sit
+* Quake 3Dfx 1.09.sea.sit
+* Quake 1.09.sea.sit
 
 
 
