@@ -1,4 +1,6 @@
-# History MacQuakeWorld
+# Mac QuakeWorld History
+
+Reconstructed history of the Mac Quakeworld port by Westlake Interactive.
 
 ## Releases
 

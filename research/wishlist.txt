@@ -43,18 +43,7 @@ qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 # txt files
 q105beta.txt
 
-
-# possible macquake stuff
-Quake1084_U.sea.hqx
-Quake3Dfx1084_U.sea.hqx
-QuakeRave1084_U.sea.hqx
-QuakeDemo.sit
-Quake3Dfx109.sit.hqx
-Quake109.sit.hqx
-QuakeRAVE109.sit.hqx
-Quake1085.sit
-QuakeDemo.hqx
-
+# MacQuakeWorld
 MacQW23b1.hqx
 MacQW211b2.sit
 MacQW211b2U.sit
@@ -64,7 +53,19 @@ MacQW221b1.sit
 MacQWSrv221b1.sit
 MacQWSrv23b1.hqx
 
-
+# MacQuake
+Quake-RAVE-1.08.2.sit
+Quake-3Dfx-1.08.2.sit
+Quake-1.08.2.sit
+Quake1084_U.sea.hqx
+Quake3Dfx1084_U.sea.hqx
+QuakeRave1084_U.sea.hqx
+QuakeDemo.sit
+Quake3Dfx109.sit.hqx
+Quake109.sit.hqx
+QuakeRAVE109.sit.hqx
+Quake1085.sit
+QuakeDemo.hqx
 
 Quake%201.09%20Updater.hqx
 Quakeworld%20Skins.hqx

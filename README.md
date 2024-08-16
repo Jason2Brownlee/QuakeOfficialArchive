@@ -78,6 +78,7 @@ Release Date | File | Description
 1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) | SGI Quake (Ed Hutchins) v1
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
+1997 Feb 16 | n/a | Unofficial MacQuake Port (based on Linux source leak).
 1997 Mar 03 | rrq107b1.zip | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
 1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
@@ -123,8 +124,8 @@ Release Date | File | Description
 1997 Aug 14 | [qws_9729.zip](bin/qws_9729.zip) | QuakeWorld Skin Pack #5
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | Quake DM7 "Archophobia" deathmatch map (McGee, Namaksy).
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
-1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit) | Quake for Macintosh v1.08.2
-1997 Aug 31 | [macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake client.
+1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit)<br>[macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake Shareware (demo).
+1997 Aug 30 | Quake-RAVE-1.08.2.sit<br>Quake-3Dfx-1.08.2.sit<br>Quake-1.08.2.sit | MacQuake v1.08.2.
 1997 Sep 22 | [xquake-1.06-alpha-bin.gz](bin/xquake-1.06-alpha-bin.gz) | DEC Alpha Linux X11 Quake v1.06 fixed (Linus Torvalds)
 1997 Sep 24 | [sgiquake.tar.gz](bin/sgiquake.tar.gz) | SGI Quake v1.11
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
@@ -138,7 +139,8 @@ Release Date | File | Description
 1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glqwcl-2.10-i386-unknown-linux2.0.tar.gz](bin/glqwcl-2.10-i386-unknown-linux2.0.tar.gz) | GL QuakeWorld Client v2.10
 1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip)<br>[glquake1.exe](bin/glquake1.exe)<br>[glquake1.txt](bin/glquake1.txt) | PowerVR GLQuake/GLHexen II Driver v2
-1998 Apr 03 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
+1998 Mar 04 | Quake1085.sit | MacQuake v1.08.5.
+1998 Apr 09 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br> | Mac Quake v1.09.
 1998 Apr 22 | [MacQW211b1.sit](bin/MacQW211b1.sit)<br>[QuakeWorld211b1.sit](bin/QuakeWorld211b1.sit) | Mac QuakeWorld Client v2.11 Beta 1.
 1998 Apr 26 | MacQW211b2.sit<br>MacQW211b2U.sit | Mac QuakeWorld Client v2.11 Beta 2
 1998 May 03 | MacQW211b3.sit | Mac QuakeWorld Client v2.11 Beta 3
