@@ -6,6 +6,11 @@ This history is particularly challenging to reconstruct, given the mess of ports
 
 ## Releases
 
+* AmigaQuake (based on leaked linux src)
+	* 1997 Feb 14, v0.1
+	* 1997 Feb 15, v0.2
+	* 1997 Feb 16, v0.3
+	* 1997 Feb 17, amigaquakev0.31.lha
 * QuakePPC (based on leaked linux src)
 	* 1998 Sep 09, QuakePPC9.lha
 	* 1998 Sep 16, QuakePPC.lha
@@ -302,8 +307,10 @@ Subsequent port based on leaked code?
 
 Multiple versions:
 
-* 0.31
-* 0.47
+* AmigaQuake 0.31
+* AmigaQuake 0.47
+* AmigaQuake 0.57
+* AmigaQuake 0.73
 
 
 Locations
@@ -315,6 +322,52 @@ Locations
 Also same name of a post-GPL port?
 
 * https://aminet.net/package/game/shoot/Awinquake
+
+
+
+```text
+AmigaQuake updates!?
+JBB
+24 Sept 1997
+
+I know that this subject is out of date now and so on...
+Everything seemed to be stucked to a 0.31 version since a long time.
+But I've just uploaded 2 recent engine 0.47 and 0.73 on a tiny web site
+presented last week in this newsgroup:
+http://diana.zems.fer.hr/~nfrances/amiga/amiquake/
+
+It works! (on my A3060-CV64)
+And it works faster! YES!!!
+- more than 2 times for the 0.47, but almost unplayable due to hangings
+if you don't repeat the keyboard input quickly enough, and with a
+strange 1 line out of 2 shrunk in any resolution lower than 640x480.
+- 1,5 times faster for the 0.73 (named CoolQuake), playable, no problem.
+
+Any other tried it?
+Anybody knows where these versions come from?
+Any new updates planned?
+
+Regards,
+JBB
+```
+-- [comp.sys.amiga.games](https://groups.google.com/g/comp.sys.amiga.games/c/-6uEfkvUNEI/m/Y85GtX3ZKi0J)
+
+
+The `amigaquakev0.31.lha` archive content:
+
+```text
+PERMISSION  UID  GID      SIZE  RATIO     STAMP     LV
+---------- ----------- ------- ------ ------------ ---
+AmigaQuake
+[generic]               349328  50.7% Feb 17  1997 [0]
+AmigaQuake.doc
+[generic]                 3855  36.0% Mar 17  1997 [0]
+file_id.diz
+[generic]                   45  75.6% Mar 17  1997 [0]
+---------- ----------- ------- ------ ------------ ---
+ Total         3 files  353228  50.6% Aug 19 09:24
+```
+
 
 ```text
 @BEGIN_FILE_ID.DIZ        .________________
