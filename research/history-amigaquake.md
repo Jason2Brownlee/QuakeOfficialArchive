@@ -11,6 +11,9 @@ This history is particularly challenging to reconstruct, given the mess of ports
 	* 1997 Feb 15, v0.2
 	* 1997 Feb 16, v0.3
 	* 1997 Feb 17, amigaquakev0.31.lha
+	* 1997 ??? ??, v0.47
+	* 1997 ??? ??, v0.57
+	* 1997 ??? ??, v0.73
 * QuakePPC (based on leaked linux src)
 	* 1998 Sep 09, QuakePPC9.lha
 	* 1998 Sep 16, QuakePPC.lha
@@ -309,6 +312,7 @@ Multiple versions:
 
 * AmigaQuake 0.31
 * AmigaQuake 0.47
+* AmigaQuake 0.49a
 * AmigaQuake 0.57
 * AmigaQuake 0.73
 
@@ -323,6 +327,12 @@ Also same name of a post-GPL port?
 
 * https://aminet.net/package/game/shoot/Awinquake
 
+
+```text
+AmigaQuake
+Contrary to what has been reported, the author of the port has not abandoned it and is still continuing with development of it with the current version being 0.49a. It is rumoured that a company may be picking it up to become a proper commercial release. Will keep you posted on how it is going. Check out the web page www.angeldos.demon.co.uk/index.html for thelatest public release of the port.
+```
+-- https://norayr.am/archive/oberon/atari_st/stjo2122/cd.textfiles.com/amigaformat/aformat-17-19970808/-Look_here_1st!-/AF_on_the_web/Websites/Intuition/News.htm
 
 
 ```text
