@@ -21,6 +21,23 @@ Perhaps distributed as:
 * QuakePPC10.lha
 
 
+
+```text
+Short:    Quake PPC-Patch was illegal
+Replaces: game/patch/QuakePPC.lha
+1998-11-06
+
+The Quake ppc-patch uploaded to aminet was not by ClickBOOM,
+but anonymous coder. It is based on stolen source code, and
+is thus illegal. It is by no means "official" as the .readme
+claimed.
+
+P.S. It wasn't even the latest version.. ;)
+```
+-- https://aminet.net/package/game/patch/QuakePPC
+
+
+
 ```text
 Sca
 5 Nov 1998
@@ -184,6 +201,7 @@ Locations:
 * https://eab.abime.net/attachment.php?attachmentid=65359&d=1575015698
 * https://eab.abime.net/attachment.php?attachmentid=65360&d=1575015721
 * https://eab.abime.net/attachment.php?attachmentid=65361&d=1575015744
+* https://www.quaddicted.com/files/engines/non-pc/Amiga/quakePPC.gz
 
 ## Coolquake
 
@@ -237,6 +255,15 @@ Links:
 
 
 
+Locations
+
+* http://cd.textfiles.com/amigaacs/amigaacs199804/Games/CommercialDemos/quakeplayer095/
+* http://cd.textfiles.com/amigaacs/amigaacs199805/Games/CommercialDemos/quakeplayer096/
+* http://cd.textfiles.com/amigaacs/amigaacs199806/Games/CommercialDemos/Quakeplayer/
+* http://cd.textfiles.com/amigaformat/aformat-26-199804/-ScreenPlay-/Commercial/quakeplayer/
+* https://pkg.zia.io/pub/aminet/game/demo/QuakeP-096code.lha
+* https://pkg.zia.io/pub/aminet/game/demo/QuakePlayer096.lha
+* https://discmaster.textfiles.com/file/3294/Aminet%2025%20(1998)(GTI%20-%20Schatztruhe)[!][Jun%201998].iso/Aminet/game/demo/QuakeP_096code.lha
 
 
 
