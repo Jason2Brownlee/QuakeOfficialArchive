@@ -22,9 +22,9 @@ Releases:
 * 2006 Oct 11, quake_map_source.zip
 
 
-## test1.map
+## dave taylor map
 
-Posted to IRC in July 1995, referred to as `test1.map`.
+Posted to IRC in July 1995.
 
 
 IRC logs:
@@ -66,9 +66,117 @@ stuff.
 -- https://www.gamers.org/dEngine/quake/QuakeEd/map_example.html
 
 
+## test1.map
+
+Released as `QuakeEd-1.2.map.tgz` and `test1.map.gz` and just `test1.map`.
+
+```text
+Date: Thu, 6 Jun 1996 12:51:48 +0200 (MET DST)
+
+From: Bernd Kreimeier <Bernd.Kreimeier@NeRo.Uni-Bonn.DE>
+
+Message-Id: <199606061051.MAA13194@marvin.nero.uni-bonn.de>
+
+To: quake-dev@gamers.org, bernd@marvin.nero.uni-bonn.de
+
+Subject: QuakeEd 1.2 upload/test1.map
+
+I have uploaded with permission on
+http://www.gamers.org/dEngine/archive/
+
+the following files:
+QuakeEd-1.2.bin.next-m68k.tgz - a QuakeEd binary
+QuakeEd-1.2.src.tgz - the current source version
+QuakeEd-1.2.map.tgz - map files, including test1
+test1.map.gz - the qtest1 test1.map file
+
+
+...
+
+In addition, John Carmack released the test1.map source as used in
+the Quake qtest1 release. This offers every BSP builder out there
+a chance to compare the results on test1.map against the BSP file
+in qtest1.
+
+...
+```
+-- https://www.gamers.org/dEngine/quake/archive/current/0009.html
+
+
+```text
+At least two people seemed to have problems downloading
+the test1.map.gz. I took the opportunity and cleaned
+it up (the original NeXT mail from John Carmack had lots
+of CR/LF inserts breaking up brushes - a brush apparently
+has to be defined in a single line/removed the "wad" key/
+removed "angle"/added "message"/moved "classname" to top),
+and checked it with QuakeEd.
+
+...
+```
+-- https://www.gamers.org/dEngine/quake/archive/current/0013.html
+
+
 Locations
 
 * https://www.gamers.org/dEngine/archive/maps/test1.map
+* https://www.gamers.org/dEngine/archive/QuakeEd/QuakeEd-1.2.map.tgz
+
+
+### QuakeEd-1.2.bin.next-m68k.tgz and QuakeEd-1.2.src.tgz
+
+This is a re-packaged version of QuakeEd by dEngine, not an id Software release.
+
+* https://www.gamers.org/dEngine/archive/QuakeEd/
+
+Readme:
+
+```text
+
+---------------------------------------------------------
+README
+---------------------------------------------------------
+
+This is a modified source release of QuakeEd. I am
+maintaining the contents of this archive with CVS, and
+will happily include any bug fixes or useful modifcations
+for use with NeXT or i386. A couple of modifications
+have been added by Steve Larsen.
+
+This is not a production release. There is no working
+texture/mipmap lookup, I do not know about all of the
+entity/QuakeC stuff, and the external tools (qbsp, vis,
+light, qlumpy) are missing. Currently, you will be able
+to toy around with the binary, and might created some
+brushes and maps.
+
+However, once the tools (written in ANSI C) or any
+replacements are released, and the necessary WAD2
+files are available or have been replaced as well,
+QuakeEd might be suitable for NeXT users to do some
+map editing. Those of us (like me) that do not have
+access to a NeXT on a regular basis will have to wait
+for another editor.
+
+For development purposes, those without a NeXT might
+want to use the collection of screenshots, two of
+them provided by John Carmack, the others created by
+myself on a NeXT provided by a kind soul.
+
+This source and the screenshots are maintained on the
+Difference Engine pages, at
+
+     http://www.gamers.org/dEngine/quake/
+
+and should be discussed on the Quake Developers mailing
+list (at majordomo@gamers.org).
+
+                                     b., June 2nd 1996
+
+---------------------------------------------------------
+```
+-- QuakeEd-1.2.src.tgz/README
+
 
 
 ## johnc99.map
