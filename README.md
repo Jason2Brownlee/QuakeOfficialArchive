@@ -22,7 +22,7 @@ Release Date | File | Description
 1996 Apr 04 | [johnc99.map](bin/johnc99.map) | Sample .map (Carmack)
 1996 Apr 09 | n/a | Quake Development CD
 1996 May 19 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | QuakeEd Quake map editor source code.
-1996 Jun 06 | test1.map.gz<br>[test1.map](bin/test1.map) | Sample test1.map (DM1) from QTest (John Carmack).
+1996 Jun 06 | QuakeEd-1.2.bin.next-m68k.tgz<br>[QuakeEd-1.2.src.tgz](bin/QuakeEd-1.2.src.tgz)<br>[QuakeEd-1.2.map.tgz](bin/QuakeEd-1.2.map.tgz)<br>test1.map.gz<br>[test1.map](bin/test1.map) | QuakeEd v1.2 and sample maps (John Carmack).
 1996 Jun 11 | n/a | Quake Beta v0.8 aka BETA3 (leak)
 1996 Jun 22 | n/a | Quake Pre-Release aka Press-Release (leak)
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
