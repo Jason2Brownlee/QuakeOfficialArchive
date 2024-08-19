@@ -2,7 +2,7 @@
 
 The goal of this project is to archive **all versions** of **all official Quake releases**.
 
-Here, "official" means by id Software (public FTP), staff of id Software (e.g. map sources and sketches by John Romero after he left, etc.), and affiliated mission packs and mods (e.g. hipnotic, rogue, quakeworld, etc.).
+Here, "official" means updates and dev material by id Software (e.g. public HTTP and FTP sites, etc.), sanctioned ports (e.g. MacQuake, LinuxQuake, AmigaQuake, etc.), staff of id Software (e.g. skin packs, map sources, sketches, etc.), and sanctioned mission packs and mods (e.g. Hipnotic, Rogue, QuakeWorld, etc.).
 
 See [quake history essays](research/README.md) that reconstruct the technical release history for quake files.
 
