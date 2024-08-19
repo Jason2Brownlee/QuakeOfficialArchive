@@ -22,13 +22,13 @@ Release Date | File | Description
 1996 Apr 04 | [johnc99.map](bin/johnc99.map) | Sample .map (Carmack)
 1996 Apr 09 | n/a | Quake Development CD
 1996 May 19 | [QuakeEd.tar.gz](bin/QuakeEd.tar.gz)<br>[QuakeEd.txt](bin/QuakeEd.txt) | QuakeEd Quake map editor source code.
+1996 Jun 06 | test1.map.gz<br>[test1.map](bin/test1.map) | Sample test1.map (DM1) from QTest (John Carmack).
 1996 Jun 11 | n/a | Quake Beta v0.8 aka BETA3 (leak)
 1996 Jun 22 | n/a | Quake Pre-Release aka Press-Release (leak)
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
 1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
 1996 Jun 27 | [qbsp.tar.gz](bin/qbsp.tar.gz)<br>[qbsp.txt](bin/qbsp.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v28.
 1996 Jul 02 | [qutils.tar.gz](bin/qutils.tar.gz)<br>[qutils.txt](bin/qutils-19960702.txt) | Quake utilities source code (DIRPACK, UNPACK, QLUMPY, TEXMAKE, MODELGEN, SPRGEN).
-1996 Jul 02 | [test1.map](bin/test1.map) | Sample test1.map (DM1) from QTest
 1996 Jul 04 | [intel_linux_quake091.tgz](bin/intel_linux_quake091.tgz) | Quake Linux 0.91
 1996 Jul 11 | [quake100.zip](bin/quake100.zip)<br>[QSW100_1.ZIP](bin/QSW100_1.ZIP)<br>[QSW100_2.ZIP](bin/QSW100_2.ZIP)<br>[QSW100_3.ZIP](bin/QSW100_3.ZIP)<br>[QSW100_4.ZIP](bin/QSW100_4.ZIP)<br>[QSW100_5.ZIP](bin/QSW100_5.ZIP)<br>[QSW100_6.ZIP](bin/QSW100_6.ZIP)<br>[QSW100_7.ZIP](bin/QSW100_7.ZIP)<br> | Quake Shareware v1.0.
 1996 Jul 12 | n/a | Quake v1.01 (Retail CD).

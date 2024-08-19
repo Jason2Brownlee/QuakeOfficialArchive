@@ -28,9 +28,6 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [MacQuakeWorld History](history-macquakeworld.md)
 * [QuakeWorld Player Skins History](history-quakeworld-skins.md)
 * [QuakeWorld History](history-quakeworld.md)
-* Sketches History
-* GPL History
-* Ports Based on Leaked Linux Source
 
 Less-official stuff (but endorsed by id-software?):
 
