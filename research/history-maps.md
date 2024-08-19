@@ -119,6 +119,9 @@ and checked it with QuakeEd.
 
 Locations
 
+* http://reality.sgi.com/rae/quake/dev/test1.map.gz
+* http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
+* http://reality.sgi.com:80/rae_aw/quake/dev/QuakeEd-1.2.map.tgz
 * https://www.gamers.org/dEngine/archive/maps/test1.map
 * https://www.gamers.org/dEngine/archive/QuakeEd/QuakeEd-1.2.map.tgz
 
@@ -126,8 +129,6 @@ Locations
 ### QuakeEd-1.2.bin.next-m68k.tgz and QuakeEd-1.2.src.tgz
 
 This is a re-packaged version of QuakeEd by dEngine, not an id Software release.
-
-* https://www.gamers.org/dEngine/archive/QuakeEd/
 
 Readme:
 
@@ -178,6 +179,11 @@ list (at majordomo@gamers.org).
 -- QuakeEd-1.2.src.tgz/README
 
 
+Locations:
+
+* https://www.gamers.org/dEngine/archive/QuakeEd/QuakeEd-1.2.src.tgz
+* http://reality.sgi.com:80/rae_aw/quake/dev/QuakeEd-1.2.bin.next-m68k.tgz
+* http://reality.sgi.com:80/rae_aw/quake/dev/QuakeEd-1.2.src.tgz
 
 ## johnc99.map
 
