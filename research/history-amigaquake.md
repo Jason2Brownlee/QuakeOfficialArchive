@@ -6,7 +6,7 @@ This history is particularly challenging to reconstruct, given the mess of ports
 
 ## Releases
 
-* AmigaQuake (based on leaked linux src)
+* AmigaQuake by Digital Corruption (based on leaked linux src)
 	* 1997 Feb 14, v0.1
 	* 1997 Feb 15, v0.2
 	* 1997 Feb 16, v0.3
@@ -18,13 +18,12 @@ This history is particularly challenging to reconstruct, given the mess of ports
 	* 1998 Sep 09, QuakePPC9.lha
 	* 1998 Sep 16, QuakePPC.lha
 	* 1998 Sep 16, QuakePPC10.lha
-* 1998 ??? ??, quake060.lha
-* 1998 ??? ??, quakedemos.lha
-* 1998 Mar 09, QuakePlayer095.lha
-* 1998 Apr 02, QuakePlayer096.lha
-* 1998 Apr 02, QuakeP_096code.lha
-
-
+* ClickBoom / PXL (official port)
+    * 1998 ??? ??, quakedemos.lha
+    * 1998 Mar 09, QuakePlayer095.lha
+    * 1998 Apr 02, QuakePlayer096.lha
+    * 1998 Apr 02, QuakeP_096code.lha  or QuakeP-096code.lha
+    * 1998 Jul 07, quake060.lha
 
 
 ## Amiga Quake Alpha aka "QuakePPC" (Leak)
@@ -304,7 +303,7 @@ ef09597f6a6bc9de8eed37d2c5839b9e  QuakePPC/QuakePPC
 ef09597f6a6bc9de8eed37d2c5839b9e  QuakePPC10/Quake
 ```
 
-### AmigaQuake / AmiQuake
+## AmigaQuake / AmiQuake (based on linux src leak)
 
 Subsequent port based on leaked code?
 
@@ -718,7 +717,7 @@ Or perhaps sir would prefer the Official AmigaQuake support website ?
 Links:
 * http://www.angeldos.demon.co.uk/
 
-### Coolquake
+## Coolquake (based on linux src leak)
 
 Released 1997, multiple versions:
 
@@ -769,7 +768,7 @@ http://login.eunet.no/~trondbi
 ```
 -- [comp.sys.amiga.games](https://groups.google.com/g/comp.sys.amiga.games/c/XRiXaF8YTT8/m/-Siyuot2QOAJ)
 
-### Fastquake
+## Fastquake (based on linux src leak)
 
 Subsequent port based on leaked code?
 
@@ -998,7 +997,7 @@ QUAKE PLAYER 0.96    -   7.5Mb of free FAST memory and FPU required!
 
 ### QuakeP_096code.lha
 
-Released as `QuakeP_096code.lha` and perhaps released April 02 1998.
+Released as `QuakeP_096code.lha` or `QuakeP-096code.lha` and perhaps released April 02 1998.
 
 ```text
 PERMISSION  UID  GID      SIZE  RATIO     STAMP     LV
@@ -1020,6 +1019,111 @@ readme.txt.info
  ```
 
 
+## quake060.lha
+
+Released as `quake060.lha`, perhaps on July 07 1998.
+
+Archive contents, looks like a re-packaged version from a BBS.
+
+```text
+PERMISSION  UID  GID      SIZE  RATIO     STAMP     LV
+---------- ----------- ------- ------ ------------ ---
+quake060/060-cddevicealike
+[generic]                   23 100.0% Jun 26  1998 [0]
+quake060/060-cddevicealike.info
+[generic]                  460  50.9% Apr 27  1998 [0]
+quake060/060-minmemory-safe
+[generic]                   25 100.0% Jun 26  1998 [0]
+quake060/060-minmemory-safe.info
+[generic]                  464  51.3% Apr 27  1998 [0]
+quake060/060-nocdaudio-nolan
+[generic]                   26 100.0% Jun 26  1998 [0]
+quake060/060-nocdaudio-nolan.info
+[generic]                  460  50.9% Apr 27  1998 [0]
+quake060/060-nolan
+[generic]                   15 100.0% Jun 26  1998 [0]
+quake060/060-nolan.info
+[generic]                  460  51.5% Apr 27  1998 [0]
+quake060/060-safe
+[generic]                   14 100.0% Jun 26  1998 [0]
+quake060/060-safe.info
+[generic]                  460  51.3% Apr 27  1998 [0]
+quake060/Quake060
+[generic]               629784  43.4% Jul  7  1998 [0]
+quake060/Quake060.info
+[generic]                14012  72.7% Apr 20  1998 [0]
+quake060/README
+[generic]                 1031  57.8% Jun 26  1998 [0]
+quake060/README.info
+[generic]                  798  43.4% Apr 20  1998 [0]
+file_id.diz
+[generic]                  435  45.7% Jul 16  1998 [0]
+friendsonly.exe
+[generic]                59468   1.8% Jan 28  1998 [0]
+Quarkteilchen.readme
+[generic]                  209  38.3% Jan 17  1998 [0]
+Schneeloch
+[generic]                 1401  27.3% Jan 28  1998 [0]
+onlyfriends.exe
+[generic]                49988   2.0% Jan 28  1998 [0]
+---------- ----------- ------- ------ ------------ ---
+ Total        19 files  759533  38.0% Aug 20 06:16
+ ```
+
+
+Readme:
+
+```text
+
+QUAKE 060
+---------
+
+
+!!! DO NOT DISTRIBUTE THIS UPGRADE IN ANY WAY !!!!!
+!!! DO NOT PUT THESE FILES ON MAGAZINE  CD-ROMs !!!
+!!! DO NOT UPLOAD THIS UPGRADE TO INTERNET !!!!!!!!
+
+This upgrade is for registered users only,
+please don't copy it to anyone else.
+
+
+
+
+Description
+-----------
+
+This is the first version of the code optimized for 060.
+Original Quake was already heavily optimized, so don't expect
+miracles here.  However, you will get 0.5 - 2 fps increase.
+
+
+
+How to run
+----------
+
+Copy all of the files to the Quake directory.
+Run the game as before, except use Quake060 file now.
+
+Also included are command line variation script files.
+These are operationally identical to the original ones.
+We included them so you wouldn't have to edit old ones
+to use Quake060 file.
+
+
+
+
+Future
+------
+
+If there is another 060 update it will be emailed to you
+automatically as soon as it is available.
+
+
+
+As always, your comments are welcome at info@clickboom.com
+
+For technical assistance write to support@pxlcomputers.com
+```
 
 
 
@@ -1044,6 +1148,9 @@ readme.txt.info
 * https://amiga.abime.net/games/view/quake-clickboom-pxl
 * https://www.atari-forum.com/viewtopic.php?t=9885&start=25
 * https://amigaland.com/dataz/press_magazine/amiga_dream/PDF_TXT/Dream_047_%281998-01%29.pdf
+* https://web.archive.org/web/19990221105727/http://homepages.which.net/%7Ebartlett/quake.html
+* https://ftp2.grandis.nu
+* http://www.oldgamesfinder.com/
 
 Later ports:
 
