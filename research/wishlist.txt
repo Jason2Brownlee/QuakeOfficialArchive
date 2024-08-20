@@ -4,8 +4,12 @@
 quakegam.zip
 steve.zip
 
+# map files
+test1.map.gz
+
 # real and missing
 deathpack1.zip
+dm3.zip
 qw233.zip
 qwcl0809.zip
 qwded104.exe
@@ -27,6 +31,10 @@ rrq107b2.zip
 rrq107b3.zip
 rrq107b4.zip
 
+# aix
+Quake.bin
+Quake.bin.txt
+
 # duplicates, but with different filenames...
 qw_0809.zip
 q105beta.exe
@@ -39,6 +47,9 @@ qwsv2.00-i386-unknown-linux2.0.tar.gz
 qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 qwsv2_00-i386-unknown-linux2_0_tar.gz
 qwsv2_10-i386-unknown-bsdi3_0_tar.gz
+
+# qw skins (many versions with the same filename)
+skinbase.zip
 
 # txt files
 q105beta.txt
@@ -66,25 +77,15 @@ Quake109.sit.hqx
 QuakeRAVE109.sit.hqx
 Quake1085.sit
 QuakeDemo.hqx
-
 Quake%201.09%20Updater.hqx
 Quakeworld%20Skins.hqx
-
-# guess at missing macqw filenames
-# v221b1 ?
-# v211b3 ?
-# v211b2 ?
-221b1.sit
-211b3.sit
-211b2.sit
-211b1.sit
 
 
 # guessing at some filenames
 qwcl1022.zip
 
 
-# guessing at missing linux filenames
+# guessing at missing linux filenames (likely not real)
 qwsv2.00-i386-unknown-bsdi3.0.tar.gz
 qwsv2.00-sparc-sun-solaris2.5.1.tar
 qwsv2_00-i386-unknown-bsdi3_0_tar.gz
