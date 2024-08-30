@@ -199,6 +199,15 @@ Maybe you can help to make this archive more complete.
 
 If you can help, please contact me directly: jason.brownlee05@gmail.com
 
+Even if you have bot files already in the archive, send them through. Many files were released with the same filename again and again.
+
+### Wishlists
+
+Below are lists of known files missing from the archive.
+
+* [Quake Release Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
+* [Quake Release URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
+
 ## Acknowledgements
 
 Special thank you to M.Millar and Wintertime for research and contributions to the archive.
