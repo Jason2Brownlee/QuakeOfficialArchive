@@ -210,4 +210,6 @@ Below are lists of known files missing from the archive.
 
 ## Acknowledgements
 
-Special thank you to M.Millar and Wintertime for research and contributions to the archive.
+Special thank you to M.Millar, Wintertime, Wladislaw Pankratow aka "T02my", Michael Hinrichs aka "NintenHero" and Javier Herrera for research and contributions to the archive.
+
+
