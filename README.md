@@ -199,9 +199,9 @@ Maybe you can help to make this archive more complete.
 
 If you can help, please contact me directly: jason.brownlee05@gmail.com
 
-Even if you have bot files already in the archive, send them through. Many files were released with the same filename again and again.
+Even if you have release files already in the archive, send them through. Many files were released with the same filename again and again.
 
-### Wishlists
+### Missing File Wishlists
 
 Below are lists of known files missing from the archive.
 
