@@ -1,9 +1,13 @@
 # file url wishlist (e.g. known existence of wishlist files)
 
 ftp://bluesnews.com/pub/vquake/rrq106b2.zip
+ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+ftp://ftp.cdrom.com/pub/quake/planetquake/quakeworld/qwsv2.00-i386-unknown-linux2.0.tar.gz
 ftp://ftp.firestarter.org/pub/3wave/unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
 ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
 ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/deathpack1.zip
+ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/dm3.zip
+ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
 ftp://ftp.rendition.com/pub/rrq106b4.zip
@@ -39,6 +43,7 @@ http://macspel.solgames.se/files/QuakeDemo.hqx
 http://macspel.solgames.se/files/Quakeworld%20Skins.hqx
 http://members.aol.com/westlaketn/MacQWSrv221b1.sit
 http://quakecheats.b0x.com/quake/dm3.zip
+http://quakeworld.net/files/quakeworld/qw233.zip
 http://qwcentral.stomped.com/Files/release/MacQW221b1.sit
 http://qwcentral.stomped.com/files/release/MacQW221b1.sit
 http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
