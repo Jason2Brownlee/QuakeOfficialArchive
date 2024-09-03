@@ -64,6 +64,16 @@ MacQWSrv221b1.sit
 MacQWSrv23b1.hqx
 
 # MacQuake
+Quake-RAVE-1.08.2.sit
+Quake-3Dfx-1.08.2.sit
+Quake-1.08.2.sit
+Quake-RAVE-1_08_2.sit
+Quake-3Dfx-1_08_2.sit
+Quake-1_08_2.sit
+Quake-RAVE-1.08.3.sit
+Quake-3Dfx-1.08.3.sit
+Quake-1.08.3.sit
+
 Quake1084_U.sea.hqx
 Quake3Dfx1084_U.sea.hqx
 QuakeRave1084_U.sea.hqx

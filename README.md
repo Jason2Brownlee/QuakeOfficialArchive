@@ -127,6 +127,7 @@ Release Date | File | Description
 1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
 1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit)<br>[macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake Shareware (demo).
 1997 Aug 30 | Quake-RAVE-1.08.2.sit<br>Quake-3Dfx-1.08.2.sit<br>Quake-1.08.2.sit<br>[Quake-1.08.2-Updater.bin](bin/Quake-1.08.2-Updater.bin)<br>[Quake-RAVE-1.08.2-Updater.bin](bin/Quake-RAVE-1.08.2-Updater.bin)<br>[Quake-3Dfx-1.08.2-Updater.bin](bin/Quake-3Dfx-1.08.2-Updater.bin) | MacQuake v1.08.2.
+1997 Sep 17 | [Quake-1.08.3-Updater.sit](bin/Quake-1.08.3-Updater.sit)<br>[Quake-3Dfx-1.08.3-Updater.sit](bin/Quake-3Dfx-1.08.3-Updater.sit)<br>[Quake-RAVE-1.08.3-Updater.sit](bin/Quake-RAVE-1.08.3-Updater.sit) | MacQuake v1.08.3.
 1997 Sep 22 | [xquake-1.06-alpha-bin.gz](bin/xquake-1.06-alpha-bin.gz) | DEC Alpha Linux X11 Quake v1.06 fixed (Linus Torvalds)
 1997 Sep 24 | [sgiquake.tar.gz](bin/sgiquake.tar.gz) | SGI Quake v1.11
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1

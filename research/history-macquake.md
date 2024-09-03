@@ -257,7 +257,7 @@ Released as:
 * Quake-3Dfx-1.08.2.sit
 * Quake-1.08.2.sit
 
-Also, the update patches:
+Also, the update patches released as:
 
 * Quake RAVE 1.08.2 Updater.bin
 * Quake 3Dfx 1.08.2 Updater.bin
@@ -278,6 +278,10 @@ There is already an update available for the retail MacQuake to address several 
 ```
 -- https://www.bluesnews.com/archives/aug97-5.html
 
+
+
+
+
 Links:
 * https://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 * https://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
@@ -294,12 +298,37 @@ And, also:
 
 ## MacQuake v1.08.3
 
-Released as:
+We don't know if there was a release or just an update.
+
+Perhaps released on September 17 1997.
+
+The update patches released as:
 
 * Quake RAVE 1.08.3 Updater.sit
 * Quake 3Dfx1.08.3 Updater.sit
+* Quake 1.08.3 Updater.sit
+
+Archive content:
+
+```text
+Quake-1.08.3-Updater.sit: StuffIt 5
+     Flags  File size   Ratio  Mode  Date       Time   Name
+     =====  ==========  =====  ====  ========== =====  ====
+  0. -R---       54884   9.5%  Arse  1997-09-17 13:48  Quake 1.08.3 Updater
+  1. -----      277792   7.0%  Arse  1997-09-17 13:48  Quake 1.08.3 Updater
+(Flags: D=Directory, R=Resource fork, L=Link, E=Encrypted, @=Extended attributes)
+(Mode: Arse=Arsenic)
+```
+
+Links:
+* https://www.vintageapplemac.com/files/utils/Quake%201.08.3%20Updater.sit
+* https://www.vintageapplemac.com/files/utils/Quake%203Dfx1.08.3%20Updater.sit
+* https://www.vintageapplemac.com/files/utils/Quake%20RAVE%201.08.3%20Updater.sit
 
 
+## MacQuake v1.08.4
+
+todo
 
 
 ## MacQuake v1.08.5
