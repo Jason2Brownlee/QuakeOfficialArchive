@@ -13,25 +13,41 @@ I believe there were unofficial ports (based on Linux src leak) then an official
 	Unofficial MacQuake Port
 * 1997 Aug 28,
 	MacQuake Retail CD?
-* 1997 Aug 29
+* 1997 Aug 29 (demo)
 	* quakedemo.sit
 	* quake-demo.hqx
 	* macquake.sit.hqx
 	* ...
-* 1997 Aug 30
+* 1997 Aug 30 (v1.08.2)
 	* Quake-RAVE-1.08.2.sit
 	* Quake-3Dfx-1.08.2.sit
 	* Quake-1.08.2.sit
-* 1998 Mar 04
-	Quake1085.sit
-* 1998 Apr 09
+	* Quake RAVE 1.08.2 Updater.bin
+	* Quake 3Dfx 1.08.2 Updater.bin
+	* Quake 1.08.2 Updater.bin
+* 1997 Sep 17 (v1.08.3)
+	* Quake RAVE 1.08.3 Updater.sit
+	* Quake 3Dfx1.08.3 Updater.sit
+	* Quake 1.08.3 Updater.sit
+* 1997 Dec 05 (v1.08.4)
+	* Quake RAVE 1.08.4 Updater.sit
+	* Quake RAVE 1.08.4 Updater.bin
+	* Quake 3Dfx 1.08.4 Updater.sit
+	* Quake 3Dfx 1.08.4 Updater.bin
+	* Quake 1.08.4 Updater.sit
+	* Quake 1.08.4 Updater.bin
+* 1998 Mar 04 (v1.08.5)
+	* Quake-1.08.5-Update.sit
+	* Quake1085.sit
+* 1998 Apr 09 (v1.09)
 	* Quake109ReadMe.hqx
 	* Quake109.sit.hqx
 	* Quake3Dfx109.sit.hqx
 	* QuakeRAVE109.sit.hqx
-
-
-
+	* Quake109_U_readme.txt
+	* Quake109_U.sea.hqx
+	* Quake3Dfx109_U.sea.hqx
+	* QuakeRave109_U.sea.hqx
 
 
 ## MacQuake News
@@ -489,16 +505,22 @@ QuakeATI Drivers.hqx(550 k)
 ```
 -- [http://www.wizworks.com/macsoft/mactech/quake_01.html](https://web.archive.org/web/19980627033701/http://www.wizworks.com/macsoft/mactech/quake_01.html)
 
-Links:
+Updater Links:
+
 * ftp://ftp.wizworks.com/macpatch/Quake109_U_readme.txt
 * ftp://ftp.wizworks.com/macpatch/Quake109_U.sea.hqx
 * ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
 * ftp://ftp.wizworks.com/macpatch/QuakeRave109_U.sea.hqx
-* https://www.quaddicted.com/files/engines/
 * https://www.mc68000.org/downloads/updates/Quake%201.09%20Updates.sit.bin
 * https://www.vintageapplemac.com/files/utils/Quake%201.09%20updaters.sit
-
-
+* http://www.vintageapplemac.com/files/utils/Quake%201.09%20updaters.sit
+* http://macspel.solgames.se/files/Quake%201.09%20Updater.hqx
+* http://coolhouse.simplenet.com/mqmp/miscfiles/updates/Quake_3Dfx_Updater-1.09.sit
+* http://coolhouse.simplenet.com/mqmp/miscfiles/updates/Quake_RAVE_Updater-1.09.sit
+* http://coolhouse.simplenet.com/mqmp/miscfiles/updates/Quake_Updater-1.09.sit
+* https://www.quaddicted.com/files/engines/Quake%201.09.sea.sit
+* https://www.quaddicted.com/files/engines/Quake%203Dfx%201.09.sea.sit
+* https://www.quaddicted.com/files/engines/Quake%20RAVE%201.09.sea.sit
 
 
 
