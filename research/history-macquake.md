@@ -17,6 +17,7 @@ I believe there were unofficial ports (based on Linux src leak) then an official
 	* quakedemo.sit
 	* quake-demo.hqx
 	* macquake.sit.hqx
+	* ...
 * 1997 Aug 30
 	* Quake-RAVE-1.08.2.sit
 	* Quake-3Dfx-1.08.2.sit
@@ -256,6 +257,12 @@ Released as:
 * Quake-3Dfx-1.08.2.sit
 * Quake-1.08.2.sit
 
+Also, the update patches:
+
+* Quake RAVE 1.08.2 Updater.bin
+* Quake 3Dfx 1.08.2 Updater.bin
+* Quake 1.08.2 Updater.bin
+
 
 
 ```text
@@ -275,6 +282,22 @@ Links:
 * https://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 * https://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
 * https://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
+
+And, also:
+* https://www.mc68000.org/downloads/updates/Quake%201.08.2%20Updater.bin
+* https://www.mc68000.org/downloads/updates/Quake%203Dfx%201.08.2%20Updater.bin
+* https://www.mc68000.org/downloads/updates/Quake%20RAVE%201.08.2%20Updater.bin
+
+
+
+
+
+## MacQuake v1.08.3
+
+Released as:
+
+* Quake RAVE 1.08.3 Updater.sit
+* Quake 3Dfx1.08.3 Updater.sit
 
 
 
