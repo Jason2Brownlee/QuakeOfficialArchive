@@ -264,7 +264,6 @@ Also, the update patches released as:
 * Quake 1.08.2 Updater.bin
 
 
-
 ```text
 Saturday, August 30, 1997
 MacQuake Updates
@@ -277,9 +276,6 @@ There is already an update available for the retail MacQuake to address several 
 	Quake non-3D 1.08.2 updater (548 KB)
 ```
 -- https://www.bluesnews.com/archives/aug97-5.html
-
-
-
 
 
 Links:
@@ -328,12 +324,50 @@ Links:
 
 ## MacQuake v1.08.4
 
-todo
+We don't know if there was a release or just an update.
+
+Perhaps released on December 05 1997.
+
+The update patches released as:
+
+* Quake RAVE 1.08.4 Updater.sit
+* Quake RAVE 1.08.4 Updater.bin
+* Quake 3Dfx 1.08.4 Updater.sit
+* Quake 3Dfx 1.08.4 Updater.bin
+* Quake 1.08.4 Updater.sit
+* Quake 1.08.4 Updater.bin
+
+Archive content:
+
+```text
+Quake 1.08.4 Updater.sit
+     Flags  File size   Ratio  Mode  Date       Time   Name
+     =====  ==========  =====  ====  ========== =====  ====
+  0. -R---       54884   9.5%  Arse  1997-12-05 18:49  Quake 1.08.4 Updater
+  1. -----      267510   0.0%  None  1997-12-05 18:49  Quake 1.08.4 Updater
+(Flags: D=Directory, R=Resource fork, L=Link, E=Encrypted, @=Extended attributes)
+(Mode: Arse=Arsenic)
+```
+
+Links
+
+* https://www.vintageapplemac.com/files/utils/Quake%20RAVE%201.08.4%20Updater.sit
+* https://www.vintageapplemac.com/files/utils/Quake%203Dfx%201.08.4%20Updater.sit
+* https://www.vintageapplemac.com/files/utils/Quake%201.08.4%20Updater.sit
+* https://www.mc68000.org/downloads/updates/Quake%201.08.4%20Updater.bin
+* https://www.mc68000.org/downloads/updates/Quake%203Dfx%201.08.4%20Updater.bin
+* https://www.mc68000.org/downloads/updates/Quake%20RAVE%201.08.4%20Updater.bin
+* http://www.qamalice.com/Quake3dfx_1.08.4_Updater.sit.hqx
 
 
 ## MacQuake v1.08.5
 
-Released as `Quake1085.sit`, March 1998
+Perhaps released on March 04 1998.
+
+Perhaps released as:
+
+* Quake-1.08.5-Update.sit
+* Quake1085.sit
 
 
 ```text
@@ -364,17 +398,28 @@ A MacQuake version 1.08.5 patch (470 KB) has been released on the Westlake Inter
 Links:
 * https://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 * http://www.westlakeinteractive.com/news0010.html
-
+* http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
 
 
 ## MacQuake v1.09
 
+Released on April 09 1998.
+
 Released as:
 
-* Quake109ReadMe.hqx
 * Quake109.sit.hqx
+* Quake109ReadMe.hqx
 * Quake3Dfx109.sit.hqx
 * QuakeRAVE109.sit.hqx
+
+Updates released as:
+
+* QuakeRave109_U.sea.hqx
+* Quake109_U_readme.txt.sit
+* Quake RAVE 1.09.sea.sit
+* Quake 3Dfx 1.09.sea.sit
+* Quake 1.09.sea.sit
+
 
 
 ```text
@@ -449,15 +494,10 @@ Links:
 * ftp://ftp.wizworks.com/macpatch/Quake109_U.sea.hqx
 * ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
 * ftp://ftp.wizworks.com/macpatch/QuakeRave109_U.sea.hqx
+* https://www.quaddicted.com/files/engines/
+* https://www.mc68000.org/downloads/updates/Quake%201.09%20Updates.sit.bin
+* https://www.vintageapplemac.com/files/utils/Quake%201.09%20updaters.sit
 
-
-https://www.quaddicted.com/files/engines/:
-
-* QuakeRave109_U.sea.hqx
-* Quake109_U_readme.txt.sit
-* Quake RAVE 1.09.sea.sit
-* Quake 3Dfx 1.09.sea.sit
-* Quake 1.09.sea.sit
 
 
 

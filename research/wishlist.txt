@@ -64,26 +64,55 @@ MacQWSrv221b1.sit
 MacQWSrv23b1.hqx
 
 # MacQuake
-Quake-RAVE-1.08.2.sit
-Quake-3Dfx-1.08.2.sit
+QuakeDemo.sit
+QuakeDemo.hqx
+
 Quake-1.08.2.sit
-Quake-RAVE-1_08_2.sit
-Quake-3Dfx-1_08_2.sit
-Quake-1_08_2.sit
-Quake-RAVE-1.08.3.sit
-Quake-3Dfx-1.08.3.sit
 Quake-1.08.3.sit
+Quake-1.08.4.sit
+Quake-1.08.5.sit
+
+Quake-1_08_2.sit
+Quake-1_08_3.sit
+Quake-1_08_4.sit
+Quake-1_08_5.sit
+
+Quake-1.08.5-Update.sit
+
+Quake-3Dfx-1.08.2.sit
+Quake-3Dfx-1.08.3.sit
+Quake-3Dfx-1.08.4.sit
+Quake-3Dfx-1.08.5.sit
+
+Quake-3Dfx-1_08_2.sit
+Quake-3Dfx-1_08_3.sit
+Quake-3Dfx-1_08_4.sit
+Quake-3Dfx-1_08_5.sit
+
+Quake-3Dfx-1.08.5-Update.sit
+
+Quake-RAVE-1.08.2.sit
+Quake-RAVE-1.08.3.sit
+Quake-RAVE-1.08.4.sit
+Quake-RAVE-1.08.5.sit
+
+Quake-RAVE-1_08_2.sit
+Quake-RAVE-1_08_3.sit
+Quake-RAVE-1_08_4.sit
+Quake-RAVE-1_08_5.sit
+
+Quake-RAVE-1.08.5-Update.sit
 
 Quake1084_U.sea.hqx
 Quake3Dfx1084_U.sea.hqx
 QuakeRave1084_U.sea.hqx
-QuakeDemo.sit
+Quake1085.sit
+
 Quake3Dfx109.sit.hqx
 Quake109.sit.hqx
 QuakeRAVE109.sit.hqx
-Quake1085.sit
-QuakeDemo.hqx
-Quake%201.09%20Updater.hqx
+Quake-1.09-Updater.hqx
+
 Quakeworld%20Skins.hqx
 
 

@@ -140,13 +140,14 @@ Release Date | File | Description
 1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 for Quake v1.09.
 1997 Nov 14 | [glqwcl-2.10-i386-unknown-linux2.0.tar.gz](bin/glqwcl-2.10-i386-unknown-linux2.0.tar.gz) | GL QuakeWorld Client v2.10
+1997 Dec 05 | [Quake-1.08.4-Updater.bin](bin/Quake-1.08.4-Updater.bin)<br>[Quake-1.08.4-Updater.sit](bin/Quake-1.08.4-Updater.sit)<br>[Quake-3Dfx-1.08.4-Updater.bin](bin/Quake-3Dfx-1.08.4-Updater.bin)<br>[Quake-3Dfx-1.08.4-Updater.sit](bin/Quake-3Dfx-1.08.4-Updater.sit)<br>[Quake-RAVE-1.08.4-Updater.bin](bin/Quake-RAVE-1.08.4-Updater.bin)<br>[Quake-RAVE-1.08.4-Updater.sit](bin/Quake-RAVE-1.08.4-Updater.sit) | MacQuake v1.08.4.
 1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip)<br>[glquake1.exe](bin/glquake1.exe)<br>[glquake1.txt](bin/glquake1.txt) | PowerVR GLQuake/GLHexen II Driver v2
-1998 Mar 04 | Quake1085.sit | MacQuake v1.08.5.
+1998 Mar 04 | Quake1085.sit<br>Quake-1.08.5-Update.sit | MacQuake v1.08.5.
 1998 ??? ?? | [quakedemos.lha](bin/quakedemos.lha) | Amiga Quake Demos (ClickBoom)
 1998 Mar 09 | [QuakePlayer095.lha](bin/QuakePlayer095.lha) | Amiga Quake Unplayable Demo v0.95 (ClickBoom)
 1998 Apr 02 | [QuakePlayer096.lha](bin/QuakePlayer096.lha) | Amiga Quake Unplayable Demo v0.96 (ClickBoom)
 1998 Apr 02 | [QuakeP_096code.lha](bin/QuakeP_096code.lha) | Amiga Quake Unplayable Demo Update to v0.96 (ClickBoom)
-1998 Apr 09 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br>[Quake1.09.sea.sit](bin/Quake1.09.sea.sit)<br>[QuakeRave109_U.sea.hqx](bin/QuakeRave109_U.sea.hqx)<br>[QuakeRAVE1.09.sea.sit](bin/QuakeRAVE1.09.sea.sit)<br>[Quake109_U_readme.txt.sit](bin/Quake109_U_readme.txt.sit)<br>[Quake3Dfx1.09.sea.sit](bin/Quake3Dfx1.09.sea.sit) | MacQuake v1.09.
+1998 Apr 09 | [Quake109ReadMe.hqx](bin/Quake109ReadMe.hqx)<br>Quake109.sit.hqx<br>Quake3Dfx109.sit.hqx<br>QuakeRAVE109.sit.hqx<br>[Quake1.09.sea.sit](bin/Quake1.09.sea.sit)<br>[QuakeRave109_U.sea.hqx](bin/QuakeRave109_U.sea.hqx)<br>[QuakeRAVE1.09.sea.sit](bin/QuakeRAVE1.09.sea.sit)<br>[Quake109_U_readme.txt.sit](bin/Quake109_U_readme.txt.sit)<br>[Quake3Dfx1.09.sea.sit](bin/Quake3Dfx1.09.sea.sit)<br>[Quake-1.09-updaters.sit](bin/Quake-1.09-updaters.sit)<br>[Quake-1.09-Updates.sit.bin](bin/Quake-1.09-Updates.sit.bin) | MacQuake v1.09.
 1998 Apr 22 | [MacQW211b1.sit](bin/MacQW211b1.sit)<br>[QuakeWorld211b1.sit](bin/QuakeWorld211b1.sit) | Mac QuakeWorld Client v2.11 Beta 1.
 1998 Apr 26 | MacQW211b2.sit<br>MacQW211b2U.sit | Mac QuakeWorld Client v2.11 Beta 2
 1998 May 03 | MacQW211b3.sit | Mac QuakeWorld Client v2.11 Beta 3
