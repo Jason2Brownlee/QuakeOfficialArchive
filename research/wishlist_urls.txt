@@ -51,9 +51,13 @@ http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 http://www.bluesnews.com/archives/rrq106b8.zip
+http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://www.bluesnews.com/files/idstuff/quakeworld/maps/deathpack1.zip
 http://www.bluesnews.com/files/idstuff/quakeworld/maps/dm3.zip
 http://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
+http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
+http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
+http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/quakedemo.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.gamers.org/pub/games/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
@@ -63,9 +67,5 @@ http://www.westlakeinteractive.com/dls/Quake1085.sit
 http://www.westlakeinteractive.com/dls/Quake109.sit.hqx
 http://www.westlakeinteractive.com/dls/Quake3Dfx109.sit.hqx
 http://www.westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
-https://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
-https://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
-https://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
-https://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 
 

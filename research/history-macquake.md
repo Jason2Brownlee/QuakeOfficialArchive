@@ -295,15 +295,14 @@ There is already an update available for the retail MacQuake to address several 
 
 
 Links:
-* https://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
-* https://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
-* https://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
+* http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
+* http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
+* http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
 
 And, also:
 * https://www.mc68000.org/downloads/updates/Quake%201.08.2%20Updater.bin
 * https://www.mc68000.org/downloads/updates/Quake%203Dfx%201.08.2%20Updater.bin
 * https://www.mc68000.org/downloads/updates/Quake%20RAVE%201.08.2%20Updater.bin
-
 
 
 
@@ -333,6 +332,11 @@ Quake-1.08.3-Updater.sit: StuffIt 5
 ```
 
 Links:
+
+* http://www.bluesnews.com/files/macintosh/Quake3Dfx1083_U.sit
+* http://www.bluesnews.com/files/macintosh/Quake3Dfx1083_U_sea.hqx
+* http://www.vintageapplemac.com/files/utils/Quake%20RAVE%201.08.3%20Updater.sit
+* http://www.vintageapplemac.com/files/utils/Quake%20RAVE%201.08.4%20Updater.sit
 * https://www.vintageapplemac.com/files/utils/Quake%201.08.3%20Updater.sit
 * https://www.vintageapplemac.com/files/utils/Quake%203Dfx1.08.3%20Updater.sit
 * https://www.vintageapplemac.com/files/utils/Quake%20RAVE%201.08.3%20Updater.sit
@@ -374,7 +378,8 @@ Links
 * https://www.mc68000.org/downloads/updates/Quake%203Dfx%201.08.4%20Updater.bin
 * https://www.mc68000.org/downloads/updates/Quake%20RAVE%201.08.4%20Updater.bin
 * http://www.qamalice.com/Quake3dfx_1.08.4_Updater.sit.hqx
-
+* http://bluesnews.com/files/macintosh/Quake_3Dfx_1_08_4_Updater_sit.bin
+* http://www.bluesnews.com/files/macintosh/Quake_RAVE_1_08_4_Updater_sit.bin
 
 ## MacQuake v1.08.5
 
