@@ -47,6 +47,7 @@ http://macspel.solgames.se/files/Quake%201.09%20Updater.hqx
 http://macspel.solgames.se/files/QuakeDemo.hqx
 http://macspel.solgames.se/files/Quakeworld%20Skins.hqx
 http://members.aol.com/westlaketn/MacQWSrv221b1.sit
+http://parboil.quakeworld.ru/parboil/qw233.zip
 http://quakecheats.b0x.com/quake/dm3.zip
 http://quakeworld.net/files/quakeworld/qw233.zip
 http://qwcentral.stomped.com/Files/release/MacQW221b1.sit
@@ -66,6 +67,8 @@ http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/quakedemo.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.gamers.org/pub/games/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+http://www.parboil.mailru.com/parboil/qw233.zip
+http://www.parboil.quakeworld.ru/parboil/qw233.zip
 http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
 http://www.quakeworld.net/files/quakeworld/qw233.zip
 http://www.westlakeinteractive.com/dls/Quake1085.sit
