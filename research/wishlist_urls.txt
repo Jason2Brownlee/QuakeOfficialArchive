@@ -13,11 +13,13 @@ ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/dm3.zip
 ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
+ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 ftp://ftp.rendition.com/pub/rrq106b4.zip
 ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
+http://bluesnews.com/rrq106b8.zip
 http://ftp.digex.net/pub/idsoftware/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
