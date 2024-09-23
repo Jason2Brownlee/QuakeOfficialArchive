@@ -41,6 +41,8 @@ Link:
 
 8 quake sketches.
 
+4 are the same as twitter (below), and 3 were released previously (above).
+
 
 ### June 23 2024
 
