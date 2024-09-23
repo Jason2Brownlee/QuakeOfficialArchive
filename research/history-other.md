@@ -12,3 +12,4 @@ Other versions of "quake official releases lists":
 * [quake releases](http://forum.darkside.com.br/vb/showthread.php?t=8753), forum.darkside.com.br
 * [Quake beta/prototype list](https://www.betaarchive.com/forum/viewtopic.php?t=22492), betaarchive.com
 * [Quake files](https://www.classicdosgames.com/forum/viewtopic.php?t=639), classicdosgames.com
+* [Quake Kult Game Downloads](http://kultcds.com/Games/index.php?page=game&game=22), kultcds.com

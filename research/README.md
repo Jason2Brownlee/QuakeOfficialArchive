@@ -37,10 +37,7 @@ Other versions of "quake official releases lists":
 
 * [Other Release Lists](history-other.md)
 
-Other research notes (less structured, more exploratory):
+Wishlists:
 
-* [Research notes on AdrianC sketches](research-adrianc.md)
-* [Research notes on Quake leaks](research-leaks.md)
-* [Research notes on Quake utilities](research-utils.md)
-* [Early research notes](notes.txt)
-* [File wishlist](wishlist.txt)
+* [File Wishlist](wishlist.txt)
+* [File URL Wishlist](wishlist_urls.txt)
