@@ -28,7 +28,9 @@ If you have notes/additions/corrections, please email jason.brownlee05@gmail.com
 * [MacQuakeWorld History](history-macquakeworld.md)
 * [QuakeWorld Player Skins History](history-quakeworld-skins.md)
 * [QuakeWorld History](history-quakeworld.md)
+* [Quake Updates History](history-updates.md)
 * [Quake Sketches History](history-sketches.md)
+
 
 Less-official stuff (but endorsed by id-software?):
 

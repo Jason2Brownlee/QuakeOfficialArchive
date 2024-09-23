@@ -26,7 +26,7 @@ Release Date | File | Description
 1996 Jun 11 | n/a | Quake Beta v0.8 aka BETA3 (leak)
 1996 Jun 22 | n/a | Quake Pre-Release aka Press-Release (leak)
 1996 Jun 22 | [quake091.zip](bin/quake091.zip)<br>[qsw091_1.zip](bin/qsw091_1.zip)<br>[qsw091_2.zip](bin/qsw091_2.zip)<br>[qsw091_3.zip](bin/qsw091_3.zip)<br>[qsw091_4.zip](bin/qsw091_4.zip)<br>[qsw091_5.zip](bin/qsw091_5.zip)<br>[qsw091_6.zip](bin/qsw091_6.zip)<br>[qsw091_7.zip](bin/qsw091_7.zip)<br> | Quake shareware v0.91.
-1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake upgrade v0.91-0.92.
+1996 Jun 25 | [quake92p.zip](bin/quake92p.zip) | Quake update v0.91-0.92.
 1996 Jun 27 | [qbsp.tar.gz](bin/qbsp.tar.gz)<br>[qbsp.txt](bin/qbsp.txt) | Quake mapping tool source code (QBSP, VIS, LIGHT) v28.
 1996 Jul 02 | [qutils.tar.gz](bin/qutils.tar.gz)<br>[qutils.txt](bin/qutils-19960702.txt) | Quake utilities source code (DIRPACK, UNPACK, QLUMPY, TEXMAKE, MODELGEN, SPRGEN).
 1996 Jul 04 | [intel_linux_quake091.tgz](bin/intel_linux_quake091.tgz) | Quake Linux 0.91
@@ -40,7 +40,7 @@ Release Date | File | Description
 1996 Aug 08 | [qwded103.exe](bin/qwded103.exe) | Quake Win32 x86 dedicated server v1.03
 1996 Aug 09 | [intel_linux_quake101.tgz](bin/intel_linux_quake101.tgz) | Linux Quake client v1.01.
 1996 Aug 13 | qwded104.exe<br>qwded104.lzh | Quake Win32 x86 dedicated server v1.04
-1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake v1.05beta and QuakeC Source.
+1996 Sep 13 | [q105beta.zip](bin/q105beta.zip) | Quake update v1.01-1.05beta, Win32 x86 dedicated server, and QuakeC Source.
 1996 Sep 13 | [qutils.zip](bin/qutils.zip)<br>[qutils.txt](bin/qutils.txt) | Quake utils, mapping, and QCC binaries and source code.
 1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
@@ -49,7 +49,7 @@ Release Date | File | Description
 1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
 1996 Oct 02 | [quake106.zip](bin/quake106.zip)<br>[qsw106_1.zip](bin/qsw106_1.zip)<br>[qsw106_2.zip](bin/qsw106_2.zip)<br>[qsw106_3.zip](bin/qsw106_3.zip)<br>[qsw106_4.zip](bin/qsw106_4.zip)<br>[qsw106_5.zip](bin/qsw106_5.zip)<br>[qsw106_6zip](bin/qsw106_6.zip)<br>[qsw106_7.zip](bin/qsw106_7.zip)<br> | Quake shareware v1.06.
-1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake v1.06 update.
+1996 Oct 02 | [q101-106.zip](bin/q101-106.zip)<br>[q101-106.txt](bin/q101-106.txt) | Quake upgrade v1.01-1.06.
 1996 Oct 04 | [alpha-ELF-xquake.gz](bin/alpha-ELF-xquake.gz) | DEC Alpha Linux X11 Quake v1.01  (Linus Torvalds)
 1996 Oct 07 | [qwded106.exe](bin/qwded106_v2.exe) | Quake Win32 x86 dedicated server v1.06 (minor update)
 1996 Oct 15 | Quake.bin<br>Quake.bin.txt | Quake Shareware for IBM AIX (PowerPC) v?
@@ -80,15 +80,16 @@ Release Date | File | Description
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) | SGI Quake (Ed Hutchins) v1
 1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
 1997 Feb 16 | n/a | Unofficial MacQuake Port aka "MacQuake Alpha" aka "HackQuake" (based on Linux source leak).
+1997 Feb 28 | [quake107.zip](bin/quake107.zip) | Quake update v1.06-1.07.
 1997 Mar 03 | [rrq107b1.zip](bin/rrq107b1.zip) | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
 1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
 1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake client v1.00.
-1997 Mar 05 | n/a | Scourge of Armagon (Retail CD).
+1997 Mar 05 | n/a | Quake Mission Pack #1: Scourge of Armagon (Retail CD) Quake v1.07.
 1997 Mar 09 | [base32.zip](bin/base32.zip) | Base32 Map (McGee).
 1997 Mar 14 | [squake-0.991-i386-unknown-linux2.0.tar.gz](bin/squake-0.991-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.991.
 1997 Mar 14 | [all.txt](bin/all.txt)<br>[all.zip](bin/all.zip)<br>[docs.zip](bin/docs.zip)<br>[maps.zip](bin/maps.zip)<br>[newexes.zip](bin/newexes.zip)<br>[qc.zip](bin/qc.zip)<br>[qcc.zip](bin/qcc.zip)<br>[utilsrc.zip](bin/utilsrc.zip) | QuakeC Source and tools for Scourge of Armagon.
-1997 Mar 19 | n/a | Dissolution of Eternity (Retail CD).
+1997 Mar 19 | n/a | Quake Mission Pack #2: Dissolution of Eternity (Retail CD) v1.08.
 1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
 1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz)<br>unixded-0.99-sparc-sun-solaris2.5.1.tar.Z | Quake Unix Dedicated Server v0.99.
 1997 Mar 30 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
@@ -132,7 +133,7 @@ Release Date | File | Description
 1997 Sep 24 | [sgiquake.tar.gz](bin/sgiquake.tar.gz) | SGI Quake v1.11
 1997 Oct 07 | [oglb18a.zip](bin/oglb18a.zip) | PowerVR GLQuake/GLHexen II Driver v1
 1997 Oct 14 | [quake.x11-1.0-i386-unknown-linux2.0.tar.gz](bin/quake.x11-1.0-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake.
-1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake v1.08 update.
+1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake update v1.06-1.08.
 1997 Oct 28 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>qwsv2.10-i386-unknown-bsdi3.0.tar.gz | Quakeworld Client and Server v2.10.
 1997 Oct 28 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z)<br>[quake1.09-sparc-sun-solaris2.5.1.tar.gz](bin/quake1.09-sparc-sun-solaris2.5.1.tar.gz) | Solaris Quake and Quakeworld Clients.
 1997 Oct 28 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
