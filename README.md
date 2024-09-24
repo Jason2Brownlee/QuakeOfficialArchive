@@ -173,7 +173,7 @@ Release Date | File | Description
 2016 Jan 04 | [quake_original_sequence.jpg](bin/quake_original_sequence.jpg) | Quake Map Order, internal filenames (Romero)
 2016 Sep 15 | [start_map_sketch.jpeg](bin/start_map_sketch.jpeg) | Sketch of start map (Romero).
 2017 Aug 30 | [dm3_map_sketch.jpg](bin/dm3_map_sketch.jpg) | Sketch of dm3 map (Romero).
-2021 Jun 11 | [Quake1_JRomero_PenultimateQuake.jpg](bin/Quake1_JRomero_PenultimateQuake.jpg) | Sketch of Quake episode layout (Romero).
+2017 Dec 04 | [Quake1_JRomero_PenultimateQuake.jpg](bin/Quake1_JRomero_PenultimateQuake.jpg) | Sketch of Quake episode layout (Romero).
 2021 Aug 19 | n/a | Quake Rerelease.
 2021 Oct 07 | n/a | Quake Rerelease Update 1.
 2021 Dec 02 | n/a | Quake Rerelease Update 2 (v1.05).

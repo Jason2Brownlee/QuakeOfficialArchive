@@ -168,5 +168,21 @@ Links to:
 
 * https://scar3crow.com/blog/wp-content/uploads/2016/01/quake_original_sequence.jpg
 
+### shacknews.com
+
+Map order
+
+December 4, 2017
+
+Quake book: chapter/part 3: Degrees of Freedom
+
+* https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters?page=4
+
+Image link:
+
+* https://s3-us-west-1.amazonaws.com/shacknews/assets/editorial/2017/12/Quake1_JRomero_PenultimateQuake.jpg
+
+
+
 
 
