@@ -15,6 +15,7 @@ ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
 ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/deathpack1.zip
+ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/deathpack1.zip
 ftp://ftp.rendition.com/pub/rrq106b4.zip
 ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
