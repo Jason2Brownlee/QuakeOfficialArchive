@@ -18,8 +18,9 @@ qwded104.exe
 qwded104.lzh
 qwded104.zip
 
-# may versions were released with the same filename, we want content dated dec 13th 1996
-skinbase.zip
+# too many false positives
+# many versions were released with the same filename, we want content dated dec 13th 1996
+# skinbase.zip
 
 # vquake, known and expected versions
 rrvq106b.zip

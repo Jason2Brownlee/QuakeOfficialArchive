@@ -67,6 +67,9 @@ http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/quakedemo.sit
+http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
+http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
+http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b3.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.gamers.org/pub/games/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://www.parboil.mailru.com/parboil/qw233.zip
