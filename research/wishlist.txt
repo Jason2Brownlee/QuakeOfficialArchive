@@ -12,9 +12,14 @@ deathpack1.zip
 dm3.zip
 qw233.zip
 qwcl0809.zip
+
+# multiple versions of these files were released with the same filenames
 qwded104.exe
 qwded104.lzh
 qwded104.zip
+
+# may versions were released with the same filename, we want content dated dec 13th 1996
+skinbase.zip
 
 # vquake, known and expected versions
 rrvq106b.zip
