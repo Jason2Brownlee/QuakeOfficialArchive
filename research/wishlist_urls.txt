@@ -76,6 +76,21 @@ http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
 http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=vicinity/vicinityqwprogs.zip
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=vicinity/vicinitysource.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=vicinity/vicinityqwprogs.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=vicinity/vicinitysource.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=vicinity/vicinityqwprogs.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=vicinity/vicinitysource.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=vicinity/vicinityqwprogs.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=vicinity/vicinitysource.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=vicinity/vicinityqwprogs.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=vicinity/vicinitysource.zip
 http://www.bluesnews.com/archives/rrq106b8.zip
 http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://www.bluesnews.com/files/idstuff/quakeworld/maps/deathpack1.zip
@@ -98,4 +113,5 @@ http://www.westlakeinteractive.com/dls/Quake1085.sit
 http://www.westlakeinteractive.com/dls/Quake109.sit.hqx
 http://www.westlakeinteractive.com/dls/Quake3Dfx109.sit.hqx
 http://www.westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
+
 
