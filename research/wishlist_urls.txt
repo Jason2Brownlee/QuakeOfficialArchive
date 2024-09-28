@@ -27,7 +27,6 @@ ftp://ftp.intercity.dk/pub/mirrors/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.lame.org/mirrors/quake_stuff/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.livewire.com.au/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/deathpack1.zip
-ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/deathpack1.zip
 ftp://ftp.powerup.com.au/pub/games/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.rendition.com/pub/rrq106b4.zip
 ftp://ftp.sci.fi/quake/idgames2/idstuff/quakeworld/qwcl0809.zip
@@ -92,11 +91,10 @@ http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.gamers.org/pub/games/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://www.parboil.mailru.com/parboil/qw233.zip
 http://www.parboil.quakeworld.ru/parboil/qw233.zip
+http://www.quakeforum.de/tf/qwsv2.00-i386-unknown-linux2.0.tar.gz
 http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
 http://www.quakeworld.net/files/quakeworld/qw233.zip
 http://www.westlakeinteractive.com/dls/Quake1085.sit
 http://www.westlakeinteractive.com/dls/Quake109.sit.hqx
 http://www.westlakeinteractive.com/dls/Quake3Dfx109.sit.hqx
 http://www.westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
-
-
