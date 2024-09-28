@@ -14,6 +14,8 @@ ftp://ftp.firestarter.org/pub/3wave/unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
 ftp://ftp.gamers.org/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQW221b1.sit
 ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQWSrv221b1.sit
+ftp://ftp.gamesnet.ru/pub/quake/mac/MacQW221b1.sit
+ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv221b1.sit
 ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
@@ -36,6 +38,7 @@ ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.telepac.pt/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.tyumen.ru/pub/games/quake/QuakeWorld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
