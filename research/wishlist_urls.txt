@@ -5,7 +5,9 @@ ftp://bluesnews.com/pub/vquake/rrvq106b.zip
 ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
+ftp://ftp.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 ftp://ftp.cdrom.com/pub/quake/planetquake/quakeworld/qwsv2.00-i386-unknown-linux2.0.tar.gz
+ftp://ftp.cityline.ru/pub/quake/quakeworld/qw233.zip
 ftp://ftp.compulink.co.uk/pub/games/id/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.ee.techpta.ac.za/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
@@ -104,4 +106,3 @@ http://www.westlakeinteractive.com/dls/Quake1085.sit
 http://www.westlakeinteractive.com/dls/Quake109.sit.hqx
 http://www.westlakeinteractive.com/dls/Quake3Dfx109.sit.hqx
 http://www.westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
-
