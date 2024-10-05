@@ -82,6 +82,7 @@ http://qwcentral.stomped.com/files/release/MacQW221b1.sit
 http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
 http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
+http://src.doc.ic.ac.uk/packages/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 http://www.bluesnews.com/archives/rrq106b8.zip
 http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
