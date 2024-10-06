@@ -9,7 +9,6 @@ test1.map.gz
 
 # real and missing
 deathpack1.zip
-dm3.zip
 qw233.zip
 qwcl0809.zip
 
