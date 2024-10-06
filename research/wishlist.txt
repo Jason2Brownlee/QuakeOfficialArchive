@@ -44,9 +44,7 @@ unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
 
 # linux qw files
 qwsv2.00-i386-unknown-linux2.0.tar.gz
-qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 qwsv2_00-i386-unknown-linux2_0_tar.gz
-qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 
 # MacQuakeWorld
 MacQW23b1.hqx

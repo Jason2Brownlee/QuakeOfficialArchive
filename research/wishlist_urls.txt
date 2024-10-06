@@ -4,7 +4,6 @@ ftp://bluesnews.com/pub/vquake/rrq106b2.zip
 ftp://bluesnews.com/pub/vquake/rrvq106b.zip
 ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 ftp://ftp.cdrom.com/pub/quake/planetquake/quakeworld/qwsv2.00-i386-unknown-linux2.0.tar.gz
 ftp://ftp.cityline.ru/pub/quake/quakeworld/qw233.zip
@@ -25,7 +24,6 @@ ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
 ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/deathpack1.zip
-ftp://ftp.idsoftware.com/idstuff/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
 ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz
@@ -39,14 +37,11 @@ ftp://ftp.sci.fi/quake/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
 ftp://ftp.stomped.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
-ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.telepac.pt/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.tyumen.ru/pub/games/quake/QuakeWorld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
-http://ftp.digex.net/pub/idsoftware/quakeworld/unix/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b3.sit
@@ -80,7 +75,6 @@ http://qwcentral.stomped.com/files/release/MacQW221b1.sit
 http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
 http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
-http://src.doc.ic.ac.uk/packages/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 http://www.bluesnews.com/archives/rrq106b8.zip
 http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
@@ -94,7 +88,6 @@ http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW21
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b3.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
-http://www.gamers.org/pub/games/idgames/idstuff/quakeworld/unix/old/qwsv2.10-i386-unknown-bsdi3.0.tar.gz
 http://www.parboil.mailru.com/parboil/qw233.zip
 http://www.parboil.quakeworld.ru/parboil/qw233.zip
 http://www.quakeforum.de/tf/qwsv2.00-i386-unknown-linux2.0.tar.gz
