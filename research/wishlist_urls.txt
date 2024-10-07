@@ -39,6 +39,10 @@ ftp://ftp.stomped.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.stomped.com/pub/redwood/qw/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
 ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.telepac.pt/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.wizworks.com/macdemo/QuakeDemo.sit
+ftp://ftp.wizworks.com/macpatch/Quake1084_U.sea.hqx
+ftp://ftp.wizworks.com/macpatch/Quake3Dfx1084_U.sea.hqx
+ftp://ftp.wizworks.com/macpatch/QuakeRave1084_U.sea.hqx
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
