@@ -41,6 +41,7 @@ Quake.bin.txt
 
 # dedicated server
 unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+unixded-0.99-sparc-sun-solaris2.5.1.tar.gz
 
 # linux qw files
 qwsv2.00-i386-unknown-linux2.0.tar.gz
