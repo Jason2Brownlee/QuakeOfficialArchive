@@ -8,7 +8,6 @@ steve.zip
 test1.map.gz
 
 # real and missing
-deathpack1.zip
 qw233.zip
 qwcl0809.zip
 

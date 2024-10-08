@@ -117,7 +117,7 @@ Release Date | File | Description
 1997 May 22 | [sgiquake.tar.gz](bin/sgiquake-1997-05-21.tar.gz) | SGI Quake v1.10
 1997 Jun 13 | [qw0613.exe](bin/qw0613.exe)<br>[qwsv0613.zip](bin/qwsv0613.zip)<br>[qwcl0613.exe](bin/qwcl0613.exe)<br>[qwcl1.64-i386-unknown-linux2.0.tar.gz](bin/qwcl1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-i386-unknown-bsdi3.0.tar.gz](bin/qwsv1.64-i386-unknown-bsdi3.0.tar.gz)<br>[qwsv1.64-i386-unknown-linux2.0.tar.gz](bin/qwsv1.64-i386-unknown-linux2.0.tar.gz)<br>[qwsv1.64-sparc-sun-solaris2.5.1.tar.gz](bin/qwsv1.64-sparc-sun-solaris2.5.1.tar.gz) | Quakeworld Client and Server v1.64.
 1997 Jun 24 | [quake.bin](bin/quake.bin)<br>[quake.sw.tar.Z](bin/quake.sw.tar.Z)<br>[quake.sw.just.exe.tar.Z](bin/quake.sw.just.exe.tar.Z) | Quake Shareware for IBM AIX (PowerPC) v1.07.
-1997 Jul 02 | deathpack1.zip<br>[dm3.zip](bin/dm3.zip) | Quake base32a and death32b maps and DM3 with transparent water (Disruptor).
+1997 Jul 02 | [deathpack1.zip](bin/deathpack1.zip)<br>[dm3.zip](bin/dm3.zip) | Quake base32a and death32b maps and DM3 with transparent water (Disruptor).
 1997 Jul 06 | [deathpack1u.zip](bin/deathpack1u.zip) | Quake base32b and death32c maps Fixed (Disruptor).
 1997 Aug 08 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
 1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.

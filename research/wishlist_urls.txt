@@ -23,14 +23,12 @@ ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv221b1.sit
 ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
-ftp://ftp.idsoftware.com/idstuff/quakeworld/maps/deathpack1.zip
 ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
 ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz
 ftp://ftp.intercity.dk/pub/mirrors/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.lame.org/mirrors/quake_stuff/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.livewire.com.au/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.pnc.com.au/pub/idgames/idstuff/quakeworld/maps/deathpack1.zip
 ftp://ftp.powerup.com.au/pub/games/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.rendition.com/pub/rrq106b4.zip
 ftp://ftp.sci.fi/quake/idgames2/idstuff/quakeworld/qwcl0809.zip
@@ -83,7 +81,6 @@ http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 http://www.bluesnews.com/archives/rrq106b8.zip
 http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
-http://www.bluesnews.com/files/idstuff/quakeworld/maps/deathpack1.zip
 http://www.bluesnews.com/files/idstuff/quakeworld/unix/qwsv2.00-i386-unknown-linux2.0.tar.gz
 http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
