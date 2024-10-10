@@ -50,7 +50,7 @@ qwsv2_00-i386-unknown-linux2_0_tar.gz
 MacQW23b1.hqx
 MacQW211b2.sit
 MacQW211b2U.sit
-MacQW211b3.sit
+
 MacQWSrv211b1.sit
 MacQW221b1.sit
 MacQWSrv221b1.sit

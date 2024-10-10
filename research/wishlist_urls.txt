@@ -47,12 +47,10 @@ http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b3.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
 http://ftp.sunet.se/planetquake/MacQW211b2.sit
 http://ftp.sunet.se/planetquake/MacQW211b2U.sit
-http://ftp.sunet.se/planetquake/MacQW211b3.sit
 http://ftp.sunet.se/planetquake/MacQW221b1.sit
 http://ftp.sunet.se/planetquake/quakeworld/qw233.zip
 http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/msdos/games/quake/Quake.bin
@@ -62,7 +60,6 @@ http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin
 http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin.txt
 http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
 http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
-http://gamers.org/pub/games/idgames2/planetquake/MacQW211b3.sit
 http://gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
 http://gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
 http://macspel.solgames.se/files/MacQW23b1.hqx
@@ -88,7 +85,6 @@ http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
 http://www.bluesnews.com/files/macintosh/quakedemo.sit
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
-http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b3.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.parboil.mailru.com/parboil/qw233.zip
 http://www.parboil.quakeworld.ru/parboil/qw233.zip
