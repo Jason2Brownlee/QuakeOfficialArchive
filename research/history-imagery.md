@@ -18,7 +18,7 @@ This was released as `quakepix.zip` on August 3rd and the zip was corrupted. A s
 Perhaps something like:
 
 * 1995 Aug 03, `quakepix.zip` (corrupted)
-* 1995 Aug 04, `quakegam.zip`
+* 1995 Aug 04, `quakegam.zip` (later deleted)
 * 1995 Aug 05, `quakepix.zip` (fixed)
 
 A version of the pictures from `quakegam.zip` were brightened and distributed as `quakeidx.zip` and `quakeidx.txt`.
@@ -28,7 +28,7 @@ For example:
 * https://dukeworld.com/idgames/misc/quakeidx.txt
 * https://dukeworld.com/idgames/misc/quakeidx.zip
 
-A copy of this "mod" was distributed as `quakegam.zip`, for example:
+Perhaps a variation of this "mod" was distributed as `quakegam.zip`, for example:
 
 ```text
 QUAKEGAM.ZIP   1188643  17/11/1995
@@ -239,6 +239,7 @@ Links:
 quakegam.zip:
 
 * ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
+* ftp://l37-193-142-252.novotelecom.ru/distrib/DOS/fromDiman/msdos/games/quake/quakegam.zip
 
 ## steve.zip
 
