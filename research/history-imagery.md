@@ -179,6 +179,16 @@ New Quake Screenshots                │ 1  │ quakegam.zip │    NONE
 -- [https://defacto2.net/f/a717d](https://defacto2.net/f/a717d) and [http://cd.textfiles.com/group42/WAREZ/WARZNEWS/WWN2.HTM](http://cd.textfiles.com/group42/WAREZ/WARZNEWS/WWN2.HTM)
 
 
+```text
+"Prog 1995" Varia bbs-files 1995 "[01/10]" - "PROG_1.par2" - 38196 - yEnc
+alt.binaries.old.nl
+...
+1186866  PROG_114/QUAKEGAM.ZIP
+...
+```
+
+-- [https://www.nzbking.com/details:520d0701d94d947894bd3c0b/](https://www.nzbking.com/details:520d0701d94d947894bd3c0b/)
+
 
 Archive content:
 
