@@ -10,9 +10,36 @@ Releases:
 * 1995 Sep 28, qpix.zip
 * 1996 Jun 19, qgraphics.zip
 
-## quakepix.zip
 
-These were released as `quakepix.zip`. The zip may have been corrupted and re-uploaded. A second version of the archive may have been uploaded as `quakegam.zip`.
+## quakepix.zip and quakegam.zip
+
+This was released as `quakepix.zip` on August 3rd and the zip was corrupted. A second version of the archive may have been uploaded as `quakegam.zip` on August 4th. A final version of `quakepix.zip` may have been re-uploaded on August 5th.
+
+Perhaps something like:
+
+* 1995 Aug 03, `quakepix.zip` (corrupted)
+* 1995 Aug 04, `quakegam.zip`
+* 1995 Aug 05, `quakepix.zip` (fixed)
+
+A version of the pictures from `quakegam.zip` were brightened and distributed as `quakeidx.zip` and `quakeidx.txt`.
+
+For example:
+
+* https://dukeworld.com/idgames/misc/quakeidx.txt
+* https://dukeworld.com/idgames/misc/quakeidx.zip
+
+A copy of this "mod" was distributed as `quakegam.zip`, for example:
+
+```text
+QUAKEGAM.ZIP   1188643  17/11/1995
+Pictures about QUAKE, same as quakepix.zip
+but gamma-corrected, or in other words not so
+dark. Quake is not actually spending half its
+time clearing memory. :) Get this instead
+of quakepix.zip.
+```
+-- [https://www.apajalista.net/id?id=32085](https://www.apajalista.net/id?id=32085)
+
 
 Announcement and discussion:
 
@@ -119,6 +146,40 @@ site described in section 10 of this minifaq.
 -- [alt.games.quake](https://groups.google.com/g/alt.games.quake/c/f3q0ZZlabRA/m/MxBK1dsyWcwJ)
 
 
+```text
+Icarus!
+5 Aug 1995, 5:00:00
+Well, I downloaded the Quake screenshots from ftp.idsoftware.com in the
+idstuff/quake directory. I tried the quakepix.zip file first, but they
+were too dark so I grabbed quakegam.zip.
+They were EXCELLENT! I only wished that I was able to see the DOOM
+and QUAKE screenshots "side-by-each."
+
+I loaded the tiffs up with Photomagic and converted them to gifs, then
+gamma corrected them (A little to much on q16.gif, I'm afraid) and used
+lview to make an index. I guess that the Romero never checked out the
+alt.binaries.pictures.* ;-) heirarchy, and thus never considered
+making an index. <Of course I'm joking, don't be an ass!>
+...
+```
+-- [rec.games.computer.doom.misc](https://groups.google.com/g/rec.games.computer.doom.misc/c/pbuw_b0FzSE/m/R6GI2ZTs9sMJ)
+
+```text
+The Week in Warez, Issue 2
+1995 August 6
+...
+Releases for 08/03/95 (Thursday)     │ #  │   1st Disk   │  Last Disk
+Quake Screenshots                    │ 1  │ quakepix.zip │    NONE
+...
+Releases for 08/04/95 (Friday)       │ #  │   1st Disk   │  Last Disk
+New Quake Screenshots                │ 1  │ quakegam.zip │    NONE
+...
+
+```
+-- [https://defacto2.net/f/a717d](https://defacto2.net/f/a717d) and [http://cd.textfiles.com/group42/WAREZ/WARZNEWS/WWN2.HTM](http://cd.textfiles.com/group42/WAREZ/WARZNEWS/WWN2.HTM)
+
+
+
 Archive content:
 
 ```text
@@ -162,6 +223,7 @@ Here they are - at long last!  The very first screens shots of Quake, taken at 3
 -- quakepix.zip/README.TXT
 
 
+
 Links:
 
 * ftp://ftp.idsoftware.com/idstuff/quake/quakepix.zip
@@ -174,6 +236,9 @@ Links:
 * http://www.idsoftware.com/ftp/quake/quakepix.zip
 * https://www.quaddicted.com/files/idgames2/more_idstuff/quakepix.zip
 
+quakegam.zip:
+
+* ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
 
 ## steve.zip
 
