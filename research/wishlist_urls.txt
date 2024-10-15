@@ -3,6 +3,7 @@
 ftp://bluesnews.com/pub/vquake/rrq106b2.zip
 ftp://bluesnews.com/pub/vquake/rrvq106b.zip
 ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake/qwded104.zip
 ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 ftp://ftp.cdrom.com/pub/quake/planetquake/quakeworld/qwsv2.00-i386-unknown-linux2.0.tar.gz
@@ -42,6 +43,7 @@ ftp://ftp.wizworks.com/macpatch/Quake1084_U.sea.hqx
 ftp://ftp.wizworks.com/macpatch/Quake3Dfx1084_U.sea.hqx
 ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
 ftp://ftp.wizworks.com/macpatch/QuakeRave1084_U.sea.hqx
+ftp://ftp1.idsoftware.com/idstuff/quake/qwded104.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
@@ -75,6 +77,7 @@ http://qwcentral.stomped.com/files/release/MacQW221b1.sit
 http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
 http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
+http://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake/qwded104.zip
 http://westlakeinteractive.com/dls/QuakeRAVE109.sit.hqx
 http://www.bluesnews.com/archives/rrq106b8.zip
 http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
