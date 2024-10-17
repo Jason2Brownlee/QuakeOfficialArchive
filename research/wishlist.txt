@@ -42,10 +42,6 @@ Quake.bin.txt
 unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
 unixded-0.99-sparc-sun-solaris2.5.1.tar.gz
 
-# linux qw files
-qwsv2.00-i386-unknown-linux2.0.tar.gz
-qwsv2_00-i386-unknown-linux2_0_tar.gz
-
 # MacQuakeWorld
 MacQW23b1.hqx
 MacQW211b2.sit
