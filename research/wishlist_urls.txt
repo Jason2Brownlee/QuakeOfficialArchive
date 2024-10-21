@@ -71,6 +71,8 @@ http://macspel.solgames.se/files/MacQWSrv23b1.hqx
 http://macspel.solgames.se/files/Quake%201.09%20Updater.hqx
 http://macspel.solgames.se/files/QuakeDemo.hqx
 http://macspel.solgames.se/files/Quakeworld%20Skins.hqx
+http://members.aol.com/westlaketn/MacQW211b2.sit
+http://members.aol.com/westlaketn/MacQW211b2U.sit
 http://members.aol.com/westlaketn/MacQWSrv221b1.sit
 http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2.sit
 http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2U.sit
