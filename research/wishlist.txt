@@ -14,7 +14,6 @@ qwcl0809.zip
 # multiple versions of these files were released with the same filenames
 qwded104.exe
 qwded104.lzh
-qwded104.zip
 
 # too many false positives
 # many versions were released with the same filename, we want content dated dec 13th 1996
