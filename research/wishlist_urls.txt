@@ -94,6 +94,7 @@ http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW21
 http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
 http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
 http://www.gameaholic.com/deicide/download.cgi?/idstuff/quakeworld/qwcl0809.zip
+http://www.hover.net/mac/files/MacQWSrv23b1.hqx
 http://www.parboil.mailru.com/parboil/qw233.zip
 http://www.parboil.quakeworld.ru/parboil/qw233.zip
 http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
