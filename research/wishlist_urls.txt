@@ -47,6 +47,8 @@ ftp://ftp.wizworks.com/macpatch/QuakeRave1084_U.sea.hqx
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
 http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
 http://bluesnews.com/rrq106b8.zip
+http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
+http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
