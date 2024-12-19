@@ -89,11 +89,8 @@ Quake-RAVE-1.08.5-Update.sit
 
 Quake1085.sit
 
-Quake3Dfx109.sit.hqx
 Quake3Dfx109_U.sea.hqx
 Quake3Dfx11.09.sea.sit
-Quake109.sit.hqx
-QuakeRAVE109.sit.hqx
 Quake-1.09-Updater.hqx
 
 Quakeworld%20Skins.hqx
