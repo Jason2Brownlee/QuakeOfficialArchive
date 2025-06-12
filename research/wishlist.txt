@@ -1,7 +1,6 @@
 # file wishlist
 
 # images
-quakegam.zip
 steve.zip
 
 # map files

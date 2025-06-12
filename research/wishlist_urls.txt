@@ -26,7 +26,6 @@ ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv221b1.sit
 ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
 ftp://ftp.gtinteractive.com/pub/games/wizworks/macpatch/Quake3Dfx109_U.sea.hqx
 ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.idsoftware.com/idstuff/quake/quakegam.zip
 ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
 ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
 ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz

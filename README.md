@@ -12,7 +12,7 @@ Chronological list of Quake official releases in [bin/](bin/) including date, fi
 
 Release Date | File | Description
 --- | --- | ---
-1995 Aug 05 | quakegam.zip<br>[quakepix.zip](bin/quakepix.zip)<br>[quakepix.txt](bin/quakepix.txt) | Quake development screenshots.
+1995 Aug 05 | [quakegam.zip](bin/quakegam.zip)<br>[quakepix.zip](bin/quakepix.zip)<br>[quakepix.txt](bin/quakepix.txt) | Quake development screenshots.
 1995 Aug ?? | steve.zip<br>[steve_repack.zip](bin/steve_repack.zip) | Encrypted zip of Quake screenshots.
 1995 Aug 10 | [qe_dev.gif](bin/qe_dev.gif) | Screenshot of QuakeEd.
 1995 Sep 28 | [qpix.zip](bin/qpix.zip)<br>[qpix.txt](bin/qpix.txt)| Quake development screenshots.
