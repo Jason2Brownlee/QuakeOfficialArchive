@@ -1,0 +1,67 @@
+VERSION 105A QC SOURCE FILES
+----------------------------
+
+This includes ALL of the QC source fils for beta 1.05 Quake, including the
+updated items.qc (the infamous disappearing weapon bug fixed).
+
+The QC files in this package are what are in the compiled progs.dat in
+beta5a.exe.  This was packaged and uploaded together for the use of the Quake
+C loving community.  If you use the QC source files that come with Quake beta
+1.05, your work will be plagued with the disappearing weapon bug.  I packaged
+this together because beta5a.exe didn't include the QC source of the fix and I
+thought it would be a good contribution to Quakers who work in QuakeC.
+
+Although 1.05 is a beta, there are many good bugfixes you may take advantage
+of if you do work in this source.
+
+
+Installation
+------------
+
+First unzip this zip, q_v105qc.zip.  v105qc.zip contains the progs.src and
+QC source files.  Merely replace your QC source files with these.  If you
+want, back up the older versions first.
+
+
+Many thanks to
+--------------
+
+id Software (wrote Quake.  The Ruler of the Cosmos.)
+
+Special thanks go to John Carmack for such a kind and prompt reply to my
+inquiry regarding the QC source files from the newer version of 1.05.
+
+
+Where to get this
+-----------------
+
+ftp.cdrom.com  Directory /pub/quake/quakec
+Netherworld BBS, (703) 471-6265  Either QUAKE or QUAKEC file libraries
+
+And anywhere else you upload it.  (Please update the list if you do!)
+
+
+Legal crap
+----------
+
+I AM NOT AFFILIATED WITH ID SOFTWARE.  ID SOFTWARE WILL PROBABLY NOT ANSWER
+QUESTIONS REGARDING THIS SOURCE SINCE 1.05 IS AN UNSUPPORTED BETA RELEASE.
+
+id Software's Quake is a copyrighted game.  However, the QC source is freely
+distributable to modify or just look at.  However, I do NOT own this stuff.
+I can answer some questions about programming in QuakeC but if this does
+something to your computer, don't ask me.  I can't help you, and I'm not
+responsible.
+
+
+About me
+--------
+
+I am a humble QuakeC programmer that mails id Software a lot.  That's all.
+You should see me listed on the programming contributions list of a TC soon.
+
+Enjoy Quake!  Ruler of the Cosmos.
+
+Ismail Saeed
+isaeed@erols.com
+(Slipgate on DALnet IRC and in some NetQuake games ocassionally.)

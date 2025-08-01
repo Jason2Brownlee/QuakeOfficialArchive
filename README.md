@@ -45,6 +45,7 @@ Release Date | File | Description
 1996 Aug 19 | [qwded104.exe](bin/qwded104_v2.exe) | Quake Win32 x86 dedicated server v1.04 (minor update)
 1996 Sep 14 | [beta5a.exe](bin/beta5a.exe)<br>[beta5a.txt](bin/beta5a.txt) | Quake v1.05beta fix for progs.dat.
 1996 Sep 14 | [skins.zip](bin/skins.zip)<br>[skinbase1014.zip](bin/skinbase1014.zip) | QuakeWorld Skin Template (v1)
+1996 Sep 21 | [q_v105qc.zip](bin/q_v105qc.zip)<br>[q_v105qc.txt](bin/q_v105qc.txt) | QuakeC Source for 1.05a beta (emailed to Ismail Saeed)
 1996 Sep 26 | [quake3db_101.zip](bin/quake3db_101.zip) | VQuake 1.01, Quake Upgrade Disk for 3D Blaster PCI
 1996 Oct 01 | [qwded106.exe](bin/qwded106.exe) | Quake Win32 x86 dedicated server v1.06
 1996 Oct 02 | [progs106.zip](bin/progs106.zip)<br>[progs106.txt](bin/progs106.txt) | QuakeC source v1.06.
