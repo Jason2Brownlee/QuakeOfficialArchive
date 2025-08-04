@@ -164,6 +164,7 @@ Release Date | File | Description
 1998 Dec 17 | qw233.zip<br>[qw233-0001.zip](bin/qw233-0001.zip) | Quakeworld Client and Server v2.33 and v2.33-0001.
 1998 Dec 22 | [qw233-0005.zip](bin/qw233-0005.zip) | Quakeworld Client and Server v2.33-0005.
 1999 Mar 18 | [q1edge.zip](bin/q1edge.zip) | Quake q1edge deathmatch map (Willits).
+1999 Mar 24 | qw234-0065.zip | Quakeworld Client and Server Beta v2.34-0065.
 1999 Dec 21 | [q1source.zip](bin/q1source.zip)<br>[q1source.txt](bin/q1source.txt) | Win/Glquake and Quakeworld source (GPL).
 2000 May 04 | [qw-qc.tar.gz](bin/qw-qc.tar.gz)<br>[qw-qc.tar.txt](bin/qw-qc.tar.txt) | Quakeworld QuakeC source code (GPL).
 2000 May 09 | [q1tools_gpl.tgz](bin/q1tools_gpl.tgz) | QuakeC Source v1.01 and tools (GPL).

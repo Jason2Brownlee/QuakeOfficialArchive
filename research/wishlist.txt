@@ -112,3 +112,8 @@ unixded-0.992-sparc-sun-solaris2.5.1.tar.gz
 unixded-1.1-sparc-sun-solaris2.5.1.tar.Z
 unixded-1.1-i386-unknown-linux2.0.tar.gz
 unixded-1.1-i386-unknown-bsdi3.0.tar.gz
+
+# beta quakeworld client and server
+qw234-0065.zip
+qw234.zip
+

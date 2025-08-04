@@ -114,3 +114,17 @@ http://www.parboil.quakeworld.ru/parboil/qw233.zip
 http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
 http://www.quakeworld.net/files/quakeworld/qw233.zip
 http://www.westlakeinteractive.com/dls/Quake1085.sit
+
+
+# qw234-0065.zip
+ftp://www.quake.orc.ru/quake/quake1/qw234.zip
+http://q-news.globalsoft.com.au/ftp/quake/quakeworld/qw234-0065.zip
+http://quake.ccl.ru/files/qw234.zip
+http://quake.perm.ru/files/qw234.zip
+http://quake.tyumen.ru/files/qw/v2.34-0065test/qw234-0065.rar
+http://qwcheats.orconhosting.net.nz/files/appz/qw234-0065.zip
+http://www.quake.orc.ru/ftp/quake/qw234.zip
+http://www.wsb.poznan.pl/~pawel/q/q/qwcl/win/qw234/glqwcl.exe
+http://www.wsb.poznan.pl/~pawel/q/q/qwcl/win/qw234/qwcl.exe
+
+
