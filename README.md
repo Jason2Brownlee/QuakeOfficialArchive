@@ -73,7 +73,7 @@ Release Date | File | Description
 1997 Jan 08 | n/a | Linux Quake v1.01 Source Code (leak)
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
-1997 Jan 22 | [glquake.zip](bin/glquake.zip)<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta.
+1997 Jan 22 | [glquake.zip](bin/glquake.zip)<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta, v0.90 (v1.07)
 1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 08 | [qws_9706.zip](bin/qws_9706.zip) | QuakeWorld Skin Pack #2
@@ -84,14 +84,14 @@ Release Date | File | Description
 1997 Feb 28 | [quake107.zip](bin/quake107.zip) | Quake update v1.06-1.07.
 1997 Mar 03 | [rrq107b1.zip](bin/rrq107b1.zip) | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
-1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 for Quake v1.07.
+1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 (v1.07)
 1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake client v1.00.
 1997 Mar 05 | n/a | Quake Mission Pack #1: Scourge of Armagon (Retail CD) Quake v1.07.
 1997 Mar 09 | [base32.zip](bin/base32.zip) | Base32 Map (McGee).
 1997 Mar 14 | [squake-0.991-i386-unknown-linux2.0.tar.gz](bin/squake-0.991-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.991.
 1997 Mar 14 | [all.txt](bin/all.txt)<br>[all.zip](bin/all.zip)<br>[docs.zip](bin/docs.zip)<br>[maps.zip](bin/maps.zip)<br>[newexes.zip](bin/newexes.zip)<br>[qc.zip](bin/qc.zip)<br>[qcc.zip](bin/qcc.zip)<br>[utilsrc.zip](bin/utilsrc.zip) | QuakeC Source and tools for Scourge of Armagon.
 1997 Mar 19 | n/a | Quake Mission Pack #2: Dissolution of Eternity (Retail CD) v1.08.
-1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.92 for Quake v1.07.
+1997 Mar 28 | [glq3_28.zip](bin/glq3_28.zip) | Glquake v0.93 (v1.08)
 1997 Mar 28 | [unixded-0.99-i386-unknown-bsdi3.0.tar.gz](bin/unixded-0.99-i386-unknown-bsdi3.0.tar.gz)<br>[unixded-0.99-i386-unknown-linux2.0.tar.gz](bin/unixded-0.99-i386-unknown-linux2.0.tar.gz)<br>[unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz](bin/unixded-0.99-i386-unknown-sco3.2v5.0.2.tar.gz)<br>unixded-0.99-sparc-sun-solaris2.5.1.tar.Z | Quake Unix Dedicated Server v0.99.
 1997 Mar 30 | [qwsv3_29.zip](bin/qwsv3_29.zip) | Quakeworld Server v1.51.
 1997 Apr 01 | [qwinst150.exe](bin/qwinst150.exe) | Quakeworld Client v1.50.
@@ -121,12 +121,12 @@ Release Date | File | Description
 1997 Jul 02 | [deathpack1.zip](bin/deathpack1.zip)<br>[dm3.zip](bin/dm3.zip) | Quake base32a and death32b maps and DM3 with transparent water (Disruptor).
 1997 Jul 06 | [deathpack1u.zip](bin/deathpack1u.zip) | Quake base32b and death32c maps Fixed (Disruptor).
 1997 Aug 08 | [squake-1.1-i386-unknown-linux2.0.tar.gz](bin/squake-1.1-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v1.1.
-1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 for Quake v1.07.
+1997 Aug 10 | [glq8_09.zip](bin/glq8_09.zip) | Glquake v0.94 (v1.09)
 1997 Aug 10 | [qw0809.zip](bin/qw0809.zip)<br>[qwsv0809.zip](bin/qwsv0809.zip)<br>[qwsv2.00-i386-unknown-linux2.0.tar.gz](bin/qwsv2.00-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.00-i386-unknown-linux2.0.tar.gz](bin/qwcl2.00-i386-unknown-linux2.0.tar.gz) | Quakeworld Client and Server v2.00
 1997 Aug 13 | [qwsv0812.zip](bin/qwsv0812.zip)<br>[qwsv2.01-i386-unknown-linux2.0.tar.gz](bin/qwsv2.01-i386-unknown-linux2.0.tar.gz)<br>[qwsv2.01-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.01-sparc-sun-solaris2.5.1.tar.Z) | Quakeworld Server v2.01.
 1997 Aug 14 | [qws_9729.zip](bin/qws_9729.zip) | QuakeWorld Skin Pack #5
 1997 Aug 25 | [dm7.zip](bin/dm7.zip) | Quake DM7 "Archophobia" deathmatch map (McGee, Namaksy).
-1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 for Quake v1.09.
+1997 Aug 27 | [glq8_27.zip](bin/glq8_27.zip) | Glquake v0.95 (v1.09)
 1997 Aug 29 | [quake-demo.sit](bin/quake-demo.sit)<br>[quake_demo.hqx](bin/quake_demo.hqx)<br>[QuakeDemo.sit](bin/QuakeDemo.sit)<br>[macquake.sit.hqx](bin/macquake.sit.hqx) | MacQuake Shareware (demo).
 1997 Aug 30 | Quake-RAVE-1.08.2.sit<br>Quake-3Dfx-1.08.2.sit<br>Quake-1.08.2.sit<br>[Quake-1.08.2-Updater.bin](bin/Quake-1.08.2-Updater.bin)<br>[Quake-RAVE-1.08.2-Updater.bin](bin/Quake-RAVE-1.08.2-Updater.bin)<br>[Quake-3Dfx-1.08.2-Updater.bin](bin/Quake-3Dfx-1.08.2-Updater.bin) | MacQuake v1.08.2.
 1997 Sep 17 | [Quake-1.08.3-Updater.sit](bin/Quake-1.08.3-Updater.sit)<br>[Quake-3Dfx-1.08.3-Updater.sit](bin/Quake-3Dfx-1.08.3-Updater.sit)<br>[Quake-RAVE-1.08.3-Updater.sit](bin/Quake-RAVE-1.08.3-Updater.sit) | MacQuake v1.08.3.
@@ -137,10 +137,10 @@ Release Date | File | Description
 1997 Oct 16 | [quake108.zip](bin/quake108.zip) | Quake update v1.06-1.08.
 1997 Oct 28 | [qw1022.exe](bin/qw1022.exe)<br>[qwsv1022.zip](bin/qwsv1022.zip)<br>[qwsv2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwsv2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-linux2.0.tar.gz](bin/qwsv2.10-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-x11-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-x11-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz](bin/qwcl2.10-svgalib-i386-unknown-linux2.0.tar.gz)<br>[qwcl2.10-sparc-sun-solaris2.5.1.tar.Z](bin/qwcl2.10-sparc-sun-solaris2.5.1.tar.Z)<br>[qwsv2.10-i386-unknown-bsdi3.0.tar.gz](bin/qwsv2.10-i386-unknown-bsdi3.0.tar.gz) | Quakeworld Client and Server v2.10.
 1997 Oct 28 | [quake1.09-sparc-sun-solaris2.5.1.tar.Z](bin/quake1.09-sparc-sun-solaris2.5.1.tar.Z)<br>[quake1.09-sparc-sun-solaris2.5.1.tar.gz](bin/quake1.09-sparc-sun-solaris2.5.1.tar.gz) | Solaris Quake and Quakeworld Clients.
-1997 Oct 28 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96.
+1997 Oct 28 | [glq1022.exe](bin/glq1022.exe) | Glquake v0.96 (1.09)
 1997 Oct 30 | [vq108b1.zip](bin/vq108b1.zip)<br>[vq108b1.txt](bin/vq108b1.txt) | VQuake v1.08 beta 1.
-1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 for Quake v1.09.
-1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 for Quake v1.09.
+1997 Nov 14 | [glquake-0.97-i386-unknown-linux2.0.tar.gz](bin/glquake-0.97-i386-unknown-linux2.0.tar.gz) | Linux GLQuake v0.97 (v1.09)
+1997 Nov 14 | [glq1114.zip](bin/glq1114.zip)<br>[glq1114.exe](bin/glq1114.exe)<br>[glq1114.txt](bin/glq1114.txt) | GLQuake v0.97 (v1.09)
 1997 Nov 14 | [glqwcl-2.10-i386-unknown-linux2.0.tar.gz](bin/glqwcl-2.10-i386-unknown-linux2.0.tar.gz) | GL QuakeWorld Client v2.10
 1997 Dec 05 | [Quake-1.08.4-Updater.bin](bin/Quake-1.08.4-Updater.bin)<br>[Quake-1.08.4-Updater.sit](bin/Quake-1.08.4-Updater.sit)<br>[Quake-3Dfx-1.08.4-Updater.bin](bin/Quake-3Dfx-1.08.4-Updater.bin)<br>[Quake-3Dfx-1.08.4-Updater.sit](bin/Quake-3Dfx-1.08.4-Updater.sit)<br>[Quake-RAVE-1.08.4-Updater.bin](bin/Quake-RAVE-1.08.4-Updater.bin)<br>[Quake-RAVE-1.08.4-Updater.sit](bin/Quake-RAVE-1.08.4-Updater.sit) | MacQuake v1.08.4.
 1998 Jan 07 | [glquake1.zip](bin/glquake1-powervr.zip)<br>[glquake1.exe](bin/glquake1.exe)<br>[glquake1.txt](bin/glquake1.txt) | PowerVR GLQuake/GLHexen II Driver v2
