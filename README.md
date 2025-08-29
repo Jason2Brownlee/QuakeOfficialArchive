@@ -74,18 +74,18 @@ Release Date | File | Description
 1997 Jan 16 | [rrq106bc.zip](bin/rrq106bc.zip)<br>[rrq106bc.txt](bin/rrq106bc.txt) | VQuake v1.06 Beta 12
 1997 Jan 22 | [quake3db_106.zip](bin/quake3db_106.zip) | VQuake v1.06 Beta 12, Creative 3D Blaster PCI QUAKE Patch
 1997 Jan 22 | [glquake.zip](bin/glquake.zip)<br>[glquake1.zip](bin/glquake1.zip) | GLQuake beta, v0.90 (v1.07)
-1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake client v0.99.
+1997 Feb 05 | [wq099.zip](bin/wq099.zip) | WinQuake v0.99 (v1.07)
 1997 Feb 07 | [squake-linux-0.99.tar.gz](bin/squake-linux-0.99.tar.gz) | Linux SVGALib Quake v0.99.
 1997 Feb 08 | [qws_9706.zip](bin/qws_9706.zip) | QuakeWorld Skin Pack #2
-1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake client v0.991.
+1997 Feb 11 | [wq0991.zip](bin/wq0991.zip) | WinQuake v0.991 (v1.07)
 1997 Feb 12 | [sgiquake.tar.Z](bin/sgiquake.tar.Z)<br>[sgiquake.tar.gz.pre_040997](bin/sgiquake.tar.gz.pre_040997) | SGI Quake (Ed Hutchins) v1
-1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 for Quake v1.07.
+1997 Feb 13 | [wq0992.zip](bin/wq0992.zip) | WinQuake v0.992 (v1.07)
 1997 Feb 16 | n/a | Unofficial MacQuake Port aka "MacQuake Alpha" aka "HackQuake" (based on Linux source leak).
 1997 Feb 28 | [quake107.zip](bin/quake107.zip) | Quake update v1.06-1.07.
 1997 Mar 03 | [rrq107b1.zip](bin/rrq107b1.zip) | VQuake v1.07 Beta 1.
 1997 Mar 03 | [rrq107b5.zip](bin/rrq107b5.zip)<br>[rrq107b5.txt](bin/rrq107b5.txt) | VQuake v1.07 Beta 5.
 1997 Mar 11 | [glq3_11.zip](bin/glq3_11.zip)<br>[glreadme.txt](bin/glreadme.txt) | Glquake v0.92 (v1.07)
-1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake client v1.00.
+1997 Mar 21 | [wq100.zip](bin/wq100.zip)<br>[wqreadme.txt](bin/wqreadme.txt) | WinQuake v1.00 (v1.09)
 1997 Mar 05 | n/a | Quake Mission Pack #1: Scourge of Armagon (Retail CD) Quake v1.07.
 1997 Mar 09 | [base32.zip](bin/base32.zip) | Base32 Map (McGee).
 1997 Mar 14 | [squake-0.991-i386-unknown-linux2.0.tar.gz](bin/squake-0.991-i386-unknown-linux2.0.tar.gz) | Linux SVGALib Quake v0.991.
