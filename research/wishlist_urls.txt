@@ -1,122 +1,25 @@
 # file url wishlist (e.g. known existence of wishlist files)
 
-ftp://bluesnews.com/pub/vquake/rrq106b2.zip
-ftp://bluesnews.com/pub/vquake/rrvq106b.zip
-ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW211b2.sit
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW211b2U.sit
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW221b1.sit
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQWSrv221b1.sit
-ftp://ftp.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
-ftp://ftp.cityline.ru/pub/quake/quakeworld/qw233.zip
-ftp://ftp.compulink.co.uk/pub/games/id/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.ee.techpta.ac.za/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.epix.net/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.firestarter.org/pub/3wave/unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
-ftp://ftp.gamers.org/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.games.ru/pub/quake/mac/MacQW211b2.sit
-ftp://ftp.games.ru/pub/quake/mac/MacQW211b2U.sit
-ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQW221b1.sit
-ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQWSrv221b1.sit
-ftp://ftp.gamesnet.ru/pub/quake/mac/MacQW221b1.sit
-ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv211b1.sit
-ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv221b1.sit
-ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.gtinteractive.com/pub/games/wizworks/macpatch/Quake3Dfx109_U.sea.hqx
-ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.idsoftware.com/idstuff/unsup/q105beta.exe
-ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
-ftp://ftp.impulse1.com/pub/quake/quakeworld/server/qwsv2_10-i386-unknown-bsdi3_0_tar.gz
-ftp://ftp.intercity.dk/pub/mirrors/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.lame.org/mirrors/quake_stuff/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.livewire.com.au/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.powerup.com.au/pub/games/quake/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.rendition.com/pub/rrq106b4.zip
-ftp://ftp.sci.fi/quake/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
-ftp://ftp.stomped.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.telepac.pt/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
-ftp://ftp.wizardworks.com/macpatch/Quake3Dfx109_U.sea.hqx
-ftp://ftp.wizworks.com/macdemo/QuakeDemo.sit
-ftp://ftp.wizworks.com/macpatch/Quake1084_U.sea.hqx
-ftp://ftp.wizworks.com/macpatch/Quake3Dfx1084_U.sea.hqx
-ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
-ftp://ftp.wizworks.com/macpatch/QuakeRave1084_U.sea.hqx
-ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
-http://204.75.238.48/cgi-bin/axs-ms/ax.cgi?ftp://ftp.gtinteractive.com/pub/games/wizworks/macpatch/Quake3Dfx109_U.sea.hqx
-http://204.75.238.48/cgi-bin/axs-ms/ax.cgi?ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
-http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
-http://bluesnews.com/rrq106b8.zip
-http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
-http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2U.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW221b1.sit
-http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQWSrv221b1.sit
-http://ftp.sunet.se/planetquake/MacQW211b2.sit
-http://ftp.sunet.se/planetquake/MacQW211b2U.sit
-http://ftp.sunet.se/planetquake/MacQW221b1.sit
-http://ftp.sunet.se/planetquake/jvox/MacQW211b2.sit
-http://ftp.sunet.se/planetquake/jvox/MacQW211b2U.sit
-http://ftp.sunet.se/planetquake/jvox/MacQW221b1.sit
-http://ftp.sunet.se/planetquake/jvox/MacQWSrv221b1.sit
-http://ftp.sunet.se/planetquake/quakeworld/qw233.zip
-http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/msdos/games/quake/Quake.bin
-http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/msdos/games/quake/Quake.bin.txt
-http://ftp.tu-clausthal.de/pub/TEXT/EXPERT/msdos/games/quake/Quake.bin.txt
-http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin
-http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin.txt
-http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
-http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
-http://gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
-http://gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
-http://macspel.solgames.se/files/MacQW23b1.hqx
-http://macspel.solgames.se/files/MacQWSrv23b1.hqx
-http://macspel.solgames.se/files/Quake%201.09%20Updater.hqx
-http://macspel.solgames.se/files/QuakeDemo.hqx
-http://macspel.solgames.se/files/Quakeworld%20Skins.hqx
-http://members.aol.com/westlaketn/MacQW211b2.sit
-http://members.aol.com/westlaketn/MacQW211b2U.sit
-http://members.aol.com/westlaketn/MacQWSrv221b1.sit
-http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2.sit
-http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2U.sit
-http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW221b1.sit
-http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQWSrv221b1.sit
-http://parboil.quakeworld.ru/parboil/qw233.zip
-http://quakeworld.net/files/quakeworld/qw233.zip
-http://qwcentral.stomped.com/Files/release/MacQW221b1.sit
-http://qwcentral.stomped.com/files/release/MacQW221b1.sit
-http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
+# steve.zip
+# ?
+
+# test1.map.gz
 http://reality.sgi.com/rae/quake/dev/test1.map.gz
 http://reality.sgi.com/rae_aw/quake/dev/test1.map.gz
-http://www.bluesnews.com/archives/rrq106b8.zip
-http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
-http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
-http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
-http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
-http://www.bluesnews.com/files/macintosh/quakedemo.sit
-http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
-http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
-http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
-http://www.gameaholic.com/deicide/download.cgi?/idstuff/quakeworld/qwcl0809.zip
-http://www.gtisonline.com/cgi-bin/axs-ms/ax.cgi?ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
-http://www.hover.net/mac/files/MacQWSrv23b1.hqx
-http://www.ina-support.com/cgi-bin/ax-ms/ax.pl?ftp://ftp.wizardworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+
+# qwded104.exe
+ftp://ftp.idsoftware.com/idstuff/unsup/qwded104.exe
+
+# qw233.zip
+ftp://ftp.cityline.ru/pub/quake/quakeworld/qw233.zip
+http://ftp.sunet.se/planetquake/quakeworld/qw233.zip
+http://parboil.quakeworld.ru/parboil/qw233.zip
+http://quakeworld.net/files/quakeworld/qw233.zip
 http://www.parboil.mailru.com/parboil/qw233.zip
 http://www.parboil.quakeworld.ru/parboil/qw233.zip
-http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
 http://www.quakeworld.net/files/quakeworld/qw233.zip
-http://www.westlakeinteractive.com/dls/Quake1085.sit
-
-
 # qw234-0065.zip
+ftp://quake.orc.ru/pub/quake/qw234.zip
 ftp://www.quake.orc.ru/quake/quake1/qw234.zip
 http://q-news.globalsoft.com.au/ftp/quake/quakeworld/qw234-0065.zip
 http://quake.ccl.ru/files/qw234.zip
@@ -127,4 +30,133 @@ http://www.quake.orc.ru/ftp/quake/qw234.zip
 http://www.wsb.poznan.pl/~pawel/q/q/qwcl/win/qw234/glqwcl.exe
 http://www.wsb.poznan.pl/~pawel/q/q/qwcl/win/qw234/qwcl.exe
 
+# qwcl0809.zip
+ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.compulink.co.uk/pub/games/id/quake/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.ee.techpta.ac.za/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.epix.net/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.gamers.org/pub/games/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.global.co.za/pub/quake/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.intercity.dk/pub/mirrors/quake/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.lame.org/mirrors/quake_stuff/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.livewire.com.au/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.powerup.com.au/pub/games/quake/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.sci.fi/quake/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.stomped.com/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://ftp.telepac.pt/pub/idgames2/idstuff/quakeworld/qwcl0809.zip
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/quakeworld/qwcl0809.zip
+http://www.gameaholic.com/deicide/download.cgi?/idstuff/quakeworld/qwcl0809.zip
 
+# unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+ftp://ftp.firestarter.org/pub/3wave/unixded-0.99-sparc-sun-solaris2.5.1.tar.Z
+
+# Quake.bin
+ftp://ftp.software.ibm.com/aix/freeSoftware/games/Quake/Quake.bin
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/msdos/games/quake/Quake.bin
+http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin
+# Quake.bin.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/msdos/games/quake/Quake.bin.txt
+http://ftp.tu-clausthal.de/pub/TEXT/EXPERT/msdos/games/quake/Quake.bin.txt
+http://ftp.tu-clausthal.de/pub/TEXT/msdos/games/quake/Quake.bin.txt
+
+# rrvq106b.zip
+ftp://bluesnews.com/pub/vquake/rrvq106b.zip
+# rrq106b2.zip
+ftp://bluesnews.com/pub/vquake/rrq106b2.zip
+# rrq106b4.zip
+ftp://ftp.rendition.com/pub/rrq106b4.zip
+# rrq106b8.zip
+http://bluesnews.com/rrq106b8.zip
+http://www.bluesnews.com/archives/rrq106b8.zip
+
+# skinbase.zip
+# ?
+
+# Quake-1.08.2.sit
+http://www.bluesnews.com/files/macintosh/Quake-1_08_2.sit
+http://www.bluesnews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
+http://www.bluesnews.com/files/macintosh/Quake-RAVE-1_08_2.sit
+# Quake-1.08.5.sit
+http://bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
+http://www.bluesnews.com/files/idstuff/quake/mac/Quake1085.sit
+http://www.westlakeinteractive.com/dls/Quake1085.sit
+http://www.quakeintosh.com/files/Updaters/1.08.5/Quake%201.08.5%20Update.sit
+# Quake3Dfx109_U
+ftp://ftp.gtinteractive.com/pub/games/wizworks/macpatch/Quake3Dfx109_U.sea.hqx
+ftp://ftp.wizardworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+http://204.75.238.48/cgi-bin/axs-ms/ax.cgi?ftp://ftp.gtinteractive.com/pub/games/wizworks/macpatch/Quake3Dfx109_U.sea.hqx
+http://204.75.238.48/cgi-bin/axs-ms/ax.cgi?ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+http://www.gtisonline.com/cgi-bin/axs-ms/ax.cgi?ftp://ftp.wizworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+http://www.ina-support.com/cgi-bin/ax-ms/ax.pl?ftp://ftp.wizardworks.com/macpatch/Quake3Dfx109_U.sea.hqx
+http://macspel.solgames.se/files/Quake%201.09%20Updater.hqx
+# mac demo (alt)
+ftp://ftp.wizworks.com/macdemo/QuakeDemo.sit
+http://www.bluesnews.com/files/macintosh/quakedemo.sit
+http://macspel.solgames.se/files/QuakeDemo.hqx
+# skins?
+http://macspel.solgames.se/files/Quakeworld%20Skins.hqx
+# MacQWSrv23b1.hqx (alt to .sit)
+http://www.hover.net/mac/files/MacQWSrv23b1.hqx
+http://macspel.solgames.se/files/MacQWSrv23b1.hqx
+# MacQW23b1.hqx (alt to .sit)
+http://macspel.solgames.se/files/MacQW23b1.hqx
+# MacQWSrv211b1.sit
+ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv211b1.sit
+# MacQW211b2.sit
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW211b2.sit
+ftp://ftp.games.ru/pub/quake/mac/MacQW211b2.sit
+http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2.sit
+http://ftp.sunet.se/planetquake/MacQW211b2.sit
+http://ftp.sunet.se/planetquake/jvox/MacQW211b2.sit
+http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2.sit
+http://gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2.sit
+http://members.aol.com/westlaketn/MacQW211b2.sit
+http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2.sit
+http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2.sit
+# MacQW211b2U.sit
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW211b2U.sit
+ftp://ftp.games.ru/pub/quake/mac/MacQW211b2U.sit
+http://bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2U.sit
+http://ftp.sunet.se/planetquake/MacQW211b2U.sit
+http://ftp.sunet.se/planetquake/jvox/MacQW211b2U.sit
+http://gamers.org/pub/games/idgames2/planetquake/MacQW211b2U.sit
+http://gamers.org/pub/games/idgames2/planetquake/jvox/MacQW211b2U.sit
+http://members.aol.com/westlaketn/MacQW211b2U.sit
+http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW211b2U.sit
+http://www.bluesnews.com/warning.cgi?/pub/bluesnews/macintosh/quakeworld/MacQW211b2U.sit
+# MacQW221b1.sit
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQW221b1.sit
+ftp://ftp.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
+ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQW221b1.sit
+ftp://ftp.gamesnet.ru/pub/quake/mac/MacQW221b1.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQW221b1.sit
+http://ftp.sunet.se/planetquake/MacQW221b1.sit
+http://ftp.sunet.se/planetquake/jvox/MacQW221b1.sit
+http://gamers.org/pub/games/idgames2/planetquake/MacQW221b1.sit
+http://gamers.org/pub/games/idgames2/planetquake/jvox/MacQW221b1.sit
+http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQW221b1.sit
+http://qwcentral.stomped.com/Files/release/MacQW221b1.sit
+http://qwcentral.stomped.com/files/release/MacQW221b1.sit
+http://www.cdrom.com/pub/planetquake/jvox/MacQW221b1.sit
+# MacQWSrv221b1.sit
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/MacQWSrv221b1.sit
+ftp://ftp.gamesnet.net/pub/bluesnews/quakeworld/macintosh/MacQWSrv221b1.sit
+ftp://ftp.gamesnet.ru/pub/quake/mac/MacQWSrv221b1.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/MacQWSrv221b1.sit
+http://ftp.sunet.se/planetquake/jvox/MacQWSrv221b1.sit
+http://gamers.org/pub/games/idgames2/planetquake/MacQWSrv221b1.sit
+http://gamers.org/pub/games/idgames2/planetquake/jvox/MacQWSrv221b1.sit
+http://members.aol.com/westlaketn/MacQWSrv221b1.sit
+http://mirror.aarnet.edu.au/games/planetquake/jvox/MacQWSrv221b1.sit
+http://qwcentral.stomped.com/flies/release/MacQWSrv221b1.sit
