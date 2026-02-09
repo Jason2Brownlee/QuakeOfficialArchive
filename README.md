@@ -6,6 +6,8 @@ Here, "official" means updates and dev material by id Software (e.g. public HTTP
 
 See [quake history essays](research/README.md) that reconstruct the technical release history for quake files.
 
+You may also like the [Quake II Official Archive](https://github.com/Jason2Brownlee/Quake2OfficialArchive) and [Quake III Arena Official Archive](https://github.com/Jason2Brownlee/Quake3OfficialArchive).
+
 ## Quake Release List
 
 Chronological list of Quake official releases in [bin/](bin/) including date, filename link, and description.
